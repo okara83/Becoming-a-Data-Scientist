@@ -123,3 +123,9 @@ wMathematics/Statistics/Computational and Inferential Thinking - The Foundations
 wMathematics/Statistics/Computational and Inferential Thinking - The Foundations of Data Science (book)/requirements.txt,e/6/e62bddced8e4b6c11c5c89bce7e7771ab7863cfd
  
 pMathematics/Statistics/Computational and Inferential Thinking - The Foundations of Data Science (book)/README.md,0/c/0c1f0866f8a4a2bc6223249be1417942941eaa0d
+œ
+lMathematics/Statistics/Computational and Inferential Thinking - The Foundations of Data Science (book)/CNAME,d/b/dbbc548e11462846fa620d00caad8c5082203d0e
+¯
+Mathematics/Statistics/Computational and Inferential Thinking - The Foundations of Data Science (book)/images/logo/download.svg,9/6/96c6d4f99ba4f6cd5d367481ca663ab87a25f41d
+¦
+vMathematics/Statistics/Computational and Inferential Thinking - The Foundations of Data Science (book)/images/logo.svg,9/5/956fa602010c32b4930033f3aba41129428482ff

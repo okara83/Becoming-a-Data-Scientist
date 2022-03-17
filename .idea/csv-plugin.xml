@@ -3,6 +3,20 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="/Data Science and Machine Learning/Time Series/Time Series with FBProphet and Outlier Detection - kats/MLTollsStackOverflow.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Python/2. Python Basics (cont.)/3. Pandas/Notebooks/Start Learning Here/Part-1a/data/IMDB-Movie-Data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/Downloads/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/IV.csv">
           <value>
             <Attribute>
