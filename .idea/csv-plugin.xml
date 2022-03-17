@@ -3,6 +3,405 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/IV.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/actors.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/anscombe.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/baby.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/banknote.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/birds.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/birth_time.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/breast-cancer.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/bta.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/children_raw.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/ckd.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/cones.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/couples.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/deflategate.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/dugongs.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/educ_inc.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/everyone_raw.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/faithful.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/family_heights.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/football.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/galton.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/galton_subset.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/grades_and_piazza.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/heights.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/hodgkins.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/house.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/hybrid.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/hybrid_reg.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/income_small.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/kaiser_ethnicity_children.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/kaiser_ethnicity_everyone.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/little_women.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/married_couples.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/minard.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/movies_by_year.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/nba2013.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/nba_salaries.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/nc-est2014-agesex-res.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/nc-est2015-agesex-res.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/nc-est2019-agesex-res.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/observed_outcomes.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/potential_outcomes.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/roulette_wheel.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/sat2014.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/scores_by_section.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/shotput.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/sons_heights.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/station.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/top_movies.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/top_movies_2017.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/trip.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/unfair_flips.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/united_summer2015.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/us_women.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/usa_ca_2014.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/usa_ca_2019.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/wine.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Cloud Services and Computing/Amazon AWS/S3/Notebooks/s3-notebooks/smoking.csv">
           <value>
             <Attribute>
@@ -3014,6 +3413,552 @@
           </value>
         </entry>
         <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/3. Computational Sciences and Mathematics/Statisitcs/Fundamentals-of-Statistics-and-Visualization-in-Python/Section 5/vacation.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/An Introduction to Statistical Learning/data/Advertising.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/An Introduction to Statistical Learning/data/Auto.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/An Introduction to Statistical Learning/data/Bikeshare.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/An Introduction to Statistical Learning/data/Boston.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/An Introduction to Statistical Learning/data/BrainCancer.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/An Introduction to Statistical Learning/data/Caravan.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/An Introduction to Statistical Learning/data/Carseats.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/An Introduction to Statistical Learning/data/Ch12Ex13.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/An Introduction to Statistical Learning/data/College.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/An Introduction to Statistical Learning/data/Credit.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/An Introduction to Statistical Learning/data/Default.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/An Introduction to Statistical Learning/data/Fund.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/An Introduction to Statistical Learning/data/Heart.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/An Introduction to Statistical Learning/data/Hitters.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/An Introduction to Statistical Learning/data/Income1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/An Introduction to Statistical Learning/data/Income2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/An Introduction to Statistical Learning/data/OJ.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/An Introduction to Statistical Learning/data/Portfolio.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/An Introduction to Statistical Learning/data/Publication.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/An Introduction to Statistical Learning/data/Smarket.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/An Introduction to Statistical Learning/data/Wage.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/An Introduction to Statistical Learning/data/Weekly.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/IV.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/actors.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/anscombe.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/baby.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/banknote.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/birds.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/birth_time.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/breast-cancer.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/bta.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/children_raw.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/ckd.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/cones.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/couples.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/deflategate.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/dugongs.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/educ_inc.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/everyone_raw.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/faithful.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/family_heights.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/football.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/galton.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/galton_subset.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/grades_and_piazza.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/heights.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/hodgkins.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/house.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/hybrid.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/hybrid_reg.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/income_small.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/kaiser_ethnicity_children.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/kaiser_ethnicity_everyone.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/little_women.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/married_couples.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/minard.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/movies_by_year.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/nba2013.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/nba_salaries.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/nc-est2014-agesex-res.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/nc-est2015-agesex-res.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/nc-est2019-agesex-res.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/observed_outcomes.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/potential_outcomes.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/roulette_wheel.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/sat2014.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/scores_by_section.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/shotput.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/sons_heights.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/station.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/top_movies.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/top_movies_2017.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/unfair_flips.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/united_summer2015.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/us_women.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/usa_ca_2014.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/usa_ca_2019.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/wine.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
