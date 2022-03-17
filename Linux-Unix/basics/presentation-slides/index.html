@@ -1,0 +1,1015 @@
+<!DOCTYPE html>
+	<html class="sl-root decks export offline loaded">
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<title>Intro to Linux - Navigating and beyond</title>
+
+
+		<link rel="stylesheet" type="text/css" href="lib/offline-v2.css">
+
+
+
+	</head>
+	<body class="reveal-viewport theme-font-montserrat theme-color-white-blue">
+		<div class="reveal">
+			<div class="slides">
+				<section data-id="cf340ce1fdcaf2c3c4b4255725e49811"><div class="sl-block" data-block-type="text" style="width: 806px; left: 77px; top: 238px; height: auto;" data-block-id="c6929370ec9c606ac93c699dd2a91a7e"><div class="sl-block-content" data-placeholder-tag="h1" data-placeholder-text="Title Text" style="z-index: 10;">
+<h1>Intro to Linux</h1>
+</div></div>
+<div class="sl-block" data-block-type="text" data-name="text-c698eb" data-block-id="a63a8f2c55eb1c4decd9e7aa0f38d174" style="height: auto; width: 926px; left: 17px; top: 335px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 11; background-color: rgb(207, 226, 243);">
+<h1 style="color:rgb(0, 0, 0)"><span style="color:#DAA520"><span style="font-size:0.5em">bash, zsh, navigation, shell-scripting and beyond</span></span></h1>
+</div></div></section><section data-id="9ed4996555d54f305fbe3d60ae40a998"><div class="sl-block" data-block-type="text" style="width: 384px; left: 144px; top: 59px; height: auto;" data-block-id="58ccf1babd5ed612a430e1520c22eb4e"><div class="sl-block-content" data-placeholder-tag="h2" data-placeholder-text="Title Text" style="text-align: left; z-index: 10;">
+<h2>Unix</h2>
+</div></div>
+<div class="sl-block" data-block-type="text" style="width: 594px; left: 0px; top: 210px; height: auto;" data-block-id="95a92652939d5e6dad630405c78e4c1e"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin urna odio, aliquam vulputate faucibus id, elementum lobortis felis. Mauris urna dolor, placerat ac sagittis quis." style="text-align: left; z-index: 11;">
+<ul>
+	<li>1969</li>
+	<li>Created BY engineers FOR engineers</li>
+	<li>Unix was designed to be simple and powerful</li>
+	<li>MacOSx, Windows... - Licensed</li>
+	<li>Case Insensitive</li>
+</ul>
+</div></div>
+<div class="sl-block" data-block-type="text" style="width: 384px; left: 708px; top: 59px; height: auto;" data-block-id="5c0e2f4a3b5c7b4559120e5ce371e4c3"><div class="sl-block-content" data-placeholder-tag="h2" data-placeholder-text="Title Text" style="text-align: left; z-index: 12;">
+<h2>Linux</h2>
+</div></div>
+<div class="sl-block" data-block-type="text" style="width: 384px; left: 630px; top: 221px; height: auto;" data-block-id="a262417ed065205825ddaeb4d767e951"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin urna odio, aliquam vulputate faucibus id, elementum lobortis felis. Mauris urna dolor, placerat ac sagittis quis." style="text-align: left; z-index: 13;">
+<ul>
+	<li>1991</li>
+	<li>Created in spite of    Unix</li>
+	<li>For our purposes Linux=Unix</li>
+	<li>Free</li>
+	<li>Case Sensitive</li>
+</ul>
+</div></div></section><section class="stack" data-id="0c1ca46b4f0fa29da86473c4e4747526"><section data-id="142956f94abe83d0e96169e69ee421f6"><div class="sl-block" data-block-type="text" style="width: 413px; left: 506px; top: 12px; height: auto;" data-block-id="44aeb91a2752019c620ec2a80d375cf0"><div class="sl-block-content" data-placeholder-tag="h2" data-placeholder-text="Title Text" style="text-align: left; z-index: 12;">
+<h2>
+<span style="color:#FFFFFF">Some</span> History</h2>
+</div></div>
+<div class="sl-block" data-block-type="text" style="width: 1143px; left: -113px; top: 492px; height: auto;" data-block-id="39810dfb606c5fd819286cddd7a7e6d2"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec metus justo. Aliquam erat volutpat." style="z-index: 10; text-align: left; background-color: rgb(0, 0, 0);">
+<p><span style="font-size:0.9em"><span style="color:#00FF00">In 1971, the very first version of the Unix operating system came with the Thompson shell as its default shell. While lacking in scripting capabilities, this first shell established many of the standards for input/output redirection. With the release of Version 7 Unix in 1979, the new OS came distributed with the Bourne shell as its default shell.</span></span></p>
+</div></div>
+<div class="sl-block" data-block-type="image" data-name="image-37ae2f" data-block-id="686b87556e5fbad10182762d5f78f281" style="width: 680.595px; height: 471px; left: 0px; top: 0px; min-width: 1px; min-height: 1px;"><div class="sl-block-content" style="z-index: 11;"><img style="" data-natural-width="578" data-natural-height="400" data-lazy-loaded="" data-src="intro-to-linux-navigating-and-beyond/50ac49a3571d9ee63c6a58f5354244c8.png"></div></div>
+<div class="sl-block" data-block-type="text" data-name="text-335bb3" data-block-id="38d90751f0d1981d5999ac399d619fca" style="height: auto; width: 600px; left: 360px; top: 77.5px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 13;">
+<p><span style="color:#FFFFFF">Unix: 1971-</span>-Present</p>
+</div></div></section><section data-id="0b11068bd1eeb823cb02d8d4d82d00ac"><div class="sl-block" data-block-type="image" data-name="image-0fa63b" data-block-id="25699bb56b557bcff96f840499e3e1d7" style="width: 990px; height: 660px; left: 0px; top: 20px; min-width: 1px; min-height: 1px;"><div class="sl-block-content" style="z-index: 11;"><img style="" data-natural-width="900" data-natural-height="600" data-lazy-loaded="" data-src="intro-to-linux-navigating-and-beyond/5e24e1d2da2fe0b67bc50d83ef49fe1c.png"></div></div></section><section data-id="fb81f1977c2c019e9f17aedcf9b7b5d3"><div class="sl-block" data-block-type="image" data-name="image-3b08da" data-block-id="107ce980cdb9b651fe3b13f0a7e21f5f" style="width: 1001px; height: 628.827px; left: 17px; top: 35.5865px; min-width: 1px; min-height: 1px;"><div class="sl-block-content" style="z-index: 10;"><img style="" data-natural-width="2149" data-natural-height="1350" data-lazy-loaded="" data-src="intro-to-linux-navigating-and-beyond/0240728695aad7d12381f6223e7d1d62.png"></div></div></section></section><section class="stack" data-id="630b9e42dcc8506560fc9499ce215cd8"><section data-id="95f35f05f06eae9b23b4ccd651c73809"><div class="sl-block" data-block-type="text" style="width: 384px; left: 279px; top: 233px; height: auto;" data-block-id="eb75761a470bd30d82e71055dada1e6a"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin urna odio, aliquam vulputate faucibus id, elementum lobortis felis. Mauris urna dolor, placerat ac sagittis quis." style="text-align: left; z-index: 20; transition-duration: 0.6s; background-color: rgb(60, 120, 216);" data-animation-type="fade-in" data-animation-trigger="hover" data-animation-trigger-id="self">
+<p style="color:rgb(0, 0, 0)"><span class="md-expand">Common examples of Unix-like operating systems include GNU/Linux and macOS. Although many other shells exist for the terminal, one of the most popular shells is </span><span>zsh</span>, or the “Z shell”.</p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="width: 377px; left: 533px; top: 399px; height: auto;" data-block-id="3241c15b9fc6ac8cfd3680b8dde2ee04" data-name="text-268300"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin urna odio, aliquam vulputate faucibus id, elementum lobortis felis. Mauris urna dolor, placerat ac sagittis quis." style="text-align: left; z-index: 21; transition-duration: 0.6s; background-color: rgb(76, 17, 48);" data-animation-type="fade-in" data-animation-trigger="hover" data-animation-trigger-id="self">
+<p style="color:rgb(0, 0, 0)"><span style="color:#DDA0DD">bash and zsh are both powerful shells and share many prominent features, they also possess distinctions that users may have different preferences for. </span></p>
+</div></div>
+<div class="sl-block" data-block-type="text" data-name="text-b5133b" data-block-id="35c65f3bce5fa2148417deee419e02ba" style="height: auto; width: 458px; left: 34px; top: 38px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 19; background-color: rgb(246, 178, 107); transition-duration: 0.6s;" data-animation-type="fade-in" data-animation-trigger="hover" data-animation-trigger-id="self">
+<p><span style="color:rgb(0, 0, 0); text-align:left">If you have ever used the command line on an *nix system (Unix-based or Unix-like), chances are you’ve used the bash shell. bash (an abbreviation for “Bourne-again shell”) is the default shell for many Unix-like operating systems.</span></p>
+</div></div>
+<div class="sl-block sl-block-group" data-block-type="group" data-name="group-b43dcf" data-block-id="c9260ee532b18aee02ffb42b78e0d9cd" style="height: auto;"><div class="sl-block-content sl-block-group-content" style="transform-origin: 0px 0px; z-index: 10; transition-duration: 0.6s;" data-animation-type="fade-in" data-animation-trigger-id="self" data-animation-trigger="click"></div></div></section><section data-id="f864dd95c15cbf3e76e549e88dad0238"><div class="sl-block sl-block-group" data-block-type="group" data-name="group-6a1528" data-block-id="07c25816cc846e6e54f88037a04b3701" style="height: auto;"><div class="sl-block-content sl-block-group-content" style="transform-origin: 466.5px 347px; z-index: 10; transition-duration: 0.6s; transition-delay: 0.6s;" data-animation-type="fade-in"><div class="sl-block sl-block-group" data-block-type="group" data-name="group-caa231" data-block-id="9128f393a2d4ab6bd6458aef0c105bf3" style="height: auto;"><div class="sl-block-content sl-block-group-content" style="transform-origin: 466.5px 347px; z-index: 11; transition-duration: 0.6s; transition-delay: 0.6s;" data-animation-type="fade-in">
+<div class="sl-block" data-block-type="text" style="width: 408px; left: 492px; top: 38px; height: auto;" data-block-id="8c056d3ec75accd901df161b7469dd4e" data-name="text-cd992a"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin urna odio, aliquam vulputate faucibus id, elementum lobortis felis. Mauris urna dolor, placerat ac sagittis quis." style="text-align: left; z-index: 13; background-color: rgb(60, 120, 216);">
+<p style="color:rgb(0, 0, 0)"><span class="md-expand">Common examples of Unix-like operating systems include GNU/Linux and macOS. Although many other shells exist for the terminal, one of the most popular shells is </span><span>zsh</span>, or the “Z shell”.</p>
+
+<p style="color:rgb(0, 0, 0)"> </p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="width: 377px; left: 326px; top: 383px; height: auto;" data-name="text-268300" data-block-id="e86b85eb6825dfab0c5d8202079d7ce1"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin urna odio, aliquam vulputate faucibus id, elementum lobortis felis. Mauris urna dolor, placerat ac sagittis quis." style="text-align: left; z-index: 14; background-color: rgb(76, 17, 48);">
+<p style="color:rgb(0, 0, 0)"><span style="color:#DDA0DD">bash and zsh are both powerful shells and share many prominent features, they also possess distinctions that users may have different preferences for. </span></p>
+</div></div>
+<div class="sl-block" data-block-type="text" data-name="text-b5133b" style="height: auto; width: 417px; left: 33px; top: 38px;" data-block-id="113a644325e5dc2fd27717333a7400ba"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 12; background-color: rgb(246, 178, 107);">
+<p><span style="color:rgb(0, 0, 0); text-align:left">If you have ever used the command line on an *nix system (Unix-based or Unix-like), chances are you’ve used the bash shell. bash (an abbreviation for “Bourne-again shell”) is the default shell for many Unix-like operating systems.</span></p>
+</div></div>
+</div></div></div></div></section></section><section data-id="cf99208dda2938c97ab49bf0c21824eb"><div class="sl-block" data-block-type="text" style="width: 806px; left: 71px; top: 298px; height: auto;" data-block-id="0f33f6fe517113298bb2f456003a23eb"><div class="sl-block-content" data-placeholder-tag="h1" data-placeholder-text="Title Text" style="z-index: 10;">
+<p> </p>
+
+<p>Linux = an open-source version of the UNIX operating system</p>
+</div></div></section><section class="stack" data-id="6623a07a8c39e0bbd95bc8040f9d75cd"><section data-id="37b836a9332e86b80dc7cdba66be2a67"><div class="sl-block" data-block-type="text" data-name="text-fb0cb9" data-block-id="7f75597a3b98c15ef35a70d5749369e9" style="height: auto; width: 960px; left: 0px; top: 183.5px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 10;">
+<p><span style="font-size:1.4em"><strong>bash</strong></span></p>
+
+<p><span style="color:#FF8C00">bash is a “shell”</span></p>
+
+<ul>
+	<li>It prints the prompt and interprets what you enter</li>
+	<li>It has many keyboard shortcuts that can really speed up your work</li>
+</ul>
+</div></div></section><section data-id="03aed40ea4ee8f9bc7ce02bc09eae61d"><div class="sl-block" data-block-type="text" style="width: 806px; left: 68px; top: 42px; height: auto;" data-block-id="8699b8ff21d02fc39e0573bcf5cbe136"><div class="sl-block-content" data-placeholder-tag="h1" data-placeholder-text="Title Text" style="z-index: 10;">
+<h1>Short Cuts and Stuff</h1>
+</div></div>
+<div class="sl-block" data-block-type="text" data-name="text-ab5c82" style="height: auto; width: 960px; left: 9px; top: 237.5px;" data-block-id="43355eff3c1dc98ef8f829eca9dd18b4"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 11;">
+<p style="text-align:left">^a : go to beginning of line</p>
+
+<p style="text-align:left">^e : go to end of line</p>
+
+<p style="text-align:left">^k: delete to end of line</p>
+
+<p style="text-align:left">$ <span style="color:#B22222">ls Downl[tab]</span>        Tab completion, (work for commands as well)</p>
+
+<p style="text-align:left">$ <span style="color:#B22222">man ls</span> Display <strong>manual</strong> for “ls” command</p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="width: 960px; left: 9px; top: 474px; height: auto;" data-block-id="909a4580533030896eddd138e5af7274" data-name="text-a1be0c"><div class="sl-block-content" data-placeholder-tag="h1" data-placeholder-text="Title Text" style="z-index: 12;">
+<p style="text-align: left;"><span style="font-size:0.9em">$ <span style="color:#B22222">date</span></span></p>
+
+<p style="text-align: left;"><span style="font-size:0.9em"><span style="text-align:center">Tue Jun  1 22:53:51 EDT 2021</span></span></p>
+</div></div></section><section data-id="5813b026b331e2995a1130d2fb209ee5" data-background-color="#ffff00"><div class="sl-block" data-block-type="image" data-name="image-d45637" data-block-id="d935616d20d08ab7fab49bd4263614e5" style="width: 1066.59px; height: 487.813px; left: -62px; top: 143.594px; min-width: 1px; min-height: 1px;"><div class="sl-block-content" style="z-index: 11;"><img style="" data-natural-width="1196" data-natural-height="547" data-lazy-loaded="" data-src="intro-to-linux-navigating-and-beyond/384b6498441a891d676a88c98c4f2387.png"></div></div></section></section><section data-id="6f007c616814428f915cbf0169bc05f0"><div class="sl-block" data-block-type="text" style="width: 388px; left: 334px; top: 13px; height: auto;" data-block-id="f7791917b7cf6ef9c245e7a18e0cfc3d"><div class="sl-block-content" data-placeholder-tag="h1" data-placeholder-text="Title Text" style="z-index: 10; border-width: 1px; border-color: rgb(255, 0, 0); color: rgb(0, 0, 0); text-align: center; transition-duration: 0.6s; transition-delay: 0.6s;" dir="ui" data-animation-type="fade-in">
+<h1><span style="font-size:1.2em"><strong>Prompt</strong></span></h1>
+</div></div>
+<div class="sl-block" data-block-type="text" style="width: 857px; left: 69px; top: 144px; height: auto;" data-block-id="9883c4b458e804b264d5ca43ea383f4c"><div class="sl-block-content" data-placeholder-tag="h2" data-placeholder-text="Subtitle" style="z-index: 11; color: rgb(255, 0, 0);">
+<h1 style="color:rgb(0, 0, 0)">[<span style="color:#0000FF">user1</span>@<span style="color:#008000">mysystem</span> <span style="color:#FF0000">~</span>]$</h1>
+</div></div>
+<div class="sl-block" data-block-type="line" data-name="line-1d5159" data-block-id="c5f8701865f5fe19bb90aa1a32017ad0" style="width: auto; height: auto; min-width: 0px; min-height: 0px; left: 252px; top: 235px;"><div class="sl-block-content" data-line-x1="0" data-line-y1="203" data-line-x2="0" data-line-y2="0" data-line-color="#000000" data-line-start-type="none" data-line-end-type="none" style="z-index: 12;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveaspectratio="xMidYMid" width="1" height="203" viewbox="0 0 1 203"><line stroke="rgba(0,0,0,0)" stroke-width="15" x1="0" y1="203" x2="0" y2="0"></line><line class="line-element" stroke="#000000" stroke-width="2" x1="0" y1="203" x2="0" y2="0"></line></svg></div></div>
+<div class="sl-block" data-block-type="line" style="width: auto; height: auto; min-width: 0px; min-height: 0px; left: 528px; top: 241px;" data-block-id="9dc7fad26d8c03b3c2b73775cfecd39b" data-name="line-7578f6"><div class="sl-block-content" data-line-x1="0" data-line-y1="203" data-line-x2="0" data-line-y2="0" data-line-color="#000000" data-line-start-type="none" data-line-end-type="none" style="z-index: 13;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveaspectratio="xMidYMid" width="1" height="203" viewbox="0 0 1 203"><line stroke="rgba(0,0,0,0)" stroke-width="15" x1="0" y1="203" x2="0" y2="0"></line><line class="line-element" stroke="#000000" stroke-width="2" x1="0" y1="203" x2="0" y2="0"></line></svg></div></div>
+<div class="sl-block" data-block-type="line" style="width: auto; height: auto; min-width: 0px; min-height: 0px; left: 805px; top: 241px;" data-block-id="7557d95f1782cd90b1aa0d25c430c6f7" data-name="line-fc399e"><div class="sl-block-content" data-line-x1="0" data-line-y1="203" data-line-x2="0" data-line-y2="0" data-line-color="#000000" data-line-start-type="none" data-line-end-type="none" style="z-index: 14;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveaspectratio="xMidYMid" width="1" height="203" viewbox="0 0 1 203"><line stroke="rgba(0,0,0,0)" stroke-width="15" x1="0" y1="203" x2="0" y2="0"></line><line class="line-element" stroke="#000000" stroke-width="2" x1="0" y1="203" x2="0" y2="0"></line></svg></div></div>
+<div class="sl-block" data-block-type="text" data-name="text-8bd671" data-block-id="e32811dfc9ed84fd9a7583922b9c1bc2" style="height: auto; width: 220px; left: 149px; top: 454px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 15; background-color: rgb(207, 226, 243);">
+<p><span style="color:#0000FF">User Name</span></p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 220px; left: 395px; top: 454px;" data-block-id="55bff811f057c7e42bde0193c5750c86" data-name="text-a19ffb"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 16; background-color: rgb(207, 226, 243);">
+<p><span style="color:#008000">System Name</span></p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 317px; left: 643px; top: 454px;" data-block-id="d23ec128646df4583c3e442e5256d53c" data-name="text-45d675"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 17; background-color: rgb(207, 226, 243);">
+<p><span style="font-size:0.9em"><span style="color:#FF0000">Name Current Directory</span></span></p>
+</div></div>
+<div class="sl-block" data-block-type="text" data-name="text-3b9b42" data-block-id="3867001ef28542b85e9f0a2087ebd029" style="height: auto; width: 600px; left: 162px; top: 584.5px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 18;">
+<p><strong>NOTE:</strong> <span style="color:#FF0000">~</span><span style="color:#000000"> is special</span></p>
+
+<p><span style="color:#000000"> references home dir</span></p>
+</div></div></section><section class="stack" data-id="8f5d0a0557cf107963abd7f7f670b0ca"><section data-id="453b8bb470dbbd4a508e6109613f8ec1"><div class="sl-block" data-block-type="text" style="width: 806px; left: -223px; top: 132px; height: auto;" data-block-id="276365309daea95befd67cfe45ffcf5b"><div class="sl-block-content" data-placeholder-tag="h1" data-placeholder-text="Title Text" style="z-index: 10;">
+<h1>$ pwd</h1>
+</div></div>
+<div class="sl-block" data-block-type="text" data-name="text-659e6c" data-block-id="ef2ee6c79f216fe5dd1dd48ed8efe9d3" style="height: auto; width: 783px; left: 347.5px; top: 137.5px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 11;">
+<p style="text-align:left"><span style="font-size:0.9em">"Print Working Directory"</span></p>
+
+<p style="text-align:left"><span style="font-size:0.9em">(or "Path Working Directory" )</span></p>
+</div></div>
+<div class="sl-block" data-block-type="text" data-name="text-7e8449" data-block-id="20c355a533c0950c599a2ae2b69b15f2" style="height: auto; width: 600px; left: 180px; top: 37.5px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 12; color: rgb(60, 120, 216);">
+<p><span style="font-size:1.4em"><strong>Where Am I?</strong></span></p>
+</div></div>
+<div class="sl-block" data-block-type="text" data-name="text-d7c589" data-block-id="8c0dadeb1d171fcbde10afd03d3fb65e" style="height: auto; width: 600px; left: 216px; top: 222.5px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 13; text-align: right;">
+<p style="text-align:left">Prints Directory Path:</p>
+
+<p style="text-align:left"><span style="color:#B22222">/users/home/user1</span></p>
+
+<p style="text-align:left"> </p>
+</div></div>
+<div class="sl-block" data-block-type="text" data-name="text-86e6e0" data-block-id="e79320c6295e08da744541ebc9bd8b1a" style="height: auto; width: 600px; left: 192px; top: 449.5px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 14;">
+<p>"List Directory"</p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 600px; left: 166px; top: 354.5px;" data-block-id="1576e77083db8a6429948b796137b3f3" data-name="text-71762a"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 15; color: rgb(60, 120, 216);">
+<p><span style="font-size:1.4em"><strong>Who Else Is Here?</strong></span></p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="width: 806px; left: -211px; top: 420.5px; height: auto;" data-block-id="03578457eb7f132a1638209d002099b5" data-name="text-ed9537"><div class="sl-block-content" data-placeholder-tag="h1" data-placeholder-text="Title Text" style="z-index: 16;">
+<h1>$ ls</h1>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 600px; left: 241px; top: 500.5px;" data-block-id="fd50c50c3ca28f04b1fd1534d417db5d" data-name="text-44f895"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 17; text-align: right;">
+<p style="text-align:left">Prints Contents of Directory:</p>
+
+<p style="text-align:left"><span style="color:#B22222">.     ..    test1.file     </span><span style="color:rgb(178, 34, 34); text-align:left">test2</span><span style="color:rgb(178, 34, 34); text-align:left">.txt   </span> <span style="color:rgb(178, 34, 34); text-align:left">test3</span><span style="color:rgb(178, 34, 34); text-align:left">.mov </span></p>
+
+<p style="text-align:left"> </p>
+</div></div>
+<div class="sl-block" data-block-type="text" data-name="text-ef049f" data-block-id="7cd06df738b824bb3f9fddcaef635906" style="height: auto; width: 600px; left: 22px; top: 632.5px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 18;">
+<p>$ <span style="color:#A52A2A">ls -l</span>        "Long listing"</p>
+</div></div></section><section data-id="537ed73565ffb0f1b885622124905eb4"><div class="sl-block" data-block-type="text" data-name="text-3333b2" data-block-id="b36af793ba480b163ecaad90935ae9e8" style="height: auto; width: 600px; left: 165px; top: 222.5px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 10;">
+<p><span style="font-size:3.0em">$ <span style="color:#A52A2A">ls -a</span></span></p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 600px; left: 165px; top: 512.5px;" data-block-id="731d727375d99a9053a164b31e6d7b46" data-name="text-f26233"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 11;">
+<p><span style="font-size:3.0em">$ <span style="color:#A52A2A">ls -la</span></span></p>
+</div></div>
+<div class="sl-block" data-block-type="text" data-name="text-2d3998" data-block-id="e1a17c0cba0f4ea6fc7532575b72563f" style="height: auto; width: 600px; left: 192px; top: 418.5px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 12; border-style: solid; border-width: 1px;">
+<p><span style="font-size:1.2em"><span style="color:rgb(0, 0, 0)">Can Combine Options, e.g.</span></span></p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 600px; left: 155px; top: 20.5px;" data-block-id="fbbde05280cce8ce725829c16ad82c57" data-name="text-b764b1"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 13;">
+<p><span style="font-size:3.0em">$ <span style="color:#A52A2A">ls </span></span></p>
+</div></div>
+<div class="sl-block" data-block-type="text" data-name="text-c522a3" data-block-id="268b90d238c10f8ca73e8fded64f7907" style="height: auto; width: 44px; left: 455px; top: 167.5px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 14; text-align: left;">
+<p>vs.</p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 44px; left: 455px; top: 350px;" data-block-id="86794520a8f7e682ea6c01613f4bd09c" data-name="text-8c421f"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 15; text-align: left;">
+<p>vs.</p>
+</div></div></section></section><section data-id="f90b99968ac6062a09f7b2601de62954"><div class="sl-block" data-block-type="text" style="width: 806px; left: -223px; top: 132px; height: auto;" data-block-id="401e97870cfc8162197f7a1cee41c9ec" data-name="text-0de943"><div class="sl-block-content" data-placeholder-tag="h1" data-placeholder-text="Title Text" style="z-index: 10;">
+<h1>$ cd</h1>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 600px; left: 194px; top: 33.5px;" data-name="text-71762a" data-block-id="529bef45d70cef217211305720e62d48"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 11; color: rgb(60, 120, 216);">
+<p><span style="font-size:1.4em"><strong>Get Me Out Of Here!</strong></span></p>
+</div></div>
+<div class="sl-block" data-block-type="text" data-name="text-86e6e0" style="height: auto; width: 600px; left: 147px; top: 167.5px;" data-block-id="832e0c7c26c8275df64070be55de063e"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 12;">
+<p>"Change Directory"</p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 600px; left: 122px; top: 243.5px;" data-name="text-44f895" data-block-id="0b424e1828c29a3fa9d056810e955901"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 13; text-align: right;">
+<p style="text-align:left">Move to specified Directory:</p>
+
+<p style="text-align:left">$ <span style="color:#A52A2A">cd .</span></p>
+
+<p style="text-align:left">$<span style="color:#A52A2A"> cd ..</span></p>
+
+<p style="text-align:left">$<span style="color:#A52A2A"> cd Desktop</span></p>
+</div></div>
+<div class="sl-block" data-block-type="text" data-name="text-665dc9" data-block-id="d26b4717f0525b3fe9faaa00e8126ab8" style="height: auto; width: 600px; left: -120px; top: 601.5px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 14;">
+<p><span style="color:rgb(0, 0, 0); text-align:left">$</span><span style="color:rgb(165, 42, 42); text-align:left"> pwd</span></p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 746px; left: 87px; top: 520.5px;" data-block-id="8e4a9ea951f91754238574c0eac372e6" data-name="text-cfbba9"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 15; color: rgb(60, 120, 216);">
+<p><span style="font-size:1.4em"><strong>Sanity Check - Where Am I Now?!</strong></span></p>
+</div></div>
+</section><section data-id="f0931d3a8f0d07519fd9ecb3c947572c"><div class="sl-block" data-block-type="text" style="width: 806px; left: 77px; top: 23px; height: auto;" data-block-id="785c2456ac6ab8d7ea76bfa9a3a6e7f1"><div class="sl-block-content" data-placeholder-tag="h1" data-placeholder-text="Title Text" style="z-index: 10;">
+<h1>Paths</h1>
+</div></div>
+<div class="sl-block" data-block-type="image" data-name="image-204aaf" data-block-id="18ee3e1547737a9cf9658b084c62afb8" style="width: 551.264px; height: 577px; left: 54.687px; top: 88px; min-width: 1px; min-height: 1px;"><div class="sl-block-content" style="z-index: 11;"><img style="left: 0px; top: -80px; width: 701px; height: 657px;" data-natural-width="798" data-natural-height="748" data-crop-x="0" data-crop-y="0.121622" data-crop-width="0.786618" data-crop-height="0.878378" data-lazy-loaded="" data-src="intro-to-linux-navigating-and-beyond/107b9d92c70a3a2048cb0981d4858c96.png"></div></div>
+<div class="sl-block" data-block-type="line" data-name="line-9838a0" data-block-id="fd99ad62453f4287de1be6bf767de099" style="width: auto; height: auto; min-width: 0px; min-height: 0px; left: 605.951px; top: 416px;"><div class="sl-block-content" data-line-x1="0" data-line-y1="45" data-line-x2="20" data-line-y2="0" data-line-color="#a61c00" data-line-start-type="none" data-line-end-type="none" style="z-index: 12;" data-line-width="5px"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveaspectratio="xMidYMid" width="20" height="45" viewbox="0 0 20 45"><line stroke="rgba(0,0,0,0)" stroke-width="15" x1="0.5" y1="45.5" x2="20.5" y2="0.5"></line><line class="line-element" stroke="#a61c00" stroke-width="5" x1="0.5" y1="45.5" x2="20.5" y2="0.5"></line></svg></div></div></section><section data-id="544d302f0d7c942c77d56f38a577ed0c"><div class="sl-block" data-block-type="text" style="width: 806px; left: 77px; top: 39px; height: auto;" data-block-id="556035f6aca6e8b09911cca961935cb5"><div class="sl-block-content" data-placeholder-tag="h1" data-placeholder-text="Title Text" style="z-index: 10;">
+<h1>Copying</h1>
+</div></div>
+<div class="sl-block" data-block-type="text" style="width: 806px; left: -75px; top: 210px; height: auto;" data-name="text-0de943" data-block-id="113c5206b679c425d5a3c4aab1dcfb4c"><div class="sl-block-content" data-placeholder-tag="h1" data-placeholder-text="Title Text" style="z-index: 11;">
+<h1>$ cp</h1>
+
+<p> </p>
+
+<p>$ <span style="color:#A52A2A">cp    file.txt     ../Download/data</span></p>
+</div></div>
+<div class="sl-block" data-block-type="line" data-name="line-2b4cef" data-block-id="cf119c0be331430b355a584ebe2eb76b" style="width: auto; height: auto; min-width: 0px; min-height: 0px; left: 127px; top: 414px;"><div class="sl-block-content" data-line-x1="0" data-line-y1="91" data-line-x2="17" data-line-y2="0" data-line-color="#000000" data-line-start-type="none" data-line-end-type="none" style="z-index: 12;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveaspectratio="xMidYMid" width="17" height="91" viewbox="0 0 17 91"><line stroke="rgba(0,0,0,0)" stroke-width="15" x1="0" y1="91" x2="17" y2="0"></line><line class="line-element" stroke="#000000" stroke-width="2" x1="0" y1="91" x2="17" y2="0"></line></svg></div></div>
+<div class="sl-block" data-block-type="text" data-name="text-a7ee66" data-block-id="cb63521321fe293c2192cd4bd82ffdbd" style="height: auto; width: 144px; left: 65.5px; top: 493px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 13;">
+<p><span style="font-size:0.7em">Command</span></p>
+</div></div>
+<div class="sl-block" data-block-type="line" style="width: auto; height: auto; min-width: 0px; min-height: 0px; left: 179px; top: 404px;" data-block-id="daba140bc32dd6724bf1bd5031467ebe" data-name="line-60d527"><div class="sl-block-content" data-line-x1="23" data-line-y1="146.5" data-line-x2="0" data-line-y2="0" data-line-color="#000000" data-line-start-type="none" data-line-end-type="none" style="z-index: 14;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveaspectratio="xMidYMid" width="23" height="146.5" viewbox="0 0 23 146.5"><line stroke="rgba(0,0,0,0)" stroke-width="15" x1="23" y1="146.5" x2="0" y2="0"></line><line class="line-element" stroke="#000000" stroke-width="2" x1="23" y1="146.5" x2="0" y2="0"></line></svg></div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 144px; left: 127px; top: 550.5px;" data-block-id="3b0d8206505371fda3895dff963a7a50" data-name="text-a2bf3b"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 15;">
+<p><span style="font-size:0.7em">Delimiter</span></p>
+</div></div>
+<div class="sl-block" data-block-type="line" style="width: auto; height: auto; min-width: 0px; min-height: 0px; left: 296px; top: 400.25px;" data-block-id="1cb38e7f166d01a93cbe666516d08e29" data-name="line-68318b"><div class="sl-block-content" data-line-x1="23" data-line-y1="146.5" data-line-x2="0" data-line-y2="0" data-line-color="#000000" data-line-start-type="none" data-line-end-type="none" style="z-index: 16;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveaspectratio="xMidYMid" width="23" height="146.5" viewbox="0 0 23 146.5"><line stroke="rgba(0,0,0,0)" stroke-width="15" x1="23" y1="146.5" x2="0" y2="0"></line><line class="line-element" stroke="#000000" stroke-width="2" x1="23" y1="146.5" x2="0" y2="0"></line></svg></div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 144px; left: 244px; top: 546.75px;" data-block-id="2ac31cfab4a865fa0bebc3fee3591ddb" data-name="text-26e325"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 17;">
+<p><span style="font-size:0.7em">Delimiter</span></p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 124px; left: 192px; top: 477.25px;" data-block-id="5659095e4ef9f50dde6201a673b9b6d5" data-name="text-8e6511"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 18;">
+<p><span style="font-size:0.7em">target</span></p>
+</div></div>
+<div class="sl-block" data-block-type="line" style="width: auto; height: auto; min-width: 0px; min-height: 0px; left: 244px; top: 414px;" data-block-id="f0ffa2006cc48dd7cbcfd091c1ee4323" data-name="line-fb0f59"><div class="sl-block-content" data-line-x1="10" data-line-y1="63.25" data-line-x2="0" data-line-y2="0" data-line-color="#000000" data-line-start-type="none" data-line-end-type="none" style="z-index: 19;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveaspectratio="xMidYMid" width="10" height="63.25" viewbox="0 0 10 63.25"><line stroke="rgba(0,0,0,0)" stroke-width="15" x1="10" y1="63.25" x2="0" y2="0"></line><line class="line-element" stroke="#000000" stroke-width="2" x1="10" y1="63.25" x2="0" y2="0"></line></svg></div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 124px; left: 362px; top: 485.625px;" data-block-id="1870da24859609b8215756f4e1ccefa5" data-name="text-ec54cb"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 20;">
+<p><span style="font-size:0.7em">Destination</span></p>
+</div></div>
+<div class="sl-block" data-block-type="line" style="width: auto; height: auto; min-width: 0px; min-height: 0px; left: 414px; top: 422.375px;" data-block-id="140fd1d4edcff647ee31b8aa1e213327" data-name="line-e90bb1"><div class="sl-block-content" data-line-x1="10" data-line-y1="63.25" data-line-x2="0" data-line-y2="0" data-line-color="#000000" data-line-start-type="none" data-line-end-type="none" style="z-index: 21;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveaspectratio="xMidYMid" width="10" height="63.25" viewbox="0 0 10 63.25"><line stroke="rgba(0,0,0,0)" stroke-width="15" x1="10" y1="63.25" x2="0" y2="0"></line><line class="line-element" stroke="#000000" stroke-width="2" x1="10" y1="63.25" x2="0" y2="0"></line></svg></div></div></section><section data-id="ee23a44e012a7d14d77f33b34e378631"><div class="sl-block" data-block-type="text" style="width: 923px; left: 18.5px; top: 12px; height: auto;" data-block-id="a62e86e6904645b0fd25578996fc86bf" data-name="text-668123"><div class="sl-block-content" data-placeholder-tag="h1" data-placeholder-text="Title Text" style="z-index: 10; color: rgb(246, 178, 107); background-color: rgb(252, 229, 205);">
+<h1><span style="color:#0000CD"><span style="font-size:0.5em">Making + Removing Dirs &amp; Moving Stuff</span></span></h1>
+</div></div>
+<div class="sl-block" data-block-type="text" style="width: 806px; left: 93px; top: 350px; height: auto;" data-name="text-0de943" data-block-id="218fce3995757cfd4a28a0eadda2c694"><div class="sl-block-content" data-placeholder-tag="h1" data-placeholder-text="Title Text" style="z-index: 11;">
+<h1>$ mv</h1>
+
+<p>$ <span style="color:#B22222">mv </span><span style="color:#A52A2A"> file.txt   data</span></p>
+</div></div>
+<div class="sl-block" data-block-type="line" data-name="line-2b4cef" style="width: auto; height: auto; min-width: 0px; min-height: 0px; left: 304px; top: 498px;" data-block-id="e564df315d66475dc544884b9c3e2144"><div class="sl-block-content" data-line-x1="0" data-line-y1="104.75" data-line-x2="103" data-line-y2="0" data-line-color="#000000" data-line-start-type="none" data-line-end-type="none" style="z-index: 12;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveaspectratio="xMidYMid" width="103" height="104.75" viewbox="0 0 103 104.75"><line stroke="rgba(0,0,0,0)" stroke-width="15" x1="0" y1="104.75" x2="103" y2="0"></line><line class="line-element" stroke="#000000" stroke-width="2" x1="0" y1="104.75" x2="103" y2="0"></line></svg></div></div>
+<div class="sl-block" data-block-type="text" data-name="text-a7ee66" style="height: auto; width: 144px; left: 242.5px; top: 590.75px;" data-block-id="309685433d6f71739fd0f77001a25da5"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 13;">
+<p><span style="font-size:0.7em">Command</span></p>
+</div></div>
+<div class="sl-block" data-block-type="line" style="width: auto; height: auto; min-width: 0px; min-height: 0px; left: 379px; top: 498px;" data-name="line-60d527" data-block-id="dc03e7c5918d611ff4cac3b6391d30e2"><div class="sl-block-content" data-line-x1="0" data-line-y1="150.25" data-line-x2="69" data-line-y2="0" data-line-color="#000000" data-line-start-type="none" data-line-end-type="none" style="z-index: 14;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveaspectratio="xMidYMid" width="69" height="150.25" viewbox="0 0 69 150.25"><line stroke="rgba(0,0,0,0)" stroke-width="15" x1="0" y1="150.25" x2="69" y2="0"></line><line class="line-element" stroke="#000000" stroke-width="2" x1="0" y1="150.25" x2="69" y2="0"></line></svg></div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 144px; left: 304px; top: 648.25px;" data-name="text-a2bf3b" data-block-id="965f36714235331561e3fd7882ca4416"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 15;">
+<p><span style="font-size:0.7em">Delimiter</span></p>
+</div></div>
+<div class="sl-block" data-block-type="line" style="width: auto; height: auto; min-width: 0px; min-height: 0px; left: 496px; top: 498px;" data-name="line-68318b" data-block-id="5988b82bc4365b960f2446d56af10747"><div class="sl-block-content" data-line-x1="0" data-line-y1="146.5" data-line-x2="58" data-line-y2="0" data-line-color="#000000" data-line-start-type="none" data-line-end-type="none" style="z-index: 16;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveaspectratio="xMidYMid" width="58" height="146.5" viewbox="0 0 58 146.5"><line stroke="rgba(0,0,0,0)" stroke-width="15" x1="0" y1="146.5" x2="58" y2="0"></line><line class="line-element" stroke="#000000" stroke-width="2" x1="0" y1="146.5" x2="58" y2="0"></line></svg></div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 144px; left: 421px; top: 644.5px;" data-name="text-26e325" data-block-id="2096bee7482731ce3de9a67ee33897b7"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 17;">
+<p><span style="font-size:0.7em">Delimiter</span></p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 124px; left: 369px; top: 575px;" data-name="text-8e6511" data-block-id="305d7b634ac80e3f188bb1a4db0cb59c"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 18;">
+<p><span style="font-size:0.7em">target</span></p>
+</div></div>
+<div class="sl-block" data-block-type="line" style="width: auto; height: auto; min-width: 0px; min-height: 0px; left: 431px; top: 503.75px;" data-name="line-fb0f59" data-block-id="a80c3bbb36c3d6ca4018fdeedac03aae"><div class="sl-block-content" data-line-x1="0" data-line-y1="71.25" data-line-x2="38" data-line-y2="0" data-line-color="#000000" data-line-start-type="none" data-line-end-type="none" style="z-index: 19;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveaspectratio="xMidYMid" width="38" height="71.25" viewbox="0 0 38 71.25"><line stroke="rgba(0,0,0,0)" stroke-width="15" x1="0" y1="71.25" x2="38" y2="0"></line><line class="line-element" stroke="#000000" stroke-width="2" x1="0" y1="71.25" x2="38" y2="0"></line></svg></div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 124px; left: 539px; top: 583.375px;" data-name="text-ec54cb" data-block-id="5d3e92cd79eb8c4429ab5ab2782caac7"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 20;">
+<p><span style="font-size:0.7em">Destination</span></p>
+</div></div>
+<div class="sl-block" data-block-type="line" style="width: auto; height: auto; min-width: 0px; min-height: 0px; left: 601px; top: 503.75px;" data-name="line-e90bb1" data-block-id="7ff81a706f96feaa8c15d429412fb619"><div class="sl-block-content" data-line-x1="0" data-line-y1="79.625" data-line-x2="0" data-line-y2="0" data-line-color="#000000" data-line-start-type="none" data-line-end-type="none" style="z-index: 21;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveaspectratio="xMidYMid" width="1" height="79.625" viewbox="0 0 1 79.625"><line stroke="rgba(0,0,0,0)" stroke-width="15" x1="0" y1="79.625" x2="0" y2="0"></line><line class="line-element" stroke="#000000" stroke-width="2" x1="0" y1="79.625" x2="0" y2="0"></line></svg></div></div>
+<div class="sl-block" data-block-type="text" style="width: 806px; left: -134px; top: 183.25px; height: auto;" data-block-id="03b5279e0ac13a997143f95d4e0b4b59" data-name="text-875bdb"><div class="sl-block-content" data-placeholder-tag="h1" data-placeholder-text="Title Text" style="z-index: 22;">
+<h1>$ mkdir</h1>
+
+<p>$ <span style="color:#B22222">mkdir  </span><span style="color:#A52A2A">data</span></p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="width: 806px; left: 338px; top: 163.75px; height: auto;" data-block-id="aa754f5b2c7cde5ad18aa98a303d056d" data-name="text-579eb9"><div class="sl-block-content" data-placeholder-tag="h1" data-placeholder-text="Title Text" style="z-index: 34;">
+<h1>$ rmdir</h1>
+
+<p>$ <span style="color:#B22222">rmdir  </span><span style="color:#A52A2A">data</span></p>
+</div></div></section><section data-id="19d86b9c24c93286ac60d2b84e608faa"><div class="sl-block" data-block-type="text" style="width: 806px; left: 77px; top: 39px; height: auto;" data-name="text-668123" data-block-id="7e54a0c109e80aa26c5ed21234f3bfff"><div class="sl-block-content" data-placeholder-tag="h1" data-placeholder-text="Title Text" style="z-index: 10;">
+<h1>Removing</h1>
+</div></div>
+<div class="sl-block" data-block-type="text" style="width: 806px; left: 0px; top: 195.25px; height: auto;" data-name="text-0de943" data-block-id="01f21dbf0fa3faaa63495611baad5e09"><div class="sl-block-content" data-placeholder-tag="h1" data-placeholder-text="Title Text" style="z-index: 11;">
+<h1>$ rm</h1>
+
+<p>$ <span style="color:#B22222">rm  </span><span style="color:#A52A2A">file.txt    </span></p>
+</div></div>
+<div class="sl-block" data-block-type="line" data-name="line-2b4cef" style="width: auto; height: auto; left: 319.5px; top: 356px;" data-block-id="041be7c2f75e44ffffd4779dffd4cfac"><div class="sl-block-content" data-line-x1="0" data-line-y1="91" data-line-x2="17" data-line-y2="0" data-line-color="#000000" data-line-start-type="none" data-line-end-type="none" style="z-index: 12;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveaspectratio="xMidYMid" width="17" height="91" viewbox="0 0 17 91"><line stroke="rgba(0,0,0,0)" stroke-width="15" x1="0" y1="91" x2="17" y2="0"></line><line class="line-element" stroke="#000000" stroke-width="2" x1="0" y1="91" x2="17" y2="0"></line></svg></div></div>
+<div class="sl-block" data-block-type="text" data-name="text-a7ee66" style="height: auto; width: 144px; left: 211px; top: 449.75px;" data-block-id="5c1683ad31aab37ea912130fd2082630"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 13;">
+<p><span style="font-size:0.7em">Command</span></p>
+</div></div>
+<div class="sl-block" data-block-type="line" style="width: auto; height: auto; left: 380px; top: 342.25px;" data-name="line-68318b" data-block-id="0a508a88c5c6c3b3eb83a873de3e1ac9"><div class="sl-block-content" data-line-x1="23" data-line-y1="146.5" data-line-x2="0" data-line-y2="0" data-line-color="#000000" data-line-start-type="none" data-line-end-type="none" style="z-index: 14;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveaspectratio="xMidYMid" width="23" height="146.5" viewbox="0 0 23 146.5"><line stroke="rgba(0,0,0,0)" stroke-width="15" x1="23" y1="146.5" x2="0" y2="0"></line><line class="line-element" stroke="#000000" stroke-width="2" x1="23" y1="146.5" x2="0" y2="0"></line></svg></div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 144px; left: 328px; top: 488.75px;" data-name="text-26e325" data-block-id="57c52996031cc17ba99225bc5a9424cf"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 15;">
+<p><span style="font-size:0.7em">Delimiter</span></p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 124px; left: 446px; top: 427.625px;" data-name="text-ec54cb" data-block-id="16d3faa3fa296edc861c8bbc278fa31e"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 16;">
+<p><span style="font-size:0.7em">Destination</span></p>
+</div></div>
+<div class="sl-block" data-block-type="line" style="width: auto; height: auto; left: 455px; top: 356px;" data-name="line-e90bb1" data-block-id="d20e4604d240b0ca0dd88c27c19b735c"><div class="sl-block-content" data-line-x1="53" data-line-y1="71.625" data-line-x2="0" data-line-y2="0" data-line-color="#000000" data-line-start-type="none" data-line-end-type="none" style="z-index: 17;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveaspectratio="xMidYMid" width="53" height="71.625" viewbox="0 0 53 71.625"><line stroke="rgba(0,0,0,0)" stroke-width="15" x1="53" y1="71.625" x2="0" y2="0"></line><line class="line-element" stroke="#000000" stroke-width="2" x1="53" y1="71.625" x2="0" y2="0"></line></svg></div></div>
+<div class="sl-block" data-block-type="text" style="width: 806px; left: 15.5px; top: 535.25px; height: auto;" data-block-id="20bda692de2c4b1148c2725c6299ece3" data-name="text-8be873"><div class="sl-block-content" data-placeholder-tag="h1" data-placeholder-text="Title Text" style="z-index: 18; color: rgb(152, 0, 0);">
+<h1><span style="color:#000000">$ rm -rf </span></h1>
+
+<p>$ rm<span style="color:#A52A2A"> -rf file.txt    </span></p>
+</div></div></section><section data-id="89cc92dd2c7f7e408d7cbae300d8e816"><div class="sl-block" data-block-type="text" style="width: 806px; left: 77px; top: 39px; height: auto;" data-name="text-668123" data-block-id="fc356e46d62af4b33d227ce7b5d390d1"><div class="sl-block-content" data-placeholder-tag="h1" data-placeholder-text="Title Text" style="z-index: 10;">
+<h1>Concatenating</h1>
+</div></div>
+<div class="sl-block" data-block-type="text" style="width: 806px; left: -200px; top: 214px; height: auto;" data-name="text-0de943" data-block-id="23c867b5454cd9c1ce3a193b28870322"><div class="sl-block-content" data-placeholder-tag="h1" data-placeholder-text="Title Text" style="z-index: 11;">
+<h1>$ cat</h1>
+
+<p>$ <span style="color:#B22222">cat  </span><span style="color:#A52A2A">file1.txt    </span></p>
+</div></div>
+<div class="sl-block" data-block-type="text" data-name="text-68f4e1" data-block-id="2e25b6c0ac4952078c80fd0c8816508d" style="height: auto; width: 195px; left: 347px; top: 313px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 12; border-style: solid; border-width: 1px;">
+<pre style="color: rgb(39, 50, 57); text-align: center;"><span style="font-size:0.7em">Show contents 
+of file1.txt</span></pre>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 840px; left: 91px; top: 480.5px;" data-block-id="4bc399102b4941e133e12c51677bf878" data-name="text-5a5d9d"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 13;">
+<pre style="color:rgb(39, 50, 57)"><span style="color:rgb(0, 0, 0)">$ </span><span style="color:#B22222">cat</span><span style="color:rgb(165, 42, 42)"> file1.txt file2.txt</span></pre>
+</div></div>
+<div class="sl-block" data-block-type="text" data-name="text-5ae3d1" data-block-id="03dd26e5e32b9548cd5078656fbf20ba" style="height: auto; width: 328px; left: 586px; top: 448px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 14; border-style: solid; border-width: 1px;" dir="ui">
+<pre style="color: rgb(39, 50, 57); text-align: center;"><span style="font-size:0.7em">Show contents of file1.txt 
+and file2.txt</span></pre>
+</div></div>
+<div class="sl-block" data-block-type="text" data-name="text-70c052" data-block-id="a8bf8a0da3c54d4abf6022303441c4f0" style="height: auto; width: 965.5px; left: -5.5px; top: 136px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 17; transition-duration: 0.6s; background-color: rgb(246, 178, 107); transition-delay: 0.6s;" data-animation-type="fade-in" data-animation-trigger-id="self">
+<p><span style="color:#0000FF">https://www.geeksforgeeks.org/cat-command-in-linux-with-examples/</span></p>
+</div></div></section><section data-id="94371cece0ee7e3a38d0daf804c1368c"><div class="sl-block" data-block-type="text" style="width: 806px; left: 77px; top: 20px; height: auto;" data-block-id="08b810d5670c7b77573dbac2c53649cb"><div class="sl-block-content" data-placeholder-tag="h1" data-placeholder-text="Title Text" style="z-index: 10;">
+<h1>Who Am I?</h1>
+</div></div>
+<div class="sl-block" data-block-type="text" data-name="text-f7d08c" data-block-id="d73c5072ba2136c926d7595fcaa0e0c8" style="height: auto; width: 600px; left: 128px; top: 148px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 11;">
+<p style="text-align:left"><span style="font-size:2.0em"><span style="color:rgb(0, 0, 0); text-align:left">$</span><span style="color:#B22222"> whoami</span></span></p>
+
+<p style="text-align:left"><span style="font-size:2.0em"><span style="color:rgb(0, 0, 0); text-align:left">$</span><span style="color:#B22222"> who am i</span></span></p>
+
+<p style="text-align:left"><span style="font-size:2.0em"><span style="color:rgb(0, 0, 0); text-align:left">$</span><span style="color:#B22222"> id</span></span></p>
+
+<p style="text-align:left"><span style="font-size:2.0em"><span style="color:rgb(0, 0, 0); text-align:left">$</span><span style="color:#B22222"> groups</span></span></p>
+
+<p style="text-align:left"><span style="font-size:2.0em"><span style="color:rgb(0, 0, 0); text-align:left">$ </span><span style="color:#B22222">who</span></span></p>
+
+<p style="text-align:left"><span style="font-size:2.0em"><span style="color:rgb(0, 0, 0); text-align:left">$ </span><span style="color:rgb(178, 34, 34); text-align:left">w</span></span></p>
+
+<p style="text-align:left"> </p>
+</div></div></section><section data-id="fc173b208cde1004e77d221e77d775f8"><div class="sl-block" data-block-type="text" style="width: 806px; left: 77px; top: 20px; height: auto;" data-block-id="b0c5599da243950e801017675decd723"><div class="sl-block-content" data-placeholder-tag="h1" data-placeholder-text="Title Text" style="z-index: 10;">
+<h1>id, groups</h1>
+</div></div>
+<div class="sl-block" data-block-type="text" data-name="text-f7d08c" style="height: auto; width: 600px; left: 114px; top: 285px;" data-block-id="5c0e046379bd1b00aa5c5fcd3629e7e6"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 11;">
+<p style="text-align:left"><span style="font-size:60px">$ <span style="color:#B22222">id okara</span></span></p>
+
+<p style="text-align:left"><span style="font-size:2.0em"><span style="color:rgb(0, 0, 0); text-align:left">$ </span><span style="color:#B22222"><span style="text-align:left">groups</span></span><span style="color:rgb(178, 34, 34); text-align:left"> okara</span></span></p>
+
+<p style="text-align:left"> </p>
+</div></div></section><section class="stack" data-id="7c8bb9adb1bca1e1e3cc51fe5f3973f1"><section data-id="546efd45077991119e860a8d60521a51"><div class="sl-block" data-block-type="text" style="width: 806px; left: 55px; top: 83px; height: auto;" data-block-id="b33e255770a11e959f7d9b21d871c0b0"><div class="sl-block-content" data-placeholder-tag="h2" data-placeholder-text="Title Text" style="z-index: 10;">
+<h2>$ <span style="color:#B22222">grep</span>
+</h2>
+</div></div>
+<div class="sl-block" data-block-type="text" style="width: 806px; left: 77px; top: 224px; height: auto;" data-block-id="9c7f9113d7b73f16b248f64f624c1d7b"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 11;">
+<p> </p>
+
+<ol>
+	<li><span style="color:rgb(64, 64, 64); text-align:left">grep</span></li>
+	<li><span style="color:rgb(64, 64, 64); text-align:left">pattern that you are searching for</span></li>
+	<li><span style="color:rgb(64, 64, 64); text-align:left">file name that the grep searches through.</span></li>
+</ol>
+</div></div>
+<div class="sl-block" data-block-type="text" data-name="text-6f6397" data-block-id="d9c2fb1b9debb0a129067ca89165661e" style="height: auto; width: 846px; left: 63px; top: 178px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 12; background-color: rgb(217, 234, 211);">
+<p><span style="font-size:1.0em"><span style="color:#DDA0DD"><span style="text-align:left">grep command consists of three parts in its most basic form</span></span></span></p>
+</div></div>
+<div class="sl-block" data-block-type="text" data-name="text-2fe0d3" data-block-id="62703626391f27ec5e5f56eb01ac9188" style="height: auto; width: 263px; left: 270px; top: 277px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 13; text-align: right;">
+<p><span style="color:#EE82EE"><span style="font-size:0.5em"><span style="text-align:left">(as always starts with the command)</span></span></span></p>
+
+<ol style="color:rgb(0, 0, 0)">
+</ol>
+</div></div>
+<div class="sl-block" data-block-type="text" data-name="text-2810a7" data-block-id="9cb30b734a47e50acf23ee7649dfaaa6" style="height: auto; width: 600px; left: -73px; top: 424.5px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 14; text-align: center;">
+<p><span style="color:rgb(64, 64, 64); text-align:left">$ </span><span style="color:#B22222"><span style="text-align:left">grep njersey nyork</span></span></p>
+</div></div>
+<div class="sl-block" data-block-type="text" data-name="text-4dd61b" data-block-id="5fd2985c40362a4b5255026cd0679877" style="height: auto; width: 293px; left: 575px; top: 95px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 15;">
+<h3 style="color:rgb(0, 0, 0); text-align:left"><span style="font-size:0.5em">(files and text searches)</span></h3>
+</div></div>
+<div class="sl-block" data-block-type="line" data-name="line-62060e" data-block-id="53a4af2d6ff5740268100bdbb1197f08" style="width: auto; height: auto; min-width: 0px; min-height: 0px; left: 108px; top: 470px;"><div class="sl-block-content" data-line-x1="24" data-line-y1="0" data-line-x2="0" data-line-y2="73" data-line-color="#000000" data-line-start-type="none" data-line-end-type="none" style="z-index: 16;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveaspectratio="xMidYMid" width="24" height="73" viewbox="0 0 24 73"><line stroke="rgba(0,0,0,0)" stroke-width="15" x1="24" y1="0" x2="0" y2="73"></line><line class="line-element" stroke="#000000" stroke-width="2" x1="24" y1="0" x2="0" y2="73"></line></svg></div></div>
+<div class="sl-block" data-block-type="line" style="width: auto; height: auto; left: 227px; top: 477.625px;" data-name="line-68318b" data-block-id="50d136939790fd23b0b38d4cc0ea59fe"><div class="sl-block-content" data-line-x1="7.5" data-line-y1="72.75" data-line-x2="0" data-line-y2="0" data-line-color="#000000" data-line-start-type="none" data-line-end-type="none" style="z-index: 17;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveaspectratio="xMidYMid" width="7.5" height="72.75" viewbox="0 0 7.5 72.75"><line stroke="rgba(0,0,0,0)" stroke-width="15" x1="7.5" y1="72.75" x2="0" y2="0"></line><line class="line-element" stroke="#000000" stroke-width="2" x1="7.5" y1="72.75" x2="0" y2="0"></line></svg></div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 144px; left: 159.5px; top: 550.375px;" data-name="text-26e325" data-block-id="f7bad1f18838e4c6c2628a0276940d34"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 18;">
+<p><span style="font-size:0.7em">pattern</span></p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 164px; left: 303.5px; top: 506.5px;" data-name="text-ec54cb" data-block-id="ccbefeef73a7083b5fbf583d79554284"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 19;">
+<p><span style="font-size:0.7em">file to search for pattern</span></p>
+</div></div>
+<div class="sl-block" data-block-type="line" style="width: auto; height: auto; left: 337.5px; top: 463.5px;" data-name="line-e90bb1" data-block-id="c836b6449ac86cceeb126663ea905855"><div class="sl-block-content" data-line-x1="20" data-line-y1="47.25" data-line-x2="0" data-line-y2="0" data-line-color="#000000" data-line-start-type="none" data-line-end-type="none" style="z-index: 20;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveaspectratio="xMidYMid" width="20" height="47.25" viewbox="0 0 20 47.25"><line stroke="rgba(0,0,0,0)" stroke-width="15" x1="20" y1="47.25" x2="0" y2="0"></line><line class="line-element" stroke="#000000" stroke-width="2" x1="20" y1="47.25" x2="0" y2="0"></line></svg></div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 144px; left: 15.5px; top: 543px;" data-block-id="6f43532ab29a77475f53f4d91297afbe" data-name="text-ad2aee"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 21;">
+<p><span style="font-size:0.7em">command</span></p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 600px; left: 393px; top: 428.312px;" data-block-id="9d026305052d8d70cd6a7e224cab531c" data-name="text-9e1a34"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 22; text-align: center;">
+<p><span style="color:rgb(64, 64, 64); text-align:left">$ </span><span style="color:#B22222"><span style="text-align:left">grep njersey   file1.txt </span></span><span style="color:rgb(178, 34, 34); text-align:left">file2.txt</span></p>
+</div></div>
+<div class="sl-block" data-block-type="line" style="width: auto; height: auto; min-width: 0px; min-height: 0px; left: 555px; top: 477.625px;" data-block-id="8fda50b71ecde2a9c77c167482480133" data-name="line-37e3f2"><div class="sl-block-content" data-line-x1="0" data-line-y1="0" data-line-x2="43" data-line-y2="115.56299999999999" data-line-color="#000000" data-line-start-type="none" data-line-end-type="none" style="z-index: 23;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveaspectratio="xMidYMid" width="43" height="115.56299999999999" viewbox="0 0 43 115.56299999999999"><line stroke="rgba(0,0,0,0)" stroke-width="15" x1="0" y1="0" x2="43" y2="115.56299999999999"></line><line class="line-element" stroke="#000000" stroke-width="2" x1="0" y1="0" x2="43" y2="115.56299999999999"></line></svg></div></div>
+<div class="sl-block" data-block-type="line" style="width: auto; height: auto; left: 643px; top: 477.625px;" data-block-id="82797494f0f88f0e0a4ab9a7a3d31b07" data-name="line-d97c58"><div class="sl-block-content" data-line-x1="28" data-line-y1="84.875" data-line-x2="0" data-line-y2="0" data-line-color="#000000" data-line-start-type="none" data-line-end-type="none" style="z-index: 24;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveaspectratio="xMidYMid" width="28" height="84.875" viewbox="0 0 28 84.875"><line stroke="rgba(0,0,0,0)" stroke-width="15" x1="28" y1="84.875" x2="0" y2="0"></line><line class="line-element" stroke="#000000" stroke-width="2" x1="28" y1="84.875" x2="0" y2="0"></line></svg></div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 144px; left: 625.5px; top: 554.188px;" data-block-id="f05337f7c43ccf89d63cae09e24d1b42" data-name="text-576c66"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 25;">
+<p><span style="font-size:0.7em">pattern</span></p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 187.5px; left: 721.5px; top: 604.312px;" data-block-id="3eeee8c5f6a8457121a79d83cb66c4a7" data-name="text-63cfcd"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 26;">
+<p><span style="font-size:0.5em">file1 to search for pattern</span></p>
+</div></div>
+<div class="sl-block" data-block-type="line" style="width: auto; height: auto; left: 750.5px; top: 470px;" data-block-id="1d9177cd44567267ce9fbed35bf47a71" data-name="line-1246e7"><div class="sl-block-content" data-line-x1="30" data-line-y1="134.312" data-line-x2="0" data-line-y2="0" data-line-color="#000000" data-line-start-type="none" data-line-end-type="none" style="z-index: 27;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveaspectratio="xMidYMid" width="30" height="134.312" viewbox="0 0 30 134.312"><line stroke="rgba(0,0,0,0)" stroke-width="15" x1="30" y1="134.312" x2="0" y2="0"></line><line class="line-element" stroke="#000000" stroke-width="2" x1="30" y1="134.312" x2="0" y2="0"></line></svg></div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 144px; left: 527px; top: 604.312px;" data-block-id="550910b4e120de4369c1cb6e2f698506" data-name="text-90359b"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 28;">
+<p><span style="font-size:0.7em">command</span></p>
+</div></div>
+<div class="sl-block" data-block-type="line" style="width: auto; height: auto; left: 868px; top: 470px;" data-block-id="d6a7335403e36b63995763d893c70270" data-name="line-93baec"><div class="sl-block-content" data-line-x1="7.5" data-line-y1="72.75" data-line-x2="0" data-line-y2="0" data-line-color="#000000" data-line-start-type="none" data-line-end-type="none" style="z-index: 29;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveaspectratio="xMidYMid" width="7.5" height="72.75" viewbox="0 0 7.5 72.75"><line stroke="rgba(0,0,0,0)" stroke-width="15" x1="7.5" y1="72.75" x2="0" y2="0"></line><line class="line-element" stroke="#000000" stroke-width="2" x1="7.5" y1="72.75" x2="0" y2="0"></line></svg></div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 197px; left: 769.5px; top: 530.875px;" data-block-id="d5c03670a3461744c896d1e344a7a434" data-name="text-1675b5"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 30;">
+<p><span style="font-size:0.5em">file2 to search for pattern</span></p>
+</div></div>
+<div class="sl-block" data-block-type="text" data-name="text-3c6e67" data-block-id="41b5e01035d48fe4490111652862be64" style="height: auto; width: 600px; left: 202.5px; top: 260px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 31; background-color: rgb(252, 229, 205); transition-duration: 0.6s;" data-animation-type="fade-in" data-animation-trigger-id="self" data-animation-trigger="hover">
+<p><span style="font-size:1.4em"><span style="color:#EE82EE"><span style="text-align:left"><strong>NOTE</strong>: If your search pattern includes characters other than alphanumeric, use quotation marks. This includes blank spaces or any symbol.</span></span></span></p>
+</div></div></section><section data-id="6d21e607c68c5845dd5dbea3bcecdbc5"><div class="sl-block" data-block-type="text" style="width: 806px; left: 107px; top: 20px; height: auto;" data-block-id="f8036f7d0f5e266df4521fede8f9b3b3"><div class="sl-block-content" data-placeholder-tag="h2" data-placeholder-text="Title Text" style="z-index: 10; background-color: rgb(230, 145, 56);">
+<h3 style="color:rgb(0, 0, 0)"><span style="color:#00FFFF">Search All Files in Directory</span></h3>
+</div></div>
+<div class="sl-block" data-block-type="text" style="width: 806px; left: 99px; top: 77px; height: auto;" data-block-id="9563baa0009eeb26181d3f8f0057f8e8"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 11;">
+<p><span style="color:rgb(64, 64, 64); text-align:left">To </span><span style="color:#0000CD"><span style="text-align:left"><strong>search all files</strong></span></span><span style="color:rgb(64, 64, 64); text-align:left"> in the current directory, use an </span><span style="color:#0000FF"><span style="text-align:left"><em>asterisk </em></span></span><strong><span style="color:#B22222"><span style="text-align:left"><em>*</em></span></span></strong><span style="color:rgb(64, 64, 64); text-align:left"> instead of a filename at the end of a grep command.</span></p>
+
+<p> </p>
+</div></div>
+<div class="sl-block" data-block-type="text" data-name="text-bcc79d" data-block-id="54cf5906dfaeedb796efd1423679b225" style="height: auto; width: 806px; left: 55px; top: 190.5px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 12;">
+<p><span style="color:rgb(64, 64, 64); text-align:left">e.g. use</span><span style="color:rgb(64, 64, 64); text-align:left"> <em>papaflammy </em></span><span style="color:rgb(64, 64, 64); text-align:left">as a search criterion:</span></p>
+
+<p><span style="color:rgb(64, 64, 64); text-align:left">$ </span><span style="color:#B22222"><span style="text-align:left">grep </span>papaflammy<span style="text-align:left"> *</span></span></p>
+
+<p>The output shows the name of the file with <em>papaflammy</em> and returns the entire line.</p>
+</div></div>
+<div class="sl-block" data-block-type="line" data-name="line-63ee83" data-block-id="b9ccb68b51a7f5da0568fc1ab3f4c20f" style="width: auto; height: auto; min-width: 0px; min-height: 0px; left: 146px; top: 276px;"><div class="sl-block-content" data-line-x1="0" data-line-y1="11" data-line-x2="597" data-line-y2="0" data-line-color="#000000" data-line-start-type="none" data-line-end-type="none" style="z-index: 13;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveaspectratio="xMidYMid" width="597" height="11" viewbox="0 0 597 11"><line stroke="rgba(0,0,0,0)" stroke-width="15" x1="0" y1="11" x2="597" y2="0"></line><line class="line-element" stroke="#000000" stroke-width="2" x1="0" y1="11" x2="597" y2="0"></line></svg></div></div>
+<div class="sl-block" data-block-type="line" style="width: auto; height: auto; min-width: 0px; min-height: 0px; left: 146px; top: 230px;" data-block-id="8f905875816ed7d6b7ae7a24c43dda46" data-name="line-b12a88"><div class="sl-block-content" data-line-x1="0" data-line-y1="7" data-line-x2="597" data-line-y2="0" data-line-color="#000000" data-line-start-type="none" data-line-end-type="none" style="z-index: 14;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveaspectratio="xMidYMid" width="597" height="7" viewbox="0 0 597 7"><line stroke="rgba(0,0,0,0)" stroke-width="15" x1="0" y1="7" x2="597" y2="0"></line><line class="line-element" stroke="#000000" stroke-width="2" x1="0" y1="7" x2="597" y2="0"></line></svg></div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 396px; left: 321px; top: 486.5px;" data-block-id="360b07041aff506aa2ee0d283b4e74fa" data-name="text-51f219"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 15;">
+<p> </p>
+
+<pre style="color:rgb(64, 64, 64)">$ <span style="color:#B22222">grep -w burger *</span>
+</pre>
+</div></div>
+<div class="sl-block" data-block-type="text" style="width: 806px; left: 77px; top: 384.5px; height: auto;" data-block-id="f2202e97c2adcbcefacd06fbbb721c13" data-name="text-3cb48c"><div class="sl-block-content" data-placeholder-tag="h2" data-placeholder-text="Title Text" style="z-index: 16; background-color: rgb(230, 145, 56);">
+<h3 style="color:rgb(0, 0, 0)"><span style="color:#00FFFF">Find Whole Words Only</span></h3>
+</div></div>
+<div class="sl-block" data-block-type="text" style="width: 806px; left: 120px; top: 434.5px; height: auto;" data-block-id="b077a3384557241e1a4126ed044eff44" data-name="text-71409b"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 17;">
+<p><span style="color:rgb(64, 64, 64); text-align:left">To</span><span style="color:#0000FF"><span style="text-align:left"> <strong>search for the word</strong> </span></span><em><span style="text-align:left">burger</span></em><span style="color:rgb(64, 64, 64); text-align:left"> </span><span style="color:#0000FF"><span style="text-align:left">in all files</span></span><span style="color:rgb(64, 64, 64); text-align:left"> in the current directory, append </span><strong><span style="color:#B22222"><span style="text-align:left"><em>–w</em> </span></span></strong><span style="color:rgb(64, 64, 64); text-align:left">to the grep command.</span></p>
+</div></div>
+<div class="sl-block" data-block-type="text" data-name="text-7bf20c" data-block-id="7dcc21a7de2923c55c8fe6e221b76990" style="height: auto; width: 780px; left: 90px; top: 584px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 18;">
+<p><span style="text-align:left">This option only prints the lines with whole-word matches and the names of the files it found them in</span></p>
+</div></div>
+<div class="sl-block" data-block-type="line" style="width: auto; height: auto; min-width: 0px; min-height: 0px; left: 188px; top: 567px;" data-block-id="fe51bb899829edd35df6875e677da7a7" data-name="line-139759"><div class="sl-block-content" data-line-x1="0" data-line-y1="11" data-line-x2="597" data-line-y2="0" data-line-color="#000000" data-line-start-type="none" data-line-end-type="none" style="z-index: 19;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveaspectratio="xMidYMid" width="597" height="11" viewbox="0 0 597 11"><line stroke="rgba(0,0,0,0)" stroke-width="15" x1="0" y1="11" x2="597" y2="0"></line><line class="line-element" stroke="#000000" stroke-width="2" x1="0" y1="11" x2="597" y2="0"></line></svg></div></div>
+<div class="sl-block" data-block-type="line" style="width: auto; height: auto; min-width: 0px; min-height: 0px; left: 188px; top: 521px;" data-block-id="90d50b4e4dfdf5aca15989f7556b14c4" data-name="line-b533e4"><div class="sl-block-content" data-line-x1="0" data-line-y1="7" data-line-x2="597" data-line-y2="0" data-line-color="#000000" data-line-start-type="none" data-line-end-type="none" style="z-index: 20;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveaspectratio="xMidYMid" width="597" height="7" viewbox="0 0 597 7"><line stroke="rgba(0,0,0,0)" stroke-width="15" x1="0" y1="7" x2="597" y2="0"></line><line class="line-element" stroke="#000000" stroke-width="2" x1="0" y1="7" x2="597" y2="0"></line></svg></div></div>
+<div class="sl-block" data-block-type="text" data-name="text-c9032e" data-block-id="8f35aca2fecb1ac1fe418d1f8786766d" style="height: auto; width: 831px; left: 82px; top: 202px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 21; background-color: rgb(249, 203, 156); transition-duration: 0.6s;" data-animation-type="fade-in" data-animation-trigger="hover" data-animation-trigger-id="self">
+<p style="color:rgb(64, 64, 64); text-align:left"><span style="font-size:1.2em"><strong>NOTE</strong>: When <span style="color:#B22222"><em>–w</em></span> is omitted, grep displays the search pattern <strong>even if it is a substring of another word.</strong></span></p>
+
+<p style="color:rgb(64, 64, 64); text-align:left"> </p>
+
+<p style="color:rgb(64, 64, 64); text-align:left"><span style="font-size:1.2em">To search for multiple strings and word patterns, check out our article on how to grep for multiple strings, patterns or words.</span></p>
+</div></div></section><section data-id="8845852d90248551be2411763b769c2a"><div class="sl-block" data-block-type="text" data-name="text-8fe051" data-block-id="e9318150eae718de9569819971c9a43c" style="height: auto; width: 777.5px; left: 91.25px; top: 13.5px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 11;">
+<h3 style="color:rgb(0, 0, 0); text-align:left">To Ignore Case in Grep Searches</h3>
+
+<p style="color:rgb(64, 64, 64); text-align:left"><span style="font-size:0.7em">As grep commands are case sensitive, one of the most useful operators for grep searches is -i. Instead of printing lowercase results only, the terminal displays both uppercase and lowercase results. The output includes lines with mixed case entries.</span></p>
+
+<p style="color:rgb(64, 64, 64); text-align:left"><span style="font-size:0.7em">e.g.</span></p>
+
+<p style="color:rgb(64, 64, 64); text-align:left"><span style="font-size:0.7em">grep -i hotdog *</span></p>
+
+<p style="color:rgb(64, 64, 64); text-align:left"><span style="font-size:0.7em">If we use the -i operator to search files in the current directory for <span style="color:rgb(64, 64, 64); text-align:left">hotdog</span>, the output looks like this:</span></p>
+</div></div>
+<div class="sl-block" data-block-type="text" data-name="text-aa92b0" data-block-id="2f40bb86cf5ee354d32f76a12b1d0251" style="height: auto; width: 1137px; left: -71.5px; top: 425.5px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 12;" dir="ui">
+<h3 style="color:rgb(0, 0, 0); text-align:left">To Search Subdirectories</h3>
+
+<p style="color:rgb(64, 64, 64); text-align:left">To include all subdirectories in a search, add the <span>-r </span>operator to the grep command.</p>
+
+<pre style="color:rgb(64, 64, 64)">grep -r shaft *</pre>
+
+<p style="text-align: left;"><span style="color:rgb(64, 64, 64); text-align:left">This command prints the matches for all files in the current directory, subdirectories, and the exact path with the filename. In the example below, we also added the </span><span>-w</span><span style="color:rgb(64, 64, 64); text-align:left"> operator to show whole words, but the output form is the same.</span></p>
+</div></div></section><section data-id="91f9ce4e25d3c5f3504ba60387a4cd49"><div class="sl-block" data-block-type="text" data-name="text-357d07" data-block-id="296c2e06ca24ca1b52d95d6bf43f9824" style="height: auto; width: 1253px; left: -163px; top: 15.5px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 10;">
+<h3 style="color:rgb(0, 0, 0); text-align:left">Inverse grep Search</h3>
+
+<p style="color:rgb(64, 64, 64); text-align:left">You can use grep to print all lines that <span>do not </span>match a specific pattern of characters. To invert the search, append <span>-v </span>to a grep command.</p>
+
+<p style="color:rgb(64, 64, 64); text-align:left">To exclude all lines that contain <span>phoenix</span>, enter:</p>
+
+<pre style="color:rgb(64, 64, 64)">grep -v phoenix sample</pre>
+
+<p style="color:rgb(64, 64, 64); text-align:left">The terminal prints all lines that do not contain the word used as a search criterion. Use <span>-i</span> to ignore case to exclude completely the word used for this search:</p>
+</div></div>
+<div class="sl-block" data-block-type="text" data-name="text-f13cc9" data-block-id="7ed37858afb20c321eaf848472aad8fe" style="height: auto; width: 1279px; left: -163px; top: 357.5px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 11; text-align: right;">
+<h3 style="color:rgb(0, 0, 0); text-align:left">To Show Lines That Exactly Match a Search String</h3>
+
+<p style="color:rgb(64, 64, 64); text-align:left">The grep command prints entire lines when it finds a match in a file. To print only those lines that completely match the search string, add the <span><em>-x</em></span> option.</p>
+
+<pre style="color:rgb(64, 64, 64)">grep -x “phoenix number3” *</pre>
+
+<p style="color:rgb(64, 64, 64); text-align:left">The output shows only the lines with the exact match. If there are any other words or characters in the same line, the grep does not include it in the search results. Do not forget to use quotation marks whenever there is a space or a symbol in a search pattern.</p>
+
+<p style="color:rgb(64, 64, 64); text-align:left">Here is a comparison of the results without and with the <span>-x </span>operator in our grep command:</p>
+</div></div></section><section data-id="6593a706518522816a8508a10b8d75c3"><div class="sl-block" data-block-type="text" data-name="text-0cd10e" data-block-id="7162c16a910d352e66636dbd81a97e2b" style="height: auto; width: 1425px; left: -276px; top: 57px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 10;">
+<h3 style="color:rgb(0, 0, 0); text-align:left"><span style="font-size:0.9em">To List Names of Matching Files</span></h3>
+
+<p style="color:rgb(64, 64, 64); text-align:left"><span style="font-size:0.9em">Sometimes, you only need to see the names of the files that contain a word or string of characters and exclude the actual lines. To print only the filenames that match your search, use the -l operator:</span></p>
+
+<pre style="color:rgb(64, 64, 64)"><span style="font-size:0.9em">grep -l phoenix *</span></pre>
+
+<p style="color:rgb(64, 64, 64); text-align:left"><span style="font-size:0.9em">The output shows the exact filenames that contain phoenix in the current directory but does not print the lines with the corresponding word:</span></p>
+
+<p style="color:rgb(64, 64, 64); text-align:left"><span style="font-size:0.9em">As a reminder, use the recursive search operator -r to include all subdirectories in your search.</span></p>
+
+<h3 style="color:rgb(0, 0, 0); text-align:left"><span style="font-size:0.9em">To Count the Number of Matches</span></h3>
+
+<p style="color:rgb(64, 64, 64); text-align:left"><span style="font-size:0.9em">Grep can display the filenames and the count of lines where it finds a match for your word.</span></p>
+
+<p style="color:rgb(64, 64, 64); text-align:left"><span style="font-size:0.9em">Use the <em>-c</em> operator to count the number of matches:</span></p>
+
+<pre style="color:rgb(64, 64, 64)"><span style="font-size:0.9em">grep -c phoenix *</span></pre>
+
+<p> </p>
+</div></div></section><section data-id="3a8b8214c2ef3558f1a6189be55141d5"><div class="sl-block" data-block-type="text" data-name="text-7eddc2" data-block-id="010505c025549143cbbd19be7c226b3a" style="height: auto; width: 1106px; left: -90px; top: 103.5px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 10;">
+<h3 style="color:rgb(0, 0, 0); text-align:left"><span style="font-size:0.9em">To Display the Number of Lines Before or After a Search String</span></h3>
+
+<p style="color:rgb(64, 64, 64); text-align:left"><span style="font-size:0.9em">Sometimes you need more content in search results to decide what is most relevant.</span></p>
+
+<p style="color:rgb(64, 64, 64); text-align:left"><span style="font-size:0.9em">Use the following operators to add the desired lines before, after a match, or both:</span></p>
+
+<ul style="color:rgb(64, 64, 64)">
+	<li><span style="font-size:0.9em">Use <em>–A </em>and a number of lines to display after a match: grep –A 3 phoenix sample – this command prints three lines after the match.</span></li>
+	<li><span style="font-size:0.9em">Use <em>–B </em>and a number of lines to display before a match: grep –B 2 phoenix sample – this command prints two lines before the match.</span></li>
+	<li><span style="font-size:0.9em">Use <em>–C </em>and a number of lines to display before and after the match: grep –C 2 phoenix sample – this command prints two lines before and after the match.</span></li>
+	<li> </li>
+</ul>
+</div></div></section></section><section class="stack" data-id="2c4e5930d3e8f4a3d04fe2a3988ee898"><section data-id="b4fd9afab7ded7aa83c47cdc0fd71b93"><div class="sl-block" data-block-type="text" style="width: 806px; left: 77px; top: 32px; height: auto;" data-block-id="3fcc2602f4c24cf0cbd23dc00b9e71f9"><div class="sl-block-content" data-placeholder-tag="h1" data-placeholder-text="Title Text" style="z-index: 10;">
+<h1>chmod</h1>
+</div></div>
+<div class="sl-block" data-block-type="text" data-name="text-4eff3e" data-block-id="e2c84d9118ae5d7b7414c2b864b8f64a" style="height: auto; width: 821px; left: 92px; top: 245.5px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 11;">
+<p style="color: rgb(0, 0, 0); text-align: left;"><span style="font-size:1.0em"><span style="text-align:start">A set of </span>flags<span style="text-align:start"> associated with each file determines who can access that file, and how they can access it. These flags are called file </span><strong><em>permissions</em></strong><span style="text-align:start"> or </span><strong><em>modes</em></strong><span style="text-align:start">, as in "<strong>mode of access</strong>" The co<span style="color:#000000">mmand name </span></span><strong><span style="color:#FF0000">chmod</span></strong><span style="color:#000000"><span style="text-align:start"> stands for </span></span><strong><span style="color:#FF0000"><span style="text-align:start">"change mode"</span></span></strong><span style="color:#000000"><span style="text-align:start"> It restricts the way a file can be accessed</span></span></span></p>
+</div></div>
+<div class="sl-block" data-block-type="text" data-name="text-17374e" data-block-id="c24145d816b3320fdb7bdb6d93fac8b5" style="height: auto; width: 796px; left: 135px; top: 166.5px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 12;">
+<p style="color:rgb(238, 238, 238); font-size:1.2em !important; text-align:start"><span style="font-size:0.7em"><span style="color:#000000"> the <strong>chmod</strong> command sets the </span><a href="https://www.computerhope.com/jargon/p/permissi.htm" target="_blank"><span style="color:#000000">permissions</span></a><span style="color:#000000"> of </span><a href="https://www.computerhope.com/jargon/f/file.htm" target="_blank"><span style="color:#000000">files</span></a><span style="color:#000000"> or </span><a href="https://www.computerhope.com/jargon/d/director.htm" target="_blank"><span style="color:#000000">directories</span></a></span></p>
+</div></div>
+<div class="sl-block" data-block-type="text" data-name="text-a4f741" data-block-id="c5ab8f17aeb8a9892fc175ab9dc0a5b4" style="height: auto; width: 859px; left: 92px; top: 488.5px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 13;">
+<p style="text-align: left;"><span style="color:rgb(0, 0, 0); text-align:left"><strong>NOTE: </strong>Only root, the file owner or user with sudo privileges </span><span style="color:rgb(0, 0, 0); text-align:left">can change the permissions of a file. Be extra careful when using chmod, especially when recursively changing the permissions.</span></p>
+</div></div>
+<div class="sl-block" data-block-type="text" data-name="text-e0feb9" data-block-id="6f868fd99dce9492d3a9f65a6eac20fd" style="height: auto; width: 960px; left: 22.5px; top: 112px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 14; background-color: rgb(230, 145, 56); transition-duration: 0.6s;" data-animation-type="fade-in" data-animation-trigger="hover" data-animation-trigger-id="self">
+<p style="color:rgb(238, 238, 238); font-size:1.1em"> </p>
+
+<p style="color:rgb(238, 238, 238); font-size:1.1em"> </p>
+
+<p style="color:rgb(238, 238, 238); font-size:1.1em"> </p>
+
+<p style="color:rgb(238, 238, 238); font-size:1.1em"> </p>
+
+<p style="color:rgb(238, 238, 238); font-size:1.1em"><span style="font-size:1.0em"><span style="color:#006400"><strong>In general, chmod commands take the form:</strong></span></span></p>
+
+<p style="color:rgb(238, 238, 238); font-size:1.1em; text-align:start"> </p>
+
+<p style="color:rgb(238, 238, 238); font-size:1.1em; text-align:start"><span style="font-size:1.4em"><span style="color:#0000CD">$ chmod <em>options</em> <em>permissions</em> <em>file_name</em></span></span></p>
+
+<p style="color:rgb(238, 238, 238); font-size:1.1em; text-align:start"> </p>
+
+<p style="color:rgb(238, 238, 238); font-size:1.1em; text-align:start"> </p>
+
+<p style="color:rgb(238, 238, 238); font-size:1.1em; text-align:start"> </p>
+
+<p style="color:rgb(238, 238, 238); font-size:1.1em; text-align:start"> </p>
+</div></div></section><section data-id="88c5254364b6890ee5a164c59c6fa431"><div class="sl-block" data-block-type="text" data-name="text-e97e58" style="height: auto; width: 954px; left: 6px; top: 6px;" data-block-id="b680fefd26e9a1913a700d135e2d1e72"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 10;">
+<p style="color:rgb(69, 69, 69); font-size:1.1em; text-align:start"><span style="font-size:0.9em">If no <em>options</em> are specified, <strong>chmod</strong> modifies the permissions of the file specified by <em>file name</em> to the permissions specified by <em>permissions</em>.</span></p>
+
+<p style="color:rgb(69, 69, 69); font-size:1.1em; text-align:start"><span style="font-size:0.9em"><em>permissions</em> defines the permissions for the owner of the file (the "user"), members of the group who owns the file (the "group"), and anyone else ("others"). There are two ways to represent these permissions: with symbols (alphanumberic characters), or with octal numbers (the digits <strong>0</strong> through <strong>7</strong>).</span></p>
+
+<p style="color:rgb(69, 69, 69); font-size:1.1em; text-align:start">e.g.</p>
+
+<p style="color:rgb(69, 69, 69); font-size:1.1em; text-align:start"><span style="font-size:0.9em">Let's say you are the owner of a file named <strong>myfile</strong>, and you want to set its permissions so that:</span></p>
+
+<ol style="color:rgb(69, 69, 69); font-size:16.1px">
+	<li style="font-size:1.1rem"><span style="font-size:1.8em">the <span style="color:#FF0000"><strong>u</strong></span>ser can <span style="color:#FF0000"><strong>r</strong></span>ead, <span style="color:#FF0000"><strong>w</strong></span>rite, and e<span style="color:#FF0000"><strong>x</strong></span>ecute it;</span></li>
+	<li style="font-size:1.1rem"><span style="font-size:1.8em">members of your <span style="color:#FF0000"><strong>g</strong></span>roup can <span style="color:#FF0000"><strong>r</strong></span>ead and e<span style="color:#FF0000"><strong>x</strong></span>ecute it; and</span></li>
+	<li style="font-size:1.1rem"><span style="font-size:0.9em"><span style="font-size:1.8em"><span style="color:#FF0000"><strong>o</strong></span>thers may only <span style="color:#FF0000"><strong>r</strong></span>ead it.</span></span></li>
+</ol>
+
+<p style="color:rgb(69, 69, 69); font-size:1.1em; text-align:start"><span style="font-size:0.9em">This command will do the trick:</span></p>
+
+<pre style="color:rgb(69, 69, 69); font-size:1.16em">chmod u=rwx,g=rx,o=r myfile</pre>
+</div></div>
+<div class="sl-block" data-block-type="line" data-name="line-4d993f" data-block-id="44f498fe7b41063f84dbeec5022f5d78" style="width: auto; height: auto; min-width: 0px; min-height: 0px; left: 0px; top: 89px;"><div class="sl-block-content" data-line-x1="0" data-line-y1="8" data-line-x2="960" data-line-y2="0" data-line-color="#000000" data-line-start-type="none" data-line-end-type="none" style="z-index: 11;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveaspectratio="xMidYMid" width="960" height="8" viewbox="0 0 960 8"><line stroke="rgba(0,0,0,0)" stroke-width="15" x1="0" y1="8" x2="960" y2="0"></line><line class="line-element" stroke="#000000" stroke-width="2" x1="0" y1="8" x2="960" y2="0"></line></svg></div></div>
+<div class="sl-block" data-block-type="line" style="width: auto; height: auto; min-width: 0px; min-height: 0px; left: 0px; top: 308px;" data-block-id="394c14c618697861d35e5123d0dd2662" data-name="line-4fbbfe"><div class="sl-block-content" data-line-x1="0" data-line-y1="8" data-line-x2="960" data-line-y2="0" data-line-color="#000000" data-line-start-type="none" data-line-end-type="none" style="z-index: 12;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveaspectratio="xMidYMid" width="960" height="8" viewbox="0 0 960 8"><line stroke="rgba(0,0,0,0)" stroke-width="15" x1="0" y1="8" x2="960" y2="0"></line><line class="line-element" stroke="#000000" stroke-width="2" x1="0" y1="8" x2="960" y2="0"></line></svg></div></div>
+<div class="sl-block" data-block-type="text" data-name="text-71fee5" data-block-id="d80392372a7453b193bb7b39fa3303c7" style="height: auto; width: 855px; left: 52.5px; top: 59.5px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 13; background-color: rgb(252, 229, 205); transition-duration: 0.6s;" data-animation-type="fade-in" data-animation-trigger="hover" data-animation-trigger-id="self">
+<p><span style="color:#0000CD"><span style="font-size:1.4em"><span style="text-align:start">This example uses symbolic permissions notation. The letters </span><strong>u</strong><span style="text-align:start">, </span><strong>g</strong><span style="text-align:start">, and </span><strong>o</strong><span style="text-align:start"> stand for "</span><strong>user</strong><span style="text-align:start">", "</span><strong>group</strong><span style="text-align:start">", and "</span><strong>other</strong><span style="text-align:start">". The equals sign ("</span><strong>=</strong><span style="text-align:start">") means "set the permissions exactly like this," and the letters "</span><strong>r</strong><span style="text-align:start">", "</span><strong>w</strong><span style="text-align:start">", and "</span><strong>x</strong><span style="text-align:start">" stand for "read", "write", and "execute", respectively. The commas separate the different classes of permissions, and there are no spaces between them.</span></span></span></p>
+</div></div></section><section data-id="9ec1ae8db398c11f8fcba27f722c71a5"><div class="sl-block" data-block-type="text" data-name="text-f8388d" style="height: auto; width: 960px; left: 0px; top: 7.5px;" data-block-id="28708da1e839ca19871345e7e9882dc6"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 11;">
+<p style="color:rgb(69, 69, 69); font-size:1.1em; text-align:start"><span style="font-size:0.9em">Here is the equivalent command using octal permissions notation:</span></p>
+
+<pre style="color:rgb(69, 69, 69); font-size:1.16em"><span style="color:rgb(178, 34, 34)">chmod 754 myfile</span>
+</pre>
+</div></div>
+<div class="sl-block" data-block-type="text" data-name="text-5a925a" data-block-id="be3587761c29f14c98c1ecc91014e3bf" style="height: auto; width: 960px; left: 0px; top: 143.5px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 12; text-align: center;">
+<p style="color:rgb(69, 69, 69); font-size:1.1em; text-align:start"><span style="font-size:1.0em">Here the digits <strong>7</strong>, <strong>5</strong>, and <strong>4</strong> each individually represent the permissions for the user, group, and others, in that order. Each digit is a combination of the numbers <strong>4</strong>, <strong>2</strong>, <strong>1</strong>, and <strong>0</strong>:</span></p>
+
+<ul>
+	<li style="color:rgb(69, 69, 69); font-size:1.1em; text-align:start"><span style="font-size:1.0em"><strong>4</strong> stands for "read",</span></li>
+	<li style="color:rgb(69, 69, 69); font-size:1.1em; text-align:start"><span style="font-size:1.0em"><strong>2</strong> stands for "write",</span></li>
+	<li style="color:rgb(69, 69, 69); font-size:1.1em; text-align:start"><span style="font-size:1.0em"><strong>1</strong> stands for "execute", </span></li>
+	<li style="color:rgb(69, 69, 69); font-size:1.1em; text-align:start"><span style="font-size:1.0em"><strong>0</strong> stands for "no permission"</span></li>
+</ul>
+
+<p style="color:rgb(69, 69, 69); font-size:1.1em; text-align:start"><span style="font-size:1.0em">So <strong>7</strong> is the combination of permissions <strong>4</strong>+<strong>2</strong>+<strong>1</strong> (read, write, and execute), <strong>5</strong> is <strong>4</strong>+<strong>0</strong>+<strong>1</strong> (read, no write, and execute), and <strong>4</strong> is <strong>4</strong>+<strong>0</strong>+<strong>0</strong> (read, no write, and no execute).</span></p>
+</div></div></section><section data-id="2980b20369766f7d65635537a85f13d9"><div class="sl-block" data-block-type="image" data-name="image-2ca466" data-block-id="7e1d5fcefc314540bcbd0842059391bd" style="width: 851.481px; height: 512.833px; left: 16.651px; top: 187.167px; min-width: 1px; min-height: 1px;"><div class="sl-block-content" style="z-index: 10;"><img style="" data-natural-width="2102" data-natural-height="1266" data-lazy-loaded="" data-src="intro-to-linux-navigating-and-beyond/d58e53bc161c0942d3191808d2be05fc.png"></div></div>
+<div class="sl-block" data-block-type="text" data-name="text-775bbf" data-block-id="5d6ba1c8708024c8cdfa19e144ef853a" style="height: auto; width: 960px; left: 0px; top: 0px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 11;"><p>Text</p></div></div>
+<div class="sl-block" data-block-type="image" data-name="image-6e6c89" data-block-id="98a775cf3c1b4d3c25631d06b4f0c836" style="width: 806.399px; height: 175.167px; left: -9px; top: 0px; min-width: 1px; min-height: 1px;"><div class="sl-block-content" style="z-index: 12;"><img style="" data-natural-width="2044" data-natural-height="444" data-lazy-loaded="" data-src="intro-to-linux-navigating-and-beyond/d4f60a16aefac97a531d78b127ed5598.png"></div></div></section></section><section class="stack" data-id="bca138c2fc279294a5f916b2fb4dc893"><section data-id="833bcf817637958de9c3e798428a1d24"><div class="sl-block" data-block-type="text" style="width: 806px; left: 85px; top: 75px; height: auto;" data-block-id="2599c7b2c0212db68a1717dce9710ee7"><div class="sl-block-content" data-placeholder-tag="h1" data-placeholder-text="Title Text" style="z-index: 10;">
+<h1>$ <span style="color:#B22222">ls –l</span>
+</h1>
+</div></div>
+<div class="sl-block" data-block-type="text" data-name="text-3d0c7c" data-block-id="6001498a86e58d0d3b7be0d31506b648" style="height: auto; width: 960px; left: 0px; top: 210.5px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 11; text-align: left;">
+<p>total 253128<br>
+-rw-r--r--@   1 okara  staff    355787 Nov 23  2020 10.1021__jp711490b.ris<br>
+-rw-r--r--@   1 okara  staff    332768 Apr 29 21:43 1_RJ9Lv4_f2xHw.jpe</p>
+</div></div>
+<div class="sl-block" data-block-type="text" data-name="text-c83de0" data-block-id="dc1c8a5a74708fa201bdad30d4956975" style="height: auto; width: 600px; left: -70px; top: 405.5px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 12;">
+<ul>
+	<li style="text-align: left;">File type and permissions</li>
+	<li style="text-align: left;">Link count</li>
+	<li style="text-align: left;">User</li>
+	<li style="text-align: left;">Group</li>
+	<li style="text-align: left;">Date last changed</li>
+	<li style="text-align: left;">File name</li>
+</ul>
+</div></div></section><section data-id="a0eac1797b0f493d056d16d06afdbdfc"><div class="sl-block" data-block-type="text" style="width: 806px; left: 71px; top: 22px; height: auto;" data-block-id="f8d62a3ef3bbe3f2a71f22409622344c" data-name="text-c4087f"><div class="sl-block-content" data-placeholder-tag="h1" data-placeholder-text="Title Text" style="z-index: 11;">
+<h1>$ <span style="color:#B22222">ls –l</span>
+</h1>
+</div></div>
+<div class="sl-block" data-block-type="text" data-name="text-3d0c7c" style="height: auto; width: 960px; left: 0px; top: 175.5px;" data-block-id="05d3f028209db13f16a41066d5d00aab"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 10; text-align: left;">
+<p><span style="font-size:0.9em">total 253128<br>
+-rw-r--r--@   1 okara  staff    355787 Nov 23  2020 files1.txt<br>
+-rw-r--r--@   1 okara  staff    332768 Apr 29 21:43 </span><span style="color:rgb(0, 0, 0)">files2.txt</span></p>
+</div></div>
+<div class="sl-block sl-block-group" data-block-type="group" data-name="group-f8f7b1" data-block-id="b8fd437dc5dd92080174322c5e40abd1" style="height: auto;"><div class="sl-block-content sl-block-group-content" style="transform-origin: 463.586px 412.375px; z-index: 12; transition-duration: 0.6s;" data-animation-type="fade-in" data-animation-trigger="hover" data-animation-trigger-id="self">
+<div class="sl-block" data-block-type="shape" data-name="shape-ee04d7" style="width: 8.8062px; height: 27.75px; left: 0px; top: 267.75px;" data-origin-id="1235b4fd44eed35665a161cf6bbee2b5" data-block-id="63bca2ff10e2c732b33b2c1c29375b2e"><div class="sl-block-style" style="z-index: 15; opacity: 0.4;"><div class="sl-block-content" data-shape-type="rect" data-shape-fill-color="rgb(255, 0, 0)" data-shape-stretch="true" style="z-index: 15;" data-shape-stroke-color="#000000" data-shape-stroke-width="1px"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%" preserveaspectratio="none" viewbox="0 0 9 28"><defs><clippath id="shape-mask-1-1622598314568"><rect width="8.8062" height="27.75" rx="0" ry="0" fill="rgb(255, 0, 0)" stroke="#000000" stroke-width="2"></rect></clippath></defs><rect width="8.8062" height="27.75" rx="0" ry="0" class="shape-element" fill="rgb(255, 0, 0)" stroke="#000000" stroke-width="2" clip-path="url(#shape-mask-1-1622598314568)"></rect></svg></div></div></div>
+<div class="sl-block" data-block-type="shape" style="width: 124.456px; height: 30.75px; left: 8.80633px; top: 267.75px;" data-origin-id="2abd1c8bdd090605485f4269b7b75bc2" data-name="shape-123d78" data-block-id="c77b3c24c04e9096afaedf120a7ed5b5"><div class="sl-block-style" style="z-index: 17; opacity: 0.4;"><div class="sl-block-content" data-shape-type="rect" data-shape-fill-color="rgb(164, 194, 244)" data-shape-stretch="true" style="z-index: 17;" data-shape-stroke-color="#000000" data-shape-stroke-width="1px"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%" preserveaspectratio="none" viewbox="0 0 124 31"><defs><clippath id="shape-mask-2-1622599120112"><rect width="124.456" height="30.75" rx="0" ry="0" fill="rgb(164, 194, 244)" stroke="#000000" stroke-width="2"></rect></clippath></defs><rect width="124.456" height="30.75" rx="0" ry="0" class="shape-element" fill="rgb(164, 194, 244)" stroke="#000000" stroke-width="2" clip-path="url(#shape-mask-2-1622599120112)"></rect></svg></div></div></div>
+<div class="sl-block" data-block-type="line" data-name="line-bb6d4b" style="width: auto; height: auto; min-width: 0px; min-height: 0px; left: 15.9678px; top: 298.5px;" data-origin-id="1264526f397fe9c907db98c2cf01d5e0" data-block-id="aee80f485f44b624cd8a95e27c54bee8"><div class="sl-block-content" data-line-x1="189.74554768522594" data-line-y1="43" data-line-x2="0" data-line-y2="0" data-line-color="#000000" data-line-start-type="none" data-line-end-type="none" style="z-index: 14;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveaspectratio="xMidYMid" width="189.74554768522594" height="43" viewbox="0 0 189.74554768522594 43"><line stroke="rgba(0,0,0,0)" stroke-width="15" x1="189.74554768522594" y1="43" x2="0" y2="0"></line><line class="line-element" stroke="#000000" stroke-width="2" x1="189.74554768522594" y1="43" x2="0" y2="0"></line></svg></div></div>
+<div class="sl-block" data-block-type="line" style="width: auto; height: auto; min-width: 0px; min-height: 0px; left: 158.849px; top: 298.5px;" data-origin-id="a6df59375439d8b3f4bc6c52f5fa4294" data-name="line-b9caba" data-block-id="4056e30bbf46b1d1388e41168383290d"><div class="sl-block-content" data-line-x1="353.0473754403929" data-line-y1="49.875" data-line-x2="0" data-line-y2="0" data-line-color="#000000" data-line-start-type="none" data-line-end-type="none" style="z-index: 18;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveaspectratio="xMidYMid" width="353.0473754403929" height="49.875" viewbox="0 0 353.0473754403929 49.875"><line stroke="rgba(0,0,0,0)" stroke-width="15" x1="353.0473754403929" y1="49.875" x2="0" y2="0"></line><line class="line-element" stroke="#000000" stroke-width="2" x1="353.0473754403929" y1="49.875" x2="0" y2="0"></line></svg></div></div>
+<div class="sl-block" data-block-type="text" data-name="text-be5ef1" style="height: auto; width: 762.283px; left: 133.262px; top: 341.5px;" data-origin-id="0d47eff2791f1d89454ae958b59da47b" data-block-id="0a07e3983e17a1e04d300ab9bfd74089"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 13; border-width: 1px;" dir="ui"><p style="text-align:left"><strong>File Type                Permissions      Links    </strong></p></div></div>
+<div class="sl-block" data-block-type="text" data-name="text-b13e2f" style="height: auto; width: 815.487px; left: 111.685px; top: 387.5px;" data-origin-id="05e797bc9ff816b4da1e072172192e8a" data-block-id="22c404e90032cc66e3f32562ac09e02f"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 16;">
+<p style="text-align:left"><span style="color:#B22222">-</span> <em>Normal File              <span style="color:#B22222">r</span> </em>read                   <span style="color:#FF8C00"><span style="font-size:0.5em"><strong><span style="font-size:0.9em"> (ignore fore now) </span></strong> </span>  </span>  <em>                  </em></p>
+
+<p style="color:rgb(0, 0, 0); text-align:left"><span style="color:rgb(178, 34, 34)">r </span><em>read                        <span style="color:#B22222"> </span></em><span style="color:#B22222">w</span> <em>write</em></p>
+
+<p style="color:rgb(0, 0, 0); text-align:left"><span style="color:#B22222">d</span> <em>Directory                <span style="color:#B22222"> x</span></em><span style="color:#B22222"> </span>execute</p>
+
+<p style="text-align:left"><span style="color:#B22222">l</span> <em>Link</em></p>
+</div></div>
+<div class="sl-block" data-block-type="line" style="width: auto; height: auto; min-width: 0px; min-height: 0px; left: 172.799px; top: 295.5px;" data-block-id="44d033704037e507b1b4f5b0b2d7d4a1" data-name="line-2c343c"><div class="sl-block-content" data-line-x1="465.38895891761854" data-line-y1="46" data-line-x2="0" data-line-y2="0" data-line-color="#000000" data-line-start-type="none" data-line-end-type="none" style="z-index: 19;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveaspectratio="xMidYMid" width="465.38895891761854" height="46" viewbox="0 0 465.38895891761854 46"><line stroke="rgba(0,0,0,0)" stroke-width="15" x1="465.38895891761854" y1="46" x2="0" y2="0"></line><line class="line-element" stroke="#000000" stroke-width="2" x1="465.38895891761854" y1="46" x2="0" y2="0"></line></svg></div></div>
+<div class="sl-block" data-block-type="shape" style="width: 27.9px; height: 29.25px; left: 144.899px; top: 259.25px;" data-block-id="3d64206cf788d81ea60762e101c93b68" data-name="shape-ac21ea"><div class="sl-block-style" style="z-index: 20; opacity: 0.4;"><div class="sl-block-content" data-shape-type="rect" data-shape-fill-color="rgb(182, 215, 168)" data-shape-stretch="true" style="z-index: 20;" data-shape-stroke-color="#000000" data-shape-stroke-width="1px"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%" preserveaspectratio="none" viewbox="0 0 28 29"><defs><clippath id="shape-mask-4-1622600758043"><rect width="27.9" height="29.25" rx="0" ry="0" fill="rgb(182, 215, 168)" stroke="#000000" stroke-width="2"></rect></clippath></defs><rect width="27.9" height="29.25" rx="0" ry="0" class="shape-element" fill="rgb(182, 215, 168)" stroke="#000000" stroke-width="2" clip-path="url(#shape-mask-4-1622600758043)"></rect></svg></div></div></div>
+</div></div>
+<div class="sl-block sl-block-group" data-block-type="group" data-name="group-59b7dc" data-block-id="ecc67832f45416a2f3ab047a3a711782" style="height: auto;"><div class="sl-block-content sl-block-group-content" style="transform-origin: 547.68px 193.5px; z-index: 21; transition-duration: 0.6s;" data-animation-type="fade-in" data-animation-trigger="click" data-animation-trigger-id="self">
+<div class="sl-block sl-block-group" data-block-type="group" data-name="group-b5ddbd" data-block-id="f49f92fa5e5c90dc98d84511961d0f20" style="height: auto;"><div class="sl-block-content sl-block-group-content" style="transform-origin: 549.986px 185px; z-index: 22; transition-duration: 0.6s;" data-animation-type="fade-in" data-animation-trigger="click" data-animation-trigger-id="self">
+<div class="sl-block" data-block-type="text" data-name="text-5d7e3d" data-block-id="29e5ae9d2f082e77127c96878a223480" style="height: auto; width: 600px; left: 172.799px; top: 136.5px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 23;">
+<p><strong>User</strong> <span style="font-size:0.5em">(that owns this file)</span></p>
+</div></div>
+<div class="sl-block" data-block-type="line" data-name="line-0d2450" data-block-id="3ebdb6e4cdc4d167e0c5149fd7c83750" style="width: auto; height: auto; min-width: 0px; min-height: 0px; left: 225px; top: 175.5px;"><div class="sl-block-content" data-line-x1="0" data-line-y1="45.5" data-line-x2="197" data-line-y2="0" data-line-color="#000000" data-line-start-type="none" data-line-end-type="none" style="z-index: 24;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveaspectratio="xMidYMid" width="197" height="45.5" viewbox="0 0 197 45.5"><line stroke="rgba(0,0,0,0)" stroke-width="15" x1="0" y1="45.5" x2="197" y2="0"></line><line class="line-element" stroke="#000000" stroke-width="2" x1="0" y1="45.5" x2="197" y2="0"></line></svg></div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 365px; left: 562.172px; top: 142.5px;" data-block-id="46953a857ef9be048fb8b697713508da" data-name="text-5e0244"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 25;">
+<p><strong>          Group </strong><span style="font-size:0.5em">(that owns the file)</span></p>
+</div></div>
+<div class="sl-block" data-block-type="line" style="width: auto; height: auto; min-width: 0px; min-height: 0px; left: 309.5px; top: 187.5px;" data-block-id="4c4c7556334f4e07b1af2da6e803037d" data-name="line-2660da"><div class="sl-block-content" data-line-x1="0" data-line-y1="46.5" data-line-x2="416.5" data-line-y2="0" data-line-color="#000000" data-line-start-type="none" data-line-end-type="none" style="z-index: 26;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveaspectratio="xMidYMid" width="416.5" height="46.5" viewbox="0 0 416.5 46.5"><line stroke="rgba(0,0,0,0)" stroke-width="15" x1="0" y1="46.5" x2="416.5" y2="0"></line><line class="line-element" stroke="#000000" stroke-width="2" x1="0" y1="46.5" x2="416.5" y2="0"></line></svg></div></div>
+</div></div>
+<div class="sl-block" data-block-type="shape" data-name="shape-0e8eb4" data-block-id="257a6f38a9b24ee8ef3c65cce06f6850" style="width: 75.05px; height: 33px; left: 248.45px; top: 217.5px;"><div class="sl-block-style" style="z-index: 27; opacity: 0.3;"><div class="sl-block-content" data-shape-type="rect" data-shape-fill-color="#000000" data-shape-stretch="true" style="z-index: 27;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%" preserveaspectratio="none" viewbox="0 0 75 33"><rect width="75.05" height="33" rx="0" ry="0" class="shape-element" fill="#000000"></rect></svg></div></div></div>
+<div class="sl-block" data-block-type="shape" style="width: 75.05px; height: 33px; left: 168.188px; top: 217.5px;" data-block-id="ca2d34e408234e51d5e0688031977ef3" data-name="shape-865c8e"><div class="sl-block-style" style="z-index: 28; opacity: 0.3;"><div class="sl-block-content" data-shape-type="rect" data-shape-fill-color="rgb(142, 124, 195)" data-shape-stretch="true" style="z-index: 28;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%" preserveaspectratio="none" viewbox="0 0 75 33"><rect width="75.05" height="33" rx="0" ry="0" class="shape-element" fill="rgb(142, 124, 195)"></rect></svg></div></div></div>
+</div></div>
+<div class="sl-block sl-block-group" data-block-type="group" data-name="group-14dd7f" data-block-id="a06fdda845a82865998c7638f9c54515" style="height: auto;"><div class="sl-block-content sl-block-group-content" style="transform-origin: 405.493px 446.375px; z-index: 29; transition-duration: 0.6s;" data-animation-type="fade-in" data-animation-trigger="hover" data-animation-trigger-id="self">
+<div class="sl-block" data-block-type="text" data-name="text-297020" data-block-id="02b4c3e7e556bab4d6ea6affc3e7f024" style="height: auto; width: 600px; left: 105.493px; top: 594.5px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 30;">
+<p><strong>Size</strong></p>
+</div></div>
+<div class="sl-block" data-block-type="line" data-name="line-01392b" data-block-id="bfd9c6148d406e967f62fa84d2c7d963" style="width: auto; height: auto; min-width: 0px; min-height: 0px; left: 380px; top: 298.5px;"><div class="sl-block-content" data-line-x1="0" data-line-y1="296" data-line-x2="0" data-line-y2="0" data-line-color="#000000" data-line-start-type="none" data-line-end-type="none" style="z-index: 31;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveaspectratio="xMidYMid" width="1" height="296" viewbox="0 0 1 296"><line stroke="rgba(0,0,0,0)" stroke-width="15" x1="0" y1="296" x2="0" y2="0"></line><line class="line-element" stroke="#000000" stroke-width="2" x1="0" y1="296" x2="0" y2="0"></line></svg></div></div>
+<div class="sl-block" data-block-type="shape" data-name="shape-e4bc48" data-block-id="7de6082dcaaae3ef5a2262301573353a" style="width: 119px; height: 30.25px; left: 323.5px; top: 259.25px;"><div class="sl-block-style" style="z-index: 32; opacity: 0.3;"><div class="sl-block-content" data-shape-type="rect" data-shape-fill-color="rgb(241, 194, 50)" data-shape-stretch="true" style="z-index: 32;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%" preserveaspectratio="none" viewbox="0 0 119 30"><rect width="119" height="30.25" rx="0" ry="0" class="shape-element" fill="rgb(241, 194, 50)"></rect></svg></div></div></div>
+</div></div>
+<div class="sl-block sl-block-group" data-block-type="group" data-name="group-cb8844" data-block-id="b9fdcbe1a3c9b2be29cccd4f934517b6" style="height: auto;"><div class="sl-block-content sl-block-group-content" style="transform-origin: 778.625px 432.25px; z-index: 33; transition-duration: 0.6s;" data-animation-type="fade-in" data-animation-trigger="hover" data-animation-trigger-id="self"><div class="sl-block sl-block-group" data-block-type="group" data-name="group-a2067f" data-block-id="92e768a7cf28c9ac90042f66bd1127e4" style="height: auto;"><div class="sl-block-content sl-block-group-content" style="transform-origin: 778.625px 432.25px; z-index: 34; transition-duration: 0.6s;" data-animation-type="fade-in" data-animation-trigger="hover" data-animation-trigger-id="self">
+<div class="sl-block" data-block-type="text" data-name="text-99335f" data-block-id="0cfbe1eabf8801d2240fee869893cd3e" style="height: auto; width: 600px; left: 517.75px; top: 575px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 35;">
+<p><strong>Last Change Date</strong></p>
+</div></div>
+<div class="sl-block" data-block-type="line" data-name="line-41eb74" data-block-id="f536d9f209b8e46a940bd67deb1ea978" style="width: auto; height: auto; min-width: 0px; min-height: 0px; left: 536px; top: 298.5px;"><div class="sl-block-content" data-line-x1="288" data-line-y1="276.5" data-line-x2="0" data-line-y2="0" data-line-color="#000000" data-line-start-type="none" data-line-end-type="none" style="z-index: 36;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveaspectratio="xMidYMid" width="288" height="276.5" viewbox="0 0 288 276.5"><line stroke="rgba(0,0,0,0)" stroke-width="15" x1="288" y1="276.5" x2="0" y2="0"></line><line class="line-element" stroke="#000000" stroke-width="2" x1="288" y1="276.5" x2="0" y2="0"></line></svg></div></div>
+<div class="sl-block" data-block-type="shape" data-name="shape-49469f" data-block-id="a7f4c2b6c34133c87b224f86f9c1b1b5" style="width: 163px; height: 42px; left: 439.5px; top: 250.5px;"><div class="sl-block-style" style="z-index: 37; opacity: 0.33;"><div class="sl-block-content" data-shape-type="rect" data-shape-fill-color="#000000" data-shape-stretch="true" style="z-index: 37;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%" preserveaspectratio="none" viewbox="0 0 163 42"><rect width="163" height="42" rx="0" ry="0" class="shape-element" fill="#000000"></rect></svg></div></div></div>
+<div class="sl-block" data-block-type="shape" style="width: 163px; height: 42px; left: 602.5px; top: 250.5px;" data-block-id="dd85c1c4796debc4f4c67cc908db3b09" data-name="shape-00e97c"><div class="sl-block-style" style="z-index: 38; opacity: 0.33;"><div class="sl-block-content" data-shape-type="rect" data-shape-fill-color="rgb(221, 126, 107)" data-shape-stretch="true" style="z-index: 38;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%" preserveaspectratio="none" viewbox="0 0 163 42"><rect width="163" height="42" rx="0" ry="0" class="shape-element" fill="rgb(221, 126, 107)"></rect></svg></div></div></div>
+<div class="sl-block" data-block-type="text" data-name="text-292dbf" data-block-id="9ad6fbe478807b389718f147c2958400" style="height: auto; width: 378px; left: 726px; top: 407.5px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 39;">
+<p><strong>Name</strong></p>
+</div></div>
+<div class="sl-block" data-block-type="line" data-name="line-0f42c0" data-block-id="d802f4ae8e2e0ef52e3b4f2cbee962a9" style="width: auto; height: auto; min-width: 0px; min-height: 0px; left: 726px; top: 295.5px;"><div class="sl-block-content" data-line-x1="0" data-line-y1="0" data-line-x2="151" data-line-y2="112" data-line-color="#000000" data-line-start-type="none" data-line-end-type="none" style="z-index: 40;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveaspectratio="xMidYMid" width="151" height="112" viewbox="0 0 151 112"><line stroke="rgba(0,0,0,0)" stroke-width="15" x1="0" y1="0" x2="151" y2="112"></line><line class="line-element" stroke="#000000" stroke-width="2" x1="0" y1="0" x2="151" y2="112"></line></svg></div></div>
+</div></div></div></div></section><section data-id="139a08fbce9f61fa4feb0f184bf04cbb"><div class="sl-block" data-block-type="text" style="width: 806px; left: 70px; top: 22px; height: auto;" data-block-id="f2970e6e835bff328a206fc66f46b6f9"><div class="sl-block-content" data-placeholder-tag="h1" data-placeholder-text="Title Text" style="z-index: 10;">
+<h1>More Permissions</h1>
+</div></div>
+<div class="sl-block" data-block-type="text" style="width: 806px; left: 77px; top: 113px; height: auto;" data-block-id="b7a8b63aeaef19fcbad34971433b5f1c"><div class="sl-block-content" data-placeholder-tag="h2" data-placeholder-text="Subtitle" style="z-index: 11;">
+<h2>The are <span style="color:#FF0000"><strong><em>Nine</em></strong></span> permission settings </h2>
+</div></div>
+<div class="sl-block" data-block-type="text" data-name="text-f78535" data-block-id="14e9e1a35d6500e17623e1fbfa0adc33" style="height: auto; width: 879px; left: 20px; top: 337.5px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 12;">
+<p>-rwxr-xr-x 1 root wheel 768952 Jun 1 15:31 /bin/bash</p>
+</div></div>
+<div class="sl-block" data-block-type="shape" data-name="shape-6785d7" data-block-id="7249a2ecfb1dd7ba5ebce4a649307b67" style="width: 128px; height: 39px; left: 102px; top: 337.5px;"><div class="sl-block-style" style="z-index: 13; opacity: 0.33;"><div class="sl-block-content" data-shape-type="rect" data-shape-fill-color="rgb(147, 196, 125)" data-shape-stretch="true" style="z-index: 13;" data-shape-stroke-color="#274e13" data-shape-stroke-width="1px"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%" preserveaspectratio="none" viewbox="0 0 128 39"><defs><clippath id="shape-mask-7-1622601815160"><rect width="128" height="39" rx="0" ry="0" fill="rgb(147, 196, 125)" stroke="#274e13" stroke-width="2"></rect></clippath></defs><rect width="128" height="39" rx="0" ry="0" class="shape-element" fill="rgb(147, 196, 125)" stroke="#274e13" stroke-width="2" clip-path="url(#shape-mask-7-1622601815160)"></rect></svg></div></div></div>
+<div class="sl-block" data-block-type="text" data-name="text-d84380" data-block-id="b74efd4f487982f862b525322e970569" style="height: auto; width: 600px; left: 172px; top: 269.5px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 14;">
+<p><strong><span style="color:#008000">3 groups of 3</span></strong></p>
+</div></div>
+<div class="sl-block sl-block-group" data-block-type="group" data-name="group-38da9e" data-block-id="14c0a19e6c73ccf0287fc0a4b3602205" style="height: auto;"><div class="sl-block-content sl-block-group-content" style="transform-origin: 156px 487.5px; z-index: 19; transition-duration: 0.6s;" data-animation-type="fade-in" data-animation-trigger="click" data-animation-trigger-id="self">
+<div class="sl-block" data-block-type="shape" data-name="shape-60cb7a" data-block-id="25ce0c8cf41737620900710eb3f8c601" style="width: 54px; height: 40px; left: 102px; top: 337.5px;"><div class="sl-block-content" data-shape-type="rect" data-shape-fill-color="rgba(0, 0, 0, 0)" data-shape-stretch="true" style="z-index: 21;" data-shape-stroke-color="#ff0000" data-shape-stroke-width="2px"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%" preserveaspectratio="none" viewbox="0 0 54 40"><defs><clippath id="shape-mask-8-1622601882853"><rect width="54" height="40" rx="0" ry="0" fill="rgba(0, 0, 0, 0)" stroke="#ff0000" stroke-width="4"></rect></clippath></defs><rect width="54" height="40" rx="0" ry="0" class="shape-element" fill="rgba(0, 0, 0, 0)" stroke="#ff0000" stroke-width="4" clip-path="url(#shape-mask-8-1622601882853)"></rect></svg></div></div>
+<div class="sl-block" data-block-type="line" style="width: auto; height: auto; min-width: 0px; min-height: 0px; left: 129px; top: 387px;" data-block-id="cadc96d2b800841e8ed4ef34d4782198" data-name="line-717ac5"><div class="sl-block-content" data-line-x1="0" data-line-y1="72.5" data-line-x2="0" data-line-y2="0" data-line-color="#000000" data-line-start-type="none" data-line-end-type="none" style="z-index: 20;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveaspectratio="xMidYMid" width="1" height="72.5" viewbox="0 0 1 72.5"><line stroke="rgba(0,0,0,0)" stroke-width="15" x1="0" y1="72.5" x2="0" y2="0"></line><line class="line-element" stroke="#000000" stroke-width="2" x1="0" y1="72.5" x2="0" y2="0"></line></svg></div></div>
+<div class="sl-block" data-block-type="text" data-name="text-981123" style="height: auto; width: 278px; left: 17px; top: 459.5px;" data-block-id="aaa79c5d15d3a98b7964b610a04dbaab"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 22;">
+<p style="text-align:left">First group: <span style="color:#FF0000"><strong>owner</strong></span></p>
+
+<p style="text-align:left">read yes</p>
+
+<p style="text-align:left">write yes</p>
+
+<p style="text-align:left">execute yes</p>
+</div></div>
+</div></div>
+<div class="sl-block sl-block-group" data-block-type="group" data-name="group-8a8590" data-block-id="e826597c6487d0d1d109175b852a0d36" style="height: auto;"><div class="sl-block-content sl-block-group-content" style="transform-origin: 433.5px 480.25px; z-index: 23; transition-duration: 0.6s;" data-animation-type="fade-in" data-animation-trigger="click" data-animation-trigger-id="self">
+<div class="sl-block" data-block-type="line" style="width: auto; height: auto; min-width: 0px; min-height: 0px; left: 172px; top: 387px;" data-block-id="1685b8379b1cc3f5cac70bfa65004fbf" data-name="line-de799a"><div class="sl-block-content" data-line-x1="152" data-line-y1="72.5" data-line-x2="0" data-line-y2="0" data-line-color="#000000" data-line-start-type="none" data-line-end-type="none" style="z-index: 24;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveaspectratio="xMidYMid" width="152" height="72.5" viewbox="0 0 152 72.5"><line stroke="rgba(0,0,0,0)" stroke-width="15" x1="152" y1="72.5" x2="0" y2="0"></line><line class="line-element" stroke="#000000" stroke-width="2" x1="152" y1="72.5" x2="0" y2="0"></line></svg></div></div>
+<div class="sl-block" data-block-type="shape" style="width: 38px; height: 40px; left: 156px; top: 337.5px;" data-block-id="2920b401f4538ea49d05bf36db7b71dc" data-name="shape-491b9c"><div class="sl-block-content" data-shape-type="rect" data-shape-fill-color="rgba(0, 0, 0, 0)" data-shape-stretch="true" style="z-index: 25;" data-shape-stroke-color="#ff0000" data-shape-stroke-width="2px"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%" preserveaspectratio="none" viewbox="0 0 38 40"><defs><clippath id="shape-mask-9-1622601910903"><rect width="38" height="40" rx="0" ry="0" fill="rgba(0, 0, 0, 0)" stroke="#ff0000" stroke-width="4"></rect></clippath></defs><rect width="38" height="40" rx="0" ry="0" class="shape-element" fill="rgba(0, 0, 0, 0)" stroke="#ff0000" stroke-width="4" clip-path="url(#shape-mask-9-1622601910903)"></rect></svg></div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 377px; left: 334px; top: 444px;" data-block-id="b7989b74b013c7c17c8a31d22e1d0213" data-name="text-249801"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 26;">
+<p style="text-align:left"><span style="font-size:1.0em">Second group: <span style="color:#FF0000"><strong>group</strong></span></span></p>
+
+<p style="text-align:left"><span style="font-size:1.0em">read yes</span></p>
+
+<p style="text-align:left"><span style="font-size:1.0em">write no</span></p>
+
+<p style="text-align:left"><span style="font-size:1.0em">execute yes</span></p>
+</div></div>
+</div></div>
+<div class="sl-block sl-block-group" data-block-type="group" data-name="group-2788f5" data-block-id="c391f62d1b5d58cb7fccdc32efb559ce" style="height: auto;"><div class="sl-block-content sl-block-group-content" style="transform-origin: 573px 506.25px; z-index: 15; transition-duration: 0.6s;" data-animation-type="fade-in" data-animation-trigger="click" data-animation-trigger-id="self">
+<div class="sl-block" data-block-type="line" data-name="line-86719c" data-block-id="d3ebb527774bf9802443e16b706e5732" style="width: auto; height: auto; min-width: 0px; min-height: 0px; left: 230px; top: 377.5px;"><div class="sl-block-content" data-line-x1="607" data-line-y1="118.5" data-line-x2="0" data-line-y2="0" data-line-color="#000000" data-line-start-type="none" data-line-end-type="none" style="z-index: 16;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveaspectratio="xMidYMid" width="607" height="118.5" viewbox="0 0 607 118.5"><line stroke="rgba(0,0,0,0)" stroke-width="15" x1="607" y1="118.5" x2="0" y2="0"></line><line class="line-element" stroke="#000000" stroke-width="2" x1="607" y1="118.5" x2="0" y2="0"></line></svg></div></div>
+<div class="sl-block" data-block-type="shape" style="width: 38px; height: 40px; left: 192px; top: 337.5px;" data-block-id="cc35aacecce43350b7ffb03fb13b5e20" data-name="shape-eb2572"><div class="sl-block-content" data-shape-type="rect" data-shape-fill-color="rgba(0, 0, 0, 0)" data-shape-stretch="true" style="z-index: 17;" data-shape-stroke-color="#ff0000" data-shape-stroke-width="2px"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%" preserveaspectratio="none" viewbox="0 0 38 40"><defs><clippath id="shape-mask-10-1622601924236"><rect width="38" height="40" rx="0" ry="0" fill="rgba(0, 0, 0, 0)" stroke="#ff0000" stroke-width="4"></rect></clippath></defs><rect width="38" height="40" rx="0" ry="0" class="shape-element" fill="rgba(0, 0, 0, 0)" stroke="#ff0000" stroke-width="4" clip-path="url(#shape-mask-10-1622601924236)"></rect></svg></div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 390px; left: 564px; top: 496px;" data-block-id="3220bb4e11b110825f57e3351d346658" data-name="text-4e8af5"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 18;">
+<p style="text-align:left">Third group: <span style="color:#FF0000"><strong>everyone else</strong></span></p>
+
+<p style="text-align:left">read yes</p>
+
+<p style="text-align:left">write no</p>
+
+<p style="text-align:left">execute yes</p>
+</div></div>
+</div></div></section><section data-id="b3bfd6cca5c17ba314490f81b5c19da5"><div class="sl-block" data-block-type="text" data-name="text-1a461a" data-block-id="360e5f9e1f773e76eab1bdbb9096ec51" style="height: auto; width: 943px; left: 8.5px; top: 194.5px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 10;">
+<pre style="color:var(--highlight-color); text-align:center">$ <span style="color:#B22222">your_command &gt;&gt; file_to_append_to</span>
+</pre>
+
+<p style="color:rgb(36, 39, 41)"><span style="color:#FF8C00"><strong>If file_to_append_to does not exist, it will be created.</strong></span></p>
+
+<p style="color:rgb(36, 39, 41); text-align:left"><span style="color:var(--highlight-color)"><strong>e.g.</strong></span></p>
+
+<p style="color:rgb(36, 39, 41); text-align:left"><span style="color:var(--highlight-color)">$ </span><span class="hljs-built_in" style="color:var(--highlight-literal)">echo</span><span style="color:var(--highlight-color)"> </span><span class="hljs-string" style="color:var(--highlight-variable)">"hello"</span><span style="color:var(--highlight-color)"> &gt; file</span></p>
+
+<pre style="color:var(--highlight-color)">$ <span class="hljs-built_in" style="color:var(--highlight-literal)">echo</span> <span class="hljs-string" style="color:var(--highlight-variable)">"world"</span> &gt;&gt; file
+$ cat file 
+hello
+world</pre>
+</div></div>
+<div class="sl-block" data-block-type="text" data-name="text-79b074" data-block-id="04b8082f4902a5fcb32be6235ecefdce" style="height: auto; width: 600px; left: 131px; top: 55.5px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 11;">
+<h1>Appending</h1>
+</div></div></section><section data-id="af91a2d4158b155367f9b0c933895008"><div class="sl-block" data-block-type="text" style="width: 806px; left: 69px; top: 27px; height: auto;" data-block-id="3ebaa3ac744247127d151b86a43d96cd"><div class="sl-block-content" data-placeholder-tag="h1" data-placeholder-text="Title Text" style="z-index: 10;">
+<h1>Pipes</h1>
+</div></div>
+<div class="sl-block" data-block-type="text" data-name="text-bd5bac" data-block-id="ad443b7796afa0a63fa89a8de4ba1075" style="height: auto; width: 916px; left: 22px; top: 163.5px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 11;">
+<p style="text-align:left">$ <span style="color:#B22222">cat newplanet.txt</span></p>
+
+<p style="text-align:left">$ <span style="color:#B22222">cat <span style="text-align:left">newplanet.txt</span> | grep planet</span></p>
+
+<p style="text-align:left">When a new planet swims into his town</p>
+</div></div>
+<div class="sl-block" data-block-type="text" data-name="text-b224a2" data-block-id="fe8e8aec0784247ed2d2412dc18ce030" style="height: auto; width: 960px; left: 0px; top: 333.5px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 12; background-color: rgb(252, 229, 205);">
+<p><span style="color:#40E0D0"><strong><span style="text-align:left">Pipes connect output from one command to the input of another command</span></strong></span></p>
+</div></div></section></section><section data-id="99c3561953a8a680ecca736ad73dc8fc"><div class="sl-block" data-block-type="text" data-name="text-3e6def" data-block-id="60448f4f40e6090cc09463026d844488" style="height: auto; width: 600px; left: 199px; top: 170.5px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 10;">
+<p style="text-align:left"><span style="font-size:2.0em">$ <span style="color:#B22222">ps</span></span></p>
+
+<p style="text-align:left"><span style="font-size:2.0em">$ <span style="color:#B22222">ps -fjx</span></span></p>
+
+<p style="text-align:left"><span style="font-size:2.0em"><span style="color:rgb(0, 0, 0); text-align:left">$ </span><span style="color:#B22222"><span style="text-align:start">ps -ef</span></span></span></p>
+
+<p style="text-align:left"><span style="font-size:2.0em"><span style="color:rgb(0, 0, 0); text-align:left">$ </span><span style="color:rgb(178, 34, 34); text-align:left">ps aux</span></span></p>
+</div></div>
+<div class="sl-block" data-block-type="text" data-name="text-23464f" data-block-id="f52b981a94ce0806dbbaf3046b79b72e" style="height: auto; width: 600px; left: 279px; top: 39px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 11;">
+<h1 style="color:rgb(209, 213, 219); font-size:2.25rem; text-align:start"><span style="font-size:1.4em"><span style="color:#000000"><strong>List Processes</strong></span></span></h1>
+</div></div></section><section data-id="3183da14941a3a9cccbf719e17ee6275"><div class="sl-block" data-block-type="image" data-name="image-3adb85" data-block-id="354a6faf0609820dd5925c3bc76fd0f1" style="width: 891.81px; height: 403.873px; left: 67.19px; top: 92.064px; min-width: 1px; min-height: 1px;"><div class="sl-block-content" style="z-index: 10;"><img style="" data-natural-width="976" data-natural-height="442" data-lazy-loaded="" data-src="intro-to-linux-navigating-and-beyond/08cc381458653d934826bf653b1777e8.png"></div></div>
+<div class="sl-block" data-block-type="text" data-name="text-cecb32" data-block-id="bfa6e12941a7acdcaa9d15f39068e1ca" style="height: auto; width: 600px; left: 200.243px; top: -7.55668px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 11;">
+<p><strong><span style="font-size:1.6em">Common Commands</span></strong></p>
+</div></div></section><section data-id="1b7a703011f13ce36a54dcf11d3794a7"><div class="sl-block" data-block-type="text" data-name="text-6dfc2b" data-block-id="f48a574bc969859aac2cb827c0fd8447" style="height: auto; width: 960px; left: 0px; top: 90px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 10;">
+<h3 style="color:rgb(51, 51, 51); font-size:2.7rem; text-align:start"><span style="font-size:0.5em">In bash substituted variables are split on whitespace when the substitution is not quoted. To demonstrate, we will use a function that counts the number of arguments passed into it. This way we can see whether a variable was split or not:</span></h3>
+
+<pre style="color:rgb(51, 51, 51)">#!/bin/bash
+export PATH=/usr/bin:/bin:/usr/sbin:/sbin
+function countArguments() {
+    echo "${#@}"
+}
+wordlist="one two three four five"
+echo "normal substitution, no quotes:"
+countArguments $wordlist
+# -&gt; 5
+echo "substitution with quotes"
+countArguments "$wordlist"
+# -&gt; 1
+</pre>
+
+<p style="color:rgb(51, 51, 51); text-align:start"> </p>
+</div></div>
+<div class="sl-block" data-block-type="text" data-name="text-ec0b2c" data-block-id="3a195da1afff63603832d0c067434b60" style="height: auto; width: 310px; left: 256px; top: 18.5px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 11; background-color: rgb(246, 178, 107);">
+<h3 style="color:rgb(51, 51, 51); font-size:2.7rem; text-align:start"><span style="color:#A52A2A">Bash Behavior</span></h3>
+</div></div>
+<div class="sl-block" data-block-type="text" data-name="text-afd32f" data-block-id="0065da30dc953d85f5e25aa2fd9340ed" style="height: auto; width: 600px; left: 189px; top: 153.5px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 12; background-color: rgb(166, 77, 121); transition-duration: 0.6s;" data-animation-type="fade-in" data-animation-trigger="hover" data-animation-trigger-id="self">
+<p><span style="color:#FFD700"><span style="font-size:1.4em"><span style="text-align:start">In bash and sh the contents of the variable split into separate arguments when substituted without the quotes. Usually you do </span><em>not</em><span style="text-align:start"> want the splitting to occur. Hence the rule: “always quote variable substitutions!”</span></span></span></p>
+</div></div></section><section data-id="bd4e22bf0271dfe39b5c66ab8d8065ce"><div class="sl-block" data-block-type="text" style="width: 557px; left: 220px; top: 0px; height: auto;" data-block-id="8a61d1aeb1cf66c90fffc939158c917c"><div class="sl-block-content" data-placeholder-tag="h1" data-placeholder-text="Title Text" style="z-index: 10; background-color: rgb(255, 229, 153);">
+<h3 style="color:rgb(51, 51, 51); font-size:2.7rem; text-align:start"><span style="color:#A52A2A">zsh behavior: no splitting</span></h3>
+</div></div>
+<div class="sl-block" data-block-type="text" data-name="text-bbec5f" data-block-id="ad753b0dcf554292cdd63be0b9c2c6d9" style="height: auto; width: 1260px; left: 6px; top: 68px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 11;">
+<h3 style="color:rgb(51, 51, 51); font-size:2.7rem; text-align:start"><span style="font-size:0.7em">zsh will <em>not</em> split a variable when substituted. With zsh the </span></h3>
+
+<h3 style="color:rgb(51, 51, 51); font-size:2.7rem; text-align:start"><span style="font-size:0.7em">contents of a variable will be kept in one piece:</span></h3>
+
+<pre style="color:rgb(51, 51, 51)"><span style="font-size:0.7em">#!/bin/zsh
+emulate -LR zsh # reset zsh options
+export PATH=/usr/bin:/bin:/usr/sbin:/sbin
+
+function countArguments() {
+    echo "${#@}"
+}
+wordlist="one two three four five"
+echo "normal substitution, no quotes:"
+countArguments $wordlist
+# -&gt; 1
+echo "substitution with quotes"
+countArguments "$wordlist"
+# -&gt; 1</span>
+</pre>
+</div></div>
+<div class="sl-block" data-block-type="text" data-name="text-b5ec58" data-block-id="a27d839934e7ab02432803384eb3254f" style="height: auto; width: 954px; left: 6px; top: 223.5px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 12; background-color: rgb(166, 77, 121); transition-duration: 0.6s;" data-animation-type="fade-in" data-animation-trigger="hover" data-animation-trigger-id="self">
+<p><span style="font-size:1.4em"><span style="color:#FFD700"><span style="text-align:start">The positive effect of this is that you do not have to worry about quoting variables all the time, making zsh less error prone, and much more like other scripting and programming languages.</span></span></span></p>
+</div></div></section><section data-id="a01c013e836a84adcdfccb67dd4cecce"><div class="sl-block" data-block-type="text" style="width: 960px; left: 58.725px; top: 0px; height: auto;" data-block-id="60f9f4e2fde048b84ebe0c8bba05cfd9"><div class="sl-block-content" data-placeholder-tag="h1" data-placeholder-text="Title Text" style="z-index: 10;">
+<h3 style="color:rgb(52, 152, 219); text-align:left"><strong><span style="font-size:1.0em"><span style="color:#000000">How to Install and Use Linuxbrew in Linux</span></span></strong></h3>
+</div></div>
+<div class="sl-block" data-block-type="text" data-name="text-f7d6fa" data-block-id="60bb1ab2933d3cd088d6096ffa81e084" style="height: auto; width: 961.148px; left: 0.0004px; top: 67.381px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 30; background-color: rgb(111, 168, 220);">
+<h3 style="color:rgb(52, 152, 219); text-align:start"><span style="color:#DAA520">To install <strong>Linuxbrew</strong> on your Linux distribution, fist you need to install following dependencies:</span></h3>
+</div></div>
+<div class="sl-block sl-block-group" data-block-type="group" data-name="group-138fb4" data-block-id="725349d712827f41a0e170c3fbe107e8" style="width: auto; height: auto;"><div class="sl-block-content sl-block-group-content" style="transform-origin: 491.467px 384.14px; z-index: 11;">
+<div class="sl-block" data-block-type="image" data-name="image-97a67d" data-block-id="c837aa787b27e142af78dd6721a4a7a6" style="width: 53.5261px; height: 75.5233px; left: 402.114px; top: 481.889px; min-width: 1px; min-height: 1px;"><div class="sl-block-content" style="z-index: 12;"><img style="left: -59px; top: -90px; width: 173px; height: 252px;" data-natural-width="186" data-natural-height="271" data-crop-x="0.342697" data-crop-y="0.355212" data-crop-width="0.308989" data-crop-height="0.299228" data-lazy-loaded="" data-src="intro-to-linux-navigating-and-beyond/7b6a918db5666a0ce2fb2572ea8a30a7.png"></div></div>
+<div class="sl-block" data-block-type="line" data-name="line-96d281" data-block-id="b8943b4cba044983418da501d3483705" style="width: auto; height: auto; min-width: 0px; min-height: 0px; left: 99.0128px; top: 206.982px;"><div class="sl-block-content" data-line-x1="0" data-line-y1="51.03299999999999" data-line-x2="25.4752" data-line-y2="0" data-line-color="#a61c00" data-line-start-type="none" data-line-end-type="none" style="z-index: 13;" data-line-width="4px"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveaspectratio="xMidYMid" width="25.4752" height="51.03299999999999" viewbox="0 0 25.4752 51.03299999999999"><line stroke="rgba(0,0,0,0)" stroke-width="15" x1="0" y1="51.03299999999999" x2="25.4752" y2="0"></line><line class="line-element" stroke="#a61c00" stroke-width="4" x1="0" y1="51.03299999999999" x2="25.4752" y2="0"></line></svg></div></div>
+<div class="sl-block" data-block-type="line" style="width: auto; height: auto; min-width: 0px; min-height: 0px; left: 155.923px; top: 487.73px;" data-block-id="165a6c8cba4606094b56bf10acd049ea" data-name="line-c42667"><div class="sl-block-content" data-line-x1="0" data-line-y1="51.03299999999999" data-line-x2="25.4752" data-line-y2="0" data-line-color="#a61c00" data-line-start-type="none" data-line-end-type="none" style="z-index: 14;" data-line-width="4px"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveaspectratio="xMidYMid" width="25.4752" height="51.03299999999999" viewbox="0 0 25.4752 51.03299999999999"><line stroke="rgba(0,0,0,0)" stroke-width="15" x1="0" y1="51.03299999999999" x2="25.4752" y2="0"></line><line class="line-element" stroke="#a61c00" stroke-width="4" x1="0" y1="51.03299999999999" x2="25.4752" y2="0"></line></svg></div></div>
+<div class="sl-block" data-block-type="line" style="width: auto; height: auto; min-width: 0px; min-height: 0px; left: 376.639px; top: 487.73px;" data-block-id="c3d25c6bcf80b8333873f45d622218ec" data-name="line-caa3db"><div class="sl-block-content" data-line-x1="0" data-line-y1="51.03299999999999" data-line-x2="25.4752" data-line-y2="0" data-line-color="#a61c00" data-line-start-type="none" data-line-end-type="none" style="z-index: 15;" data-line-width="4px"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveaspectratio="xMidYMid" width="25.4752" height="51.03299999999999" viewbox="0 0 25.4752 51.03299999999999"><line stroke="rgba(0,0,0,0)" stroke-width="15" x1="0" y1="51.03299999999999" x2="25.4752" y2="0"></line><line class="line-element" stroke="#a61c00" stroke-width="4" x1="0" y1="51.03299999999999" x2="25.4752" y2="0"></line></svg></div></div>
+<div class="sl-block sl-block-group" data-block-type="group" data-name="group-08b8e7" data-block-id="108504c0033b127f59b98f516be332d8" style="width: auto; height: auto;"><div class="sl-block-content sl-block-group-content" style="transform-origin: 491.467px 384.14px; z-index: 16;">
+<div class="sl-block" data-block-type="image" data-name="image-4ac032" data-block-id="8557dbf3eb7f32f103e8f9a33edac009" style="width: 188.794px; height: 46.159px; left: 179.147px; top: 492.571px; min-width: 1px; min-height: 1px;"><div class="sl-block-content" style="z-index: 17;"><img style="" data-natural-width="454" data-natural-height="111" data-lazy-loaded="" data-src="intro-to-linux-navigating-and-beyond/c762cab20a4437bbfae5d7d42513f917.png"></div></div>
+<div class="sl-block" data-block-type="text" data-name="text-3e191b" data-block-id="e0a6f84f28b5fbb4875e2bd8b8e340fe" style="height: auto; width: 952.725px; left: 4.2119px; top: 255.899px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 18;" dir="ui">
+<p style="color:rgb(255, 255, 255); text-align:left"><span style="color:#800000"><span style="font-size:0.7em">$ sudo apt-get install build-essential curl file git</span></span></p>
+
+<p style="color:rgb(255, 255, 255); text-align:left"> </p>
+
+<p style="color:rgb(255, 255, 255); text-align:left"> </p>
+
+<p style="color:rgb(255, 255, 255); text-align:left"><span style="color:#800000"><span style="font-size:0.7em">$ sudo dnf groupinstall 'Development Tools' &amp;&amp; sudo dnf install curl file git</span></span></p>
+
+<p style="color:rgb(255, 255, 255); text-align:left"> </p>
+
+<p style="color:rgb(255, 255, 255); text-align:left"> </p>
+
+<p style="color:rgb(255, 255, 255); text-align:left"><span style="color:#800000"><span style="font-size:0.7em">$ sudo yum groupinstall 'Development Tools' &amp;&amp; sudo yum install curl file git</span></span></p>
+</div></div>
+<div class="sl-block sl-block-group" data-block-type="group" data-name="group-0ac7ca" data-block-id="47dfd129dfe9456813fd4feecda04107"><div class="sl-block-content sl-block-group-content" style="transform-origin: 52.0064px 230.381px; z-index: 19;">
+<div class="sl-block" data-block-type="image" data-name="image-fe8467" data-block-id="8af157f6bafbe74f1dfbac2fca8ef992" style="width: 92.0128px; height: 72px; left: 6px; top: 194.381px; min-width: 1px; min-height: 1px;"><div class="sl-block-content" style="z-index: 20;"><img style="" data-natural-width="1200" data-natural-height="939" data-lazy-loaded="" data-src="intro-to-linux-navigating-and-beyond/1a97adceb8b386e834a0d00661b3913f.jpg"></div></div>
+<div class="sl-block sl-block-group" data-block-type="group" data-name="group-ef097a" data-block-id="3aada5fbfe121017908f583afc024af6"><div class="sl-block-content sl-block-group-content" style="transform-origin: 70.5875px 250.994px; z-index: 21;"><div class="sl-block" data-block-type="shape" data-name="shape-b95baf" data-block-id="0f2f6b2c5912b9d0bc4202ea1041dd51" style="width: 37.1613px; height: 4.64516px; left: 52.0069px; top: 248.671px;"><div class="sl-block-content" data-shape-type="rect" data-shape-fill-color="rgb(255, 255, 255)" data-shape-stretch="true" style="z-index: 22;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%" preserveaspectratio="none" viewbox="0 0 37 5"><rect width="37.1613" height="4.64516" rx="0" ry="0" class="shape-element" fill="rgb(255, 255, 255)"></rect></svg></div></div></div></div>
+</div></div>
+<div class="sl-block" data-block-type="image" data-name="image-16f482" data-block-id="660b518ebba5274cc5fe18cf15ab8ab7" style="width: 119.877px; height: 38.415px; left: 23.0102px; top: 368.405px; min-width: 1px; min-height: 1px;"><div class="sl-block-content" style="z-index: 23;"><img style="" data-natural-width="440" data-natural-height="141" data-lazy-loaded="" data-src="intro-to-linux-navigating-and-beyond/c9a46601482f5b5be2cdbf502b8ffe00.png"></div></div>
+<div class="sl-block" data-block-type="text" data-name="text-1d5bbe" data-block-id="f6e8664c895aa05c58fe7cafa159be85" style="height: auto; width: 47.383px; left: 157.232px; top: 368.405px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 24;">
+<p style="text-align: left;"><span style="font-size:0.5em"> <span style="color:#0000FF">(22+)</span></span></p>
+</div></div>
+<div class="sl-block" data-block-type="image" data-name="image-33067b" data-block-id="635a956c7a4dbcd0bf0abc1c77fa86d3" style="width: 126.665px; height: 35.0459px; left: 21.7305px; top: 504.81px; min-width: 1px; min-height: 1px;"><div class="sl-block-content" style="z-index: 25;"><img style="left: -2px; top: -37px; width: 129px; height: 101px;" data-natural-width="770" data-natural-height="602" data-crop-x="0.015504" data-crop-y="0.366337" data-crop-width="0.9819" data-crop-height="0.34749" data-lazy-loaded="" data-src="intro-to-linux-navigating-and-beyond/f649e835752d4afe7e08df424c07598e.jpg"></div></div>
+<div class="sl-block" data-block-type="shape" data-name="shape-21ce17" data-block-id="97a0b5865940c45475ae1541a9b89f01" style="width: 32.1154px; height: 8.0795px; left: 929.033px; top: 406.82px;"><div class="sl-block-content" data-shape-type="rect" data-shape-fill-color="rgb(255, 255, 255)" data-shape-stretch="true" style="z-index: 26;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%" preserveaspectratio="none" viewbox="0 0 32 8"><rect width="32.1154" height="8.0795" rx="0" ry="0" class="shape-element" fill="rgb(255, 255, 255)"></rect></svg></div></div>
+<div class="sl-block" data-block-type="shape" style="width: 19.9964px; height: 7.87751px; left: 958.725px; top: 437.624px;" data-block-id="4ecc4e407922e601e069fa03b991e053" data-name="shape-10fb15"><div class="sl-block-content" data-shape-type="rect" data-shape-fill-color="rgb(255, 255, 255)" data-shape-stretch="true" style="z-index: 27;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%" preserveaspectratio="none" viewbox="0 0 20 8"><rect width="19.9964" height="7.87751" rx="0" ry="0" class="shape-element" fill="rgb(255, 255, 255)"></rect></svg></div></div>
+<div class="sl-block" data-block-type="image" data-name="image-91d479" style="width: 73.0254px; height: 19.8734px; left: 161.102px; top: 223.444px; min-width: 1px; min-height: 1px;" data-block-id="c65604a9afb68dbc4070cee194755521"><div class="sl-block-content" style="z-index: 28;"><img style="left: 0px; top: -8px; width: 87px; height: 39px;" data-natural-width="540" data-natural-height="240" data-lazy-loaded="" data-crop-x="0" data-crop-y="0.205128" data-crop-width="0.839372" data-crop-height="0.513966" data-src="intro-to-linux-navigating-and-beyond/4cfa56358fb9e252e91b956c46cba4f7.png"></div></div>
+<div class="sl-block" data-block-type="image" data-name="image-c04564" data-block-id="e51cbad14753f623ed52068bf28a74df" style="width: 38.7984px; height: 38.7984px; left: 122.488px; top: 214.982px; min-width: 1px; min-height: 1px;"><div class="sl-block-content" style="z-index: 29;"><img style="" data-natural-width="225" data-natural-height="225" data-lazy-loaded="" data-src="intro-to-linux-navigating-and-beyond/29cb6dcc002c4d73d207b4495931ed9e.png"></div></div>
+</div></div>
+</div></div></section><section data-id="760d233a0ac6fb1350cfa439bd8908c1"><div class="sl-block" data-block-type="text" data-name="text-e33ec2" style="height: auto; width: 956.937px; left: 8.0945px; top: 165px;" data-block-id="fc6764bda17b3e86672443f21a099412"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 10; background-color: rgb(111, 168, 220);">
+<p style="color:rgb(58, 58, 58); text-align:start"><span style="font-size:1.4em"><span style="color:#008000">Once the dependencies installed, you can use the following script to install <strong>Linuxbrew</strong> package in <strong>/home/linuxbrew/.linuxbrew</strong> (or in your home directory at <strong>~/.linuxbrew</strong>) as shown.</span></span></p>
+</div></div>
+<div class="sl-block" data-block-type="text" data-name="text-c63db4" data-block-id="b46bfb3bb9e906ee45fc06f457897932" style="height: auto; width: 967px; left: -2.5px; top: 500px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 11; background-color: rgb(147, 196, 125);" dir="ui">
+<pre style="color:rgb(255, 255, 255)"><span style="font-size:1.0em"><span style="color:#B22222"><strong>$ sh -c "$(curl -fsSL <span style="font-size:0.9em">https://raw.githubusercontent.com
+/Linuxbrew/install/master/install.sh)</span>"</strong></span></span></pre>
+</div></div></section><section class="stack" data-id="333bd63575b14bdf08f4e4072e11addc"><section data-id="627e8c485343776d88cdca72b5b2da9c"><div class="sl-block" data-block-type="text" data-name="text-ad6757" style="height: auto; width: 1136px; left: -55px; top: 33.5px;" data-block-id="e450e6c631a83f377619c7c7ee5c15ca"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 10;">
+<p><span style="color:rgb(58, 58, 58); text-align:start">Next, you need to add the directories </span></p>
+
+<p><strong>/home/linuxbrew/.linuxbrew/bin</strong><span style="color:rgb(58, 58, 58); text-align:start"> (or </span><strong>~/.linuxbrew/bin</strong><span style="color:rgb(58, 58, 58); text-align:start">) </span></p>
+
+<p><span style="color:rgb(58, 58, 58); text-align:start">and</span></p>
+
+<p><strong>/home/linuxbrew/.linuxbrew/sbin</strong><span style="color:rgb(58, 58, 58); text-align:start"> (or </span><strong>~/.linuxbrew/sbin</strong><span style="color:rgb(58, 58, 58); text-align:start">) </span></p>
+</div></div>
+<div class="sl-block" data-block-type="text" data-name="text-8e6b01" style="height: auto; width: 964px; left: -11px; top: 236px;" data-block-id="297aa3dbd29f8c887c14b4c6c4a99f21"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 11;">
+<p><span style="color:rgb(58, 58, 58); text-align:start">to your PATH and to your bash shell initialization script </span><strong>~/.bashrc</strong><span style="color:rgb(58, 58, 58); text-align:start"> as shown.</span></p>
+</div></div>
+<div class="sl-block" data-block-type="text" data-name="text-c4e689" data-block-id="63b65d23823899e9f93645733e0b1e97" style="height: auto; width: 953px; left: 0px; top: 330.5px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 12;">
+<pre style="color:rgb(255, 255, 255)"><span style="font-size:0.7em"><span style="color:#800000">$ echo 'export PATH="/home/linuxbrew/.linuxbrew/bin:/home/linuxbrew/.linuxbrew/sbin/:$PATH"' &gt;&gt;~/.bashrc
+$ echo 'export MANPATH="/home/linuxbrew/.linuxbrew/share/man:$MANPATH"' &gt;&gt;~/.bashrc
+$ echo 'export INFOPATH="/home/linuxbrew/.linuxbrew/share/info:$INFOPATH"' &gt;&gt;~/.bashrc</span></span></pre>
+</div></div>
+<div class="sl-block" data-block-type="text" data-name="text-0ce981" data-block-id="021c81ac24f7f3744df0b87775244430" style="height: auto; width: 314px; left: 7px; top: 647.5px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 13;">
+<p style="text-align: left;"><span style="color:rgb(165, 42, 42); text-align:left">$ source ~/.bashrc</span></p>
+</div></div>
+<div class="sl-block" data-block-type="text" data-name="text-9088cb" data-block-id="0f37d5aa845a75cad7933af2c0a90c47" style="height: auto; width: 428px; left: 193px; top: 600.5px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 14;">
+<p style="color:rgb(0, 0, 0)">source the changes:</p>
+</div></div></section><section data-id="8b462fc2160c631d5922b87e0513c60f"><div class="sl-block" data-block-type="text" style="width: 621px; left: 202px; top: -6px; height: auto;" data-block-id="01f785fcd87040ddbb0acf4cd17b4de3"><div class="sl-block-content" data-placeholder-tag="h2" data-placeholder-text="Title Text" style="text-align: left; z-index: 10;">
+<h2>Testing The install</h2>
+</div></div>
+<div class="sl-block" data-block-type="text" style="width: 889px; left: 35.5px; top: 96px; height: auto;" data-block-id="69894c5750f85ad36fd6e6cc0f544fb9"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin urna odio, aliquam vulputate faucibus id, elementum lobortis felis. Mauris urna dolor, placerat ac sagittis quis." style="text-align: left; z-index: 11;">
+<p style="color:rgb(58, 58, 58)">Once you have successfully set up <strong>Linuxbrew</strong> on your machine, you can start using it.</p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="width: 740px; left: 100px; top: 207px; height: auto;" data-block-id="0f746901213a2fb2a47857e2a5058fbe" data-name="text-c269bb"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin urna odio, aliquam vulputate faucibus id, elementum lobortis felis. Mauris urna dolor, placerat ac sagittis quis." style="text-align: left; z-index: 12;">
+<p style="color:rgb(58, 58, 58)">For example you can install the <strong>gcc</strong> package (or formula) with the following command. Take note of some of the messages in the output, there are some useful environmental variables that you need to set for some formulae to work correctly.</p>
+</div></div>
+<div class="sl-block" data-block-type="text" data-name="text-cb32a5" data-block-id="e34a77333562c391e9f5350b2e97dbe2" style="height: auto; width: 600px; left: 100px; top: 445.5px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 13;">
+<pre style="color:rgb(255, 255, 255)"><span style="color:#A52A2A">$ brew install gcc</span></pre>
+</div></div></section></section><section data-id="5c0488e8d1b67489fb5effdfd1bec1c5"><div class="sl-block" data-block-type="text" style="width: 806px; left: 77px; top: 38px; height: auto;" data-block-id="6b3f073d9176362410dd35937bc13280"><div class="sl-block-content" data-placeholder-tag="h1" data-placeholder-text="Title Text" style="z-index: 10;">
+<h1>More Installs</h1>
+</div></div>
+<div class="sl-block" data-block-type="text" data-name="text-5f6c82" data-block-id="764d3022265df08217fb466a8bafe6a5" style="height: auto; width: 795px; left: 82.5px; top: 201.5px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 11;">
+<p style="text-align:left">                              Recommended:</p>
+
+<p style="text-align:left">$ <span style="color:#B22222">brew install gnuplot --with-x11</span></p>
+
+<p style="text-align:left">If error is returned, just type:</p>
+
+<p style="text-align:left">$ <span style="color:#B22222">brew install gnuplot</span></p>
+
+<p style="text-align:left">If you previously unsuccessfully installed a package such as gnuplot, then first type:</p>
+
+<p style="text-align:left">$ <span style="color:#B22222">brew uninstall gnuplot</span></p>
+
+<p style="text-align:left">followed by command</p>
+
+<p style="text-align:left">$<span style="color:#B22222">brew install gnuplot --with-x11</span></p>
+</div></div></section><section data-id="922457e168599e2c436dbefba5bdf521"><div class="sl-block" data-block-type="text" style="width: 806px; left: 86px; top: 33px; height: auto;" data-block-id="d6e1298375a3215275015dda8fa2fea4"><div class="sl-block-content" data-placeholder-tag="h2" data-placeholder-text="Title Text" style="z-index: 10;">
+<p><span style="font-size:1.2em"><strong>brew installs</strong></span></p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="width: 460px; left: 0px; top: 214px; height: auto;" data-block-id="e85d51e088d59b1e015121014ba7502d"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 11;" dir="ui">
+<ul>
+	<li><span style="font-size:0.7em">brew install openblas</span></li>
+	<li><span style="font-size:0.7em">brew upgrade openblas</span></li>
+	<li><span style="font-size:0.7em">brew install llvm</span></li>
+	<li><span style="font-size:0.7em">brew install ccache</span></li>
+	<li><span style="font-size:0.7em">brew install gcc (should already install with llvm)</span></li>
+	<li><span style="font-size:0.7em">brew install libomp</span></li>
+	<li><span style="font-size:0.7em">brew install libgit2</span></li>
+	<li><span style="font-size:0.7em">brew install openssl (should already install with libgit2)</span></li>
+	<li><span style="font-size:0.7em">brew install gettext</span></li>
+</ul>
+</div></div>
+<div class="sl-block" data-block-type="text" data-name="text-7a0010" data-block-id="aa283faeb3907e53d02ccb6c826af9ea" style="height: auto; width: 429px; left: 518px; top: 113.5px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 12; background-color: rgb(118, 165, 175);">
+<p style="color:rgb(0, 0, 0); text-align:left"><span style="color:#FFD700"><span style="font-size:0.5em">brew install<span style="text-align:left"> some </span><strong>optional</strong><span style="text-align:left"> libraries from homebrew-core </span></span><span style="font-size:0.5em"><span style="text-align:left"><strong>Note</strong>: Some of these are dependencies of others so you may get messages saying a library is already installed, which is fine)</span></span></span></p>
+</div></div>
+<div class="sl-block" data-block-type="text" data-name="text-e6b85d" data-block-id="f4e80e7ba2dfa57e8d712dd540ea28f1" style="height: auto; width: 412px; left: 528px; top: 269.5px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 13;">
+<ul>
+	<li style="color:rgb(0, 0, 0)"><span style="font-size:0.7em">brew install liblwgeom</span></li>
+	<li style="color:rgb(0, 0, 0)"><span style="font-size:0.7em">brew install gdal</span></li>
+	<li style="color:rgb(0, 0, 0)"><span style="font-size:0.7em">brew install geos</span></li>
+	<li style="color:rgb(0, 0, 0)"><span style="font-size:0.7em">brew install proj</span></li>
+	<li style="color:rgb(0, 0, 0)"><span style="font-size:0.7em">brew install udunits</span></li>
+	<li style="color:rgb(0, 0, 0)"><span style="font-size:0.7em">brew install qt</span></li>
+</ul>
+</div></div>
+<div class="sl-block" data-block-type="text" data-name="text-c0161a" data-block-id="820902644710b99fd502267b1ddbbb37" style="height: auto; width: 972px; left: 3px; top: 160.5px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 14; background-color: rgb(102, 0, 0); transition-duration: 0.6s;" data-animation-type="fade-in" data-animation-trigger="hover" data-animation-trigger-id="self">
+<p><span style="color:#FFD700">lapack is keg-only, which means it was not symlinked into /usr/local,<br>
+because macOS provides LAPACK in Accelerate.framework.</span></p>
+
+<p style="text-align: left;"><span style="color:#FFD700">For c<strong>ompilers to find lapack</strong> you may need to set:<br>
+  </span><span style="color:#00FFFF">export LDFLAGS="-L/usr/local/opt/lapack/lib"<br>
+  export CPPFLAGS="-I/usr/local/opt/lapack/include"</span></p>
+
+<p style="text-align: left;"><span style="color:#FFD700">For <strong>pkg-config to find lapack</strong> you may need to set:<br>
+  </span><span style="color:#00FFFF">export PKG_CONFIG_PATH="/usr/local/opt/lapack/lib/pkgconfig"</span></p>
+</div></div></section>
+			</div>
+		</div>
+
+		<script>
+			var SLConfig = {"deck": {"id":2139105,"slug":"intro-to-linux-navigating-and-beyond","title":"Intro to Linux - Navigating and beyond","description":"","width":960,"height":700,"margin":0.05,"visibility":"self","published_at":null,"sanitize_messages":null,"thumbnail_url":"https://s3.amazonaws.com/media-p.slid.es/thumbnails/3775c58d4295f6704f894d7a3e9a306e/thumb.jpg?1622559204","view_count":0,"user":{"id":1460906,"username":"onurkara","name":"Onur Kara","description":null,"thumbnail_url":"https://lh3.googleusercontent.com/-wBlJNTSGe5s/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmG3zZ_yGkYgRBVCH_dmXqdltPkrQ/s96-c/photo.jpg","account_type":"pro","team_id":null,"settings":{"id":6596516,"present_controls":true,"present_upsizing":true,"present_pointer":false,"present_notes":true,"default_deck_tag_id":null}},"background_transition":"slide","transition":"slide","theme_id":null,"theme_font":"montserrat","theme_color":"white-blue","auto_slide_interval":0,"comments_enabled":true,"forking_enabled":false,"rolling_links":false,"center":false,"shuffle":null,"should_loop":false,"share_notes":null,"slide_number":null,"slide_count":55,"rtl":false,"version":2,"collaborative":null,"deck_user_editor_limit":3,"data_updated_at":1623743437401,"font_typekit":null,"font_google":null,"time_limit":null,"navigation_mode":"default","upsizing_enabled":null,"notes":{}}};
+
+
+			// Use local fonts
+			SLConfig.fonts_url = 'lib/fonts/';
+		</script>
+
+		<script src="lib/reveal.js"></script>
+		<script src="lib/reveal-plugins.js"></script>
+		<script src="lib/offline.js"></script>
+
+		<!-- Initialize the presentation -->
+		<script>
+			Reveal.initialize({
+				width: 960,
+				height: 700,
+				margin: 0.05,
+				
+
+				hash: true,
+				controls: true,
+				progress: true,
+				mouseWheel: false,
+				showNotes: false,
+				slideNumber: false,
+				fragmentInURL: true,
+
+				autoSlide: 0,
+				autoSlideStoppable: true,
+
+				autoAnimateMatcher: SL.deck.AutoAnimate.matcher,
+
+				center: false,
+				shuffle: false,
+				loop: false,
+				rtl: false,
+				navigationMode: "default",
+
+				transition: "slide",
+				backgroundTransition: "slide",
+
+				highlight: {
+					escapeHTML: false
+				},
+
+				plugins: [ RevealZoom, RevealNotes, RevealMarkdown, RevealHighlight ]
+			});
+		</script>
+
+		
+
+	</body>
+</html>

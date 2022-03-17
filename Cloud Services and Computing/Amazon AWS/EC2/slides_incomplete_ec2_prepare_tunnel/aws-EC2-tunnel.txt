@@ -1,0 +1,41 @@
+
+
+ssh -i ~/.ssh/onrs.pem -N -f -L 8888:localhost:8888 ec2-user@ec2-3-91-63-179.compute-1.amazonaws.com
+
+1. activate torch env on aws DEEP LEARNING AMI:
+
+   source activate pytorch_latest_p37
+
+2. launch aws on REMOTE MACHINE:
+
+   jupyter notebook --certfile=~/ssl/mycert.pem --keyfile ~/ssl/mykey.key
+
+3. launch aws on LOCAL MACHINE:
+
+    ssh -i ~/.ssh/onrs.pem -N -f -L 8888:localhost:8888 ec2-user@ec2-3-91-63-179.compute-1.amazonaws.com
+
+4. access remote jupyter notebook:
+ 		https://localhost:8888
+
+
+####
+### IN EC2 INSTANCE TERMINAL
+     jupyter notebook password
+
+#Create a self-signed SSL certificate. Follow the prompts to fill out your locality as you see fit. You must enter . if you wish to leave a prompt blank. Your answers will not impact the functionality of the certificate.
+
+	cd ~
+	mkdir ssl
+	cd ssl
+	openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout mykey.key -out mycert.pem
+	(might need chmod )
+
+
+
+launch local server:
+python -m http.server 8000
+
+kill local server:
+lsof -ti:8888 | xargs kill -9
+
+ssh -i ~/.ssh/onrs.pem -N -f -L 8888:localhost:8888 ec2-user@ec2-3-91-63-179.compute-1.amazonaws.com

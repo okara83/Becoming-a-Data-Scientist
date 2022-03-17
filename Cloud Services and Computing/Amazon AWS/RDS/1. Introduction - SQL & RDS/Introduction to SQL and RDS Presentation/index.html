@@ -1,0 +1,492 @@
+<!DOCTYPE html>
+	<html class="sl-root decks export offline loaded">
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<title>Code</title>
+
+
+		<link rel="stylesheet" type="text/css" href="lib/offline-v2.css">
+
+
+
+		<!-- User CSS -->
+		<style id="user-css-output" type="text/css">
+			.reveal .monospace-font h1,
+.reveal .monospace-font h2,
+.reveal .monospace-font h3 {
+  font-family: monospace;
+}
+
+		</style>
+	</head>
+	<body class="reveal-viewport theme-font-helvetica theme-color-black-mint">
+		<div class="reveal">
+			<div class="slides">
+				<section data-background-image="code/5575a831fd35ef978963ce97fc5c4737" data-background-opacity="0.2" data-background-transition="fade" data-id="d1310a4b803f09abe0a2f3b8bcfe1176"><div class="sl-block" data-block-type="text" style="width: 837px; left: 61.5px; top: 192px; height: auto;" data-block-id="b665c5a6c73de4b7ef9e90c49880c1b6"><div class="sl-block-style" style="z-index: 10; transform: rotate(0deg); filter: drop-shadow(rgba(28, 235, 123, 0.7) 0px 0px 6px);"><div class="sl-block-content monospace-font" data-placeholder-tag="h1" style="z-index: 10; color: rgb(28, 235, 123); font-size: 150%; line-height: 1.04;" dir="ui" data-has-line-height="" data-placeholder-text="Text">
+<h1>{SQL &amp; RDS}</h1>
+</div></div></div>
+
+<div class="sl-block" data-block-type="text" style="width: 837px; left: 61.5px; top: 399px; height: auto;" data-name="text-d18e72" data-block-id="cc1962857fefc2538204a17ee2daed07"><div class="sl-block-style" style="z-index: 11; filter: drop-shadow(rgba(28, 235, 123, 0.7) 0px 0px 5px);"><div class="sl-block-content" data-placeholder-tag="p" style="z-index: 11; text-align: center; color: rgb(28, 235, 123); font-size: 110%;" data-placeholder-text="Text" dir="ui"><p>An Introduction To SQL Databases and AWS Relational Database Service (RDS)</p></div></div></div>
+
+
+
+
+</section><section data-id="d9a7a25c13e0610a532e7e40ea21f6db"><div class="sl-block" data-block-type="image" data-name="image-3c39ef" style="width: 428.603px; height: 699px; left: 531.397px; top: 0px; min-width: 1px; min-height: 1px;" data-block-id="ed3fd1a462c2dd938b556eb3758e9347">
+    <div class="sl-block-content" style="z-index: 10;"><img data-natural-width="1920" data-natural-height="2549" style="left: -87px; top: 0px; width: 527px; height: 699px;" data-lazy-loaded="" data-crop-x="0.165085" data-crop-y="0" data-crop-width="0.814042" data-crop-height="1" data-src="code/08afa17ceb17e657770c44f2c418c094"></div>
+</div>
+
+
+
+
+
+<div class="sl-block" data-block-type="text" style="width: 108.5px; left: 6px; top: 1.5px; height: auto;" data-name="text-3f789d" data-block-id="0b5037b63ecd084784a5beef72691a31">
+    <div class="sl-block-style" style="z-index: 14; filter: drop-shadow(rgba(28, 235, 123, 0.5) 0px 0px 5px);"><div class="sl-block-content" data-placeholder-tag="pre" style="z-index: 14; text-align: left; font-size: 44%; color: rgb(28, 235, 123); padding: 5px; background-color: rgba(0, 0, 0, 0);" dir="ui" data-placeholder-text="Text">
+<pre># 1
+</pre>
+</div></div>
+</div>
+<div class="sl-block" data-block-type="line" data-name="line-49cd6b" style="width: auto; height: auto; left: 114.5px; top: 14px;" data-block-id="948f10ae184d45728e0f8b1ef83da1d9">
+    <div class="sl-block-style" style="z-index: 13; filter: drop-shadow(rgba(28, 235, 123, 0.5) 0px 0px 5px);"><div class="sl-block-content" data-line-x1="0" data-line-y1="0" data-line-x2="402.5" data-line-y2="0.5" data-line-color="#1ceb7b" data-line-start-type="none" data-line-end-type="none" style="z-index: 13;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveaspectratio="xMidYMid" width="402.5" height="1" viewbox="0 0 402.5 1"><line stroke="rgba(0,0,0,0)" stroke-width="15" x1="0" y1="0" x2="402.5" y2="0.5"></line><line class="line-element" stroke="#1ceb7b" stroke-width="2" x1="0" y1="0" x2="402.5" y2="0.5"></line></svg></div></div>
+</div>
+<div class="sl-block" data-block-type="text" style="width: 467.5px; left: 23px; top: 103px; height: auto;" data-name="text-6dae06" data-block-id="29f72d309d28567cffa36f7802127a2a">
+    <div class="sl-block-content" data-placeholder-tag="h2" style="text-align: left; z-index: 11; color: rgb(255, 255, 255); padding: 10px; line-height: 1.17; font-size: 90%;" data-has-line-height="" data-placeholder-text="Text">
+<h2> Basic Concepts</h2>
+</div>
+</div>
+<div class="sl-block" data-block-type="text" style="width: 537.5px; left: -6.103px; top: 234px; height: auto;" data-name="text-a770d7" data-block-id="ddee2f65e85cc43ce8fb426604605684">
+    <div class="sl-block-content" data-placeholder-tag="p" style="z-index: 12; text-align: left; color: rgb(255, 255, 255); font-size: 90%; padding: 10px;" data-placeholder-text="Text">
+<ul>
+	<li><span style="font-size:0.7em"><span style="color:#00FF00">The<em> </em><strong><em>Structured Query Language </em>(</strong>aka SQL) is used to communicate with a database. </span></span></li>
+	<li><span style="font-size:0.7em"><span style="color:#00FF00">SQL is the standard language for relational database management systems.</span></span></li>
+	<li><span style="color:#00FF00"><span style="font-size:0.7em">SQL statements are used to perform tasks such as update data on a database, or retrieve data from a database.</span></span></li>
+	<li><span style="color:#00FF00"><span style="font-size:0.7em">Some common relational database management systems that use SQL are: Oracle DB, MySQL, MS SQL Server, PostgreSQL, IBM Db2, Microsoft Access, and SQLite</span></span></li>
+</ul>
+</div>
+</div></section><section data-id="264e627e27165cc505cfa8a31bd30c03">
+
+
+
+
+
+
+
+
+
+
+<div class="sl-block" data-block-type="text" style="width: 800px; left: 80px; top: 49.5px; height: auto;" data-name="text-c29943" data-block-id="8b556fe89083bc160ed047e62d131147"><div class="sl-block-content" data-placeholder-tag="h2" style="text-align: center; z-index: 14; color: rgb(255, 255, 255); font-size: 90%; line-height: 1.17;" data-has-line-height="" data-placeholder-text="Text">
+<h2>Why Use SQL?</h2>
+</div></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="sl-block sl-block-group" data-block-type="group" data-name="group-fb20c8" style="height: auto;" data-block-id="bac7326af73118d666ab7557a0050461"><div class="sl-block-content sl-block-group-content" style="transform-origin: 199px 375px; z-index: 15; transition-duration: 0.6s; transition-delay: 0.1s;" data-animation-type="slide-up">
+
+<div class="sl-block" data-block-type="shape" style="width: 238px; height: 368px; left: 80px; top: 253px;" data-name="shape-e1e4ba" data-block-id="95a6abd614c2253c4d487a89271d467e"><div class="sl-block-content" data-shape-type="rect" data-shape-fill-color="rgb(0, 0, 0)" data-shape-stretch="true" style="z-index: 16;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%" preserveaspectratio="none" viewbox="0 0 238 368"><rect width="238" height="368" rx="0" ry="0" class="shape-element" fill="rgb(0, 0, 0)"></rect></svg></div></div>
+
+
+<div class="sl-block" data-block-type="text" style="width: 238px; left: 80px; top: 271px; height: auto;" data-name="text-96a5c5" data-block-id="269edfdd402bd964aa48c0f116507e5e"><div class="sl-block-content" data-placeholder-tag="p" style="z-index: 17; text-align: left; font-size: 60%; color: rgb(255, 255, 255); padding: 14px;" data-placeholder-text="Text">
+<p><span style="font-size:0.9em"><span class="ILfuVd"><span class="hgKElc">It <strong>provides cost-efficient and resizable capacity</strong> while automating time-consuming administration tasks such as hardware provisioning, database setup, patching and backups. It frees you to focus on your applications so you can give them the fast performance, high availability, security and compatibility they need.</span></span></span></p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="width: 238px; left: 80px; top: 129px; height: auto;" data-name="text-b45c7e" data-block-id="d7bccc4560c6405c2b661ed01448910b"><div class="sl-block-style" style="z-index: 18; filter: drop-shadow(rgba(28, 235, 123, 0.5) 0px 0px 5px);"><div class="sl-block-content" data-placeholder-tag="h2" style="text-align: left; z-index: 18; color: rgb(34, 34, 34); font-size: 140%; background-color: rgb(28, 235, 123); padding: 10px;" data-placeholder-text="Text">
+<h2><strong>1.</strong></h2>
+</div></div></div>
+</div></div>
+<div class="sl-block sl-block-group" data-block-type="group" style="height: auto;" data-name="group-f4d45f" data-block-id="c02a2ff9cceacbaf07df85a06fec3197"><div class="sl-block-content sl-block-group-content" style="transform-origin: 475px 375px; z-index: 10; transition-duration: 0.7s; transition-delay: 0.2s;" data-animation-type="slide-up">
+
+<div class="sl-block" data-block-type="shape" style="width: 238px; height: 368px; left: 361px; top: 253px;" data-name="shape-689449" data-block-id="edaa2062f7e14f4d3259e6ab9d06681c"><div class="sl-block-content" data-shape-type="rect" data-shape-fill-color="rgb(0, 0, 0)" data-shape-stretch="true" style="z-index: 11;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%" preserveaspectratio="none" viewbox="0 0 238 368"><rect width="238" height="368" rx="0" ry="0" class="shape-element" fill="rgb(0, 0, 0)"></rect></svg></div></div>
+
+
+
+<div class="sl-block" data-block-type="text" style="width: 238px; left: 361px; top: 129px; height: auto;" data-name="text-8be4db" data-block-id="cbcdeee260d9a1e1f824db5a95a677b0"><div class="sl-block-style" style="z-index: 12; filter: drop-shadow(rgba(28, 235, 123, 0.5) 0px 0px 5px);"><div class="sl-block-content" data-placeholder-tag="h2" style="text-align: left; z-index: 12; color: rgb(34, 34, 34); font-size: 140%; background-color: rgb(28, 235, 123); padding: 10px;" data-placeholder-text="Text">
+<h2><strong>2.</strong></h2>
+</div></div></div>
+<div class="sl-block" data-block-type="text" style="width: 238px; left: 351px; top: 271px; height: auto;" data-name="text-db6149" data-block-id="bc7e6ebdb7404de26a9c69f05ebdce84"><div class="sl-block-content" data-placeholder-tag="p" style="z-index: 13; text-align: left; font-size: 60%; color: rgb(255, 255, 255); padding: 14px;" data-placeholder-text="Text">
+<ul>
+	<li>
+<span style="color:#FFFFFF">​Easy Deployment </span><span style="color:#FFFFFF"><span style="font-size:0.5em">  Amazon RDS allows you to use either the AWS Management Console or a set of APIs to create, delete, and modify your database instances.</span></span>
+</li>
+	<li><span style="color:#FFFFFF">Fast Storage Options</span></li>
+	<li><span style="color:#FFFFFF">Backup &amp; Recovery</span></li>
+	<li><span style="color:#FFFFFF">High Availability</span></li>
+	<li><span style="color:#FFFFFF">Monitoring/Metrics</span></li>
+	<li><span style="color:#FFFFFF">Security</span></li>
+</ul>
+</div></div>
+</div></div>
+<div class="sl-block sl-block-group" data-block-type="group" style="height: auto;" data-name="group-ec6d02" data-block-id="d6e3e4dd7dca052095fac102bfa38c9d"><div class="sl-block-content sl-block-group-content" style="transform-origin: 761px 370.5px; z-index: 19; transition-duration: 0.8s; transition-delay: 0.3s;" data-animation-type="slide-up">
+
+<div class="sl-block" data-block-type="shape" style="width: 238px; height: 359px; left: 642px; top: 253px;" data-name="shape-20ff07" data-block-id="0f15beafe4c5afbe453f038c87b9a8bc"><div class="sl-block-content" data-shape-type="rect" data-shape-fill-color="rgb(0, 0, 0)" data-shape-stretch="true" style="z-index: 20;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%" preserveaspectratio="none" viewbox="0 0 238 359"><rect width="238" height="359" rx="0" ry="0" class="shape-element" fill="rgb(0, 0, 0)"></rect></svg></div></div>
+
+
+
+<div class="sl-block" data-block-type="text" style="width: 238px; left: 642px; top: 129px; height: auto;" data-name="text-94a0c0" data-block-id="7c028fd202765b12b79f88a3e8ae9247"><div class="sl-block-style" style="z-index: 21; filter: drop-shadow(rgba(28, 235, 123, 0.5) 0px 0px 5px);"><div class="sl-block-content" data-placeholder-tag="h2" style="text-align: left; z-index: 21; color: rgb(34, 34, 34); font-size: 140%; background-color: rgb(28, 235, 123); padding: 10px;" data-placeholder-text="Text">
+<h2><strong>3.</strong></h2>
+</div></div></div>
+<div class="sl-block" data-block-type="text" style="width: 230px; left: 642px; top: 236px; height: auto;" data-name="text-4d6c8a" data-block-id="e51bf40701a29fe12a16993e7a6931c8"><div class="sl-block-content" data-placeholder-tag="p" style="z-index: 22; text-align: left; font-size: 60%; color: rgb(255, 255, 255); padding: 14px;" data-placeholder-text="Text" dir="ui">
+<p> </p>
+
+<ul>
+	<li><span style="color:#FFFFFF"><strong>Scalability</strong></span></li>
+	<li><strong>Vertical Scalability /Scaling Up</strong></li>
+	<li><strong>HorizontalScalability /Scaling out</strong></li>
+	<li><strong>Performance</strong></li>
+</ul>
+</div></div>
+</div></div>
+<div class="sl-block" data-block-type="text" style="width: 108.5px; left: 6px; top: 1.5px; height: auto;" data-name="text-3f789d" data-block-id="d04b3224eda2a19bd7104089234fa6df">
+    <div class="sl-block-style" style="z-index: 24; filter: drop-shadow(rgba(28, 235, 123, 0.5) 0px 0px 5px);"><div class="sl-block-content" data-placeholder-tag="pre" style="z-index: 24; text-align: left; font-size: 44%; color: rgb(28, 235, 123); padding: 5px; background-color: rgba(0, 0, 0, 0);" dir="ui" data-placeholder-text="Text">
+<pre># 2</pre>
+</div></div>
+</div>
+<div class="sl-block" data-block-type="line" data-name="line-49cd6b" style="width: auto; height: auto; left: 114.5px; top: 14px;" data-block-id="7a882e5807dc6d43b3615516d829390c">
+    <div class="sl-block-style" style="z-index: 23; filter: drop-shadow(rgba(28, 235, 123, 0.5) 0px 0px 5px);"><div class="sl-block-content" data-line-x1="0" data-line-y1="0" data-line-x2="845.5" data-line-y2="0" data-line-color="#1ceb7b" data-line-start-type="none" data-line-end-type="none" style="z-index: 23;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveaspectratio="xMidYMid" width="845.5" height="1" viewbox="0 0 845.5 1"><line stroke="rgba(0,0,0,0)" stroke-width="15" x1="0" y1="0" x2="845.5" y2="0"></line><line class="line-element" stroke="#1ceb7b" stroke-width="2" x1="0" y1="0" x2="845.5" y2="0"></line></svg></div></div>
+</div></section><section data-id="c3224086bdd00fb0696d14d4ba00bd6f"><div class="sl-block" data-block-type="line" data-name="line-238933" style="width: auto; height: auto; left: 0px; top: 350px;" data-block-id="53e9bc25c604ce45513669955da251fe"><div class="sl-block-style" style="z-index: 10; filter: drop-shadow(rgba(28, 235, 123, 0.5) 0px 0px 5px);"><div class="sl-block-content" data-line-x1="0" data-line-y1="0" data-line-x2="960" data-line-y2="0" data-line-color="#1ceb7b" data-line-start-type="none" data-line-end-type="line-arrow" style="z-index: 10;" data-line-width="2px" data-line-style="solid"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveaspectratio="xMidYMid" width="960" height="1" viewbox="0 0 960 1"><line stroke="rgba(0,0,0,0)" stroke-width="15" x1="0" y1="0" x2="958" y2="0"></line><line class="line-element" stroke="#1ceb7b" stroke-width="2" x1="0" y1="0" x2="958" y2="0"></line><path style="fill: rgba(0,0,0,0);" stroke="#1ceb7b" stroke-width="2" transform="translate(958,0) rotate(90)" d="M 6 6 L 0 0 L -6 6"></path></svg></div></div></div>
+<div class="sl-block sl-block-group" data-block-type="group" data-name="group-f42613" style="height: auto;" data-block-id="292494723d5c444262362e9c4f211e2a"><div class="sl-block-content sl-block-group-content fragment fade-in-then-semi-out" style="transform-origin: 104.834px 438.25px; z-index: 11;" data-fragment-index="0">
+<div class="sl-block" data-block-type="shape" data-name="shape-fec14c" style="width: 24px; height: 24px; left: 94px; top: 338px;" data-block-id="cb24309929269325bf8ad0998fa604de"><div class="sl-block-style" style="z-index: 13; filter: drop-shadow(rgba(28, 235, 123, 0.5) 0px 0px 5px);"><div class="sl-block-content" data-shape-type="diamond" data-shape-fill-color="rgb(28, 235, 123)" data-shape-stretch="true" style="z-index: 13;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%" preserveaspectratio="none" viewbox="0 0 24 24"><polygon points="24,12 12,24 0,12 12,0" class="shape-element" fill="rgb(28, 235, 123)"></polygon></svg></div></div></div>
+<div class="sl-block" data-block-type="line" data-name="line-ac1f70" style="width: auto; height: auto; min-width: 0px; min-height: 0px; left: 106px; top: 350px;" data-block-id="3cfdb772db1ea56933c7cc5d5dd8fed2"><div class="sl-block-style" style="z-index: 12; filter: drop-shadow(rgba(28, 235, 123, 0.5) 0px 0px 5px);"><div class="sl-block-content" data-line-x1="0" data-line-y1="94.5" data-line-x2="0" data-line-y2="0" data-line-color="#1ceb7b" data-line-start-type="none" data-line-end-type="none" style="z-index: 12;" data-line-width="2px"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveaspectratio="xMidYMid" width="1" height="94.5" viewbox="0 0 1 94.5"><line stroke="rgba(0,0,0,0)" stroke-width="15" x1="0" y1="94.5" x2="0" y2="0"></line><line class="line-element" stroke="#1ceb7b" stroke-width="2" x1="0" y1="94.5" x2="0" y2="0"></line></svg></div></div></div>
+<div class="sl-block" data-block-type="text" style="width: 199.667px; left: 5px; top: 458.5px; height: auto;" data-name="text-2daff8" data-block-id="e12649823504dde653bc179451595d5f"><div class="sl-block-content" data-placeholder-tag="h2" style="text-align: center; z-index: 15; font-size: 70%;" data-placeholder-text="Text">
+<h2><strong>1</strong></h2>
+</div></div>
+<div class="sl-block" data-block-type="text" style="width: 199.667px; left: 5px; top: 514.5px; height: auto;" data-name="text-3744dd" data-block-id="9617f36dc3cb056c8c89679c550ee3e2"><div class="sl-block-content" data-placeholder-tag="p" style="z-index: 14; text-align: center; font-size: 60%;" data-placeholder-text="Text">
+<p>Sign into AWS Console</p>
+</div></div>
+</div></div>
+<div class="sl-block sl-block-group" data-block-type="group" data-name="group-2d96a5" style="height: auto;" data-block-id="2eaf7d0fb20c94dd45bb4314b094731e"><div class="sl-block-content sl-block-group-content fragment fade-in-then-semi-out" style="transform-origin: 242.999px 224.25px; z-index: 16;" data-fragment-index="1">
+<div class="sl-block" data-block-type="shape" style="width: 24px; height: 24px; left: 233px; top: 338px;" data-name="shape-05b447" data-block-id="65df7cd74420e84eebe94fa5f153de47"><div class="sl-block-style" style="z-index: 18; filter: drop-shadow(rgba(28, 235, 123, 0.5) 0px 0px 5px);"><div class="sl-block-content" data-shape-type="diamond" data-shape-fill-color="rgb(28, 235, 123)" data-shape-stretch="true" style="z-index: 18;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%" preserveaspectratio="none" viewbox="0 0 24 24"><polygon points="24,12 12,24 0,12 12,0" class="shape-element" fill="rgb(28, 235, 123)"></polygon></svg></div></div></div>
+<div class="sl-block" data-block-type="line" style="width: auto; height: auto; min-width: 0px; min-height: 0px; left: 245px; top: 255.5px;" data-name="line-aee647" data-block-id="5913e77688a93e54a329945a5b79de6f"><div class="sl-block-style" style="z-index: 17; filter: drop-shadow(rgba(28, 235, 123, 0.5) 0px 0px 5px);"><div class="sl-block-content" data-line-x1="0" data-line-y1="94.5" data-line-x2="0" data-line-y2="0" data-line-color="#1ceb7b" data-line-start-type="none" data-line-end-type="none" style="z-index: 17;" data-line-width="2px"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveaspectratio="xMidYMid" width="1" height="94.5" viewbox="0 0 1 94.5"><line stroke="rgba(0,0,0,0)" stroke-width="15" x1="0" y1="94.5" x2="0" y2="0"></line><line class="line-element" stroke="#1ceb7b" stroke-width="2" x1="0" y1="94.5" x2="0" y2="0"></line></svg></div></div></div>
+<div class="sl-block" data-block-type="text" style="width: 199.667px; left: 143.166px; top: 86.5px; height: auto;" data-name="text-2a78c2" data-block-id="ae8bd474c789652d804ed5c89a57f74e"><div class="sl-block-content" data-placeholder-tag="h2" style="text-align: center; z-index: 19; font-size: 70%;" data-placeholder-text="Text">
+<h2><strong>2</strong></h2>
+</div></div>
+
+<div class="sl-block" data-block-type="text" style="width: 199.667px; left: 143.166px; top: 140.5px; height: auto;" data-name="text-4e1d6f" data-block-id="4e44692b4019d15cb039e89231d95308"><div class="sl-block-content" data-placeholder-tag="p" style="z-index: 20; text-align: center; font-size: 60%;" data-placeholder-text="Text">
+<p>Find and click 'RDS'</p>
+</div></div>
+</div></div>
+
+
+
+<div class="sl-block sl-block-group" data-block-type="group" style="height: auto;" data-name="group-866a7e" data-block-id="5b114bd3adfa130ea3de585c6c7563ab"><div class="sl-block-content sl-block-group-content fragment fade-in-then-semi-out" style="transform-origin: 389px 438.25px; z-index: 21;" data-fragment-index="2">
+<div class="sl-block" data-block-type="shape" style="width: 24px; height: 24px; left: 377.167px; top: 338px;" data-name="shape-238df7" data-block-id="bb80bcc659e0644aa77efb1bccb5e9d9"><div class="sl-block-style" style="z-index: 23; filter: drop-shadow(rgba(28, 235, 123, 0.5) 0px 0px 5px);"><div class="sl-block-content" data-shape-type="diamond" data-shape-fill-color="rgb(28, 235, 123)" data-shape-stretch="true" style="z-index: 23;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%" preserveaspectratio="none" viewbox="0 0 24 24"><polygon points="24,12 12,24 0,12 12,0" class="shape-element" fill="rgb(28, 235, 123)"></polygon></svg></div></div></div>
+<div class="sl-block" data-block-type="line" style="width: auto; height: auto; min-width: 0px; min-height: 0px; left: 389.167px; top: 350px;" data-name="line-dff621" data-block-id="5894fe3515d4fc7136f0812c60dcdfba"><div class="sl-block-style" style="z-index: 22; filter: drop-shadow(rgba(28, 235, 123, 0.5) 0px 0px 5px);"><div class="sl-block-content" data-line-x1="0" data-line-y1="94.5" data-line-x2="0" data-line-y2="0" data-line-color="#1ceb7b" data-line-start-type="none" data-line-end-type="none" style="z-index: 22;" data-line-width="2px"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveaspectratio="xMidYMid" width="1" height="94.5" viewbox="0 0 1 94.5"><line stroke="rgba(0,0,0,0)" stroke-width="15" x1="0" y1="94.5" x2="0" y2="0"></line><line class="line-element" stroke="#1ceb7b" stroke-width="2" x1="0" y1="94.5" x2="0" y2="0"></line></svg></div></div></div>
+<div class="sl-block" data-block-type="text" style="width: 199.667px; left: 289.167px; top: 458.5px; height: auto;" data-name="text-77a191" data-block-id="1dc02ad20de22c9887e3ed25bdefb636"><div class="sl-block-content" data-placeholder-tag="h2" style="text-align: center; z-index: 25; font-size: 70%;" data-placeholder-text="Text">
+<h2><strong>3</strong></h2>
+</div></div>
+<div class="sl-block" data-block-type="text" style="width: 199.667px; left: 289.167px; top: 514.5px; height: auto;" data-name="text-c80f6c" data-block-id="0c6df002a5b657735c12990a45f7c99e"><div class="sl-block-content" data-placeholder-tag="p" style="z-index: 24; text-align: center; font-size: 60%;" data-placeholder-text="Text">
+<p>Click 'Create Database'</p>
+</div></div>
+</div></div>
+<div class="sl-block sl-block-group" data-block-type="group" style="height: auto;" data-name="group-e39e51" data-block-id="7561712a1b63ae4ed2d6cdc25168adbf"><div class="sl-block-content sl-block-group-content fragment fade-in-then-semi-out" style="transform-origin: 699.833px 449.75px; z-index: 26;" data-fragment-index="4">
+<div class="sl-block" data-block-type="shape" style="width: 24px; height: 24px; left: 687px; top: 338px;" data-name="shape-fabd4e" data-block-id="3fe18179c8aed12c7ad56d4dd3e3edd9"><div class="sl-block-style" style="z-index: 28; filter: drop-shadow(rgba(28, 235, 123, 0.5) 0px 0px 5px);"><div class="sl-block-content" data-shape-type="diamond" data-shape-fill-color="rgb(28, 235, 123)" data-shape-stretch="true" style="z-index: 28;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%" preserveaspectratio="none" viewbox="0 0 24 24"><polygon points="24,12 12,24 0,12 12,0" class="shape-element" fill="rgb(28, 235, 123)"></polygon></svg></div></div></div>
+<div class="sl-block" data-block-type="line" style="width: auto; height: auto; min-width: 0px; min-height: 0px; left: 699px; top: 350px;" data-name="line-4540d1" data-block-id="e1fdd31aa59775098ef99117406a4341"><div class="sl-block-style" style="z-index: 27; filter: drop-shadow(rgba(28, 235, 123, 0.5) 0px 0px 5px);"><div class="sl-block-content" data-line-x1="0" data-line-y1="94.5" data-line-x2="0" data-line-y2="0" data-line-color="#1ceb7b" data-line-start-type="none" data-line-end-type="none" style="z-index: 27;" data-line-width="2px"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveaspectratio="xMidYMid" width="1" height="94.5" viewbox="0 0 1 94.5"><line stroke="rgba(0,0,0,0)" stroke-width="15" x1="0" y1="94.5" x2="0" y2="0"></line><line class="line-element" stroke="#1ceb7b" stroke-width="2" x1="0" y1="94.5" x2="0" y2="0"></line></svg></div></div></div>
+<div class="sl-block" data-block-type="text" style="width: 199.667px; left: 600px; top: 458.5px; height: auto;" data-name="text-7e71af" data-block-id="4f8693a676f7e808a1c484872606ee32"><div class="sl-block-content" data-placeholder-tag="h2" style="text-align: center; z-index: 30; font-size: 70%;" data-placeholder-text="Text">
+<h2><strong>5</strong></h2>
+</div></div>
+<div class="sl-block" data-block-type="text" style="width: 199.667px; left: 600px; top: 514.5px; height: auto;" data-name="text-9b7ec7" data-block-id="4553677266dd4a73aa613acb270ab937"><div class="sl-block-content" data-placeholder-tag="p" style="z-index: 29; text-align: center; font-size: 60%;" data-placeholder-text="Text">
+<p>Take Note Of Options Available</p>
+</div></div>
+</div></div>
+<div class="sl-block sl-block-group" data-block-type="group" style="height: auto;" data-name="group-9531dd" data-block-id="5ee71db662cac6a81c404f3eb1d5ea9c"><div class="sl-block-content sl-block-group-content fragment fade-in-then-semi-out" style="transform-origin: 540px 224.25px; z-index: 31;" data-fragment-index="3">
+<div class="sl-block" data-block-type="shape" style="width: 24px; height: 24px; left: 530.001px; top: 338px;" data-name="shape-96b869" data-block-id="5f3d72e1661e0337e1991b7cdae7577d"><div class="sl-block-style" style="z-index: 33; filter: drop-shadow(rgba(28, 235, 123, 0.5) 0px 0px 5px);"><div class="sl-block-content" data-shape-type="diamond" data-shape-fill-color="rgb(28, 235, 123)" data-shape-stretch="true" style="z-index: 33;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%" preserveaspectratio="none" viewbox="0 0 24 24"><polygon points="24,12 12,24 0,12 12,0" class="shape-element" fill="rgb(28, 235, 123)"></polygon></svg></div></div></div>
+<div class="sl-block" data-block-type="line" style="width: auto; height: auto; min-width: 0px; min-height: 0px; left: 542.001px; top: 255.5px;" data-name="line-545aef" data-block-id="2de92f0e80cd079a960dd00426c44131"><div class="sl-block-style" style="z-index: 32; filter: drop-shadow(rgba(28, 235, 123, 0.5) 0px 0px 5px);"><div class="sl-block-content" data-line-x1="0" data-line-y1="94.5" data-line-x2="0" data-line-y2="0" data-line-color="#1ceb7b" data-line-start-type="none" data-line-end-type="none" style="z-index: 32;" data-line-width="2px"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveaspectratio="xMidYMid" width="1" height="94.5" viewbox="0 0 1 94.5"><line stroke="rgba(0,0,0,0)" stroke-width="15" x1="0" y1="94.5" x2="0" y2="0"></line><line class="line-element" stroke="#1ceb7b" stroke-width="2" x1="0" y1="94.5" x2="0" y2="0"></line></svg></div></div></div>
+<div class="sl-block" data-block-type="text" style="width: 199.667px; left: 440.167px; top: 86.5px; height: auto;" data-name="text-eba752" data-block-id="1ba5dfbb499b2ec2df3b325e916b8e4d"><div class="sl-block-content" data-placeholder-tag="h2" style="text-align: center; z-index: 34; font-size: 70%;" data-placeholder-text="Text">
+<h2><strong>4</strong></h2>
+</div></div>
+
+<div class="sl-block" data-block-type="text" style="width: 199.667px; left: 440.167px; top: 140.5px; height: auto;" data-name="text-69da15" data-block-id="b04d5d27d792ede910a0eed7278c0659"><div class="sl-block-content" data-placeholder-tag="p" style="z-index: 35; text-align: center; font-size: 60%;" data-placeholder-text="Text">
+<p>Select 'PostgreSQL'</p>
+</div></div>
+</div></div>
+<div class="sl-block sl-block-group" data-block-type="group" style="height: auto;" data-name="group-f747fd" data-block-id="b086779651f9b018f0b2f71ae5c38bd5"><div class="sl-block-content sl-block-group-content fragment" style="transform-origin: 837.001px 224.25px; z-index: 36;" data-fragment-index="5">
+<div class="sl-block" data-block-type="shape" style="width: 24px; height: 24px; left: 827.001px; top: 338px;" data-name="shape-c906ee" data-block-id="9931fc320c7592778411ab19ea25c554"><div class="sl-block-style" style="z-index: 38; filter: drop-shadow(rgba(28, 235, 123, 0.5) 0px 0px 5px);"><div class="sl-block-content" data-shape-type="diamond" data-shape-fill-color="rgb(28, 235, 123)" data-shape-stretch="true" style="z-index: 38;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%" preserveaspectratio="none" viewbox="0 0 24 24"><polygon points="24,12 12,24 0,12 12,0" class="shape-element" fill="rgb(28, 235, 123)"></polygon></svg></div></div></div>
+<div class="sl-block" data-block-type="line" style="width: auto; height: auto; min-width: 0px; min-height: 0px; left: 839.001px; top: 255.5px;" data-name="line-a36683" data-block-id="251747e675cf63a86a050b0a478c3246"><div class="sl-block-style" style="z-index: 37; filter: drop-shadow(rgba(28, 235, 123, 0.5) 0px 0px 5px);"><div class="sl-block-content" data-line-x1="0" data-line-y1="94.5" data-line-x2="0" data-line-y2="0" data-line-color="#1ceb7b" data-line-start-type="none" data-line-end-type="none" style="z-index: 37;" data-line-width="2px"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveaspectratio="xMidYMid" width="1" height="94.5" viewbox="0 0 1 94.5"><line stroke="rgba(0,0,0,0)" stroke-width="15" x1="0" y1="94.5" x2="0" y2="0"></line><line class="line-element" stroke="#1ceb7b" stroke-width="2" x1="0" y1="94.5" x2="0" y2="0"></line></svg></div></div></div>
+<div class="sl-block" data-block-type="text" style="width: 199.667px; left: 737.167px; top: 86.5px; height: auto;" data-name="text-4bda9b" data-block-id="a19adc01c10c8038d026868712de2b01"><div class="sl-block-content" data-placeholder-tag="h2" style="text-align: center; z-index: 39; font-size: 70%;" data-placeholder-text="Text">
+<h2><strong>6</strong></h2>
+</div></div>
+
+<div class="sl-block" data-block-type="text" style="width: 199.667px; left: 737.167px; top: 140.5px; height: auto;" data-name="text-452c90" data-block-id="42f97170da35fce38fcf204cddf8a33d"><div class="sl-block-content" data-placeholder-tag="p" style="z-index: 40; text-align: center; font-size: 60%;" data-placeholder-text="Text">
+<p>Select Options According to your task. For now Follow along with what is done in this intro.</p>
+</div></div>
+</div></div>
+<div class="sl-block" data-block-type="text" style="width: 160px; left: 6px; top: 1.5px; height: auto;" data-name="text-3f789d" data-block-id="d9390b625496a75843a2d7520d9e1d3b">
+    <div class="sl-block-style" style="z-index: 41; filter: drop-shadow(rgba(28, 235, 123, 0.5) 0px 0px 5px);"><div class="sl-block-content" data-placeholder-tag="pre" style="z-index: 41; text-align: left; font-size: 44%; color: rgb(28, 235, 123); padding: 5px; background-color: rgba(0, 0, 0, 0);" dir="ui" data-placeholder-text="Text">
+<pre># 3</pre>
+</div></div>
+</div></section><section data-id="8ff54786696e333b378c982d79470acb" data-auto-animate="">
+
+
+
+
+
+
+
+
+<div class="sl-block" data-block-type="text" style="width: 160px; left: 6px; top: 1.5px; height: auto;" data-name="text-3f789d" data-block-id="4672c6a295bcde3832b057160a471ef8">
+    <div class="sl-block-style" style="z-index: 11; filter: drop-shadow(rgba(28, 235, 123, 0.5) 0px 0px 5px);"><div class="sl-block-content" data-placeholder-tag="pre" style="z-index: 11; text-align: left; font-size: 44%; color: rgb(28, 235, 123); padding: 5px; background-color: rgba(0, 0, 0, 0);" dir="ui" data-placeholder-text="Text">
+<pre># 4</pre>
+</div></div>
+</div>
+<div class="sl-block" data-block-type="line" data-name="line-49cd6b" style="width: auto; height: auto; left: 166px; top: 14px;" data-block-id="e1a5d7ef923586a7e3b8752a988d7214">
+    <div class="sl-block-style" style="z-index: 10; filter: drop-shadow(rgba(28, 235, 123, 0.5) 0px 0px 5px);"><div class="sl-block-content" data-line-x1="0" data-line-y1="0" data-line-x2="787" data-line-y2="0.5" data-line-color="#1ceb7b" data-line-start-type="none" data-line-end-type="none" style="z-index: 10;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveaspectratio="xMidYMid" width="787" height="1" viewbox="0 0 787 1"><line stroke="rgba(0,0,0,0)" stroke-width="15" x1="0" y1="0" x2="787" y2="0.5"></line><line class="line-element" stroke="#1ceb7b" stroke-width="2" x1="0" y1="0" x2="787" y2="0.5"></line></svg></div></div>
+</div>
+<div class="sl-block" data-block-type="text" style="width: 908px; left: 6px; top: 57.5px; height: auto;" data-name="text-c29943" data-block-id="543070e1d7cc68bf406abe9b303209db"><div class="sl-block-content" data-placeholder-tag="h2" style="text-align: left; z-index: 12; color: rgb(255, 255, 255); font-size: 90%; line-height: 1.17;" dir="ui" data-has-line-height="" data-placeholder-text="Text">
+<h2 style="text-align:center"><span style="color:#00FF00">Carefully Select Options</span></h2>
+
+<h2 style="text-align:center"><span style="color:#00FF00">(Match to Usage Case)</span></h2>
+</div></div>
+<div class="sl-block" data-block-type="text" data-name="text-d2d1ae" style="height: auto; width: 600px; left: 180px; top: 330.5px;" data-block-id="4a93dc084d6fc691d590fe8935ab8420"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 13;">
+<p style="text-align:left">Version: <span style="color:#00FF00">13.x</span></p>
+
+<p style="text-align:left">Template:<span style="color:#800000"> </span><span style="color:#00FF00">Free tier</span></p>
+
+<p style="text-align:left">DB Instance Identifier:<span style="color:#800000"> </span><span style="color:#00FF00">database-1st</span></p>
+
+<p style="text-align:left">Master username: <span style="color:#00FF00">postgre</span></p>
+
+<p style="text-align:left">Initial Database Name: <span style="color:#00FF00">databaseinitialname</span></p>
+
+<p style="text-align:left">Port:<span style="color:#00FF00"> 5432</span></p>
+
+<p style="text-align:left"> </p>
+</div></div></section><section data-id="d584b924590162ce8992b49b9cab8583" data-auto-animate="">
+
+
+
+
+
+
+
+
+<div class="sl-block" data-block-type="text" style="width: 160px; left: 6px; top: 1.5px; height: auto;" data-name="text-3f789d" data-block-id="1017827262a3b0027ea7d7eff254764d">
+    <div class="sl-block-style" style="z-index: 11; filter: drop-shadow(rgba(28, 235, 123, 0.5) 0px 0px 5px);"><div class="sl-block-content" data-placeholder-tag="pre" style="z-index: 11; text-align: left; font-size: 44%; color: rgb(28, 235, 123); padding: 5px; background-color: rgba(0, 0, 0, 0);" dir="ui" data-placeholder-text="Text">
+<pre># 5</pre>
+</div></div>
+</div>
+<div class="sl-block" data-block-type="line" data-name="line-49cd6b" style="width: auto; height: auto; left: 166px; top: 14px;" data-block-id="0b79327638c71e1ab91c1db8312524f4">
+    <div class="sl-block-style" style="z-index: 10; filter: drop-shadow(rgba(28, 235, 123, 0.5) 0px 0px 5px);"><div class="sl-block-content" data-line-x1="0" data-line-y1="0" data-line-x2="787" data-line-y2="0.5" data-line-color="#1ceb7b" data-line-start-type="none" data-line-end-type="none" style="z-index: 10;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveaspectratio="xMidYMid" width="787" height="1" viewbox="0 0 787 1"><line stroke="rgba(0,0,0,0)" stroke-width="15" x1="0" y1="0" x2="787" y2="0.5"></line><line class="line-element" stroke="#1ceb7b" stroke-width="2" x1="0" y1="0" x2="787" y2="0.5"></line></svg></div></div>
+</div>
+<div class="sl-block" data-block-type="text" style="width: 933px; left: 6px; top: 57.5px; height: auto;" data-name="text-c29943" data-block-id="38fc7c11c36393af9c2a38dbce3bab22"><div class="sl-block-content" data-placeholder-tag="h2" style="text-align: left; z-index: 12; color: rgb(255, 255, 255); font-size: 90%; line-height: 1.17;" dir="ui" data-has-line-height="" data-placeholder-text="Text">
+<h2 style="text-align:center">Check Security Groups for Incoming Permissions To Resemble The Following</h2>
+</div></div>
+<div class="sl-block" data-block-type="text" data-name="text-d2d1ae" style="height: auto; width: 600px; left: 196px; top: 206.5px;" data-block-id="169450e7082d8b066240ba37dfa20bd0"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 13;">
+<ul>
+	<li>Click "Security Groups"</li>
+	<li>Click "Edit Inbound Rules"</li>
+</ul>
+
+<p> </p>
+
+<p>Inbound Rules Should Look Like This:</p>
+</div></div>
+<div class="sl-block" data-block-type="image" data-name="image-81ee75" data-block-id="3e286a4101ab2a994b186910e61cc3b6" style="width: 953px; height: 257.31px; left: 3.5px; top: 399.69px; min-width: 1px; min-height: 1px;"><div class="sl-block-content" style="z-index: 14;"><img style="" data-natural-width="2500" data-natural-height="675" data-lazy-loaded="" data-src="code/8195d514299694dfbd4efe871ccba4a5.png"></div></div></section><section data-id="d7b6733f532f7ddfa012093e26171943">
+
+
+
+
+
+
+
+
+
+<div class="sl-block" data-block-type="text" style="width: 954px; left: 6px; top: 57.5px; height: auto;" data-name="text-c29943" data-block-id="2f2af648f15621eed3f70c74b0ed7f1e"><div class="sl-block-content" data-placeholder-tag="h2" style="text-align: left; z-index: 10; color: rgb(255, 255, 255); line-height: 1.17; font-size: 90%;" dir="ui" data-has-line-height="" data-placeholder-text="Text">
+<h2 style="text-align: center;"><strong>pgAdmin 4</strong></h2>
+</div></div>
+
+<div class="sl-block" data-block-type="text" style="width: 160px; left: 6px; top: 1.5px; height: auto;" data-name="text-3f789d" data-block-id="337afa82326a366710151f3a76a7e744">
+    <div class="sl-block-style" style="z-index: 12; filter: drop-shadow(rgba(28, 235, 123, 0.5) 0px 0px 5px);"><div class="sl-block-content" data-placeholder-tag="pre" style="z-index: 12; text-align: left; font-size: 44%; color: rgb(28, 235, 123); padding: 5px; background-color: rgba(0, 0, 0, 0);" dir="ui" data-placeholder-text="Text">
+<pre># 6</pre>
+</div></div>
+</div>
+<div class="sl-block" data-block-type="line" data-name="line-49cd6b" style="width: auto; height: auto; left: 166px; top: 14px;" data-block-id="bff606b25e1f991ffafb09a08d24dd07">
+    <div class="sl-block-style" style="z-index: 11; filter: drop-shadow(rgba(28, 235, 123, 0.5) 0px 0px 5px);"><div class="sl-block-content" data-line-x1="0" data-line-y1="0" data-line-x2="787" data-line-y2="0.5" data-line-color="#1ceb7b" data-line-start-type="none" data-line-end-type="none" style="z-index: 11;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveaspectratio="xMidYMid" width="787" height="1" viewbox="0 0 787 1"><line stroke="rgba(0,0,0,0)" stroke-width="15" x1="0" y1="0" x2="787" y2="0.5"></line><line class="line-element" stroke="#1ceb7b" stroke-width="2" x1="0" y1="0" x2="787" y2="0.5"></line></svg></div></div>
+</div>
+<div class="sl-block" data-block-type="image" data-name="image-702e67" data-block-id="a9ec2d0eab902db1ed0bbb1bbf4c042e" style="width: 806.4px; height: 518px; left: 79.8px; top: 162px; min-width: 1px; min-height: 1px;"><div class="sl-block-content" style="z-index: 13;" data-maintain-ar="false"><img style="" data-natural-width="1396" data-natural-height="1034" data-lazy-loaded="" data-src="code/815274fd9ea2fb9f7645b747319e74be.png"></div></div></section><section data-id="c3fa2dcf060fcc8e6a6f134b7d31a0aa">
+
+
+
+
+
+
+
+
+
+<div class="sl-block" data-block-type="text" style="width: 954px; left: 6px; top: 57.5px; height: auto;" data-name="text-c29943" data-block-id="74a34d48684a707227fb95bb30a07d3a"><div class="sl-block-content" data-placeholder-tag="h2" style="text-align: left; z-index: 10; color: rgb(255, 255, 255); line-height: 1.17; font-size: 90%;" dir="ui" data-has-line-height="" data-placeholder-text="Text">
+<h2 style="text-align: center;"><strong>pgAdmin 4</strong></h2>
+</div></div>
+
+<div class="sl-block" data-block-type="text" style="width: 160px; left: 6px; top: 1.5px; height: auto;" data-name="text-3f789d" data-block-id="5d89813f106640f47e71ec11109b2d47">
+    <div class="sl-block-style" style="z-index: 12; filter: drop-shadow(rgba(28, 235, 123, 0.5) 0px 0px 5px);"><div class="sl-block-content" data-placeholder-tag="pre" style="z-index: 12; text-align: left; font-size: 44%; color: rgb(28, 235, 123); padding: 5px; background-color: rgba(0, 0, 0, 0);" dir="ui" data-placeholder-text="Text">
+<pre># 7</pre>
+</div></div>
+</div>
+<div class="sl-block" data-block-type="line" data-name="line-49cd6b" style="width: auto; height: auto; left: 166px; top: 14px;" data-block-id="10cfa4502875771a23b769f8a504b9cf">
+    <div class="sl-block-style" style="z-index: 11; filter: drop-shadow(rgba(28, 235, 123, 0.5) 0px 0px 5px);"><div class="sl-block-content" data-line-x1="0" data-line-y1="0" data-line-x2="787" data-line-y2="0.5" data-line-color="#1ceb7b" data-line-start-type="none" data-line-end-type="none" style="z-index: 11;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveaspectratio="xMidYMid" width="787" height="1" viewbox="0 0 787 1"><line stroke="rgba(0,0,0,0)" stroke-width="15" x1="0" y1="0" x2="787" y2="0.5"></line><line class="line-element" stroke="#1ceb7b" stroke-width="2" x1="0" y1="0" x2="787" y2="0.5"></line></svg></div></div>
+</div>
+<div class="sl-block" data-block-type="text" data-name="text-b4facd" data-block-id="4a28d3e26e0b8f349704a170074f8d1a" style="height: auto; width: 780px; left: 90px; top: 202.5px;"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 13;">
+<p style="text-align: left;">Hostname: <span style="color:#00FF00">&lt;your-connection-string&gt;</span></p>
+
+<p style="text-align: left;">username:<span style="color:#00FF00"> &lt;master user name&gt;</span></p>
+
+<p style="text-align: left;">Maintenance database:<span style="color:#00FF00">&lt;databaseinitialname&gt;</span></p>
+
+<p> </p>
+</div></div></section><section data-id="38b1c56f9aa1125c5f93cc2e4200699c" data-auto-animate="">
+
+
+
+
+
+
+<div class="sl-block" data-block-type="code" style="width: 960px; height: auto; left: 0px; top: 214px;" data-name="code-3b288a" data-block-id="cf73a8a35723e50e0aaef30aee43527f"><div class="sl-block-style" style="z-index: 11; opacity: 0.98;"><div class="sl-block-content notranslate" data-highlight-theme="ir-black" style="z-index: 11; border-style: solid; border-radius: 4px;" data-code-frame="osx" data-code-autoheight="true"><pre class="python" style="font-size: 24px; line-height: 29px;"><code style="padding: 15px;" data-line-numbers="">import psycopg2
+
+# Connecting to the Database
+
+def connect_to_db(database, hostname, port, userid, passwrd):
+    conn_string = "host="+hostname+" port="+port+" dbname="
+      +database+" user="+userid+" password="+passwrd
+    # connect to the database with the connection string
+    conn=psycopg2.connect(conn_string)
+    # commits all queries you execute
+    conn.autocommit = True
+    cursor = conn.cursor()
+    return conn, cursor
+
+
+</code></pre></div></div></div>
+<div class="sl-block" data-block-type="text" style="width: 160px; left: 6px; top: 1.5px; height: auto;" data-name="text-3f789d" data-block-id="7c04d506279c5317d4de76cb911c57bc">
+    <div class="sl-block-style" style="z-index: 12; filter: drop-shadow(rgba(28, 235, 123, 0.5) 0px 0px 5px);"><div class="sl-block-content" data-placeholder-tag="pre" style="z-index: 12; text-align: left; font-size: 44%; color: rgb(28, 235, 123); padding: 5px; background-color: rgba(0, 0, 0, 0);" dir="ui" data-placeholder-text="Text">
+<pre># 8</pre>
+</div></div>
+</div>
+<div class="sl-block" data-block-type="line" data-name="line-49cd6b" style="width: auto; height: auto; left: 166px; top: 14px;" data-block-id="195d00aa00066b9e413d704d6dc4bbc6">
+    <div class="sl-block-style" style="z-index: 10; filter: drop-shadow(rgba(28, 235, 123, 0.5) 0px 0px 5px);"><div class="sl-block-content" data-line-x1="0" data-line-y1="0" data-line-x2="787" data-line-y2="0.5" data-line-color="#1ceb7b" data-line-start-type="none" data-line-end-type="none" style="z-index: 10;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveaspectratio="xMidYMid" width="787" height="1" viewbox="0 0 787 1"><line stroke="rgba(0,0,0,0)" stroke-width="15" x1="0" y1="0" x2="787" y2="0.5"></line><line class="line-element" stroke="#1ceb7b" stroke-width="2" x1="0" y1="0" x2="787" y2="0.5"></line></svg></div></div>
+</div>
+<div class="sl-block" data-block-type="text" style="width: 908px; left: 6px; top: 57.5px; height: auto;" data-name="text-c29943" data-block-id="5f9b49ae0f5e76744b7dd05c5e8cd650"><div class="sl-block-content" data-placeholder-tag="h2" style="text-align: left; z-index: 13; color: rgb(255, 255, 255); font-size: 90%; line-height: 1.17;" dir="ui" data-has-line-height="" data-placeholder-text="Text">
+<h2>PostgreSQL Tutorial - Connecting With Python</h2>
+</div></div></section><section data-id="23d60f02eecb8567db53bf65f937b2b7" data-auto-animate="">
+
+
+
+
+
+
+<div class="sl-block" data-block-type="code" style="width: 947px; height: auto; left: 6px; top: 186px;" data-name="code-3b288a" data-block-id="bdcfaaf266fdda8f565b3e787f997e8e"><div class="sl-block-style" style="z-index: 11; opacity: 0.98;"><div class="sl-block-content notranslate" data-highlight-theme="ir-black" style="z-index: 11; border-style: solid; border-radius: 4px;" data-code-frame="osx" data-code-autoheight="true"><pre class="python" style="font-size: 24px; line-height: 29px;"><code style="padding: 15px;" data-line-numbers="">conn, cursor = connect_to_db(
+    database="mytestdata", #this is what you'll see referred to as 'Maintainence Database' on the pgAdmin tool 
+    # and as "DB name" on aws  
+hostname="database-8.cr1xhoidqnwh.us-east-1.rds.amazonaws.com", 
+port="5432", 
+userid="postgres", # this is referred to as  to as 'username ' on the pgAdmin tool and as 'Master Username' on aws when creating the database instance
+passwrd="password")</code></pre></div></div></div>
+<div class="sl-block" data-block-type="text" style="width: 160px; left: 6px; top: 1.5px; height: auto;" data-name="text-3f789d" data-block-id="0b593a71db74de34771cb8657c851b49">
+    <div class="sl-block-style" style="z-index: 12; filter: drop-shadow(rgba(28, 235, 123, 0.5) 0px 0px 5px);"><div class="sl-block-content" data-placeholder-tag="pre" style="z-index: 12; text-align: left; font-size: 44%; color: rgb(28, 235, 123); padding: 5px; background-color: rgba(0, 0, 0, 0);" dir="ui" data-placeholder-text="Text">
+<pre># 9
+</pre>
+</div></div>
+</div>
+<div class="sl-block" data-block-type="line" data-name="line-49cd6b" style="width: auto; height: auto; left: 166px; top: 14px;" data-block-id="ace0c42ee69f28423704ac5a041f3ae4">
+    <div class="sl-block-style" style="z-index: 10; filter: drop-shadow(rgba(28, 235, 123, 0.5) 0px 0px 5px);"><div class="sl-block-content" data-line-x1="0" data-line-y1="0" data-line-x2="787" data-line-y2="0.5" data-line-color="#1ceb7b" data-line-start-type="none" data-line-end-type="none" style="z-index: 10;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveaspectratio="xMidYMid" width="787" height="1" viewbox="0 0 787 1"><line stroke="rgba(0,0,0,0)" stroke-width="15" x1="0" y1="0" x2="787" y2="0.5"></line><line class="line-element" stroke="#1ceb7b" stroke-width="2" x1="0" y1="0" x2="787" y2="0.5"></line></svg></div></div>
+</div>
+<div class="sl-block" data-block-type="text" style="width: 908px; left: 6px; top: 57.5px; height: auto;" data-name="text-c29943" data-block-id="accba26991e338804dc5857ef430a673"><div class="sl-block-content" data-placeholder-tag="h2" style="text-align: left; z-index: 13; color: rgb(255, 255, 255); font-size: 90%; line-height: 1.17;" dir="ui" data-has-line-height="" data-placeholder-text="Text">
+<h2>PostgreSQL Tutorial - Connecting With Python cont.</h2>
+</div></div>
+</section><section data-id="92cdfb677654fdfb39d34b0d57745b3f">
+
+
+
+
+
+
+
+
+
+<div class="sl-block" data-block-type="text" style="width: 954px; left: 6px; top: 57.5px; height: auto;" data-name="text-c29943" data-block-id="8647499f3060d4e2323c7ac55896eee8"><div class="sl-block-content" data-placeholder-tag="h2" style="text-align: left; z-index: 11; color: rgb(255, 255, 255); line-height: 1.17; font-size: 90%;" dir="ui" data-has-line-height="" data-placeholder-text="Text">
+<h2>Complete Jupyter Notebook With Basic SQL Commands at the following link:</h2>
+</div></div>
+
+<div class="sl-block" data-block-type="text" style="width: 160px; left: 6px; top: 1.5px; height: auto;" data-name="text-3f789d" data-block-id="941abc037fc141c302dbb7d682e895d3">
+    <div class="sl-block-style" style="z-index: 13; filter: drop-shadow(rgba(28, 235, 123, 0.5) 0px 0px 5px);"><div class="sl-block-content" data-placeholder-tag="pre" style="z-index: 13; text-align: left; font-size: 44%; color: rgb(28, 235, 123); padding: 5px; background-color: rgba(0, 0, 0, 0);" dir="ui" data-placeholder-text="Text">
+<pre># 10</pre>
+</div></div>
+</div>
+<div class="sl-block" data-block-type="line" data-name="line-49cd6b" style="width: auto; height: auto; left: 166px; top: 14px;" data-block-id="8d44366ee4216fbf23bb939c6737c2f2">
+    <div class="sl-block-style" style="z-index: 12; filter: drop-shadow(rgba(28, 235, 123, 0.5) 0px 0px 5px);"><div class="sl-block-content" data-line-x1="0" data-line-y1="0" data-line-x2="787" data-line-y2="0.5" data-line-color="#1ceb7b" data-line-start-type="none" data-line-end-type="none" style="z-index: 12;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveaspectratio="xMidYMid" width="787" height="1" viewbox="0 0 787 1"><line stroke="rgba(0,0,0,0)" stroke-width="15" x1="0" y1="0" x2="787" y2="0.5"></line><line class="line-element" stroke="#1ceb7b" stroke-width="2" x1="0" y1="0" x2="787" y2="0.5"></line></svg></div></div>
+</div>
+<div class="sl-block" data-block-type="text" data-name="text-cfccb1" style="height: auto; width: 960px; left: 0px; top: 265px;" data-block-id="8e14115c458537c614f5b69b1bc4cfa4"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 14;">
+<p><a href="https://github.com/okara83/Becoming-A-Data-Scientist/blob/main/Cloud%20Services%20and%20Computing/Amazon%20AWS/RDS/PostgreSQL%20Tutorial.ipynb" target="_blank"><span style="color:#EE82EE">Introduction to SQL &amp; RDS Jupyter Notebook</span></a></p>
+</div></div>
+<div class="sl-block" data-block-type="image" data-name="image-b120fa" data-block-id="233aa465ddb9dc95c4bd1c7d0663921a" style="width: 144.302px; height: 81.2902px; left: 30.1772px; top: 243.855px; min-width: 1px; min-height: 1px;"><div class="sl-block-content" style="z-index: 15;"><img style="" data-natural-width="300" data-natural-height="169" data-lazy-loaded="" data-src="code/a73a9cb847c7385a0abd029aea15e869.gif"></div></div>
+<div class="sl-block" data-block-type="shape" data-name="shape-2508f0" data-block-id="815e2f0a57efd40297f48fa4534c7c20" style="width: 960px; height: 700px; left: 0px; top: 0px;"><div class="sl-block-content" data-shape-type="rect" data-shape-fill-color="#000000" data-shape-stretch="true" style="z-index: 10;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%" preserveaspectratio="none" viewbox="0 0 960 700"><rect width="960" height="700" rx="0" ry="0" class="shape-element" fill="#000000"></rect></svg></div></div>
+<div class="sl-block" data-block-type="image" style="width: 144.302px; height: 81.2902px; left: 787.522px; top: 243.855px; min-width: 1px; min-height: 1px;" data-block-id="ade57dc6c99a742df03b04704fcfeaff" data-name="image-901e7e"><div class="sl-block-style" style="z-index: 16; transform: rotate(180deg);"><div class="sl-block-content" style="z-index: 16;"><img style="" data-natural-width="300" data-natural-height="169" data-lazy-loaded="" data-src="code/a73a9cb847c7385a0abd029aea15e869.gif"></div></div></div></section>
+			</div>
+		</div>
+
+		<script>
+			var SLConfig = {"deck": {"id":2336778,"slug":"code","title":"Code","description":"","width":960,"height":700,"margin":0.05,"visibility":"self","published_at":"2020-11-27T13:47:42.145Z","sanitize_messages":null,"thumbnail_url":"https://s3.amazonaws.com/media-p.slid.es/thumbnails/9893b874d2501fdf5e9707412ccf1208/thumb.jpg?1644361787","view_count":0,"user":{"id":1460906,"username":"onurkara","name":"Onur Kara","description":null,"thumbnail_url":"https://lh3.googleusercontent.com/-wBlJNTSGe5s/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmG3zZ_yGkYgRBVCH_dmXqdltPkrQ/s96-c/photo.jpg","account_type":"pro","team_id":null,"settings":{"id":6596516,"present_controls":true,"present_upsizing":true,"present_pointer":false,"present_notes":true,"default_deck_tag_id":null}},"background_transition":"none","transition":"none","theme_id":null,"theme_font":"helvetica","theme_color":"black-mint","auto_slide_interval":0,"comments_enabled":false,"forking_enabled":false,"rolling_links":false,"center":false,"shuffle":false,"should_loop":false,"share_notes":false,"slide_number":false,"slide_count":11,"rtl":false,"version":2,"collaborative":false,"deck_user_editor_limit":3,"data_updated_at":1644364064896,"font_typekit":null,"font_google":null,"time_limit":null,"navigation_mode":"default","upsizing_enabled":true,"notes":{"962cb030468b8be9b7df4a63d178aa4e":"","d1310a4b803f09abe0a2f3b8bcfe1176":"","d9a7a25c13e0610a532e7e40ea21f6db":"","264e627e27165cc505cfa8a31bd30c03":"","c3224086bdd00fb0696d14d4ba00bd6f":"","d3686b45f727be5f81006059a59478e2":"","8ff54786696e333b378c982d79470acb":"","0db513f0d30a00a948f106ffd455e1ce":"","d584b924590162ce8992b49b9cab8583":"","d7b6733f532f7ddfa012093e26171943":"","c3fa2dcf060fcc8e6a6f134b7d31a0aa":"","115ed753ed8c35d7799f2abf84c7396b":"","f61c0ace84ae6d47d41100b1326e5677":"","38b1c56f9aa1125c5f93cc2e4200699c":"","23d60f02eecb8567db53bf65f937b2b7":"","92cdfb677654fdfb39d34b0d57745b3f":""}}};
+
+
+			// Use local fonts
+			SLConfig.fonts_url = 'lib/fonts/';
+		</script>
+
+		<script src="lib/reveal.js"></script>
+		<script src="lib/reveal-plugins.js"></script>
+		<script src="lib/offline.js"></script>
+
+		<!-- Initialize the presentation -->
+		<script>
+			Reveal.initialize({
+				width: 960,
+				height: 700,
+				margin: 0.05,
+				
+
+				hash: true,
+				controls: true,
+				progress: true,
+				mouseWheel: false,
+				showNotes: false,
+				slideNumber: false,
+				fragmentInURL: true,
+
+				autoSlide: 0,
+				autoSlideStoppable: true,
+
+				autoAnimateMatcher: SL.deck.AutoAnimate.matcher,
+
+				center: false,
+				shuffle: false,
+				loop: false,
+				rtl: false,
+				navigationMode: "default",
+
+				transition: "none",
+				backgroundTransition: "none",
+
+				highlight: {
+					escapeHTML: false
+				},
+
+				plugins: [ RevealZoom, RevealNotes, RevealMarkdown, RevealHighlight ]
+			});
+		</script>
+
+		
+
+	</body>
+</html>

@@ -1,0 +1,44 @@
+INSTALL IN ROOT USER:
+
+@~$ user -i
+@root$ 
+
+@root$ sudo apt-get autoremove --purge spark
+@root$ sudo apt-get purge spark
+
+
+apt update -y
+@root$ apt install default-jdk -y
+@root$ sudo apt-get update
+@root$ apt install update
+@root$ sudo add-apt-repository ppa:openjdk-r/ppa
+
+@root$ wget https://downloads.apache.org/spark/spark-3.0.1/spark-3.0.1-bin-hadoop2.7.tgz
+@root$ tar -xvzf spark-*
+@root$ mv spark-3.0.1-bin-hadoop2.7/ /opt/spark
+@root$ echo "export SPARK_HOME=/opt/spark" >> ~/.profile
+@root$ echo "export PATH=$PATH:/opt/spark/bin:/opt/spark/sbin" >> ~/.profile
+@root$ echo "export PYSPARK_PYTHON=/usr/bin/python3" >> ~/.profile
+
+@root$ source ~/.profile
+
+
+@root$ start-master.sh 
+@root$ ssh -L 8080:localhost:8080 root@ubuntu.out  #runs server on remote mach
+
+
+@root$ start-slave.sh
+@root$ start-slave.sh spark://ubuntu.out:7077
+
+
+## GO TO BROWSER, CHECK http
+  >>>> http://localhost:8080
+
+@root& spark-shell
+> quit
+
+@root& pyspark
+> exit()
+
+
+

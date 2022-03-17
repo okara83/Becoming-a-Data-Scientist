@@ -1,0 +1,6 @@
+The video series will cover:
+1. Writing a Python script that pulls the current day's weather from an API
+2. Packaging the script into a Docker container
+3. Automating using CI/CD to push the Docker container to AWS to run on AWS Lambda
+4. Scheduling the AWS Lambda function to run automatically
+5. Writing infrastructure YAML file to create components automatically

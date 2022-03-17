@@ -1,0 +1,988 @@
+drug	disease	gene_count
+Nintedanib	Jackson–Weiss syndrome	2
+linifanib	acute myeloid leukemia	2
+sunitinib	acute myeloid leukemia	2
+crenolanib	acute myeloid leukemia	2
+cediranib	acute myeloid leukemia	2
+Inclusion membrane protein CT_813	colorectal cancer	2
+Nintedanib	LADD syndrome	2
+Inclusion membrane protein CT_813	Mismatch repair cancer syndrome	2
+fadrozole	glucocorticoid-remediable aldosteronism	2
+pacritinib	acute myeloid leukemia	2
+Inclusion membrane protein CTL0184	colorectal cancer	2
+Inclusion membrane protein CTL0184	Mismatch repair cancer syndrome	2
+sorafenib	acute myeloid leukemia	2
+metolazone	Gitelman syndrome	1
+methyltestosterone	Kennedy disease	1
+metribolone	Kennedy disease	1
+(-)-pentazocine	amyotrophic lateral sclerosis type 16	1
+methylnaltrexone	coronary artery disease	1
+methylprednisolone	glucocorticoid resistance	1
+methylphenidate	infantile parkinsonism-dystonia	1
+mianserin	gestational hypertension	1
+methyl 6,7-dimethoxy-4-ethyl-β-carboline-3-carboxylate	early infantile epileptic encephalopathy 19	1
+methoxamine	pre-eclampsia	1
+metyrapone	glucocorticoid-remediable aldosteronism	1
+mibefradil	major depressive disorders	1
+mianserin	pre-eclampsia	1
+mibefradil	Brugada syndrome 3	1
+mibefradil	Timothy syndrome	1
+mibefradil	bipolar disorder	1
+mibefradil	deafness-infertility syndrome	1
+methoctramine free base	prune belly syndrome	1
+mibefradil	schizophrenia	1
+mibefradil	unipolar depression	1
+mibolerone	Kennedy disease	1
+midostaurin	acute myeloid leukemia	1
+mifepristone	Kennedy disease	1
+mifepristone	glucocorticoid resistance	1
+methoxamine	gestational hypertension	1
+mefenamic acid	type 2 diabetes	1
+methoctramine free base	epilepsy	1
+masitinib	gastrointestinal stromal tumor	1
+liothyronine	congenital nongoitrous hypothryoidism 6	1
+lonafarnib	Costello syndrome	1
+lonafarnib	Noonan syndrome 3	1
+lonafarnib	Schimmelpenning syndrome	1
+lonafarnib	acute myeloid leukemia	1
+lonafarnib	bladder cancer	1
+lonafarnib	follicular thyroid cancer	1
+lonafarnib	juvenile myelomonocytic leukemia	1
+loperamide	coronary artery disease	1
+maraviroc	type 1 diabetes mellitus 22	1
+masitinib	acute myeloid leukemia	1
+masitinib	piebaldism	1
+methazolamide	retinitis pigmentosa 17	1
+mazindol	infantile parkinsonism-dystonia	1
+mecamylamine	autosomal dominant nocturnal frontal lobe epilepsy 4	1
+mecamylamine	chronic obstructive pulmonary disease	1
+mecamylamine	congenital myasthenic syndrome 1B	1
+mecamylamine	obesity	1
+mefenamic acid	familial atrial fibrillation	1
+mefenamic acid	long QT syndrome	1
+milameline	epilepsy	1
+membrane protein [SARS-CoV-2]	combined vitamin K-dependent clotting factors deficiency	1
+mesalazine	familial partial lipodystrophy	1
+mesalazine	type 2 diabetes	1
+miglitol	glycogen storage disease II	1
+minoxidil	permanent neonatal diabetes mellitus	1
+milameline	prune belly syndrome	1
+nimodipine	congenital bilateral aplasia of the vas deferens	1
+nicorandil	rare genetic diabetes mellitus	1
+nicorandil	type 2 diabetes	1
+nifedipine	Brugada syndrome 3	1
+nifedipine	Timothy syndrome	1
+nifedipine	bipolar disorder	1
+nifedipine	hypokalemic periodic paralysis	1
+nifedipine	major depressive disorders	1
+nifedipine	schizophrenia	1
+nifedipine	unipolar depression	1
+niflumic acid	familial atrial fibrillation	1
+niflumic acid	long QT syndrome	1
+niflumic acid	type 2 diabetes	1
+nilutamide	Kennedy disease	1
+nimodipine	cystic fibrosis	1
+minoxidil	maturity-onset diabetes of the young type 13	1
+nisoldipine	Brugada syndrome 3	1
+nisoldipine	Timothy syndrome	1
+nisoldipine	bipolar disorder	1
+nisoldipine	major depressive disorders	1
+nisoldipine	schizophrenia	1
+nisoldipine	unipolar depression	1
+nomifensine	infantile parkinsonism-dystonia	1
+non-structural protein 6 [SARS-CoV-2]	amyotrophic lateral sclerosis type 16	1
+non-structural protein 6 [SARS-CoV-2]	autosomal recessive distal spinal muscular atrophy 2	1
+norepinephrine	gestational hypertension	1
+norepinephrine	pre-eclampsia	1
+ocinaplon	early infantile epileptic encephalopathy 19	1
+olaparib	melanoma	1
+nicorandil	permanent neonatal diabetes mellitus	1
+nicorandil	maturity-onset diabetes of the young type 13	1
+netoglitazone	type 2 diabetes	1
+netoglitazone	familial partial lipodystrophy	1
+linoleic acid	type 2 diabetes	1
+minoxidil	rare genetic diabetes mellitus	1
+minoxidil	type 2 diabetes	1
+mitotane	congenital adrenal insufficiency	1
+mitotane	glucocorticoid-remediable aldosteronism	1
+moclobemide	Brunner Syndrome	1
+momelotinib	Crohn's disease	1
+momelotinib	acute myeloid leukemia	1
+momelotinib	myelodysplastic/myeloproliferative neoplasm	1
+momelotinib	myelofibrosis	1
+momelotinib	polycythemia vera	1
+morphine	coronary artery disease	1
+muscimol	early infantile epileptic encephalopathy 19	1
+nafamostat	Ehlers-Danlos syndrome, periodontitis type	1
+nafamostat	Lytico-bodig disease	1
+nalbuphine	coronary artery disease	1
+nalmefene	coronary artery disease	1
+nalorphine	coronary artery disease	1
+naltrexone	coronary artery disease	1
+naltriben	coronary artery disease	1
+naltrindole	coronary artery disease	1
+nandrolone	Kennedy disease	1
+navitoclax	chronic lymphocytic leukemia	1
+nelivaptan	alcohol dependence	1
+nepicastat	dopamine beta-hydroxylase deficiency	1
+neratinib	glioma	1
+neratinib	non-small-cell lung carcinoma	1
+linopirdine	undetermined early-onset epileptic encephalopathy	1
+linoleic acid	migraine with aura	1
+linoleic acid	migraine without aura	1
+geranyl diphosphate	mevalonic aciduria	1
+geranylgeranyl pyrophosphate	MVK	1
+geranylgeranyl pyrophosphate	mevalonic aciduria	1
+glyburide	congenital bilateral aplasia of the vas deferens	1
+glyburide	cystic fibrosis	1
+glyburide	maturity-onset diabetes of the young type 13	1
+glyburide	permanent neonatal diabetes mellitus	1
+glyburide	rare genetic diabetes mellitus	1
+glyburide	type 2 diabetes	1
+glycochenodeoxycholic acid	metabolic disease	1
+glycopyrrolate	epilepsy	1
+glycopyrrolate	prune belly syndrome	1
+goserelin	hypogonadotropic hypogonadism 7 with or without anosmia	1
+hexamethonium	autosomal dominant nocturnal frontal lobe epilepsy 4	1
+hexamethonium	chronic obstructive pulmonary disease	1
+hexamethonium	obesity	1
+hexocyclium	epilepsy	1
+hexocyclium	prune belly syndrome	1
+himbacine	epilepsy	1
+himbacine	prune belly syndrome	1
+histrelin	hypogonadotropic hypogonadism 7 with or without anosmia	1
+hydrochlorothiazide	Gitelman syndrome	1
+hydrocodone	coronary artery disease	1
+hydromorphone	coronary artery disease	1
+hydron	Lytico-bodig disease	1
+hydron	focal segmental glomerulosclerosis 2	1
+hydroxyflutamide	Kennedy disease	1
+hypothetical protein CTL0003	melanoma-pancreatic cancer syndrome	1
+geranylgeranyl pyrophosphate	Hyper-IgD syndrome	1
+geranyl diphosphate	MVK	1
+ibrutinib	maturity-onset diabetes of the young type 11	1
+geranyl diphosphate	Hyper-IgD syndrome	1
+flufenamic acid	autosomal recessive nonsyndromic deafness 1B	1
+flufenamic acid	cataract 1 multiple types	1
+flufenamic acid	erythrokeratodermia variabilis et progressiva 2	1
+flufenamic acid	erythrokeratodermia variabilis et progressiva 3	1
+flufenamic acid	hereditary spastic paraplegia 44	1
+flufenamic acid	odontoonychodermal syndrome	1
+flufenamic acid	palmoplantar keratoderma-deafness syndrome	1
+flufenamic acid	syndromic genetic deafness	1
+flumazenil	early infantile epileptic encephalopathy 19	1
+flunitrazepam	early infantile epileptic encephalopathy 19	1
+fluocinolone acetonide	glucocorticoid resistance	1
+fluocinonide	glucocorticoid resistance	1
+fluorometholone	glucocorticoid resistance	1
+fluoxymesterone	Kennedy disease	1
+flupirtine	undetermined early-onset epileptic encephalopathy	1
+flutamide	Kennedy disease	1
+fluticasone	glucocorticoid resistance	1
+fluticasone propionate	glucocorticoid resistance	1
+furosemide	inflammatory bowel diseases	1
+furosemide	sclerosing cholangitis	1
+furosemide	ulcerative colitis	1
+gaboxadol	early infantile epileptic encephalopathy 19	1
+gbr-12935	infantile parkinsonism-dystonia	1
+gefitinib	glioma	1
+gefitinib	non-small-cell lung carcinoma	1
+genistein	congenital bilateral aplasia of the vas deferens	1
+genistein	cystic fibrosis	1
+ibrutinib	Bruton-type agammaglobulinemia	1
+ibrutinib	rheumatoid arthritis	1
+osimertinib	glioma	1
+lacosamide	generalized epilepsy	1
+lapatinib	non-small-cell lung carcinoma	1
+lasofoxifene	alcohol dependence	1
+lasofoxifene	breast cancer	1
+lasofoxifene	obesity	1
+lestaurtinib	acute myeloid leukemia	1
+letrozole	aromatase excess syndrome	1
+leuprolide	hypogonadotropic hypogonadism 7 with or without anosmia	1
+levallorphan	coronary artery disease	1
+levomethadone	coronary artery disease	1
+levomilnacipran	infantile parkinsonism-dystonia	1
+lidocaine	Brugada syndrome 1	1
+lidocaine	dilated cardiomyopathy 1E	1
+lidocaine	long QT syndrome 3	1
+lidocaine	sudden infant death syndrome	1
+linaclotide	congenital diarrhea 6	1
+linagliptin	rheumatoid arthritis	1
+linifanib	colorectal cancer	1
+linifanib	familial medullary thyroid carcinoma	1
+linifanib	gastrointestinal stromal tumor	1
+linifanib	hereditary pheochromocytoma-paraganglioma	1
+linifanib	multiple endocrine neoplasia type 2A	1
+linifanib	multiple endocrine neoplasia type 2B	1
+linifanib	phaeochromocytoma	1
+linifanib	piebaldism	1
+linoleic acid	amyotrophic lateral sclerosis	1
+linoleic acid	familial partial lipodystrophy	1
+linoleic acid	migraine disorder	1
+lapatinib	glioma	1
+lacosamide	dental caries	1
+ibrutinib	smallpox	1
+lacosamide	Paroxysmal extreme pain disorder	1
+ibrutinib	systemic lupus erythematosus	1
+ibutilide	long QT syndrome	1
+ibutilide	short QT syndrome	1
+icotinib	glioma	1
+icotinib	non-small-cell lung carcinoma	1
+idelalisib	CLAPO syndrome	1
+idelalisib	CLOVES syndrome	1
+idelalisib	Macrocephaly-capillary malformation	1
+idelalisib	colorectal cancer	1
+idelalisib	seborrheic keratosis	1
+indiplon	early infantile epileptic encephalopathy 19	1
+indomethacin	familial partial lipodystrophy	1
+indomethacin	type 2 diabetes	1
+indoramin	gestational hypertension	1
+indoramin	pre-eclampsia	1
+ingenol mebutate	inflammatory bowel diseases	1
+ingenol mebutate	spinocerebellar ataxia type 14	1
+isoguvacine	early infantile epileptic encephalopathy 19	1
+isonipecotic acid	early infantile epileptic encephalopathy 19	1
+ivacaftor	congenital bilateral aplasia of the vas deferens	1
+ivacaftor	cystic fibrosis	1
+kynurenic acid	inflammatory bowel diseases	1
+kynurenic acid	sclerosing cholangitis	1
+kynurenic acid	ulcerative colitis	1
+labetalol	gestational hypertension	1
+labetalol	pre-eclampsia	1
+lacosamide	Dravet syndrome	1
+omarigliptin	rheumatoid arthritis	1
+oxymetazoline	pre-eclampsia	1
+osimertinib	non-small-cell lung carcinoma	1
+sunitinib	phaeochromocytoma	1
+suramin	arrhythmogenic right ventricular dysplasia 2	1
+suramin	lymphoblastic leukemia	1
+suramin	obesity	1
+tafamidis	hereditary ATTR amyloidosis	1
+tafamidis	transthyretin amyloidosis	1
+tamibarotene	morbid obesity	1
+tamoxifen	alcohol dependence	1
+tamoxifen	breast cancer	1
+tamoxifen	obesity	1
+tamsulosin	gestational hypertension	1
+tamsulosin	pre-eclampsia	1
+tapentadol	coronary artery disease	1
+tazarotene	morbid obesity	1
+telaprevir	galactosialidosis	1
+temsirolimus	macrocephaly-intellectual disability-neurodevelopmental disorder-small thorax syndrome	1
+terazosin	gestational hypertension	1
+terazosin	pre-eclampsia	1
+terfenadine	long QT syndrome	1
+terfenadine	short QT syndrome	1
+testolactone	aromatase excess syndrome	1
+testosterone propionate	Kennedy disease	1
+tetraethylammonium	coronary artery disease	1
+tetraethylammonium	obesity	1
+tetraethylammonium	undetermined early-onset epileptic encephalopathy	1
+tetrahydrocannabinol	amyotrophic lateral sclerosis	1
+tetrahydrocannabinol	migraine disorder	1
+tetrahydrocannabinol	migraine with aura	1
+sunitinib	piebaldism	1
+sunitinib	osteoglophonic dwarfism	1
+oxotremorine	epilepsy	1
+sunitinib	multiple endocrine neoplasia type 2B	1
+sorafenib	hypertrophic cardiomyopathy	1
+sorafenib	multiple endocrine neoplasia type 2A	1
+sorafenib	multiple endocrine neoplasia type 2B	1
+sorafenib	osteoglophonic dwarfism	1
+sorafenib	phaeochromocytoma	1
+sorafenib	piebaldism	1
+sorafenib	spondyloepimetaphyseal dysplasia-short limb-abnormal calcification syndrome	1
+spermine	neonatal severe primary hyperparathyroidism	1
+spermine	progressive familial heart block type IB	1
+spiperone	gestational hypertension	1
+spiperone	pre-eclampsia	1
+spiroxatrine	gestational hypertension	1
+spiroxatrine	pre-eclampsia	1
+staurosporine	autosomal dominant mental retardation 54	1
+staurosporine	metabolic disease	1
+staurosporine	osteoarthritis	1
+succinylcholine	congenital myasthenic syndrome 1B	1
+sufentanil	coronary artery disease	1
+sufugolix	hypogonadotropic hypogonadism 7 with or without anosmia	1
+sunitinib	Encephalocraniocutaneous lipomatosis	1
+sunitinib	Hartsfield-Bixler-Demyer syndrome	1
+sunitinib	Jackson–Weiss syndrome	1
+sunitinib	colorectal cancer	1
+sunitinib	familial medullary thyroid carcinoma	1
+sunitinib	gastrointestinal stromal tumor	1
+sunitinib	hereditary pheochromocytoma-paraganglioma	1
+sunitinib	multiple endocrine neoplasia type 2A	1
+tetrahydrocannabinol	migraine without aura	1
+tezampanel	syndromic X-linked intellectual disability 94	1
+ticagrelor	platelet-type bleeding disorder 8	1
+tiratricol	congenital nongoitrous hypothryoidism 6	1
+vasotocin	alcohol dependence	1
+vemurafenib	Noonan syndrome 5	1
+vemurafenib	dilated cardiomyopathy 1NN	1
+vemurafenib	hypertrophic cardiomyopathy	1
+verapamil	Brugada syndrome 3	1
+verapamil	Timothy syndrome	1
+verapamil	bipolar disorder	1
+verapamil	hypokalemic periodic paralysis	1
+verapamil	major depressive disorders	1
+verapamil	schizophrenia	1
+verapamil	unipolar depression	1
+vicriviroc	type 1 diabetes mellitus 22	1
+vildagliptin	rheumatoid arthritis	1
+vinburnine	epilepsy	1
+vinburnine	prune belly syndrome	1
+vincamine	epilepsy	1
+vincamine	prune belly syndrome	1
+vismodegib	Curry-Jones syndrome	1
+xanomeline	epilepsy	1
+xanomeline	prune belly syndrome	1
+ximelagatran	Hypoprothrombinemia	1
+ximelagatran	thrombophilia	1
+zaprinast	inflammatory bowel diseases	1
+zaprinast	sclerosing cholangitis	1
+zaprinast	ulcerative colitis	1
+zolpidem	early infantile epileptic encephalopathy 19	1
+α-methylnoradrenaline	gestational hypertension	1
+vandetanib	phaeochromocytoma	1
+vandetanib	non-small-cell lung carcinoma	1
+vandetanib	multiple endocrine neoplasia type 2B	1
+triamcinolone	glucocorticoid resistance	1
+tivantinib	autosomal recessive nonsyndromic deafness 97	1
+tivantinib	multiple sclerosis	1
+tivantinib	osteofibrous dysplasia	1
+tolbutamide	maturity-onset diabetes of the young type 13	1
+tolbutamide	permanent neonatal diabetes mellitus	1
+tolbutamide	rare genetic diabetes mellitus	1
+tolbutamide	type 2 diabetes	1
+tolterodine	epilepsy	1
+tolterodine	prune belly syndrome	1
+topiramate	retinitis pigmentosa 17	1
+tranylcypromine	Brunner Syndrome	1
+tretinoin	morbid obesity	1
+triamcinolone acetonide	glucocorticoid resistance	1
+vandetanib	multiple endocrine neoplasia type 2A	1
+triazolam	early infantile epileptic encephalopathy 19	1
+trimipramine	infantile parkinsonism-dystonia	1
+triptorelin	hypogonadotropic hypogonadism 7 with or without anosmia	1
+tropicamide	epilepsy	1
+tropicamide	prune belly syndrome	1
+tubocurarine	obesity	1
+umeclidinium	epilepsy	1
+umeclidinium	prune belly syndrome	1
+vandetanib	colorectal cancer	1
+vandetanib	familial medullary thyroid carcinoma	1
+vandetanib	glioma	1
+vandetanib	hereditary pheochromocytoma-paraganglioma	1
+sorafenib	hereditary pheochromocytoma-paraganglioma	1
+sorafenib	gastrointestinal stromal tumor	1
+sorafenib	familial medullary thyroid carcinoma	1
+prunetin	alcohol dependence	1
+picrotoxin	epilepsy	1
+pilocarpine	epilepsy	1
+pilocarpine	prune belly syndrome	1
+pioglitazone	familial partial lipodystrophy	1
+pioglitazone	type 2 diabetes	1
+piracetam	syndromic X-linked intellectual disability 94	1
+pirenzepine	epilepsy	1
+pirenzepine	prune belly syndrome	1
+pirlindole	Brunner Syndrome	1
+plerixafor	WHIM syndrome	1
+plumbagin	post-traumatic stress disorder	1
+ponatinib	colorectal cancer	1
+ponatinib	familial medullary thyroid carcinoma	1
+ponatinib	hereditary pheochromocytoma-paraganglioma	1
+ponatinib	multiple endocrine neoplasia type 2A	1
+ponatinib	multiple endocrine neoplasia type 2B	1
+ponatinib	phaeochromocytoma	1
+prazosin	gestational hypertension	1
+prazosin	pre-eclampsia	1
+prednisolone	glucocorticoid resistance	1
+prednisone	glucocorticoid resistance	1
+pregnenolone sulfate	congenital stationary night blindness 1C	1
+procaine	arrhythmogenic right ventricular dysplasia 2	1
+procaine	lymphoblastic leukemia	1
+procaine	obesity	1
+progesterone	deafness-infertility syndrome	1
+propantheline	epilepsy	1
+picrotoxin	early infantile epileptic encephalopathy 19	1
+phentolamine	pre-eclampsia	1
+phentolamine	gestational hypertension	1
+pamoic acid	sclerosing cholangitis	1
+oxotremorine	prune belly syndrome	1
+oxymetazoline	gestational hypertension	1
+flufenamic acid	autosomal dominant nonsyndromic deafness 3B	1
+oxytocin	alcohol dependence	1
+pacritinib	Crohn's disease	1
+pacritinib	myelodysplastic/myeloproliferative neoplasm	1
+pacritinib	myelofibrosis	1
+pacritinib	polycythemia vera	1
+palbociclib	melanoma, cutaneous malignant, susceptibility to, 3	1
+palbociclib	microcephaly 12, primary, autosomal recessive	1
+palbociclib	rheumatoid arthritis	1
+pamoic acid	inflammatory bowel diseases	1
+pamoic acid	ulcerative colitis	1
+phenelzine	smallpox	1
+pancuronium (cation)	congenital myasthenic syndrome 1B	1
+pazopanib	Encephalocraniocutaneous lipomatosis	1
+pazopanib	Hartsfield-Bixler-Demyer syndrome	1
+pazopanib	Jackson–Weiss syndrome	1
+pazopanib	acute myeloid leukemia	1
+pazopanib	gastrointestinal stromal tumor	1
+pazopanib	osteoglophonic dwarfism	1
+pazopanib	piebaldism	1
+pethidine	coronary artery disease	1
+phenelzine	Brunner Syndrome	1
+phenelzine	infantile parkinsonism-dystonia	1
+phenelzine	osteonecrosis	1
+propantheline	prune belly syndrome	1
+prunetin	cerebrovascular disease	1
+sorafenib	dilated cardiomyopathy 1NN	1
+prunetin	coronary artery disease	1
+sabcomeline	epilepsy	1
+sabcomeline	prune belly syndrome	1
+saridegib	Curry-Jones syndrome	1
+saxagliptin	rheumatoid arthritis	1
+saxitoxin	Dravet syndrome	1
+saxitoxin	Paroxysmal extreme pain disorder	1
+saxitoxin	dental caries	1
+saxitoxin	generalized epilepsy	1
+semagacestat	Alzheimer disease 3	1
+semagacestat	Pick disease	1
+semagacestat	dilated cardiomyopathy 1U	1
+semaxanib	acute myeloid leukemia	1
+semaxanib	gastrointestinal stromal tumor	1
+semaxanib	piebaldism	1
+sergliflozin etabonate	renal glycosuria	1
+sibutramine	infantile parkinsonism-dystonia	1
+silodosin	gestational hypertension	1
+silodosin	pre-eclampsia	1
+sitagliptin	rheumatoid arthritis	1
+sivelestat	cyclic hematopoiesis	1
+sivelestat	neutropenia	1
+sonidegib	Curry-Jones syndrome	1
+sorafenib	Encephalocraniocutaneous lipomatosis	1
+sorafenib	Hartsfield-Bixler-Demyer syndrome	1
+sorafenib	Jackson–Weiss syndrome	1
+sorafenib	Noonan syndrome 5	1
+sorafenib	colorectal cancer	1
+ruxolitinib	type-1 diabetes	1
+ruxolitinib	rheumatoid arthritis	1
+ruxolitinib	psoriasis	1
+risperidone	pre-eclampsia	1
+prunetin	intracranial aneurysm	1
+prunetin	stroke	1
+quadazocine	coronary artery disease	1
+raloxifene	alcohol dependence	1
+raloxifene	breast cancer	1
+raloxifene	obesity	1
+relcovaptan	alcohol dependence	1
+relugolix	hypogonadotropic hypogonadism 7 with or without anosmia	1
+resveratrol	familial partial lipodystrophy	1
+resveratrol	type 2 diabetes	1
+ridaforolimus	macrocephaly-intellectual disability-neurodevelopmental disorder-small thorax syndrome	1
+risperidone	gestational hypertension	1
+ritanserin	gestational hypertension	1
+ruxolitinib	polycythemia vera	1
+ritanserin	pre-eclampsia	1
+rosiglitazone	familial partial lipodystrophy	1
+rosiglitazone	type 2 diabetes	1
+rottlerin	long QT syndrome	1
+rottlerin	short QT syndrome	1
+ruboxistaurin	inflammatory bowel diseases	1
+ruboxistaurin	spinocerebellar ataxia type 14	1
+rucaparib	melanoma	1
+ruxolitinib	Crohn's disease	1
+ruxolitinib	acute myeloid leukemia	1
+ruxolitinib	myelodysplastic/myeloproliferative neoplasm	1
+ruxolitinib	myelofibrosis	1
+flufenamic acid	autosomal dominant palmoplantar keratoderma and congenital alopecia	1
+flufenamic acid	Clouston syndrome	1
+flufenamic acid	autosomal dominant nonsyndromic deafness 3A	1
+L-371,257	alcohol dependence	1
+L-838417	early infantile epileptic encephalopathy 19	1
+L-AP4	atherosclerosis	1
+L-AP4	human immunodeficiency virus infectious disease	1
+L-AP4	mental depression	1
+L-Tryptophan	neonatal severe primary hyperparathyroidism	1
+L-menthol	amyotrophic lateral sclerosis	1
+L-menthol	migraine disorder	1
+L-menthol	migraine with aura	1
+L-menthol	migraine without aura	1
+L-morphan	coronary artery disease	1
+LY-294002	CLAPO syndrome	1
+LY-294002	CLOVES syndrome	1
+LY-294002	Macrocephaly-capillary malformation	1
+LY-294002	colorectal cancer	1
+LY-294002	seborrheic keratosis	1
+LY-300168	syndromic X-linked intellectual disability 94	1
+LY379268	congenital stationary night blindness 1B	1
+MTEP	attention deficit hyperactivity disorder	1
+MTEP	rheumatoid arthritis	1
+NADA	amyotrophic lateral sclerosis	1
+NADA	migraine disorder	1
+NADA	migraine with aura	1
+NADA	migraine without aura	1
+NAN 190	gestational hypertension	1
+NAN 190	pre-eclampsia	1
+NBQX	syndromic X-linked intellectual disability 94	1
+NPS-2143	neonatal severe primary hyperparathyroidism	1
+L-822179	early infantile epileptic encephalopathy 19	1
+Joro toxin	syndromic X-linked intellectual disability 94	1
+flufenamic acid	autosomal dominant nonsyndromic deafness 2B	1
+Isopentenyl pyrophosphate	mevalonic aciduria	1
+Hypothetical protein CT_788	Charcot-Marie-Tooth disease dominant intermediate E	1
+Hypothetical protein CT_788	Li-Fraumeni syndrome	1
+Hypothetical protein CT_788	Li-Fraumeni syndrome 1	1
+Hypothetical protein CT_788	basal-cell carcinoma	1
+Hypothetical protein CT_788	focal segmental glomerulosclerosis 5	1
+Hypothetical protein CT_788	head and neck squamous cell carcinoma	1
+IDRA-21	syndromic X-linked intellectual disability 94	1
+Inclusion membrane protein CTL0184	Lynch syndrome	1
+Inclusion membrane protein CTL0184	Muir-Torre syndrome	1
+Inclusion membrane protein CT_813	Lynch syndrome	1
+Inclusion membrane protein CT_813	Muir-Torre syndrome	1
+Inclusion membrane protein E CTL0371	autosomal dominant mental retardation 48	1
+Inclusion membrane protein E CTL0371	glioma	1
+Inclusion membrane protein E CTL0371	interstitial lung disease	1
+Inclusion membrane protein E CTL0371	non-small-cell lung carcinoma	1
+Inclusion membrane protein E CTL0371	obesity	1
+Inclusion membrane protein E CTL0371	periodontitis	1
+Inclusion membrane protein E CT_116	autosomal dominant mental retardation 48	1
+Inclusion membrane protein E CT_116	glioma	1
+Inclusion membrane protein E CT_116	interstitial lung disease	1
+Inclusion membrane protein E CT_116	non-small-cell lung carcinoma	1
+Inclusion membrane protein E CT_116	obesity	1
+Inclusion membrane protein E CT_116	periodontitis	1
+Inclusion membrane protein F CTL0372	autosomal dominant type IV Ehlers-Danlos syndrome	1
+Inclusion membrane protein F CT_117	autosomal dominant type IV Ehlers-Danlos syndrome	1
+Isopentenyl pyrophosphate	Hyper-IgD syndrome	1
+Isopentenyl pyrophosphate	MVK	1
+Nintedanib	Antley-Bixler syndrome	1
+Nintedanib	Beare-Stevenson cutis gyrata syndrome	1
+Nintedanib	Crouzon syndrone	1
+Nintedanib	Crouzonodermoskeletal syndrome	1
+WB-4101	pre-eclampsia	1
+WIN35428	infantile parkinsonism-dystonia	1
+ZK93423	early infantile epileptic encephalopathy 19	1
+ZK93426	early infantile epileptic encephalopathy 19	1
+Ziconotide	dystonia 23	1
+abarelix	hypogonadotropic hypogonadism 7 with or without anosmia	1
+acetazolamide	retinitis pigmentosa 17	1
+acetylcholine	epilepsy	1
+acetylcholine	prune belly syndrome	1
+aclidinium	epilepsy	1
+aclidinium	prune belly syndrome	1
+adapalene	morbid obesity	1
+adenosine	progressive familial heart block type IB	1
+adenosine cyclic phosphate	Lytico-bodig disease	1
+adenosine diphosphate	platelet-type bleeding disorder 8	1
+adenosine diphosphate	progressive familial heart block type IB	1
+adenosine monophosphate	progressive familial heart block type IB	1
+adenosine triphosphate	Lytico-bodig disease	1
+adenosine triphosphate	arrhythmogenic right ventricular dysplasia 2	1
+adenosine triphosphate	lymphoblastic leukemia	1
+adenosine triphosphate	obesity	1
+adenosine triphosphate	progressive familial heart block type IB	1
+afatinib	glioma	1
+afatinib	non-small-cell lung carcinoma	1
+alfuzosin	gestational hypertension	1
+alfuzosin	pre-eclampsia	1
+alitretinoin	morbid obesity	1
+WB-4101	gestational hypertension	1
+Vesamicol	congenital myasthenic syndrome 21	1
+Urofollitropin	prostate cancer	1
+Non-structural protein 9 [SARS-CoV-2]	morbid obesity	1
+Nintedanib	Encephalocraniocutaneous lipomatosis	1
+Nintedanib	Hartsfield-Bixler-Demyer syndrome	1
+Nintedanib	McGillivray syndrome	1
+Nintedanib	Muenke syndrome	1
+Nintedanib	SADDAN	1
+Nintedanib	bladder cancer	1
+Nintedanib	breast cancer	1
+Nintedanib	camptodactyly-tall stature-scoliosis-hearing loss syndrome	1
+Nintedanib	osteoglophonic dwarfism	1
+Nintedanib	seborrheic keratosis	1
+Nintedanib	thanatophoric dysplasia type 2	1
+Non-structural protein 14 [SARS-CoV-2]	Fabry disease	1
+PF-4800567	advanced sleep phase syndrome 2	1
+Urofollitropin	polycystic ovary syndrome	1
+PRE-084	amyotrophic lateral sclerosis type 16	1
+PRE-084	autosomal recessive distal spinal muscular atrophy 2	1
+RO4938581	early infantile epileptic encephalopathy 19	1
+RU28362	glucocorticoid resistance	1
+Ro-15-4513	early infantile epileptic encephalopathy 19	1
+S-18986	syndromic X-linked intellectual disability 94	1
+SB-203580	Parkinson's disease	1
+Troglitazone	familial partial lipodystrophy	1
+Troglitazone	type 2 diabetes	1
+Urofollitropin	46 XX gonadal dysgenesis	1
+Urofollitropin	erectile dysfunction	1
+Urofollitropin	ovarian hyperstimulation syndrome	1
+Hypothetical protein CT_728	thiamine-responsive megaloblastic anemia syndrome	1
+Hypothetical protein CT_556	combined vitamin K-dependent clotting factors deficiency	1
+Hypothetical protein CT_449	hereditary spastic paraplegia 54	1
+Brigatinib	neuroblastoma, susceptibility to, 3	1
+2-aminoethoxydiphenylborate	focal segmental glomerulosclerosis 2	1
+2-aminoethoxydiphenylborate	obesity	1
+2-aminoethoxydiphenylborate	spinocerebellar ataxia type 41	1
+20-HETE	focal segmental glomerulosclerosis 2	1
+3-quinuclidinyl-benzilate	epilepsy	1
+3-quinuclidinyl-benzilate	prune belly syndrome	1
+5-benzyloxytryptamine	amyotrophic lateral sclerosis	1
+5-benzyloxytryptamine	migraine disorder	1
+5-benzyloxytryptamine	migraine with aura	1
+5-benzyloxytryptamine	migraine without aura	1
+6-methyl-2-(phenylethynyl)pyridine	attention deficit hyperactivity disorder	1
+6-methyl-2-(phenylethynyl)pyridine	rheumatoid arthritis	1
+ADX-47273	attention deficit hyperactivity disorder	1
+ADX-47273	rheumatoid arthritis	1
+AIDA	autosomal recessive spinocerebellar ataxia 13	1
+AIDA	spinocerebellar ataxia 44	1
+AMP-PNP	progressive familial heart block type IB	1
+Alda-1	alcohol dependence	1
+Alda-1	cerebrovascular disease	1
+Alda-1	coronary artery disease	1
+Alda-1	intracranial aneurysm	1
+Alda-1	stroke	1
+Anti-thrombin antibodies	Hypoprothrombinemia	1
+Anti-thrombin antibodies	thrombophilia	1
+BMY-7378	gestational hypertension	1
+BMY-7378	pre-eclampsia	1
+Brigatinib	glioma	1
+17β-estradiol	obesity	1
+17β-estradiol	breast cancer	1
+17β-estradiol	alcohol dependence	1
+1-octanol	Clouston syndrome	1
+(-)-pentazocine	coronary artery disease	1
+(25R)-cholest-5-ene-3β,26-diol	metabolic disease	1
+(RS)-methadone	coronary artery disease	1
+(RS)-mexiletine	congenital myasthenic syndrome 16	1
+(RS)-mexiletine	hyperkalemic periodic paralysis	1
+(RS)-mexiletine	hypokalemic periodic paralysis	1
+(RS)-mexiletine	paramyotonia congenita	1
+(RS)-oxybutynin	epilepsy	1
+(RS)-oxybutynin	prune belly syndrome	1
+(S)-AMPA	syndromic X-linked intellectual disability 94	1
+1-octanol	Bart-Pumphrey syndrome	1
+1-octanol	Charcot–Marie–Tooth disease	1
+1-octanol	Hallermann-Streiff syndrome	1
+1-octanol	syndromic genetic deafness	1
+1-octanol	Vohwinkel syndrome	1
+1-octanol	autosomal dominant nonsyndromic deafness 2B	1
+1-octanol	autosomal dominant nonsyndromic deafness 3A	1
+1-octanol	autosomal dominant nonsyndromic deafness 3B	1
+1-octanol	autosomal dominant palmoplantar keratoderma and congenital alopecia	1
+1-octanol	autosomal recessive nonsyndromic deafness 1B	1
+1-octanol	cataract 1 multiple types	1
+1-octanol	erythrokeratodermia variabilis et progressiva 2	1
+1-octanol	erythrokeratodermia variabilis et progressiva 3	1
+1-octanol	hereditary spastic paraplegia 44	1
+1-octanol	odontoonychodermal syndrome	1
+1-octanol	palmoplantar keratoderma-deafness syndrome	1
+Brigatinib	growth delay due to insulin-like growth factor I resistance	1
+Brigatinib	non-small-cell lung carcinoma	1
+Hypothetical protein CT_449	autosomal recessive distal spinal muscular atrophy 2	1
+Brigatinib	polycystic ovary syndrome	1
+E4031	short QT syndrome	1
+Epidermal growth factor	glioma	1
+Epidermal growth factor	non-small-cell lung carcinoma	1
+Epidermal growth factor receptor	renal hypomagnesemia 4	1
+GYKI-2466	syndromic X-linked intellectual disability 94	1
+Helicase [SARS-CoV-2]	FTDALS4	1
+Helicase [SARS-CoV-2]	autosomal recessive nonsyndromic deafness 24	1
+Helicase [SARS-CoV-2]	cataract 18	1
+Helicase [SARS-CoV-2]	nonsyndromic deafness	1
+Hexestrol	alcohol dependence	1
+Hexestrol	breast cancer	1
+Hexestrol	obesity	1
+Hypothetical protein CTL0097	thiamine-responsive megaloblastic anemia syndrome	1
+Hypothetical protein CTL0156	Charcot-Marie-Tooth disease dominant intermediate E	1
+Hypothetical protein CTL0156	Li-Fraumeni syndrome	1
+Hypothetical protein CTL0156	Li-Fraumeni syndrome 1	1
+Hypothetical protein CTL0156	basal-cell carcinoma	1
+Hypothetical protein CTL0156	focal segmental glomerulosclerosis 5	1
+Hypothetical protein CTL0156	head and neck squamous cell carcinoma	1
+Hypothetical protein CTL0260	facial dysmorphism-lens dislocation-anterior segment abnormalities-spontaneous filtering blebs syndrome	1
+Hypothetical protein CTL0709	amyotrophic lateral sclerosis type 16	1
+Hypothetical protein CTL0709	autosomal recessive distal spinal muscular atrophy 2	1
+Hypothetical protein CTL0709	hereditary spastic paraplegia 54	1
+Hypothetical protein CTL0819	combined vitamin K-dependent clotting factors deficiency	1
+Hypothetical protein CT_005	facial dysmorphism-lens dislocation-anterior segment abnormalities-spontaneous filtering blebs syndrome	1
+Hypothetical protein CT_164	coronary artery disease	1
+Hypothetical protein CT_449	amyotrophic lateral sclerosis type 16	1
+E4031	long QT syndrome	1
+Desvenlafaxine	infantile parkinsonism-dystonia	1
+DL-TBOA	episodic ataxia type 6	1
+Clobetasol propionate	glucocorticoid resistance	1
+CDPPB	attention deficit hyperactivity disorder	1
+CDPPB	rheumatoid arthritis	1
+CGS8216	early infantile epileptic encephalopathy 19	1
+CHPG	attention deficit hyperactivity disorder	1
+CHPG	rheumatoid arthritis	1
+CPCCOEt	autosomal recessive spinocerebellar ataxia 13	1
+CPCCOEt	spinocerebellar ataxia 44	1
+CTEP	attention deficit hyperactivity disorder	1
+CTEP	rheumatoid arthritis	1
+CX546	syndromic X-linked intellectual disability 94	1
+Cenicriviroc	type 1 diabetes mellitus 22	1
+Ciclesonide	glucocorticoid resistance	1
+DADLE	coronary artery disease	1
+DL-3,3',5'-triiodothyronine	congenital nongoitrous hypothryoidism 6	1
+DAMGO	coronary artery disease	1
+DCG-IV	atherosclerosis	1
+DCG-IV	cleft lip and cleft palate	1
+DCG-IV	human immunodeficiency virus infectious disease	1
+DCG-IV	major depressive disorders	1
+DCG-IV	mental depression	1
+DCG-IV	panic disorder	1
+DCG-IV	unipolar depression	1
+DCPG	atherosclerosis	1
+DCPG	congenital stationary night blindness 1B	1
+DCPG	human immunodeficiency virus infectious disease	1
+DCPG	mental depression	1
+allopurinol	obesity	1
+alogliptin	rheumatoid arthritis	1
+alprazolam	early infantile epileptic encephalopathy 19	1
+diltiazem	major depressive disorders	1
+dapiprazole	gestational hypertension	1
+dapiprazole	pre-eclampsia	1
+darifenacin	epilepsy	1
+darifenacin	prune belly syndrome	1
+desmosterol	metabolic disease	1
+desoximetasone	glucocorticoid resistance	1
+desoxycortone	glucocorticoid resistance	1
+dexamethasone	glucocorticoid resistance	1
+dexmethylphenidate	infantile parkinsonism-dystonia	1
+dextroamphetamine	infantile parkinsonism-dystonia	1
+dextromethorphan	amyotrophic lateral sclerosis type 16	1
+dextromethorphan	autosomal recessive distal spinal muscular atrophy 2	1
+diazepam	early infantile epileptic encephalopathy 19	1
+dichlorphenamide	retinitis pigmentosa 17	1
+diclofenac	familial partial lipodystrophy	1
+diclofenac	type 2 diabetes	1
+dicyclomine	epilepsy	1
+dicyclomine	prune belly syndrome	1
+diethylstilbestrol	alcohol dependence	1
+diethylstilbestrol	breast cancer	1
+diethylstilbestrol	obesity	1
+difluprednate	glucocorticoid resistance	1
+dihydromorphine	coronary artery disease	1
+dihydrotestosterone	Kennedy disease	1
+diltiazem	Brugada syndrome 3	1
+diltiazem	Timothy syndrome	1
+diltiazem	bipolar disorder	1
+dapagliflozin	renal glycosuria	1
+dactolisib	seborrheic keratosis	1
+dactolisib	macrocephaly-intellectual disability-neurodevelopmental disorder-small thorax syndrome	1
+crizotinib	osteofibrous dysplasia	1
+clotrimazole	migraine with aura	1
+clotrimazole	migraine without aura	1
+clotrimazole	progressive familial heart block type IB	1
+clozapine	gestational hypertension	1
+clozapine	pre-eclampsia	1
+codeine	coronary artery disease	1
+cortisol	glucocorticoid resistance	1
+crenolanib	gastrointestinal stromal tumor	1
+crenolanib	piebaldism	1
+crizotinib	autosomal recessive nonsyndromic deafness 97	1
+crizotinib	multiple sclerosis	1
+crizotinib	neuroblastoma, susceptibility to, 3	1
+cx516	syndromic X-linked intellectual disability 94	1
+dactolisib	colorectal cancer	1
+cyclothiazide	Gitelman syndrome	1
+cyclothiazide	syndromic X-linked intellectual disability 94	1
+cyproheptadine	gestational hypertension	1
+cyproheptadine	pre-eclampsia	1
+cyproterone acetate	Kennedy disease	1
+dabigatran	Hypoprothrombinemia	1
+dabigatran	thrombophilia	1
+dacomitinib	glioma	1
+dacomitinib	non-small-cell lung carcinoma	1
+dactolisib	CLAPO syndrome	1
+dactolisib	CLOVES syndrome	1
+dactolisib	Macrocephaly-capillary malformation	1
+diltiazem	hypokalemic periodic paralysis	1
+diltiazem	schizophrenia	1
+clotrimazole	amyotrophic lateral sclerosis	1
+diltiazem	unipolar depression	1
+estriol	obesity	1
+estrone	alcohol dependence	1
+estrone	breast cancer	1
+estrone	obesity	1
+ethinylestradiol	alcohol dependence	1
+ethinylestradiol	breast cancer	1
+ethinylestradiol	obesity	1
+ethylestrenol	Kennedy disease	1
+etonitazene	coronary artery disease	1
+everolimus	macrocephaly-intellectual disability-neurodevelopmental disorder-small thorax syndrome	1
+exemestane	aromatase excess syndrome	1
+ezogabine	coronary artery disease	1
+ezogabine	undetermined early-onset epileptic encephalopathy	1
+fadrozole	aromatase excess syndrome	1
+farglitazar	familial partial lipodystrophy	1
+farglitazar	type 2 diabetes	1
+felodipine	congenital bilateral aplasia of the vas deferens	1
+felodipine	cystic fibrosis	1
+fenclonine	phenylketonuria	1
+fenobam	attention deficit hyperactivity disorder	1
+fenobam	rheumatoid arthritis	1
+fentanyl	coronary artery disease	1
+flufenamic acid	Bart-Pumphrey syndrome	1
+flufenamic acid	Charcot–Marie–Tooth disease	1
+(-)-pentazocine	autosomal recessive distal spinal muscular atrophy 2	1
+flufenamic acid	Hallermann-Streiff syndrome	1
+flufenamic acid	Vohwinkel syndrome	1
+estriol	breast cancer	1
+estriol	alcohol dependence	1
+erlotinib	non-small-cell lung carcinoma	1
+eglumetad	congenital stationary night blindness 1B	1
+dipraglurant	attention deficit hyperactivity disorder	1
+dipraglurant	rheumatoid arthritis	1
+diprenorphine	coronary artery disease	1
+disopyramide	long QT syndrome	1
+disopyramide	short QT syndrome	1
+dofetilide	long QT syndrome	1
+dofetilide	short QT syndrome	1
+doxazosin	gestational hypertension	1
+doxazosin	pre-eclampsia	1
+dromostanolone propionate	Kennedy disease	1
+duvoglustat	glycogen storage disease II	1
+eglumetad	atherosclerosis	1
+eglumetad	human immunodeficiency virus infectious disease	1
+erlotinib	glioma	1
+eglumetad	mental depression	1
+elagolix	hypogonadotropic hypogonadism 7 with or without anosmia	1
+eluxadoline	coronary artery disease	1
+empagliflozin	renal glycosuria	1
+endomorphin-1	coronary artery disease	1
+enoxaparin sodium	antithrombin III deficiency	1
+enzalutamide	Kennedy disease	1
+enzastaurin	inflammatory bowel diseases	1
+enzastaurin	spinocerebellar ataxia type 14	1
+epigallocatechin gallate	post-traumatic stress disorder	1
+epinephrine	gestational hypertension	1
+epinephrine	pre-eclampsia	1
+clotrimazole	migraine disorder	1
+clorgiline	Brunner Syndrome	1
+alprostadil	deafness-infertility syndrome	1
+brucine	prune belly syndrome	1
+balanol	rheumatoid arthritis	1
+balanol	spinocerebellar ataxia type 14	1
+bardoxolone methyl	familial partial lipodystrophy	1
+bardoxolone methyl	type 2 diabetes	1
+baricitinib	Crohn's disease	1
+baricitinib	acute myeloid leukemia	1
+baricitinib	myelodysplastic/myeloproliferative neoplasm	1
+baricitinib	myelofibrosis	1
+baricitinib	polycythemia vera	1
+bazedoxifene	alcohol dependence	1
+bazedoxifene	breast cancer	1
+bazedoxifene	obesity	1
+bd-1047	amyotrophic lateral sclerosis type 16	1
+bd-1047	autosomal recessive distal spinal muscular atrophy 2	1
+befloxatone	Brunner Syndrome	1
+betamethasone	glucocorticoid resistance	1
+bethanechol	epilepsy	1
+bethanechol	prune belly syndrome	1
+bexarotene	familial partial lipodystrophy	1
+bexarotene	type 2 diabetes	1
+bicalutamide	Kennedy disease	1
+bicuculline	early infantile epileptic encephalopathy 19	1
+biperiden	epilepsy	1
+biperiden	prune belly syndrome	1
+bisphenol A	Kennedy disease	1
+boceprevir	galactosialidosis	1
+bretazenil	early infantile epileptic encephalopathy 19	1
+balanol	morbid obesity	1
+balanol	inflammatory bowel diseases	1
+balanol	Oguchi disease-2	1
+andarine	Kennedy disease	1
+alvimopan	coronary artery disease	1
+alvocidib	melanoma, cutaneous malignant, susceptibility to, 3	1
+aminoglutethimide	aromatase excess syndrome	1
+aminooxyacetic acid	obesity	1
+amitriptyline	epilepsy	1
+amitriptyline	prune belly syndrome	1
+anandamide	amyotrophic lateral sclerosis	1
+anandamide	epileptic encephalopathy, early infantile, 32	1
+anandamide	migraine disorder	1
+anandamide	migraine with aura	1
+anandamide	migraine without aura	1
+anastrozole	aromatase excess syndrome	1
+aniracetam	syndromic X-linked intellectual disability 94	1
+azalanstat	aromatase excess syndrome	1
+anisindione	combined vitamin K-dependent clotting factors deficiency	1
+apigenin	congenital bilateral aplasia of the vas deferens	1
+apigenin	cystic fibrosis	1
+aplaviroc	type 1 diabetes mellitus 22	1
+arachidonic acid	focal segmental glomerulosclerosis 2	1
+arecoline	epilepsy	1
+arecoline	prune belly syndrome	1
+arginine vasopressin	alcohol dependence	1
+argiotoxin	syndromic X-linked intellectual disability 94	1
+astemizole	long QT syndrome	1
+astemizole	short QT syndrome	1
+atomoxetine	infantile parkinsonism-dystonia	1
+brucine	epilepsy	1
+budesonide	glucocorticoid resistance	1
+clonazepam	early infantile epileptic encephalopathy 19	1
+buprenorphine	coronary artery disease	1
+carbenoxolone	erythrokeratodermia variabilis et progressiva 2	1
+carbenoxolone	erythrokeratodermia variabilis et progressiva 3	1
+carbenoxolone	hereditary spastic paraplegia 44	1
+carbenoxolone	odontoonychodermal syndrome	1
+carbenoxolone	palmoplantar keratoderma-deafness syndrome	1
+carbenoxolone	syndromic genetic deafness	1
+cebranopadol	coronary artery disease	1
+cediranib	gastrointestinal stromal tumor	1
+cediranib	piebaldism	1
+ceritinib	acute myeloid leukemia	1
+ceritinib	growth delay due to insulin-like growth factor I resistance	1
+ceritinib	neuroblastoma, susceptibility to, 3	1
+ceritinib	polycystic ovary syndrome	1
+cetrorelix	hypogonadotropic hypogonadism 7 with or without anosmia	1
+chlorothiazide	Gitelman syndrome	1
+chlorthalidone	retinitis pigmentosa 17	1
+cholesterol	asthma	1
+cholesterol	mental depression	1
+cholesterol	schizophrenia	1
+chrysin	anterior segment dysgenesis 6	1
+chrysin	primary congenital glaucoma 3A	1
+ciglitazone	familial partial lipodystrophy	1
+ciglitazone	type 2 diabetes	1
+cinacalcet	neonatal severe primary hyperparathyroidism	1
+clidinium	epilepsy	1
+clidinium	prune belly syndrome	1
+clomipramine	infantile parkinsonism-dystonia	1
+carbenoxolone	cataract 1 multiple types	1
+carbenoxolone	autosomal recessive nonsyndromic deafness 1B	1
+carbenoxolone	autosomal dominant palmoplantar keratoderma and congenital alopecia	1
+cangrelor	platelet-type bleeding disorder 8	1
+bupropion	infantile parkinsonism-dystonia	1
+buserelin	hypogonadotropic hypogonadism 7 with or without anosmia	1
+butorphanol	coronary artery disease	1
+cabozantinib	autosomal recessive nonsyndromic deafness 97	1
+cabozantinib	multiple sclerosis	1
+cabozantinib	osteofibrous dysplasia	1
+caffeine	arrhythmogenic right ventricular dysplasia 2	1
+caffeine	lymphoblastic leukemia	1
+caffeine	obesity	1
+canagliflozin	renal glycosuria	1
+canertinib	glioma	1
+canertinib	non-small-cell lung carcinoma	1
+cannabidiol	amyotrophic lateral sclerosis	1
+carbenoxolone	autosomal dominant nonsyndromic deafness 3B	1
+cannabidiol	migraine disorder	1
+cannabidiol	migraine with aura	1
+cannabidiol	migraine without aura	1
+capsaicin	congenital bilateral aplasia of the vas deferens	1
+capsaicin	cystic fibrosis	1
+carbenoxolone	Bart-Pumphrey syndrome	1
+carbenoxolone	Charcot–Marie–Tooth disease	1
+carbenoxolone	Clouston syndrome	1
+carbenoxolone	Hallermann-Streiff syndrome	1
+carbenoxolone	Vohwinkel syndrome	1
+carbenoxolone	autosomal dominant nonsyndromic deafness 2B	1
+carbenoxolone	autosomal dominant nonsyndromic deafness 3A	1
+α-methylnoradrenaline	pre-eclampsia	1

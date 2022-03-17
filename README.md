@@ -1,2 +1,2 @@
-# Becoming-a-Data-Scientist
-Mentoring and Teaching Repo
+# Becoming-A-Data-Scientist
+Teaching resources

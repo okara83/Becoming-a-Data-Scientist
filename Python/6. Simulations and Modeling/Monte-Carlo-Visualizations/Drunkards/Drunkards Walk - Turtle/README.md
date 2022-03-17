@@ -1,0 +1,1 @@
+The program simulates a drunkard's escape from a partially enclosed region (a random walk within a circle with a hole in the side of radius 30 degree). The program returns a printed output if the random walk permits him to escape the enclosure or not. By default, the program  is limited to to 1000 steps so that the program doesn't run too long. 

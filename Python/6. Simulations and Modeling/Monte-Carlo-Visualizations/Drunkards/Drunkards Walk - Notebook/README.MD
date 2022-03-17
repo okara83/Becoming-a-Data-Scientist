@@ -1,0 +1,2 @@
+# Drunkard Walk Notebook
+Demonstration of a random walk using a Markov chain simulation. An algorithm devised to calculate a probability of the drunk's steps is presented, taking into account that the drunk can arrival at both destinations is possible regardless of where he starts.  Canonical, Fundamental Matrix and Spectral Decomposition are used. After analysis of the results, we obtain the values of the highest probability of the drunkards position in the limit of a large number of steps.

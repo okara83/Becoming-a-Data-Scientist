@@ -1,0 +1,3026 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CsvFileAttributes">
+    <option name="attributeMap">
+      <map>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Cloud Services and Computing/Amazon AWS/S3/Notebooks/s3-notebooks/smoking.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/EDA/insurance-data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/ESTU/insurance.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Feature Selection/car_price.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/assets/data/IV.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/assets/data/actors.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/assets/data/anscombe.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/assets/data/baby.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/assets/data/banknote.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/assets/data/birds.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/assets/data/birth_time.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/assets/data/breast-cancer.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/assets/data/bta.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/assets/data/children_raw.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/assets/data/ckd.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/assets/data/cones.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/assets/data/couples.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/assets/data/deflategate.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/assets/data/dugongs.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/assets/data/educ_inc.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/assets/data/everyone_raw.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/assets/data/faithful.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/assets/data/family_heights.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/assets/data/football.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/assets/data/galton.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/assets/data/galton_subset.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/assets/data/grades_and_piazza.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/assets/data/heights.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/assets/data/hodgkins.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/assets/data/house.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/assets/data/hybrid.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/assets/data/hybrid_reg.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/assets/data/income_small.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/assets/data/kaiser_ethnicity_children.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/assets/data/kaiser_ethnicity_everyone.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/assets/data/little_women.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/assets/data/married_couples.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/assets/data/minard.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/assets/data/movies_by_year.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/assets/data/nba2013.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/assets/data/nba_salaries.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/assets/data/nc-est2014-agesex-res.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/assets/data/nc-est2015-agesex-res.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/assets/data/nc-est2019-agesex-res.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/assets/data/observed_outcomes.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/assets/data/potential_outcomes.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/assets/data/roulette_wheel.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/assets/data/sat2014.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/assets/data/scores_by_section.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/assets/data/shotput.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/assets/data/sons_heights.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/assets/data/station.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/assets/data/top_movies.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/assets/data/top_movies_2017.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/assets/data/unfair_flips.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/assets/data/united_summer2015.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/assets/data/us_women.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/assets/data/usa_ca_2014.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/assets/data/usa_ca_2019.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/assets/data/wine.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/ch_02/data/example_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/ch_02/data/tsunamis.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/ch_03/data/bitcoin.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/ch_03/data/dirty_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/ch_03/data/long_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/ch_03/data/nyc_temperatures.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/ch_03/data/sp500.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/ch_03/data/wide_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/ch_03/exercises/aapl.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/ch_03/exercises/amzn.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/ch_03/exercises/covid19_total_cases.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/ch_03/exercises/fb.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/ch_03/exercises/goog.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/ch_03/exercises/nflx.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/ch_04/data/dirty_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/ch_04/data/fb_2018.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/ch_04/data/fb_week_of_may_20_per_minute.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/ch_04/data/melted_stock_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/ch_04/data/weather_stations.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/ch_04/exercises/earthquakes.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/ch_04/exercises/faang.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/ch_05/data/earthquakes.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/ch_05/data/fb_stock_prices_2018.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/ch_06/data/earthquakes.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/ch_06/data/fb_stock_prices_2018.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/ch_07/data/amazon.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/ch_07/data/apple.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/ch_07/data/bitcoin.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/ch_07/data/facebook.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/ch_07/data/google.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/ch_07/data/netflix.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/ch_07/data/netflix_jan_2021.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/ch_07/data/sp500.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/ch_07/data/tesla.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/ch_07/exercises/amazon.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/ch_07/exercises/apple.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/ch_07/exercises/bitcoin.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/ch_07/exercises/facebook.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/ch_07/exercises/forex.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/ch_07/exercises/google.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/ch_07/exercises/netflix.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/ch_07/exercises/sp500.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/ch_08/logs/attacks.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/ch_08/logs/log.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/ch_09/data/binaries.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/ch_09/data/planets.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/ch_09/data/stars.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/ch_09/data/systems.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/ch_09/data/winequality-red.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/ch_09/data/winequality-white.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/ch_10/data/planets.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/ch_10/data/stars.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/ch_10/data/winequality-red.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/ch_10/data/winequality-white.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/ch_11/logs/hackers_2018.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/ch_11/logs/hackers_2019.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/ch_11/logs/logs_2018.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/ch_11/logs/logs_2019.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/solutions/ch_03/faang.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/solutions/ch_08/dec_2018_attacks.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/solutions/ch_08/dec_2018_log.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/visual-aids/visual_aids/data/market_segmentation_cluster_example.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/visual-aids/visual_aids/data/sample_roc_curves.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/MSKU/Demand_Prediction/store_sharing.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/CLARUSWAY/PYTHON/DATA_VISUALIZATION_WITH_PYTHON/MATPLOTLIB/hist_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/CLARUSWAY/STATISTICS/Statistics_Session_11_Hypothesis_Testing/arsenic.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/CLARUSWAY/STATISTICS/Statistics_Session_11_Hypothesis_Testing/catalysts.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/CLARUSWAY/STATISTICS/Statistics_Session_11_Hypothesis_Testing/prozac.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/CLARUSWAY/STATISTICS/Statistics_Session_11_Hypothesis_Testing/students.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/CLARUSWAY/STATISTICS/samples_statistics_9.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/DEEP_LEARNING/KERAS/cancer_classification.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/DEEP_LEARNING/KERAS/fake_reg.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/DEEP_LEARNING/KERAS/kc_house_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/EXAMPLES/AIRCRAFT_DESIGN/PROJECT_EXAMPLES/01_Flight_Data_Cleaning/cleaned_flight_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/EXAMPLES/AIRCRAFT_DESIGN/PROJECT_EXAMPLES/01_Flight_Data_Cleaning/first_flight_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/EXAMPLES/PROJECT_EXAMPLES/01_Flight_Data_Cleaning/cleaned_flight_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/EXAMPLES/PROJECT_EXAMPLES/01_Flight_Data_Cleaning/first_flight_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/MACHINE_LEARNING/AMES_Final_DF.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/MACHINE_LEARNING/Advertising.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/MACHINE_LEARNING/CLUSTERING/Mall_Customers.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/MACHINE_LEARNING/CLUSTERING/USArrests.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/MACHINE_LEARNING/CLUSTERING/countries.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/MACHINE_LEARNING/CLUSTERING/happiness_scores.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/MACHINE_LEARNING/DECISION_TREES_and_RANDOM_FORESTS/kyphosis.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/MACHINE_LEARNING/DT_RF_XGBOOST/loan_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/MACHINE_LEARNING/HACKERMATH_FOR_ML/data/bank.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/MACHINE_LEARNING/HACKERMATH_FOR_ML/data/cars_sample.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/MACHINE_LEARNING/HACKERMATH_FOR_ML/data/cars_small.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/MACHINE_LEARNING/HACKERMATH_FOR_ML/data/cars_v1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/MACHINE_LEARNING/HACKERMATH_FOR_ML/data/creditRisk.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/MACHINE_LEARNING/LOGISTIC_REGRESSION/LOGISTIC_REG_PROJECT_JOSE_PORTILLA/advertising.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/MACHINE_LEARNING/LOGISTIC_REGRESSION/diabetes.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/MACHINE_LEARNING/LOGISTIC_REGRESSION/iris.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/MACHINE_LEARNING/LOGISTIC_REGRESSION/titanic_train.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/MACHINE_LEARNING/PRINCIPAL_COMPONENT_ANALYSIS/BankChurners.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/MACHINE_LEARNING/PRINCIPAL_COMPONENT_ANALYSIS/Hitters.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/MACHINE_LEARNING/PRINCIPAL_COMPONENT_ANALYSIS/Wine.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/MACHINE_LEARNING/PYTHON_FEATURE_ENGINEERING/Chapter02/creditApprovalUCI.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/MACHINE_LEARNING/PYTHON_FEATURE_ENGINEERING/Chapter03/creditApprovalUCI.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/MACHINE_LEARNING/USA_Housing.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/MACHINE_LEARNING/iris.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_01/data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_02/Advertising.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_02/CTA_comparison.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_02/conversion_rates.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_02/newspaper_prices.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_02/sales.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_03/ageinc.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_03/customer_interactions.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_03/customer_offers.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_03/offer_info.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_03/three_col.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_04/age_education.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_04/ageinc.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_04/customer_offers.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_04/four_cols.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_04/offer_info.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_04/three_col.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_05/location_rev.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_05/wrangled_transactions.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_06/20scores.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_06/age_spend.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_06/customer_spend.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_06/location_rev.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_06/offer_responses.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_06/spend_age_income_ed.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_07/Churn_Modelling.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_07/Telco_Churn_Data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_07/exam_score.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_08/Churn_Modelling.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_08/Telco_Churn_Data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_09/MarketingData.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_09/bank.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/MARKETING_DATA_SCIENCE/02_Hands_On_Data_Science_for_Marketing/Chapter03/WA_Fn-UseC_-Marketing-Customer-Value-Analysis.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/MARKETING_DATA_SCIENCE/02_Hands_On_Data_Science_for_Marketing/Chapter11/Telco-Customer-Churn.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/MARKETING_DATA_SCIENCE/02_Hands_On_Data_Science_for_Marketing/Chapter12/WA_Fn_UseC_Marketing_Campaign_Eff_useC__FastF.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/CLARUSWAY/PYTHON/DATA_VISUALIZATION_WITH_PYTHON/MATPLOTLIB/hist_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/CLARUSWAY/STATISTICS/Statistics_Session_11_Hypothesis_Testing/arsenic.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/CLARUSWAY/STATISTICS/Statistics_Session_11_Hypothesis_Testing/catalysts.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/CLARUSWAY/STATISTICS/Statistics_Session_11_Hypothesis_Testing/prozac.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/CLARUSWAY/STATISTICS/Statistics_Session_11_Hypothesis_Testing/students.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/CLARUSWAY/STATISTICS/samples_statistics_9.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/DEEP_LEARNING/KERAS/cancer_classification.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/DEEP_LEARNING/KERAS/fake_reg.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/DEEP_LEARNING/KERAS/kc_house_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/EXAMPLES/DIFFERENT/DENDROGRAM_TIME_SERIES_EXAMPLE/ChillerPowerData.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/EXAMPLES/DIFFERENT/TIME_SERIES_EXAMPLES/03_EXAMPLES/Real_estate.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/EXAMPLES/DIFFERENT/TIME_SERIES_EXAMPLES/03_EXAMPLES/train.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/EXAMPLES/DIFFERENT/TIME_SERIES_EXAMPLES/03_EXAMPLES/valeurs_mensuelles.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/EXAMPLES/DIFFERENT/TIME_SERIES_EXAMPLES/ARTIFICIAL_ARIMA_SARIMA/02_ARIMA/wwwusage.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/EXAMPLES/DIFFERENT/TIME_SERIES_EXAMPLES/ARTIFICIAL_ARIMA_SARIMA/03_SARIMA/monthly_champagne_sales.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/EXAMPLES/DIFFERENT/TIME_SERIES_EXAMPLES/GOLD_PRICE_PREDICTION/FINAL_USO.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/EXAMPLES/FEATURE_ENGINEERING/loan_.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/EXAMPLES/FEATURE_ENGINEERING/mobile_dataset.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/EXAMPLES/FEATURE_ENGINEERING/monthly-milk-production-pounds.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/EXAMPLES/FEATURE_ENGINEERING/titanic.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/EXAMPLES/MATPLOTLIB/02_DIFFERENTS_EXAMPLES/auto_clean.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/EXAMPLES/PANDAS/births.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/EXAMPLES/PLOTLY/03_PLOTLY_EXAMPLE_SET/Fish.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/EXAMPLES/PLOTLY/03_PLOTLY_EXAMPLE_SET/Life Expectancy Data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/EXAMPLES/PLOTLY/03_PLOTLY_EXAMPLE_SET/canada.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/EXAMPLES/PLOTLY/03_PLOTLY_EXAMPLE_SET/car.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/EXAMPLES/PLOTLY/03_PLOTLY_EXAMPLE_SET/cars.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/EXAMPLES/PLOTLY/03_PLOTLY_EXAMPLE_SET/exercise.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/EXAMPLES/PLOTLY/03_PLOTLY_EXAMPLE_SET/housing.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/EXAMPLES/PLOTLY/03_PLOTLY_EXAMPLE_SET/insurance.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/EXAMPLES/PLOTLY/03_PLOTLY_EXAMPLE_SET/pokemon_updated.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/EXAMPLES/PLOTLY/03_PLOTLY_EXAMPLE_SET/spotify.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/EXAMPLES/PLOTLY/03_PLOTLY_EXAMPLE_SET/studentp.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/EXAMPLES/PROJECT_EXAMPLES/01_Flight_Data_Cleaning/cleaned_flight_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/EXAMPLES/PROJECT_EXAMPLES/01_Flight_Data_Cleaning/first_flight_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/EXAMPLES/PYTHON_BUSINESS_ANALYTICS/01_BIKE_SHARING/hour.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/EXAMPLES/SEABORN/01_SEABORN_EXAMPLES_01/Datasets/Fish.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/EXAMPLES/SEABORN/01_SEABORN_EXAMPLES_01/Datasets/Life Expectancy Data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/EXAMPLES/SEABORN/01_SEABORN_EXAMPLES_01/Datasets/canada.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/EXAMPLES/SEABORN/01_SEABORN_EXAMPLES_01/Datasets/car.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/EXAMPLES/SEABORN/01_SEABORN_EXAMPLES_01/Datasets/cars.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/EXAMPLES/SEABORN/01_SEABORN_EXAMPLES_01/Datasets/exercise.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/EXAMPLES/SEABORN/01_SEABORN_EXAMPLES_01/Datasets/housing.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/EXAMPLES/SEABORN/01_SEABORN_EXAMPLES_01/Datasets/insurance.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/EXAMPLES/SEABORN/01_SEABORN_EXAMPLES_01/Datasets/pokemon_updated.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/EXAMPLES/SEABORN/01_SEABORN_EXAMPLES_01/Datasets/spotify.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/EXAMPLES/SEABORN/01_SEABORN_EXAMPLES_01/Datasets/studentp.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/EXAMPLES/SEABORN/02_SEABORN_EXAMPLES_02/Labour Data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/EXAMPLES/SEABORN/02_SEABORN_EXAMPLES_02/PoliceKillingsUS.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/EXAMPLES/SEABORN/02_SEABORN_EXAMPLES_02/Score Book.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/EXAMPLES/SEABORN/02_SEABORN_EXAMPLES_02/University.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/EXAMPLES/SEABORN/02_SEABORN_EXAMPLES_02/anscombe.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/EXAMPLES/SEABORN/02_SEABORN_EXAMPLES_02/brain_networks.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/EXAMPLES/SEABORN/02_SEABORN_EXAMPLES_02/exercise.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/EXAMPLES/SEABORN/02_SEABORN_EXAMPLES_02/flights.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/EXAMPLES/SEABORN/02_SEABORN_EXAMPLES_02/iris.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/EXAMPLES/SEABORN/02_SEABORN_EXAMPLES_02/nyc_taxi.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/EXAMPLES/SEABORN/02_SEABORN_EXAMPLES_02/planets.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/EXAMPLES/SEABORN/02_SEABORN_EXAMPLES_02/tips.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/EXAMPLES/SEABORN/02_SEABORN_EXAMPLES_02/titanic.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MACHINE_LEARNING/AMES_Final_DF.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MACHINE_LEARNING/Advertising.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MACHINE_LEARNING/CLUSTERING/Mall_Customers.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MACHINE_LEARNING/CLUSTERING/USArrests.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MACHINE_LEARNING/CLUSTERING/countries.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MACHINE_LEARNING/CLUSTERING/happiness_scores.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MACHINE_LEARNING/DECISION_TREES_and_RANDOM_FORESTS/kyphosis.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MACHINE_LEARNING/DT_RF_XGBOOST/loan_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MACHINE_LEARNING/HACKERMATH_FOR_ML/data/bank.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MACHINE_LEARNING/HACKERMATH_FOR_ML/data/cars_sample.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MACHINE_LEARNING/HACKERMATH_FOR_ML/data/cars_small.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MACHINE_LEARNING/HACKERMATH_FOR_ML/data/cars_v1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MACHINE_LEARNING/HACKERMATH_FOR_ML/data/creditRisk.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MACHINE_LEARNING/LOGISTIC_REGRESSION/LOGISTIC_REG_PROJECT_JOSE_PORTILLA/advertising.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MACHINE_LEARNING/LOGISTIC_REGRESSION/diabetes.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MACHINE_LEARNING/LOGISTIC_REGRESSION/iris.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MACHINE_LEARNING/LOGISTIC_REGRESSION/titanic_train.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MACHINE_LEARNING/ML_PROJECTS/WA_Fn_UseC_HR_Employee_Attrition.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MACHINE_LEARNING/PRINCIPAL_COMPONENT_ANALYSIS/BankChurners.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MACHINE_LEARNING/PRINCIPAL_COMPONENT_ANALYSIS/Hitters.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MACHINE_LEARNING/PRINCIPAL_COMPONENT_ANALYSIS/Wine.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MACHINE_LEARNING/PRINCIPAL_COMPONENT_ANALYSIS/cars.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MACHINE_LEARNING/PRINCIPAL_COMPONENT_ANALYSIS/mushrooms.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MACHINE_LEARNING/PRINCIPAL_COMPONENT_ANALYSIS/packages.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MACHINE_LEARNING/PYTHON_FEATURE_ENGINEERING/Chapter02/creditApprovalUCI.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MACHINE_LEARNING/PYTHON_FEATURE_ENGINEERING/Chapter03/creditApprovalUCI.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MACHINE_LEARNING/USA_Housing.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MACHINE_LEARNING/iris.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_01/data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_02/Advertising.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_02/CTA_comparison.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_02/conversion_rates.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_02/newspaper_prices.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_02/sales.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_03/ageinc.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_03/customer_interactions.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_03/customer_offers.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_03/offer_info.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_03/three_col.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_04/age_education.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_04/ageinc.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_04/customer_offers.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_04/four_cols.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_04/offer_info.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_04/three_col.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_05/location_rev.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_05/wrangled_transactions.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_06/20scores.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_06/age_spend.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_06/customer_spend.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_06/location_rev.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_06/offer_responses.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_06/spend_age_income_ed.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_07/Churn_Modelling.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_07/Telco_Churn_Data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_07/exam_score.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_08/Churn_Modelling.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_08/Telco_Churn_Data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_09/MarketingData.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MARKETING_DATA_SCIENCE/01_Data_Science_for_Marketing_Analytics/Part_09/bank.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MARKETING_DATA_SCIENCE/02_Hands_On_Data_Science_for_Marketing/Chapter03/WA_Fn-UseC_-Marketing-Customer-Value-Analysis.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MARKETING_DATA_SCIENCE/02_Hands_On_Data_Science_for_Marketing/Chapter11/Telco-Customer-Churn.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/MARKETING_DATA_SCIENCE/02_Hands_On_Data_Science_for_Marketing/Chapter12/WA_Fn_UseC_Marketing_Campaign_Eff_useC__FastF.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/TRAINING-THOROUGH/RECAP_DS/05_MACHINE_LEARNING/MODELING/heights.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Thorough Python Data Science Topics/data/pima-indians-diabetes.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Time Series/Time Series with FBProphet and Outlier Detection - kats/MLTollsStackOverflow.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Data Science and Machine Learning/Time Series/extract_features/daily-total-female-births.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Databases/GraphDBs/Neptune and SPARQL + More/4. Machine-Learning/Sample-Applications/01-People-Analytics/WA_Fn-UseC_-HR-Employee-Attrition.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Julia/Notebooks/2. Julia - Data Science/programming_languages.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Julia/Notebooks/2. Julia - Data Science/programminglanguages_CSV.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Julia/Notebooks/3. DataFrames/auto2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Julia/Notebooks/3. DataFrames/rainfall_forecast.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Mathematics/Statistics/Combinatorics, Probability, and Stats/649.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Mathematics/Statistics/bayes_linear_regression/student-score.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Mathematics/Statistics/bayesian_example/google_analytics_20210101-20210701.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/3. Pandas/Notebooks/Pandas - Books, Problem Sets, Lessons, and Solutions/Additional Notebooks/Pandas-Complete-Introduction-Thorough/1. Complete Pandas Intro Course/1. Pandas Foundations/Datasets/austin_airport_departure_data_2015_july.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/3. Pandas/Notebooks/Pandas - Books, Problem Sets, Lessons, and Solutions/Additional Notebooks/Pandas-Complete-Introduction-Thorough/1. Complete Pandas Intro Course/1. Pandas Foundations/Datasets/auto-mpg.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/3. Pandas/Notebooks/Pandas - Books, Problem Sets, Lessons, and Solutions/Additional Notebooks/Pandas-Complete-Introduction-Thorough/1. Complete Pandas Intro Course/1. Pandas Foundations/Datasets/life_expectancy_at_birth.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/3. Pandas/Notebooks/Pandas - Books, Problem Sets, Lessons, and Solutions/Additional Notebooks/Pandas-Complete-Introduction-Thorough/1. Complete Pandas Intro Course/1. Pandas Foundations/Datasets/percent-bachelors-degrees-women-usa.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/3. Pandas/Notebooks/Pandas - Books, Problem Sets, Lessons, and Solutions/Additional Notebooks/Pandas-Complete-Introduction-Thorough/1. Complete Pandas Intro Course/1. Pandas Foundations/Datasets/tips.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/3. Pandas/Notebooks/Pandas - Books, Problem Sets, Lessons, and Solutions/Additional Notebooks/Pandas-Complete-Introduction-Thorough/1. Complete Pandas Intro Course/1. Pandas Foundations/Datasets/titanic.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/3. Pandas/Notebooks/Pandas - Books, Problem Sets, Lessons, and Solutions/Additional Notebooks/Pandas-Complete-Introduction-Thorough/1. Complete Pandas Intro Course/1. Pandas Foundations/Datasets/weather_data_austin_2010.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/3. Pandas/Notebooks/Pandas - Books, Problem Sets, Lessons, and Solutions/Additional Notebooks/Pandas-Complete-Introduction-Thorough/1. Complete Pandas Intro Course/1. Pandas Foundations/Datasets/world_ind_pop_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/3. Pandas/Notebooks/Pandas - Books, Problem Sets, Lessons, and Solutions/Additional Notebooks/Pandas-Complete-Introduction-Thorough/1. Complete Pandas Intro Course/1. Pandas Foundations/Datasets/world_population.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/3. Pandas/Notebooks/Pandas - Books, Problem Sets, Lessons, and Solutions/Additional Notebooks/Pandas-Complete-Introduction-Thorough/1. Complete Pandas Intro Course/2. Manipulating DataFrames with pandas/Datasets/all_medalists.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/3. Pandas/Notebooks/Pandas - Books, Problem Sets, Lessons, and Solutions/Additional Notebooks/Pandas-Complete-Introduction-Thorough/1. Complete Pandas Intro Course/2. Manipulating DataFrames with pandas/Datasets/gapminder_tidy.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/3. Pandas/Notebooks/Pandas - Books, Problem Sets, Lessons, and Solutions/Additional Notebooks/Pandas-Complete-Introduction-Thorough/1. Complete Pandas Intro Course/2. Manipulating DataFrames with pandas/Datasets/pennsylvania2012_turnout.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/3. Pandas/Notebooks/Pandas - Books, Problem Sets, Lessons, and Solutions/Additional Notebooks/Pandas-Complete-Introduction-Thorough/1. Complete Pandas Intro Course/2. Manipulating DataFrames with pandas/Datasets/pittsburgh2013.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/3. Pandas/Notebooks/Pandas - Books, Problem Sets, Lessons, and Solutions/Additional Notebooks/Pandas-Complete-Introduction-Thorough/1. Complete Pandas Intro Course/2. Manipulating DataFrames with pandas/Datasets/sales/sales-feb-2015.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/3. Pandas/Notebooks/Pandas - Books, Problem Sets, Lessons, and Solutions/Additional Notebooks/Pandas-Complete-Introduction-Thorough/1. Complete Pandas Intro Course/2. Manipulating DataFrames with pandas/Datasets/sales/sales.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/3. Pandas/Notebooks/Pandas - Books, Problem Sets, Lessons, and Solutions/Additional Notebooks/Pandas-Complete-Introduction-Thorough/1. Complete Pandas Intro Course/2. Manipulating DataFrames with pandas/Datasets/titanic.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/3. Pandas/Notebooks/Pandas - Books, Problem Sets, Lessons, and Solutions/Additional Notebooks/Pandas-Complete-Introduction-Thorough/1. Complete Pandas Intro Course/2. Manipulating DataFrames with pandas/Datasets/users.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/3. Pandas/Notebooks/Pandas - Books, Problem Sets, Lessons, and Solutions/Additional Notebooks/Pandas-Complete-Introduction-Thorough/1. Complete Pandas Intro Course/3 .Merging DataFrames with pandas/Datasets/Baby names/names1881.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/3. Pandas/Notebooks/Pandas - Books, Problem Sets, Lessons, and Solutions/Additional Notebooks/Pandas-Complete-Introduction-Thorough/1. Complete Pandas Intro Course/3 .Merging DataFrames with pandas/Datasets/Baby names/names1981.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/3. Pandas/Notebooks/Pandas - Books, Problem Sets, Lessons, and Solutions/Additional Notebooks/Pandas-Complete-Introduction-Thorough/1. Complete Pandas Intro Course/3 .Merging DataFrames with pandas/Datasets/GDP/gdp_china.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/3. Pandas/Notebooks/Pandas - Books, Problem Sets, Lessons, and Solutions/Additional Notebooks/Pandas-Complete-Introduction-Thorough/1. Complete Pandas Intro Course/3 .Merging DataFrames with pandas/Datasets/GDP/gdp_usa.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/3. Pandas/Notebooks/Pandas - Books, Problem Sets, Lessons, and Solutions/Additional Notebooks/Pandas-Complete-Introduction-Thorough/1. Complete Pandas Intro Course/3 .Merging DataFrames with pandas/Datasets/Sales/feb-sales-Hardware.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/3. Pandas/Notebooks/Pandas - Books, Problem Sets, Lessons, and Solutions/Additional Notebooks/Pandas-Complete-Introduction-Thorough/1. Complete Pandas Intro Course/3 .Merging DataFrames with pandas/Datasets/Sales/feb-sales-Service.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/3. Pandas/Notebooks/Pandas - Books, Problem Sets, Lessons, and Solutions/Additional Notebooks/Pandas-Complete-Introduction-Thorough/1. Complete Pandas Intro Course/3 .Merging DataFrames with pandas/Datasets/Sales/feb-sales-Software.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/3. Pandas/Notebooks/Pandas - Books, Problem Sets, Lessons, and Solutions/Additional Notebooks/Pandas-Complete-Introduction-Thorough/1. Complete Pandas Intro Course/3 .Merging DataFrames with pandas/Datasets/Sales/sales-feb-2015.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/3. Pandas/Notebooks/Pandas - Books, Problem Sets, Lessons, and Solutions/Additional Notebooks/Pandas-Complete-Introduction-Thorough/1. Complete Pandas Intro Course/3 .Merging DataFrames with pandas/Datasets/Sales/sales-jan-2015.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/3. Pandas/Notebooks/Pandas - Books, Problem Sets, Lessons, and Solutions/Additional Notebooks/Pandas-Complete-Introduction-Thorough/1. Complete Pandas Intro Course/3 .Merging DataFrames with pandas/Datasets/Sales/sales-mar-2015.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/3. Pandas/Notebooks/Pandas - Books, Problem Sets, Lessons, and Solutions/Additional Notebooks/Pandas-Complete-Introduction-Thorough/1. Complete Pandas Intro Course/3 .Merging DataFrames with pandas/Datasets/Summer Olympic medals/Bronze.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/3. Pandas/Notebooks/Pandas - Books, Problem Sets, Lessons, and Solutions/Additional Notebooks/Pandas-Complete-Introduction-Thorough/1. Complete Pandas Intro Course/3 .Merging DataFrames with pandas/Datasets/Summer Olympic medals/Gold.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/3. Pandas/Notebooks/Pandas - Books, Problem Sets, Lessons, and Solutions/Additional Notebooks/Pandas-Complete-Introduction-Thorough/1. Complete Pandas Intro Course/3 .Merging DataFrames with pandas/Datasets/Summer Olympic medals/Silver.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/3. Pandas/Notebooks/Pandas - Books, Problem Sets, Lessons, and Solutions/Additional Notebooks/Pandas-Complete-Introduction-Thorough/1. Complete Pandas Intro Course/3 .Merging DataFrames with pandas/Datasets/Summer Olympic medals/Summer Olympic medalists 1896 to 2008 - IOC COUNTRY CODES.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/3. Pandas/Notebooks/Pandas - Books, Problem Sets, Lessons, and Solutions/Additional Notebooks/Pandas-Complete-Introduction-Thorough/1. Complete Pandas Intro Course/3 .Merging DataFrames with pandas/Datasets/Summer Olympic medals/bronze_top5.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/3. Pandas/Notebooks/Pandas - Books, Problem Sets, Lessons, and Solutions/Additional Notebooks/Pandas-Complete-Introduction-Thorough/1. Complete Pandas Intro Course/3 .Merging DataFrames with pandas/Datasets/Summer Olympic medals/gold_top5.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/3. Pandas/Notebooks/Pandas - Books, Problem Sets, Lessons, and Solutions/Additional Notebooks/Pandas-Complete-Introduction-Thorough/1. Complete Pandas Intro Course/3 .Merging DataFrames with pandas/Datasets/Summer Olympic medals/silver_top5.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/3. Pandas/Notebooks/Pandas - Books, Problem Sets, Lessons, and Solutions/Additional Notebooks/Pandas-Complete-Introduction-Thorough/1. Complete Pandas Intro Course/3 .Merging DataFrames with pandas/Datasets/automobiles.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/3. Pandas/Notebooks/Pandas - Books, Problem Sets, Lessons, and Solutions/Additional Notebooks/Pandas-Complete-Introduction-Thorough/1. Complete Pandas Intro Course/3 .Merging DataFrames with pandas/Datasets/exchange.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/3. Pandas/Notebooks/Pandas - Books, Problem Sets, Lessons, and Solutions/Additional Notebooks/Pandas-Complete-Introduction-Thorough/1. Complete Pandas Intro Course/3 .Merging DataFrames with pandas/Datasets/oil_price.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/3. Pandas/Notebooks/Pandas - Books, Problem Sets, Lessons, and Solutions/Additional Notebooks/Pandas-Complete-Introduction-Thorough/1. Complete Pandas Intro Course/3 .Merging DataFrames with pandas/Datasets/pittsburgh2013.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/3. Pandas/Notebooks/Pandas - Books, Problem Sets, Lessons, and Solutions/Additional Notebooks/Pandas-Complete-Introduction-Thorough/1. Complete Pandas Intro Course/3 .Merging DataFrames with pandas/Datasets/sp500.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/3. Pandas/Notebooks/Start Learning Here/Part-1a/data/IMDB-Movie-Data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/3. Pandas/Notebooks/Start Learning Here/Part-1a/data/purchases.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/3. Pandas/Notebooks/Start Learning Here/Part-1a/output/new_purchases.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/3. Pandas/Notebooks/Start Learning Here/Part-1a/output/new_purchases_indexname.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/3. Pandas/Notebooks/Start Learning Here/Part-1b/sample.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/3. Pandas/Notebooks/Start Learning Here/Part-1b_1-(D-Tale)/national-history.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/3. Pandas/Notebooks/Start Learning Here/Part-1c/titanic.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/3. Pandas/Notebooks/Start Learning Here/Part-2/data/bikes.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/3. Pandas/Notebooks/Start Learning Here/Part-2/data/weather_2012.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/3. Pandas/Notebooks/Start Learning Here/Part-3a/drug_db.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/4. Visualizations/Networks Science and Advanced Visualizations/Data Science Job Market Analysis - Advanced Visuals/languages.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/4. Visualizations/Networks Science and Advanced Visualizations/data/StudentsPerformance.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/4. Visualizations/Networks Science and Advanced Visualizations/networkx_holoviews_pyvis_bokeh_advanced/data/emoji_embeddings.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/4. Visualizations/Networks Science and Advanced Visualizations/networkx_holoviews_pyvis_bokeh_advanced/data/energy.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/4. Visualizations/Networks Science and Advanced Visualizations/networkx_holoviews_pyvis_bokeh_advanced/data/fb_edges.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/4. Visualizations/Networks Science and Advanced Visualizations/networkx_holoviews_pyvis_bokeh_advanced/data/fb_nodes.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/4. Visualizations/Networks Science and Advanced Visualizations/networkx_holoviews_pyvis_bokeh_advanced/data/got-edges.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/4. Visualizations/Networks Science and Advanced Visualizations/networkx_holoviews_pyvis_bokeh_advanced/data/got-nodes.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/4. Visualizations/Networks Science and Advanced Visualizations/networkx_holoviews_pyvis_bokeh_advanced/data/nyc_taxi.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/4. Visualizations/Networks Science and Advanced Visualizations/networkx_holoviews_pyvis_bokeh_advanced/data/station_info.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/4. Visualizations/Start Here - Examples and Tutorials/Datasets/Labour Data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/4. Visualizations/Start Here - Examples and Tutorials/Datasets/PoliceKillingsUS.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/4. Visualizations/Start Here - Examples and Tutorials/Datasets/Score Book.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/4. Visualizations/Start Here - Examples and Tutorials/Datasets/StudentsPerformance.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/4. Visualizations/Start Here - Examples and Tutorials/Datasets/University.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/4. Visualizations/Start Here - Examples and Tutorials/Datasets/anscombe.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/4. Visualizations/Start Here - Examples and Tutorials/Datasets/auto-mpg.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/4. Visualizations/Start Here - Examples and Tutorials/Datasets/brain_networks.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/4. Visualizations/Start Here - Examples and Tutorials/Datasets/exercise.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/4. Visualizations/Start Here - Examples and Tutorials/Datasets/flights.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/4. Visualizations/Start Here - Examples and Tutorials/Datasets/nyc_taxi.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/4. Visualizations/Start Here - Examples and Tutorials/Datasets/pokemon.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/4. Visualizations/Start Here - Examples and Tutorials/Datasets/primary-school-data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/4. Visualizations/Start Here - Examples and Tutorials/Datasets/tips.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/4. Visualizations/Start Here - Examples and Tutorials/Datasets/titanic.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/4. Visualizations/Start Here - Examples and Tutorials/advanced-plotting-with-pandas-and-more/data/Global_Mean_Estimates_based_on_Land_and_Ocean_Data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/4. Visualizations/Start Here - Examples and Tutorials/advanced-plotting-with-pandas-and-more/data/Topic_Survey_Assignment.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/4. Visualizations/Start Here - Examples and Tutorials/advanced-plotting-with-pandas-and-more/data/tempbydecade.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/4. Visualizations/Start Here - Examples and Tutorials/seaborn-plots-and-tutorials/Datasets/Labour Data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/4. Visualizations/Start Here - Examples and Tutorials/seaborn-plots-and-tutorials/Datasets/PoliceKillingsUS.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/4. Visualizations/Start Here - Examples and Tutorials/seaborn-plots-and-tutorials/Datasets/Score Book.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/4. Visualizations/Start Here - Examples and Tutorials/seaborn-plots-and-tutorials/Datasets/University.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/4. Visualizations/Start Here - Examples and Tutorials/seaborn-plots-and-tutorials/Datasets/anscombe.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/4. Visualizations/Start Here - Examples and Tutorials/seaborn-plots-and-tutorials/Datasets/brain_networks.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/4. Visualizations/Start Here - Examples and Tutorials/seaborn-plots-and-tutorials/Datasets/exercise.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/4. Visualizations/Start Here - Examples and Tutorials/seaborn-plots-and-tutorials/Datasets/flights.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/4. Visualizations/Start Here - Examples and Tutorials/seaborn-plots-and-tutorials/Datasets/nyc_taxi.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/4. Visualizations/Start Here - Examples and Tutorials/seaborn-plots-and-tutorials/Datasets/tips.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/4. Visualizations/Start Here - Examples and Tutorials/seaborn-plots-and-tutorials/Datasets/titanic.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/2. Python Basics (cont.)/4. Visualizations/Start Here - Examples and Tutorials/seaborn-plots-and-tutorials/score_book.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/3. Computational Sciences and Mathematics/Statisitcs/Fundamentals-of-Statistics-and-Visualization-in-Python/Section 1/freedom_choice.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/3. Computational Sciences and Mathematics/Statisitcs/Fundamentals-of-Statistics-and-Visualization-in-Python/Section 1/netflix.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/3. Computational Sciences and Mathematics/Statisitcs/Fundamentals-of-Statistics-and-Visualization-in-Python/Section 1/responsibility_choice.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/3. Computational Sciences and Mathematics/Statisitcs/Fundamentals-of-Statistics-and-Visualization-in-Python/Section 2/freedom_choice.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/3. Computational Sciences and Mathematics/Statisitcs/Fundamentals-of-Statistics-and-Visualization-in-Python/Section 2/sports.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/3. Computational Sciences and Mathematics/Statisitcs/Fundamentals-of-Statistics-and-Visualization-in-Python/Section 3/activity.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/3. Computational Sciences and Mathematics/Statisitcs/Fundamentals-of-Statistics-and-Visualization-in-Python/Section 3/activity_binary.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/3. Computational Sciences and Mathematics/Statisitcs/Fundamentals-of-Statistics-and-Visualization-in-Python/Section 3/diet.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/3. Computational Sciences and Mathematics/Statisitcs/Fundamentals-of-Statistics-and-Visualization-in-Python/Section 3/diet_binary.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/3. Computational Sciences and Mathematics/Statisitcs/Fundamentals-of-Statistics-and-Visualization-in-Python/Section 3/make_rate.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Becoming-A-Data-Scientist copy/Python/3. Computational Sciences and Mathematics/Statisitcs/Fundamentals-of-Statistics-and-Visualization-in-Python/Section 5/vacation.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

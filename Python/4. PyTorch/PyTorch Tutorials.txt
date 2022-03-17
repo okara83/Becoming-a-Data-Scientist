@@ -1,0 +1,8 @@
+Best Resource For Learning Torch at ALL Levels and MULTIPLE Topic Specializations:
+
+https://pytorch.org/tutorials/
+
+
+https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial2/Introduction_to_PyTorch.html
+
+https://github.com/MicrosoftDocs/pytorchfundamentals

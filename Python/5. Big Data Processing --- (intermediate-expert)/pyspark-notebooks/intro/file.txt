@@ -1,0 +1,2193 @@
+<?xml version=\"1.0\" encoding=\"utf-8\"?>
+<rss version=\"2.0\" xmlns:content=\"http://purl.org/rss/1.0/modules/content/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:media=\"http://search.yahoo.com/mrss/\" xmlns:snf=\"http://www.smartnews.be/snf\">
+<channel>
+<title>Kyodo News</title>
+<link>https://this.kiji.is/-/units/288215928582407265</link>
+<description>Kyodo News</description>
+<pubDate>Tue, 19 Nov 2019 15:55:37 +0000</pubDate>
+<language>en</language>
+<copyright>(c) 一般社団法人共同通信社</copyright>
+<ttl>1</ttl>
+<snf:logo><url>https://nordot-res.cloudinary.com/ch/units/288215928582407265/header_2.png</url></snf:logo>
+<item>
+  <title>Cambodia, Laos, Thailand, Vietnam face severe drought, experts warn</title>
+  <link>https://this.kiji.is/569551319185638497</link>
+  <guid>http://this.kiji.is/569551319185638497</guid>
+  <description><![CDATA[
+Severe to extreme drought is expected to hit the four lower Mekong River Basin countries of Cambodia...
+  ]]></description>
+  <pubDate>Wed, 20 Nov 2019 00:53:36 +0900</pubDate>
+  <content:encoded><![CDATA[
+<figure><img src=\"https://nordot-res.cloudinary.com/c_limit,w_800,f_auto,q_auto:eco/ch/images/569551305169880161/origin_1.jpg\" /><figcaption></figcaption></figure><p class=\"ma__p\">Severe to extreme drought is expected to hit the four lower Mekong River Basin countries of Cambodia, Laos, Thailand and Vietnam from now until January, threatening agricultural production, experts warned Tuesday.</p>
+<p class=\"ma__p\">The Mekong River Commission, in a statement, said the drought has so far brought the Mekong water levels to their lowest points in at least 60 years, with most parts of the lower Mekong basin experiencing an exceptionally regionally low flow since June.</p>
+<p class=\"ma__p\">The commission added that of the four countries, Thailand and Cambodia will be the hardest hit compared with Laos and Vietnam.</p>
+<p class=\"ma__p\">\"The drought is caused by insufficient rainfall during the wet season with a delayed arrival and earlier departure of the monsoon rain and an El Nino event that has created an abnormally high temperature and high evapotranspiration,\" it said.</p>
+<p class=\"ma__p\">During a normal year, the monsoon rain usually starts in late May and ends in October. But this year, it began almost two weeks late and departed about three weeks earlier.</p>
+<p class=\"ma__p\">\"This year's prolonged dry weather condition can possibly adversely impact agricultural and crop production. The issue of water shortage for consumption could also come into play as the drought persists,\" said Lam Hung Son, head of the commission's Regional Flood and Drought Management Center in Phnom Penh, who led the analysis.</p>
+<p class=\"ma__p\">The drought condition is forecast to worsen from December to early January, with most parts of the basin having little to no rain.</p>
+<p class=\"ma__p\">The commission, established in 1995, is an intergovernmental organization that works directly with the governments of Cambodia, Laos, Thailand and Vietnam to jointly manage the shared water resources and the sustainable development of the Mekong River.</p>
+
+  ]]></content:encoded>
+  <category>Asia,EconomyBusiness,en</category>
+  <dc:language>en</dc:language>
+  <media:status>active</media:status>
+<media:thumbnail url=\"https://nordot-res.cloudinary.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/569551305169880161/origin_1.jpg\" /><snf:advertisement>
+    <snf:adcontent><![CDATA[
+      <script type=\"text/javascript\" src=\"https://js.nordot-connect.jp/t/231/489/a1231489.js\"></script>
+    ]]></snf:adcontent>
+  </snf:advertisement>
+  <snf:analytics><![CDATA[
+    <script type=\"text/javascript\" src=\"https://log.nordot.jp/js/beacon-1.0.0.js\"></script>
+    <script type=\"text/javascript\">
+      nor.beacon({
+        opttype: \"smartphone\",
+        pagetype: \"detail\",
+        conttype: \"post\",
+        uiid: \"smart\",
+        postid: \"569551319185638497\",
+        ttl: \"Cambodia, Laos, Thailand, Vietnam face severe drought, experts warn\",
+        img: 1,
+        cvrimg: 0,
+        pubdate: \"1574157033\",
+        chunitid: \"288215928582407265\"
+      });
+    </script>
+  ]]></snf:analytics>
+</item>
+<item>
+  <title>Toyota launches smartphone payment services for car rental, sharing</title>
+  <link>https://this.kiji.is/569543769697518689</link>
+  <guid>http://this.kiji.is/569543769697518689</guid>
+  <description><![CDATA[
+Toyota Motor Corp. said Tuesday it has launched smartphone payment services mainly for its rent-a-ca...
+  ]]></description>
+  <pubDate>Wed, 20 Nov 2019 00:23:36 +0900</pubDate>
+  <content:encoded><![CDATA[
+<figure><img src=\"https://nordot-res.cloudinary.com/c_limit,w_800,f_auto,q_auto:eco/ch/images/569543757797704801/origin_1.jpg\" /><figcaption></figcaption></figure><p class=\"ma__p\">Toyota Motor Corp. said Tuesday it has launched smartphone payment services mainly for its rent-a-car and car-sharing businesses.</p>
+<p class=\"ma__p\">The smartphone app called Toyota Wallet can be used as a prepaid, credit or debit card, initially for Apple Inc.'s iOS operating system. The app for Google LLC's Android operating system will be developed by next spring, the company said.</p>
+<p class=\"ma__p\">The Japanese automaker said it aims to use data from the cashless services to improve its customer services.</p>
+<p class=\"ma__p\">The noncash settlement services reflect Toyota's plan to strengthen data-gathering operations for the connected car business designed to offer drivers real-time information about restaurants, hospitals and other data through data collected from connected vehicles.</p>
+
+  ]]></content:encoded>
+  <category>EconomyBusiness,en</category>
+  <dc:language>en</dc:language>
+  <media:status>active</media:status>
+<media:thumbnail url=\"https://nordot-res.cloudinary.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/569543757797704801/origin_1.jpg\" /><snf:advertisement>
+    <snf:adcontent><![CDATA[
+      <script type=\"text/javascript\" src=\"https://js.nordot-connect.jp/t/231/489/a1231489.js\"></script>
+    ]]></snf:adcontent>
+  </snf:advertisement>
+  <snf:analytics><![CDATA[
+    <script type=\"text/javascript\" src=\"https://log.nordot.jp/js/beacon-1.0.0.js\"></script>
+    <script type=\"text/javascript\">
+      nor.beacon({
+        opttype: \"smartphone\",
+        pagetype: \"detail\",
+        conttype: \"post\",
+        uiid: \"smart\",
+        postid: \"569543769697518689\",
+        ttl: \"Toyota launches smartphone payment services for car rental, sharing\",
+        img: 1,
+        cvrimg: 0,
+        pubdate: \"1574155223\",
+        chunitid: \"288215928582407265\"
+      });
+    </script>
+  ]]></snf:analytics>
+</item>
+<item>
+  <title>Dollar pressured in upper 108 yen zone after Trump, Fed chief talks</title>
+  <link>https://this.kiji.is/569537649985848417</link>
+  <guid>http://this.kiji.is/569537649985848417</guid>
+  <description><![CDATA[
+The U.S. dollar was under pressure in the upper 108 yen range Tuesday in Tokyo after U.S. President ...
+  ]]></description>
+  <pubDate>Tue, 19 Nov 2019 23:59:17 +0900</pubDate>
+  <content:encoded><![CDATA[
+<p class=\"ma__p\">The U.S. dollar was under pressure in the upper 108 yen range Tuesday in Tokyo after U.S. President Donald Trump's meeting with Federal Reserve Chairman Jerome Powell fueled speculation that interest rates may be cut further.</p>
+<p class=\"ma__p\">At 5 p.m., the dollar fetched 108.66-67 yen compared with 108.62-72 yen in New York and 108.91-92 yen in Tokyo at 5 p.m. Monday. It moved between 108.47 yen and 108.70 yen during the day, changing hands most frequently at 108.53 yen.</p>
+<p class=\"ma__p\">The euro was quoted at $1.1068-1069 and 120.27-31 yen against $1.1067-1077 and 120.27-37 yen in New York and $1.1056-1057 and 120.41-45 yen in Tokyo late Monday afternoon.</p>
+<p class=\"ma__p\">The dollar dropped briefly into the lower 108 yen range in the morning after Trump said on Twitter that he \"protested fact that our Fed Rate is set too high relative to the interest rates of other competitor countries\" in his meeting with Powell on Monday, dealers said.</p>
+<p class=\"ma__p\">The Fed released a statement saying Powell's comments during the meeting were \"consistent with his remarks at his congressional hearings last week,\" and the U.S. central bank will make decisions \"based solely on careful, objective and non-political analysis.\"</p>
+<p class=\"ma__p\">\"The dollar drew some selling after Trump's talks with Powell, but the fall was limited as the Fed's post-meeting statement suggested that the talks ended without substance,\" said Mitsuo Imaizumi, chief foreign exchange strategist at Daiwa Securities Co.</p>
+<p class=\"ma__p\">The dollar was also modestly pressured after U.S. business news network CNBC on Monday reported that the \"mood in Beijing about a trade deal (with the United States) is pessimistic\" due to Trump's reluctance to roll back tariffs on Chinese products, citing a government source, the dealers said.</p>
+<p class=\"ma__p\">The report came just as senior officials from China and the United States suggested in recent days that the two major economies are nearing an agreement on a tariff phase-out.</p>
+<p class=\"ma__p\">\"Recently, the market is swayed by both positive and negative news that comes out regarding the U.S.-China trade negotiations\" amid few other trading incentives, Imaizumi said.</p>
+<p class=\"ma__p\">\"But as investors retain hopes that Trump will, in the end, strike a trade accord with China, dollar-yen is unlikely to lose ground dramatically despite negative news,\" Imaizumi said.</p>
+
+  ]]></content:encoded>
+  <category>EconomyBusiness,en</category>
+  <dc:language>en</dc:language>
+  <media:status>active</media:status>
+<snf:advertisement>
+    <snf:adcontent><![CDATA[
+      <script type=\"text/javascript\" src=\"https://js.nordot-connect.jp/t/231/489/a1231489.js\"></script>
+    ]]></snf:adcontent>
+  </snf:advertisement>
+  <snf:analytics><![CDATA[
+    <script type=\"text/javascript\" src=\"https://log.nordot.jp/js/beacon-1.0.0.js\"></script>
+    <script type=\"text/javascript\">
+      nor.beacon({
+        opttype: \"smartphone\",
+        pagetype: \"detail\",
+        conttype: \"post\",
+        uiid: \"smart\",
+        postid: \"569537649985848417\",
+        ttl: \"Dollar pressured in upper 108 yen zone after Trump, Fed chief talks\",
+        img: 0,
+        cvrimg: 0,
+        pubdate: \"1574153892\",
+        chunitid: \"288215928582407265\"
+      });
+    </script>
+  ]]></snf:analytics>
+</item>
+<item>
+  <title>2nd anti-terrorism test to be held at Tokyo stations for Olympics</title>
+  <link>https://this.kiji.is/569526704762078305</link>
+  <guid>http://this.kiji.is/569526704762078305</guid>
+  <description><![CDATA[
+The Japanese government will conduct its second anti-terrorism test at two busy Tokyo railway statio...
+  ]]></description>
+  <pubDate>Tue, 19 Nov 2019 23:15:47 +0900</pubDate>
+  <content:encoded><![CDATA[
+<figure><img src=\"https://nordot-res.cloudinary.com/c_limit,w_800,f_auto,q_auto:eco/ch/images/569526690343601249/origin_1.jpg\" /><figcaption></figcaption></figure><p class=\"ma__p\">The Japanese government will conduct its second anti-terrorism test at two busy Tokyo railway stations to boost security measures ahead of the Olympics and Paralympics, the transport ministry said Tuesday.</p>
+<p class=\"ma__p\">Following a similar test at a Tokyo subway station in March, an experiment at JR Tokyo Station's bullet train ticket gate on Dec. 4 will use trained dogs to detect hazardous materials.</p>
+<p class=\"ma__p\">At Shinjuku-Nishiguchi Station on the Toei Subway's Oedo Line from Nov. 25 to 28, body scanners will be introduced to detect hazardous objects that are hidden in clothing, according to the Land, Infrastructure, Transport and Tourism Ministry.</p>
+<p class=\"ma__p\">The previous test was conducted at Tokyo Metro's Kasumigaseki Station, which was attacked by the AUM Shinrikyo cult with nerve gas in 1995.</p>
+<p class=\"ma__p\">The tests are conducted as the transport ministry is tightening measures to ensure safety at stations and trains following a fatal knife attack on a bullet train in June last year.</p>
+<p class=\"ma__p\">Under tightened security measures for public transportation, the government started banning unwrapped knives on trains, buses and taxis from April this year.</p>
+
+  ]]></content:encoded>
+  <category>EconomyBusiness,Sports,en</category>
+  <dc:language>en</dc:language>
+  <media:status>active</media:status>
+<media:thumbnail url=\"https://nordot-res.cloudinary.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/569526690343601249/origin_1.jpg\" /><snf:advertisement>
+    <snf:adcontent><![CDATA[
+      <script type=\"text/javascript\" src=\"https://js.nordot-connect.jp/t/231/489/a1231489.js\"></script>
+    ]]></snf:adcontent>
+  </snf:advertisement>
+  <snf:analytics><![CDATA[
+    <script type=\"text/javascript\" src=\"https://log.nordot.jp/js/beacon-1.0.0.js\"></script>
+    <script type=\"text/javascript\">
+      nor.beacon({
+        opttype: \"smartphone\",
+        pagetype: \"detail\",
+        conttype: \"post\",
+        uiid: \"smart\",
+        postid: \"569526704762078305\",
+        ttl: \"2nd anti-terrorism test to be held at Tokyo stations for Olympics\",
+        img: 1,
+        cvrimg: 0,
+        pubdate: \"1574151244\",
+        chunitid: \"288215928582407265\"
+      });
+    </script>
+  ]]></snf:analytics>
+</item>
+<item>
+  <title>Japan's key bond yield falls on buying after recent price drops</title>
+  <link>https://this.kiji.is/569525131842602081</link>
+  <guid>http://this.kiji.is/569525131842602081</guid>
+  <description><![CDATA[
+The yield on the benchmark 10-year Japanese government bond ended lower in negative territory Tuesda...
+  ]]></description>
+  <pubDate>Tue, 19 Nov 2019 23:09:32 +0900</pubDate>
+  <content:encoded><![CDATA[
+<p class=\"ma__p\">The yield on the benchmark 10-year Japanese government bond ended lower in negative territory Tuesday as investors bought the debt following recent declines in prices.</p>
+<p class=\"ma__p\">The yield on the No. 356, 0.1 percent issue, the main yardstick of long-term interest rates, ended interdealer trading at minus 0.095 percent, down 0.005 percentage point from Monday's close.</p>
+<p class=\"ma__p\">The price of the December futures contract for 10-year bonds rose 0.05 point to 153.30 on the Osaka Exchange.</p>
+
+  ]]></content:encoded>
+  <category>EconomyBusiness,en</category>
+  <dc:language>en</dc:language>
+  <media:status>active</media:status>
+<snf:advertisement>
+    <snf:adcontent><![CDATA[
+      <script type=\"text/javascript\" src=\"https://js.nordot-connect.jp/t/231/489/a1231489.js\"></script>
+    ]]></snf:adcontent>
+  </snf:advertisement>
+  <snf:analytics><![CDATA[
+    <script type=\"text/javascript\" src=\"https://log.nordot.jp/js/beacon-1.0.0.js\"></script>
+    <script type=\"text/javascript\">
+      nor.beacon({
+        opttype: \"smartphone\",
+        pagetype: \"detail\",
+        conttype: \"post\",
+        uiid: \"smart\",
+        postid: \"569525131842602081\",
+        ttl: \"Japan&#39;s key bond yield falls on buying after recent price drops\",
+        img: 0,
+        cvrimg: 0,
+        pubdate: \"1574150750\",
+        chunitid: \"288215928582407265\"
+      });
+    </script>
+  ]]></snf:analytics>
+</item>
+<item>
+  <title>Station in Tokyo's pop-culture hub to be rebuilt after Olympics</title>
+  <link>https://this.kiji.is/569523677132424289</link>
+  <guid>http://this.kiji.is/569523677132424289</guid>
+  <description><![CDATA[
+Harajuku Station located in Tokyo's pop-culture hub will be dismantled and rebuilt after the Tokyo O...
+  ]]></description>
+  <pubDate>Tue, 19 Nov 2019 23:03:45 +0900</pubDate>
+  <content:encoded><![CDATA[
+<figure><img src=\"https://nordot-res.cloudinary.com/c_limit,w_800,f_auto,q_auto:eco/ch/images/569523662191952993/origin_1.jpg\" /><figcaption></figcaption></figure><p class=\"ma__p\">Harajuku Station located in Tokyo's pop-culture hub will be dismantled and rebuilt after the Tokyo Olympic and Paralympic Games, as its fire-resistance capability does not meet requirements, East Japan Railway Co. said Tuesday.</p>
+<p class=\"ma__p\">The Western-style wooden station building constructed nearly 100 years ago is a gateway to the Harajuku district, the center of youth cultures and street fashion. The new station will replicate the current design featuring half-timbered structures, which expose the framework of the building, JR East said.</p>
+<p class=\"ma__p\">The area sees daily crowds of overseas tourists visiting Takeshita Street, a shopping lane lined with clothing stores and cafes, among others shops.</p>
+<p class=\"ma__p\">JR East began constructing a new building in September 2016 located south of the current station and it is set to open on March 21 next year, taking over station functions.</p>
+<p class=\"ma__p\">The train operator had been discussing with Shibuya Ward, where the station is located, and other parties whether to preserve or dismantle the present station building.</p>
+
+  ]]></content:encoded>
+  <category>EconomyBusiness,Society,en</category>
+  <dc:language>en</dc:language>
+  <media:status>active</media:status>
+<media:thumbnail url=\"https://nordot-res.cloudinary.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/569523662191952993/origin_1.jpg\" /><snf:advertisement>
+    <snf:adcontent><![CDATA[
+      <script type=\"text/javascript\" src=\"https://js.nordot-connect.jp/t/231/489/a1231489.js\"></script>
+    ]]></snf:adcontent>
+  </snf:advertisement>
+  <snf:analytics><![CDATA[
+    <script type=\"text/javascript\" src=\"https://log.nordot.jp/js/beacon-1.0.0.js\"></script>
+    <script type=\"text/javascript\">
+      nor.beacon({
+        opttype: \"smartphone\",
+        pagetype: \"detail\",
+        conttype: \"post\",
+        uiid: \"smart\",
+        postid: \"569523677132424289\",
+        ttl: \"Station in Tokyo&#39;s pop-culture hub to be rebuilt after Olympics\",
+        img: 1,
+        cvrimg: 0,
+        pubdate: \"1574150481\",
+        chunitid: \"288215928582407265\"
+      });
+    </script>
+  ]]></snf:analytics>
+</item>
+<item>
+  <title>Tokyo stocks close lower as exporters hurt by stronger yen</title>
+  <link>https://this.kiji.is/569495932912714849</link>
+  <guid>http://this.kiji.is/569495932912714849</guid>
+  <description><![CDATA[
+Tokyo stocks retreated Tuesday as the yen's rise against the U.S. dollar dented export-related issue...
+  ]]></description>
+  <pubDate>Tue, 19 Nov 2019 21:13:31 +0900</pubDate>
+  <content:encoded><![CDATA[
+<p class=\"ma__p\">Tokyo stocks retreated Tuesday as the yen's rise against the U.S. dollar dented export-related issues, with investors also cautious about the outlook for U.S.-China trade negotiations.</p>
+<p class=\"ma__p\">The 225-issue Nikkei Stock Average ended down 124.11 points, or 0.53 percent, from Monday at 23,292.65. The broader Topix index of all First Section issues on the Tokyo Stock Exchange finished 3.99 points, or 0.23 percent, lower at 1,696.73.</p>
+<p class=\"ma__p\">Decliners were led by nonferrous metal, machinery and rubber product issues.</p>
+
+  ]]></content:encoded>
+  <category>EconomyBusiness,en</category>
+  <dc:language>en</dc:language>
+  <media:status>active</media:status>
+<snf:advertisement>
+    <snf:adcontent><![CDATA[
+      <script type=\"text/javascript\" src=\"https://js.nordot-connect.jp/t/231/489/a1231489.js\"></script>
+    ]]></snf:adcontent>
+  </snf:advertisement>
+  <snf:analytics><![CDATA[
+    <script type=\"text/javascript\" src=\"https://log.nordot.jp/js/beacon-1.0.0.js\"></script>
+    <script type=\"text/javascript\">
+      nor.beacon({
+        opttype: \"smartphone\",
+        pagetype: \"detail\",
+        conttype: \"post\",
+        uiid: \"smart\",
+        postid: \"569495932912714849\",
+        ttl: \"Tokyo stocks close lower as exporters hurt by stronger yen\",
+        img: 0,
+        cvrimg: 0,
+        pubdate: \"1574143899\",
+        chunitid: \"288215928582407265\"
+      });
+    </script>
+  ]]></snf:analytics>
+</item>
+<item>
+  <title>Mitsui to build new gas-fired power plant in Thailand</title>
+  <link>https://this.kiji.is/569483762513822817</link>
+  <guid>http://this.kiji.is/569483762513822817</guid>
+  <description><![CDATA[
+Major Japanese trading house Mitsui & Co. will build a new gas-fired power plant in Thailand to meet...
+  ]]></description>
+  <pubDate>Tue, 19 Nov 2019 20:25:09 +0900</pubDate>
+  <content:encoded><![CDATA[
+<figure><img src=\"https://nordot-res.cloudinary.com/c_limit,w_800,f_auto,q_auto:eco/ch/images/569483749676172385/origin_1.jpg\" /><figcaption></figcaption></figure><p class=\"ma__p\">Major Japanese trading house Mitsui &amp; Co. will build a new gas-fired power plant in Thailand to meet growing needs for electricity in the Southeast Asian country.</p>
+<p class=\"ma__p\">Mitsui said in a statement on Monday that a joint venture between Mitsui and Thai private power firm Gulf Energy Development Co. will run the 2,500-megawatt power plant in Rayong Province.</p>
+<p class=\"ma__p\">The Japanese firm holds a 30 percent stake in the joint venture, Gulf PD Co.</p>
+<p class=\"ma__p\">Construction of the 50 billion baht ($1.6 billion) plant will begin in July 2020.</p>
+<p class=\"ma__p\">Mitsui said the power plant will start supplying electricity to the Electricity Generating Authority of Thailand in 2023 for 25 years.</p>
+<p class=\"ma__p\">The government-backed Japan Bank for International Cooperation is providing project financing for some $208 million, Mitsui said, adding the loan is co-financed by the Asian Development Bank, Export-Import Bank of Thailand, Mizuho Bank, Sumitomo Mitsui Banking Corp., Sumitomo Mitsui Trust Bank Ltd. and other banks covering some $1.36 billion.</p>
+<p class=\"ma__p\">Separately, Mitsui and Gulf Energy have jointly started construction of another 2,500-megawatt gas-fired power plant in the eastern province of Chonburi. This plant will become fully operational in October 2022. (NNA/Kyodo)</p>
+
+  ]]></content:encoded>
+  <category>Asia,EconomyBusiness,en</category>
+  <dc:language>en</dc:language>
+  <media:status>active</media:status>
+<media:thumbnail url=\"https://nordot-res.cloudinary.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/569483749676172385/origin_1.jpg\" /><snf:advertisement>
+    <snf:adcontent><![CDATA[
+      <script type=\"text/javascript\" src=\"https://js.nordot-connect.jp/t/231/489/a1231489.js\"></script>
+    ]]></snf:adcontent>
+  </snf:advertisement>
+  <snf:analytics><![CDATA[
+    <script type=\"text/javascript\" src=\"https://log.nordot.jp/js/beacon-1.0.0.js\"></script>
+    <script type=\"text/javascript\">
+      nor.beacon({
+        opttype: \"smartphone\",
+        pagetype: \"detail\",
+        conttype: \"post\",
+        uiid: \"smart\",
+        postid: \"569483762513822817\",
+        ttl: \"Mitsui to build new gas-fired power plant in Thailand\",
+        img: 1,
+        cvrimg: 0,
+        pubdate: \"1574141007\",
+        chunitid: \"288215928582407265\"
+      });
+    </script>
+  ]]></snf:analytics>
+</item>
+<item>
+  <title>Airbnb to offer experiences with Olympians ahead of Tokyo Games</title>
+  <link>https://this.kiji.is/569477343791432801</link>
+  <guid>http://this.kiji.is/569477343791432801</guid>
+  <description><![CDATA[
+The Japan unit of Airbnb Inc., the world's largest broker of private lodging for tourists, said Tues...
+  ]]></description>
+  <pubDate>Tue, 19 Nov 2019 19:59:39 +0900</pubDate>
+  <content:encoded><![CDATA[
+<figure><img src=\"https://nordot-res.cloudinary.com/c_limit,w_800,f_auto,q_auto:eco/ch/images/569477334366815329/origin_1.jpg\" /><figcaption></figcaption></figure><p class=\"ma__p\">The Japan unit of Airbnb Inc., the world's largest broker of private lodging for tourists, said Tuesday it will offer experiences that provide direct interaction with former and current Olympic athletes ahead of the Tokyo Games next summer.</p>
+<p class=\"ma__p\">The initiative, in partnership with the International Olympic Committee, would allow Airbnb users to meet, train, or visit places with Olympians while providing the athletes with new sources of income.</p>
+<p class=\"ma__p\">\"Wouldn't it be a dream if you can ask professional athletes how they train or go on a diet or prepare for a big event mentally? Our platform will help share the expertise of the athletes with the general public,\" said Yasuyuki Tanabe, chief of the Airbnb's Japan unit, at a Tokyo press conference.</p>
+<p class=\"ma__p\">\"This platform will provide direct revenues to the athletes and underlines the IOC's efforts to support athletes,\" said Brett Hasell, head of the IOC's partnership management.</p>
+<p class=\"ma__p\">Three-time Olympic wrestling gold medalist Saori Yoshida, who retired in January, also touted the project as some athletes are worried about how to build their second career after retirement.</p>
+<p class=\"ma__p\">\"I hope this will be a chance for people to get in touch with a new sport,\" Yoshida said, adding she would, for example, like to be taught figure skating by Olympic medalist Mao Asada.</p>
+<p class=\"ma__p\">Airbnb and the IOC announced Monday that they have signed a nine-year sponsorship agreement covering five summer and winter Olympics through 2028.</p>
+<p class=\"ma__p\">The private lodging operator, which joins 13 IOC partners including, Toyota Motor Corp. and Panasonic Corp. from Japan, said it will try to prepare various options for lodging during the Tokyo Olympic and Paralympic games to meet needs such as spacious rooms for big families and wheelchair accessibility.</p>
+<p class=\"ma__p\">The IOC said Airbnb would help reduce accommodation costs for Olympics organizers and stakeholders, minimize the need for newly-built lodging facilities in host cities and generate direct revenues for local hosts and communities.</p>
+
+  ]]></content:encoded>
+  <category>EconomyBusiness,Sports,en</category>
+  <dc:language>en</dc:language>
+  <media:status>active</media:status>
+<media:thumbnail url=\"https://nordot-res.cloudinary.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/569477334366815329/origin_1.jpg\" /><snf:advertisement>
+    <snf:adcontent><![CDATA[
+      <script type=\"text/javascript\" src=\"https://js.nordot-connect.jp/t/231/489/a1231489.js\"></script>
+    ]]></snf:adcontent>
+  </snf:advertisement>
+  <snf:analytics><![CDATA[
+    <script type=\"text/javascript\" src=\"https://log.nordot.jp/js/beacon-1.0.0.js\"></script>
+    <script type=\"text/javascript\">
+      nor.beacon({
+        opttype: \"smartphone\",
+        pagetype: \"detail\",
+        conttype: \"post\",
+        uiid: \"smart\",
+        postid: \"569477343791432801\",
+        ttl: \"Airbnb to offer experiences with Olympians ahead of Tokyo Games\",
+        img: 1,
+        cvrimg: 0,
+        pubdate: \"1574139418\",
+        chunitid: \"288215928582407265\"
+      });
+    </script>
+  ]]></snf:analytics>
+</item>
+<item>
+  <title>Japan's lower house approves trade deal with U.S.</title>
+  <link>https://this.kiji.is/569473848529257569</link>
+  <guid>http://this.kiji.is/569473848529257569</guid>
+  <description><![CDATA[
+The lower house of Japan's parliament on Tuesday signed off on a trade deal with the United States t...
+  ]]></description>
+  <pubDate>Tue, 19 Nov 2019 19:45:45 +0900</pubDate>
+  <content:encoded><![CDATA[
+<figure><img src=\"https://nordot-res.cloudinary.com/c_limit,w_800,f_auto,q_auto:eco/ch/images/569473836409504865/origin_1.jpg\" /><figcaption></figcaption></figure><p class=\"ma__p\">The lower house of Japan's parliament on Tuesday signed off on a trade deal with the United States that cuts tariffs on farm and industrial products, taking a step toward its entry into force next year.</p>
+<p class=\"ma__p\">The approval by the House of Representatives means the agreement, reached by Prime Minister Shinzo Abe and President Donald Trump in late September, now moves to the House of Councillors.</p>
+<p class=\"ma__p\">The ruling Liberal Democratic Party and coalition partner Komeito are aiming to ratify the trade deal before the Dec. 9 end of the current Diet session. That would allow them to accommodate Washington's push for it to enter into force on Jan. 1.</p>
+<p class=\"ma__p\">Under the deal, Japan will gradually lower its 38.5 percent tariff on U.S. beef to 9 percent and remove or reduce its tariffs on U.S. pork. Other American products including cheese, wine and wheat will also gain greater access to the Japanese market.</p>
+<p class=\"ma__p\">The United States, for its part, will remove or reduce tariffs on some types of manufacturing equipment as well as for other industrial products including parts for air conditioners and trains from Japan.</p>
+<p class=\"ma__p\">But opposition lawmakers have argued against the Abe administration's claims that this is a \"win-win\" arrangement. Their main criticism is that the agreement fails to remove 2.5 percent tariffs on Japanese automobiles, something the United States had granted under the Trans-Pacific Partnership before pulling out of the 12-nation free trade agreement.</p>
+<p class=\"ma__p\">Instead, the text of the Japan-U.S. agreement says auto tariffs are \"subject to further negotiations.\"</p>
+<p class=\"ma__p\">Opposition lawmakers are also taking aim at Trump's assertion that Abe has promised Japanese companies will purchase 2.5 million tons of leftover U.S. corn to use as animal feed.</p>
+<p class=\"ma__p\">The ruling coalition had initially hoped to pass the trade deal through the lower house by Nov. 8, which would have secured the 30-day period until the end of the Diet session that would have allowed it to effectively bypass the upper house.</p>
+<p class=\"ma__p\">But deliberations were held up by the resignation of two ministers in Abe's Cabinet amid allegations that they violated the election law.</p>
+
+  ]]></content:encoded>
+  <category>Politics,EconomyBusiness,en</category>
+  <dc:language>en</dc:language>
+  <media:status>active</media:status>
+<media:thumbnail url=\"https://nordot-res.cloudinary.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/569473836409504865/origin_1.jpg\" /><snf:advertisement>
+    <snf:adcontent><![CDATA[
+      <script type=\"text/javascript\" src=\"https://js.nordot-connect.jp/t/231/489/a1231489.js\"></script>
+    ]]></snf:adcontent>
+  </snf:advertisement>
+  <snf:analytics><![CDATA[
+    <script type=\"text/javascript\" src=\"https://log.nordot.jp/js/beacon-1.0.0.js\"></script>
+    <script type=\"text/javascript\">
+      nor.beacon({
+        opttype: \"smartphone\",
+        pagetype: \"detail\",
+        conttype: \"post\",
+        uiid: \"smart\",
+        postid: \"569473848529257569\",
+        ttl: \"Japan&#39;s lower house approves trade deal with U.S.\",
+        img: 1,
+        cvrimg: 0,
+        pubdate: \"1574138601\",
+        chunitid: \"288215928582407265\"
+      });
+    </script>
+  ]]></snf:analytics>
+</item>
+<item>
+  <title>Abe ties as longest-serving Japan prime minister</title>
+  <link>https://this.kiji.is/569471279318615137</link>
+  <guid>http://this.kiji.is/569471279318615137</guid>
+  <description><![CDATA[
+Shinzo Abe tied Tuesday with Taro Katsura, an early 20th-century politician, as the longest-serving ...
+  ]]></description>
+  <pubDate>Tue, 19 Nov 2019 19:35:33 +0900</pubDate>
+  <content:encoded><![CDATA[
+<figure><img src=\"https://nordot-res.cloudinary.com/c_limit,w_800,f_auto,q_auto:eco/ch/images/569471267263071329/origin_1.jpg\" /><figcaption></figcaption></figure><p class=\"ma__p\">Shinzo Abe tied Tuesday with Taro Katsura, an early 20th-century politician, as the longest-serving prime minister, with a total of 2,886 days in office.</p>
+<p class=\"ma__p\">Nearly seven years into the job that he has held since 2012 -- following a 2006-2007 stint -- Abe is almost certain to rewrite Katsura's century-old unbroken record on Wednesday at a time when myriad challenges lie ahead, most recently a cronyism controversy over a publicly-funded cherry blossom viewing party.</p>
+<p class=\"ma__p\">Despite years on the job, critics point out Abe has failed to make any major achievements that will go down in history.</p>
+<p class=\"ma__p\">But, before his current term as president of the ruling Liberal Democratic Party and prime minister ends in September 2021, Abe is expected to step up his quest for lasting accomplishments that will shape the legacy of his premiership.</p>
+<p class=\"ma__p\">Chief Cabinet Secretary Yoshihide Suga, the premier's right-hand man, said the Abe administration, since December 2012, has focused on economic revitalization and the restructuring of the country's foreign and defense policies.</p>
+<p class=\"ma__p\">\"We have been tackling each challenge squarely, and seven years have passed fast in a way. That is my honest feeling,\" Suga said at a regular press conference.</p>
+<p class=\"ma__p\">Defense Minister Taro Kono said separately that a stable administration is a plus for Japan's diplomacy and security, noting that Abe has forged close ties with U.S. President Donald Trump.</p>
+<p class=\"ma__p\">\"(Abe) is now a seasoned figure in international gatherings,\" Kono, who had until recently served as foreign minister, told reporters.</p>
+<p class=\"ma__p\">Taking advantage of a fractured opposition and the public's apparent preference for stability following tumultuous years of short premierships under a Democratic Party of Japan-led government, Abe has gradually strengthened his grip on power thanks to national election wins and his office exerting control over key issues.</p>
+<p class=\"ma__p\">The 65-year-old premier is often regarded as a hawkish conservative seeking to raise Japan's profile overseas. Some political experts say he has exhibited more of his realist side during the current tenure.</p>
+<p class=\"ma__p\">In 2014, he went ahead with a reinterpretation of the pacifist Constitution to enable the use of collective self-defense -- defending allies even without an attack on Japan itself -- and expanded the role of its defense forces under new security legislation in 2016.</p>
+<p class=\"ma__p\">His stated goal of amending the postwar Constitution for the first time ever is still far off, however, with little substantive progress having been made in the Diet.</p>
+<p class=\"ma__p\">Abe has so far ridden out a string of money and favoritism scandals engulfing him and his Cabinet members with approval ratings hovering at relatively high levels. In his 2006-2007 tenure, he suffered a series of scandals that led to a succession of ministers stepping down.</p>
+<p class=\"ma__p\">He is now in the hot seat as opposition party lawmakers allege that his office partly covered expenses for supporters to attend a dinner party at a luxurious Tokyo hotel on the eve of the government's annual cherry-blossom viewing event.</p>
+<p class=\"ma__p\">Abe returned to power in December 2012 with a pledge to revitalize the economy, a major concern for Japanese voters, and is now seeking to enhance social security.</p>
+<p class=\"ma__p\">However, the economy is now seen on shaky ground despite \"Abenomics,\" an economic program that entails bold monetary easing by the Bank of Japan intended to help the nation break free from deflation.</p>
+<p class=\"ma__p\">The world's third-largest economy barely grew in July-September, reflecting sluggish consumption, with uncertainty persisting over the fuller impact of the country's twice-delayed consumption tax hike in October from 8 percent to 10 percent.</p>
+<p class=\"ma__p\">In the diplomatic arena, Abe is now a familiar face in international gatherings and Japanese government officials say he can talk frankly with many foreign leaders, notably Trump.</p>
+<p class=\"ma__p\">But Japan-South Korea ties have hit their lowest point in years over compensation for wartime labor, a row which has affected trade and security relations including a military intelligence-sharing pact that Seoul is refusing to renew by Saturday's deadline.</p>
+<p class=\"ma__p\">The issue of Japanese nationals abducted by North Korea in the 1970s and 1980s also remains unresolved. No date has been fixed for a summit with North Korean leader Kim Jong Un despite Abe's overture.</p>
+<p class=\"ma__p\">Negotiations toward signing a postwar peace treaty with Russia have apparently hit a snag, hampered by a territorial row over Russian-held islands off Hokkaido.</p>
+<p class=\"ma__p\">Katsura (1848-1913) served as Japan's leader intermittently through 1913. During his tenure, an alliance was forged with Britain and the Japan-Russia war was fought.</p>
+<p class=\"ma__p\">If Abe stays in power, he will have served the longest uninterrupted period as prime minister on Aug. 24, 2020. The current record holder is former Prime Minister Eisaku Sato, who served for 2,798 days in a row.</p>
+
+  ]]></content:encoded>
+  <category>Politics,EconomyBusiness,en</category>
+  <dc:language>en</dc:language>
+  <media:status>active</media:status>
+<media:thumbnail url=\"https://nordot-res.cloudinary.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/569471267263071329/origin_1.jpg\" /><snf:advertisement>
+    <snf:adcontent><![CDATA[
+      <script type=\"text/javascript\" src=\"https://js.nordot-connect.jp/t/231/489/a1231489.js\"></script>
+    ]]></snf:adcontent>
+  </snf:advertisement>
+  <snf:analytics><![CDATA[
+    <script type=\"text/javascript\" src=\"https://log.nordot.jp/js/beacon-1.0.0.js\"></script>
+    <script type=\"text/javascript\">
+      nor.beacon({
+        opttype: \"smartphone\",
+        pagetype: \"detail\",
+        conttype: \"post\",
+        uiid: \"smart\",
+        postid: \"569471279318615137\",
+        ttl: \"Abe ties as longest-serving Japan prime minister\",
+        img: 1,
+        cvrimg: 0,
+        pubdate: \"1574138028\",
+        chunitid: \"288215928582407265\"
+      });
+    </script>
+  ]]></snf:analytics>
+</item>
+<item>
+  <title>Toyota employee's suicide caused by workplace harassment</title>
+  <link>https://this.kiji.is/569465714496373857</link>
+  <guid>http://this.kiji.is/569465714496373857</guid>
+  <description><![CDATA[
+Labor authorities have determined the suicide of a Toyota Motor Corp. employee in 2017 was caused by...
+  ]]></description>
+  <pubDate>Tue, 19 Nov 2019 19:13:26 +0900</pubDate>
+  <content:encoded><![CDATA[
+<figure><img src=\"https://nordot-res.cloudinary.com/c_limit,w_800,f_auto,q_auto:eco/ch/images/569465703505773665/origin_1.jpg\" /><figcaption></figcaption></figure><p class=\"ma__p\">Labor authorities have determined the suicide of a Toyota Motor Corp. employee in 2017 was caused by harassment from his superior, a lawyer for the man's family said Tuesday.</p>
+<p class=\"ma__p\">The worker, who died at the age of 28, developed an adjustment disorder after he was constantly verbally abused by his superior, who had called him names like \"moron\" and told him \"You'd be better off dead,\" the lawyer said.</p>
+<p class=\"ma__p\">After completing his master's degree at the University of Tokyo's graduate school, he joined the automaker in April 2015 and started designing vehicles at Toyota's headquarters in Toyota, Aichi Prefecture, from March 2016.</p>
+<p class=\"ma__p\">He took a leave of absence from July 2016 due to the adjustment disorder. Although he was assigned to another section upon returning to work in October that year, the superior was still sitting close to him, the lawyer said.</p>
+<p class=\"ma__p\">He committed suicide in his room at Toyota's employee housing in October 2017, according to the lawyer.</p>
+
+  ]]></content:encoded>
+  <category>EconomyBusiness,en</category>
+  <dc:language>en</dc:language>
+  <media:status>active</media:status>
+<media:thumbnail url=\"https://nordot-res.cloudinary.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/569465703505773665/origin_1.jpg\" /><snf:advertisement>
+    <snf:adcontent><![CDATA[
+      <script type=\"text/javascript\" src=\"https://js.nordot-connect.jp/t/231/489/a1231489.js\"></script>
+    ]]></snf:adcontent>
+  </snf:advertisement>
+  <snf:analytics><![CDATA[
+    <script type=\"text/javascript\" src=\"https://log.nordot.jp/js/beacon-1.0.0.js\"></script>
+    <script type=\"text/javascript\">
+      nor.beacon({
+        opttype: \"smartphone\",
+        pagetype: \"detail\",
+        conttype: \"post\",
+        uiid: \"smart\",
+        postid: \"569465714496373857\",
+        ttl: \"Toyota employee&#39;s suicide caused by workplace harassment\",
+        img: 1,
+        cvrimg: 0,
+        pubdate: \"1574136633\",
+        chunitid: \"288215928582407265\"
+      });
+    </script>
+  ]]></snf:analytics>
+</item>
+<item>
+  <title>FOCUS: Indian market emerges as new concern for Japanese automakers</title>
+  <link>https://this.kiji.is/569463292492989537</link>
+  <guid>http://this.kiji.is/569463292492989537</guid>
+  <description><![CDATA[
+While the fallout from the U.S.-China trade dispute, uncertainties about the global auto market and ...
+  ]]></description>
+  <pubDate>Tue, 19 Nov 2019 19:03:49 +0900</pubDate>
+  <content:encoded><![CDATA[
+<figure><img src=\"https://nordot-res.cloudinary.com/c_limit,w_800,f_auto,q_auto:eco/ch/images/569463277333529697/origin_1.jpg\" /><figcaption></figcaption></figure><p class=\"ma__p\">While the fallout from the U.S.-China trade dispute, uncertainties about the global auto market and rising costs to develop cleaner cars are common concerns for automakers, a slowdown of the Indian market has emerged as a new headache for some Japanese firms.</p>
+<p class=\"ma__p\">The slowing Indian economy has taken a heavy toll on Suzuki Motor Corp., which has a strong footing in the world's fourth largest auto market through its subsidiary Maruti Suzuki India Ltd.</p>
+<p class=\"ma__p\">Suzuki's group net profit in the six months to September tumbled 41.8 percent from a year earlier to 79.30 billion yen ($730 million), with sales in India dropping 26.5 percent to 675,000 units.</p>
+<p class=\"ma__p\">\"It is difficult to say whether (the Indian auto market) will pick up\" in the near future, Suzuki President Toshihiro Suzuki said at a press conference earlier in the month.</p>
+<p class=\"ma__p\">Car sales in India declined for 11 straight months through September, before slightly rising 0.3 percent to 285,027 units in October, according to the Society of Indian Automobile Manufacturers.</p>
+<p class=\"ma__p\">Honda Motor Co. also took a hit in India during the same period, with sales of both autos and motorcycles dropping due to a credit tightening and series of floods in southwestern India, where Japan's third largest automaker by volume has a large share of the motorcycle market.</p>
+<p class=\"ma__p\">Honda saw its six-month group net profit decline 19.0 percent from a year earlier and lowered its full-year earnings guidance. The company's motorcycle sales in India fell 18.7 percent in the period to 2.68 million units from a year earlier.</p>
+<p class=\"ma__p\">\"The Indian auto and motorcycle markets are slowing due to a tightening of consumer credit while the country's economic outlook remains unclear,\" Honda Executive Vice President Seiji Kuraishi told reporters.</p>
+<p class=\"ma__p\">Toshihide Kinoshita, a senior analyst at SMBC Nikko Securities Inc., said the credit crunch caused by last year's defaults of India's financial service operator Infrastructure Leasing &amp; Financial Services dealt a heavy blow to the country's auto loan system.</p>
+<p class=\"ma__p\">He said that about 30 or 40 percent of car buyers in India rely on loans.</p>
+<p class=\"ma__p\">\"It was inevitable that the Indian auto market would dent the Japanese automakers' bottom lines,\" Kinoshita said.</p>
+<p class=\"ma__p\">The trouble in India added to the adverse impact of foreign exchange rates as the yen turned stronger than most Japanese automakers expected for the April-September term.</p>
+<p class=\"ma__p\">Ironically, Toyota Motor Corp., which has the largest global market presence among the Japanese carmakers, reported a record profit for the six months.</p>
+<p class=\"ma__p\">Its net profit increased 2.6 percent to 1.27 trillion yen and sales grew 4.2 percent to 15.29 trillion yen thanks to new models added to its lineup, including the RAV4 sport-utility vehicle and the Corolla sedan, and continued cost reduction.</p>
+<p class=\"ma__p\">Toyota fine-tuned its group's global vehicle sales forecast to 10.70 million units from the previously estimated 10.73 million, but maintained its net profit outlook at 2.14 trillion yen, up 14.2 percent.</p>
+<p class=\"ma__p\">\"Toyota's earnings result can be praised amid a slowing global auto market,\" said SMBC Nikko's Kinoshita, attributing the company's solid performance to its focus on maintaining market share while keeping up efforts to lower costs.</p>
+<p class=\"ma__p\">In a stark contrast, Nissan Motor Co., struggling to revive its business by shifting away from the expansionary strategy of ousted former boss Carlos Ghosn, saw net profit fall by 73.5 percent in the April-September period and lowered its profit outlook for the full year to the lowest level in 10 years.</p>
+<p class=\"ma__p\">Koichi Sugimoto, a senior analyst at Mitsubishi UFJ Morgan Stanley Securities Co., said Nissan needs to introduce new models into the market as soon as possible to compete with its rivals' lineup.</p>
+<p class=\"ma__p\">\"I would like to see how Nissan's new management (from December) establishes its new strategy to recover sales especially in the U.S. and Chinese markets,\" he said.</p>
+
+  ]]></content:encoded>
+  <category>EconomyBusiness,NewsFocusFeature,en</category>
+  <dc:language>en</dc:language>
+  <media:status>active</media:status>
+<media:thumbnail url=\"https://nordot-res.cloudinary.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/569463277333529697/origin_1.jpg\" /><snf:advertisement>
+    <snf:adcontent><![CDATA[
+      <script type=\"text/javascript\" src=\"https://js.nordot-connect.jp/t/231/489/a1231489.js\"></script>
+    ]]></snf:adcontent>
+  </snf:advertisement>
+  <snf:analytics><![CDATA[
+    <script type=\"text/javascript\" src=\"https://log.nordot.jp/js/beacon-1.0.0.js\"></script>
+    <script type=\"text/javascript\">
+      nor.beacon({
+        opttype: \"smartphone\",
+        pagetype: \"detail\",
+        conttype: \"post\",
+        uiid: \"smart\",
+        postid: \"569463292492989537\",
+        ttl: \"FOCUS: Indian market emerges as new concern for Japanese automakers\",
+        img: 1,
+        cvrimg: 0,
+        pubdate: \"1574136117\",
+        chunitid: \"288215928582407265\"
+      });
+    </script>
+  ]]></snf:analytics>
+</item>
+<item>
+  <title>Reborn Parco department store features Nintendo, pop culture shops</title>
+  <link>https://this.kiji.is/569458236824355937</link>
+  <guid>http://this.kiji.is/569458236824355937</guid>
+  <description><![CDATA[
+Department store Shibuya Parco, long known as one of Japan's major pop culture hubs, was unveiled Tu...
+  ]]></description>
+  <pubDate>Tue, 19 Nov 2019 18:43:43 +0900</pubDate>
+  <content:encoded><![CDATA[
+<figure><img src=\"https://nordot-res.cloudinary.com/c_limit,w_800,f_auto,q_auto:eco/ch/images/569458214797149281/origin_1.jpg\" /><figcaption></figcaption></figure><p class=\"ma__p\">Department store Shibuya Parco, long known as one of Japan's major pop culture hubs, was unveiled Tuesday in rebuilt premises boasting Nintendo's first official store in the country among other new attractions.</p>
+<p class=\"ma__p\">The department store set to reopen Friday in Tokyo's busy Shibuya shopping district houses some 190 shops and other facilities from the first basement floor to the 10th floor of the 19-story building. Its restaurants include one serving insect cuisine.</p>
+<p class=\"ma__p\">The Nintendo store, the company's second official shop after one in New York, will sell game consoles, software and character goods. It also plans to hold gaming events, the company said.</p>
+<p class=\"ma__p\">The building's Parco Theater for plays and rakugo performances will open next year, it said.</p>
+<p class=\"ma__p\">\"It has become a wonderful facility and I don't think it is an exaggeration to say that it has been completely transformed into something new,\" Parco President Kozo Makiyama told the media at the unveiling, adding he wants people to continue to have high hopes for the \"ever-changing Shibuya Parco.\"</p>
+<p class=\"ma__p\">Since opening in 1973, Shibuya Parco has been known for promoting new fashions and lifestyles. It also won a reputation for innovative TV commercials.</p>
+<p class=\"ma__p\">It closed in 2016 as its building became obsolete, and the new Parco building was reconstructed on the same ground.</p>
+
+  ]]></content:encoded>
+  <category>EconomyBusiness,en</category>
+  <dc:language>en</dc:language>
+  <media:status>active</media:status>
+<media:thumbnail url=\"https://nordot-res.cloudinary.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/569458214797149281/origin_1.jpg\" /><snf:advertisement>
+    <snf:adcontent><![CDATA[
+      <script type=\"text/javascript\" src=\"https://js.nordot-connect.jp/t/231/489/a1231489.js\"></script>
+    ]]></snf:adcontent>
+  </snf:advertisement>
+  <snf:analytics><![CDATA[
+    <script type=\"text/javascript\" src=\"https://log.nordot.jp/js/beacon-1.0.0.js\"></script>
+    <script type=\"text/javascript\">
+      nor.beacon({
+        opttype: \"smartphone\",
+        pagetype: \"detail\",
+        conttype: \"post\",
+        uiid: \"smart\",
+        postid: \"569458236824355937\",
+        ttl: \"Reborn Parco department store features Nintendo, pop culture shops\",
+        img: 1,
+        cvrimg: 0,
+        pubdate: \"1574134836\",
+        chunitid: \"288215928582407265\"
+      });
+    </script>
+  ]]></snf:analytics>
+</item>
+<item>
+  <title>Dollar in upper 108 yen level amid U.S.-China trade concern</title>
+  <link>https://this.kiji.is/569453180649473121</link>
+  <guid>http://this.kiji.is/569453180649473121</guid>
+  <description><![CDATA[
+The U.S. dollar remained in the upper 108 yen range Tuesday morning in Tokyo amid rekindled concern ...
+  ]]></description>
+  <pubDate>Tue, 19 Nov 2019 18:23:38 +0900</pubDate>
+  <content:encoded><![CDATA[
+<p class=\"ma__p\">The U.S. dollar remained in the upper 108 yen range Tuesday morning in Tokyo amid rekindled concern over the prolonged trade negotiations between the United States and China.</p>
+<p class=\"ma__p\">At noon, the dollar fetched 108.64-108.65 yen compared with 108.62-108.72 yen in New York and 108.91-92 yen in Tokyo at 5 p.m. Monday.</p>
+<p class=\"ma__p\">The euro was quoted at $1.1072-1072 and 120.28-120.29 yen against $1.1067-1077 and 120.27-37 yen in New York and $1.1056-1057 and 120.41-45 yen in Tokyo late Monday afternoon.</p>
+<p class=\"ma__p\">The dollar moved in a narrow range in the morning as traders refrained from active trading after CNBC on Monday reported China is pessimistic about a trade deal with the United States.</p>
+<p class=\"ma__p\">The U.S. business news network reported Chinese officials are troubled by U.S. President Donald Trump's reluctance to retract tariffs on Chinese products after Beijing said earlier this month the two countries had reached an agreement to phase out tariffs imposed on each other.</p>
+<p class=\"ma__p\">\"Trump's meeting with Federal Reserve Chairman Jerome Powell on Monday also weighed on the dollar,\" as it fueled speculation of an additional interest-rate cut, a foreign exchange broker said.</p>
+
+  ]]></content:encoded>
+  <category>EconomyBusiness,en</category>
+  <dc:language>en</dc:language>
+  <media:status>active</media:status>
+<snf:advertisement>
+    <snf:adcontent><![CDATA[
+      <script type=\"text/javascript\" src=\"https://js.nordot-connect.jp/t/231/489/a1231489.js\"></script>
+    ]]></snf:adcontent>
+  </snf:advertisement>
+  <snf:analytics><![CDATA[
+    <script type=\"text/javascript\" src=\"https://log.nordot.jp/js/beacon-1.0.0.js\"></script>
+    <script type=\"text/javascript\">
+      nor.beacon({
+        opttype: \"smartphone\",
+        pagetype: \"detail\",
+        conttype: \"post\",
+        uiid: \"smart\",
+        postid: \"569453180649473121\",
+        ttl: \"Dollar in upper 108 yen level amid U.S.-China trade concern\",
+        img: 0,
+        cvrimg: 0,
+        pubdate: \"1574133615\",
+        chunitid: \"288215928582407265\"
+      });
+    </script>
+  ]]></snf:analytics>
+</item>
+<item>
+  <title>Main events scheduled for Tuesday, Nov. 20</title>
+  <link>https://this.kiji.is/569444611612722273</link>
+  <guid>http://this.kiji.is/569444611612722273</guid>
+  <description><![CDATA[
+Main events scheduled in Japan for Tuesday, Nov. 20:-- Shinzo Abe to become Japan's longest-serving ...
+  ]]></description>
+  <pubDate>Tue, 19 Nov 2019 17:49:35 +0900</pubDate>
+  <content:encoded><![CDATA[
+<p class=\"ma__p\">Main events scheduled in Japan for Tuesday, Nov. 20:</p>
+<p class=\"ma__p\">-- Shinzo Abe to become Japan's longest-serving prime minister ever, overtaking Taro Katsura (1848-1913), who served 2,886 days in office.</p>
+<p class=\"ma__p\">-- Finance Ministry to release preliminary customs-cleared trade statistics for October at 8:50 a.m.</p>
+<p class=\"ma__p\">-- Japan Tourism Agency to release data on number of foreign visitors for October at 4 p.m.</p>
+
+  ]]></content:encoded>
+  <category>ScheduleDailyWeekly,Politics,EconomyBusiness,en</category>
+  <dc:language>en</dc:language>
+  <media:status>active</media:status>
+<snf:advertisement>
+    <snf:adcontent><![CDATA[
+      <script type=\"text/javascript\" src=\"https://js.nordot-connect.jp/t/231/489/a1231489.js\"></script>
+    ]]></snf:adcontent>
+  </snf:advertisement>
+  <snf:analytics><![CDATA[
+    <script type=\"text/javascript\" src=\"https://log.nordot.jp/js/beacon-1.0.0.js\"></script>
+    <script type=\"text/javascript\">
+      nor.beacon({
+        opttype: \"smartphone\",
+        pagetype: \"detail\",
+        conttype: \"post\",
+        uiid: \"smart\",
+        postid: \"569444611612722273\",
+        ttl: \"Main events scheduled for Tuesday, Nov. 20\",
+        img: 0,
+        cvrimg: 0,
+        pubdate: \"1574131576\",
+        chunitid: \"288215928582407265\"
+      });
+    </script>
+  ]]></snf:analytics>
+</item>
+<item>
+  <title>Tokyo stocks fall in morning amid doubts on U.S.-China trade deal</title>
+  <link>https://this.kiji.is/569443482464617569</link>
+  <guid>http://this.kiji.is/569443482464617569</guid>
+  <description><![CDATA[
+Tokyo stocks fell slightly Tuesday morning as sentiment was clouded by fresh doubts on a partial tra...
+  ]]></description>
+  <pubDate>Tue, 19 Nov 2019 17:45:05 +0900</pubDate>
+  <content:encoded><![CDATA[
+<p class=\"ma__p\">Tokyo stocks fell slightly Tuesday morning as sentiment was clouded by fresh doubts on a partial trade deal between Washington and Beijing.</p>
+<p class=\"ma__p\">The 225-issue Nikkei Stock Average shed 32.62 points, or 0.14 percent, from Monday to 23,384.14. The broader Topix index of all First Section issues on the Tokyo Stock Exchange was down 0.50 point, or 0.03 percent, at 1,700.22.</p>
+<p class=\"ma__p\">Decliners were led by nonferrous metal, rubber product and machinery issues.</p>
+
+  ]]></content:encoded>
+  <category>EconomyBusiness,en</category>
+  <dc:language>en</dc:language>
+  <media:status>active</media:status>
+<snf:advertisement>
+    <snf:adcontent><![CDATA[
+      <script type=\"text/javascript\" src=\"https://js.nordot-connect.jp/t/231/489/a1231489.js\"></script>
+    ]]></snf:adcontent>
+  </snf:advertisement>
+  <snf:analytics><![CDATA[
+    <script type=\"text/javascript\" src=\"https://log.nordot.jp/js/beacon-1.0.0.js\"></script>
+    <script type=\"text/javascript\">
+      nor.beacon({
+        opttype: \"smartphone\",
+        pagetype: \"detail\",
+        conttype: \"post\",
+        uiid: \"smart\",
+        postid: \"569443482464617569\",
+        ttl: \"Tokyo stocks fall in morning amid doubts on U.S.-China trade deal\",
+        img: 0,
+        cvrimg: 0,
+        pubdate: \"1574131455\",
+        chunitid: \"288215928582407265\"
+      });
+    </script>
+  ]]></snf:analytics>
+</item>
+<item>
+  <title>Tokyo stocks open lower as strong yen hits exporters</title>
+  <link>https://this.kiji.is/569408361382970465</link>
+  <guid>http://this.kiji.is/569408361382970465</guid>
+  <description><![CDATA[
+Tokyo stocks opened lower Tuesday as export-related issues were hurt by the yen's firm tone against ...
+  ]]></description>
+  <pubDate>Tue, 19 Nov 2019 15:25:32 +0900</pubDate>
+  <content:encoded><![CDATA[
+<p class=\"ma__p\">Tokyo stocks opened lower Tuesday as export-related issues were hurt by the yen's firm tone against the U.S. dollar.</p>
+<p class=\"ma__p\">In the first 15 minutes of trading, the 225-issue Nikkei Stock Average fell 79.13 points, or 0.34 percent, from Monday to 23,337.63. The broader Topix index of all First Section issues on the Tokyo Stock Exchange was down 2.84 points, or 0.17 percent, at 1,697.88.</p>
+<p class=\"ma__p\">Decliners were led by mining, machinery and nonferrous metal issues.</p>
+
+  ]]></content:encoded>
+  <category>EconomyBusiness,en</category>
+  <dc:language>en</dc:language>
+  <media:status>active</media:status>
+<snf:advertisement>
+    <snf:adcontent><![CDATA[
+      <script type=\"text/javascript\" src=\"https://js.nordot-connect.jp/t/231/489/a1231489.js\"></script>
+    ]]></snf:adcontent>
+  </snf:advertisement>
+  <snf:analytics><![CDATA[
+    <script type=\"text/javascript\" src=\"https://log.nordot.jp/js/beacon-1.0.0.js\"></script>
+    <script type=\"text/javascript\">
+      nor.beacon({
+        opttype: \"smartphone\",
+        pagetype: \"detail\",
+        conttype: \"post\",
+        uiid: \"smart\",
+        postid: \"569408361382970465\",
+        ttl: \"Tokyo stocks open lower as strong yen hits exporters\",
+        img: 0,
+        cvrimg: 0,
+        pubdate: \"1574123029\",
+        chunitid: \"288215928582407265\"
+      });
+    </script>
+  ]]></snf:analytics>
+</item>
+<item>
+  <title>Dollar trades in upper 108 yen range in early Tokyo deals</title>
+  <link>https://this.kiji.is/569403300418094177</link>
+  <guid>http://this.kiji.is/569403300418094177</guid>
+  <description><![CDATA[
+The U.S. dollar traded in the upper 108 yen range early Tuesday in Tokyo, almost unchanged from its ...
+  ]]></description>
+  <pubDate>Tue, 19 Nov 2019 15:05:25 +0900</pubDate>
+  <content:encoded><![CDATA[
+<p class=\"ma__p\">The U.S. dollar traded in the upper 108 yen range early Tuesday in Tokyo, almost unchanged from its overnight levels in New York.</p>
+<p class=\"ma__p\">At 9 a.m., the dollar fetched 108.66-68 yen compared with 108.62-72 yen in New York and 108.91-92 yen in Tokyo at 5 p.m. Monday.</p>
+<p class=\"ma__p\">The euro was quoted at $1.1072-1072 and 120.32-33 yen against $1.1067-1077 and 120.27-37 yen in New York and $1.1056-1057 and 120.41-45 yen in Tokyo late Monday afternoon.</p>
+<p class=\"ma__p\">In New York, investors sold the dollar against the safe-haven yen amid concern over the outlook for trade negotiations between the United States and China, dealers said.</p>
+
+  ]]></content:encoded>
+  <category>EconomyBusiness,en</category>
+  <dc:language>en</dc:language>
+  <media:status>active</media:status>
+<snf:advertisement>
+    <snf:adcontent><![CDATA[
+      <script type=\"text/javascript\" src=\"https://js.nordot-connect.jp/t/231/489/a1231489.js\"></script>
+    ]]></snf:adcontent>
+  </snf:advertisement>
+  <snf:analytics><![CDATA[
+    <script type=\"text/javascript\" src=\"https://log.nordot.jp/js/beacon-1.0.0.js\"></script>
+    <script type=\"text/javascript\">
+      nor.beacon({
+        opttype: \"smartphone\",
+        pagetype: \"detail\",
+        conttype: \"post\",
+        uiid: \"smart\",
+        postid: \"569403300418094177\",
+        ttl: \"Dollar trades in upper 108 yen range in early Tokyo deals\",
+        img: 0,
+        cvrimg: 0,
+        pubdate: \"1574121791\",
+        chunitid: \"288215928582407265\"
+      });
+    </script>
+  ]]></snf:analytics>
+</item>
+<item>
+  <title>FOCUS: Nissan in dire need of repairing Renault ties 1 yr after Ghosn arrest</title>
+  <link>https://this.kiji.is/569378126631486561</link>
+  <guid>http://this.kiji.is/569378126631486561</guid>
+  <description><![CDATA[
+Nissan Motor Co. has been mostly preoccupied with a management overhaul and infighting with alliance...
+  ]]></description>
+  <pubDate>Tue, 19 Nov 2019 13:25:23 +0900</pubDate>
+  <content:encoded><![CDATA[
+<figure><img src=\"https://nordot-res.cloudinary.com/c_limit,w_800,f_auto,q_auto:eco/ch/images/569378114585429089/origin_1.jpg\" /><figcaption></figcaption></figure><p class=\"ma__p\">Nissan Motor Co. has been mostly preoccupied with a management overhaul and infighting with alliance partner Renault SA since the arrest of former boss Carlos Ghosn a year ago, making only limited progress in fixing its battered earnings.</p>
+<p class=\"ma__p\">But analysts agree that the automaker needs to strengthen the alliance with Renault to remain competitive in the global auto industry, where the focus is shifting to autonomous, connected and electric vehicles.</p>
+<p class=\"ma__p\">Nissan needs combined efforts with the French partner to cut costs and share the investment burden in developing next-generation vehicles while it shores up its business, particularly in the United States. In the U.S. market, it has relied heavily on incentives to sell cars, denting profitability and hurting brand perception.</p>
+<p class=\"ma__p\">\"The relationship they have with Renault, this alliance, it needs to be mended,\" said Christopher Richter, deputy head of research at CLSA Securities Japan. \"Maybe the issue of whether they merge or not need not be addressed immediately but they need to have a friendly relationship with Renault.\"</p>
+<p class=\"ma__p\">\"Because at the end of the day, the competitors are not standing still,\" said Richter, citing the recent plan by Fiat Chrysler Automobiles N.V. and French automaker PSA Group, maker of Peugeot and Citroen brands, to merge into what would be the world's fourth-largest automobile maker by volume.</p>
+<p class=\"ma__p\">\"They either need to hang together or they are going to need to hang separately,\" he said of the Nissan-Renault alliance, which was created by Ghosn two decades ago and has grown to become one of the world's largest automaker groups.</p>
+<p class=\"ma__p\">Analysts also point to the possibility of bigger automakers such as Toyota Motor Corp. and Volkswagen AG stepping up competition by allying with smaller rivals or teaming up with cross-industry partners such as technology companies.</p>
+<p class=\"ma__p\">\"Toyota has recently been very open to partnering with companies beyond the auto industry. It is no surprise to see mobility-related tech groups choosing to tie up with a solid company like Toyota,\" said Tatsuo Yoshida, senior auto analyst at Bloomberg Intelligence.</p>
+<p class=\"ma__p\">\"Nissan and Renault should not dwell on the reviewing of cross-shareholding structures or the possibility of a merger because their stances are conflicting and the issue will not be resolved anytime soon,\" Yoshida said.</p>
+<p class=\"ma__p\">\"Nissan should rather concentrate on bringing out the full potential of the alliance -- that is the strength which differentiates it from Toyota or Volkswagen,\" he said.</p>
+<p class=\"ma__p\">Talk of a review of the capital alliance structure has been at the heart of tensions between Renault and Nissan. Renault holds a 43.4 percent stake in Nissan, which has a non-voting 15 percent stake in the French peer.</p>
+<p class=\"ma__p\">Before stepping down as Nissan chief executive in September, Hiroto Saikawa called for increased autonomy for the Japanese carmaker within the capital alliance, calling the current structure \"unbalanced.\"</p>
+<p class=\"ma__p\">Renault Chairman Jean-Dominique Senard, meanwhile, proposed a merger of the two companies to Nissan this spring, which Saikawa rejected.</p>
+<p class=\"ma__p\">Adding to the complexity is the intervention of the French government, Renault's biggest shareholder, which is keen on enhancing the competitiveness of Renault and has pushed for a merger in the past, according to sources close to the matter.</p>
+<p class=\"ma__p\">Senard recently told a French radio station that he does not rule out the possibility of his company lowering its 43.4 percent stake in Nissan but also stressed that the issue is not a priority.</p>
+<p class=\"ma__p\">\"Nothing can ever be excluded, (but) this is not what we're focused on,\" Senard told France Inter radio. \"My obsession is for the alliance to take off in 2020.\"</p>
+<p class=\"ma__p\">Bloomberg Intelligence's Yoshida said, \"It is not the time for Nissan and Renault to be stuck in a tug-of-war when their rivals are going ahead in the race.\"</p>
+<p class=\"ma__p\">Nissan has revamped its management formed after Ghosn's arrest on Nov. 19 last year for alleged financial misconduct, replacing Saikawa, Ghosn's lieutenant and handpicked successor, with Makoto Uchida as chief executive, effective Dec. 1.</p>
+<p class=\"ma__p\">Saikawa resigned after admitting he was overpaid by an equity-linked remuneration scheme run by the company.</p>
+<p class=\"ma__p\">The new executive team, also including Ashwani Gupta, chief operating officer at partner Mitsubishi Motors Corp., as Nissan's new COO, and Senior Vice President Jun Seki as co-COO, faces massive pressure to pull the firm out of its profit nosedive.</p>
+<p class=\"ma__p\">Nissan predicts a 10-year-low net profit of 110 billion yen ($1 billion) and 11-year-low operating profit of 150 billion yen in the current business year through next March, with sales dropping notably in North America, Europe and Japan and the stronger yen squeezing its profitability.</p>
+<p class=\"ma__p\">The carmaker announced in July restructuring steps including 12,500 job cuts in the next three years, aiming to depart from the aggressive expansion long pursued by Ghosn.</p>
+<p class=\"ma__p\">Gupta said earlier this month that through his experience at Nissan, Renault and Mitsubishi, he is convinced the three carmakers need each other more than ever at a time when current market conditions are posing new challenges.</p>
+<p class=\"ma__p\">Ghosn, who has been stripped of the chairmanship at Nissan, Renault and Mitsubishi and of the chief executive role at the French company since his arrest, is set to go on trial possibly next spring. Released on bail in April, he is set to assert his innocence of all charges.</p>
+<p class=\"ma__p\">The former auto industry tycoon has said he was the victim of a \"conspiracy\" by Nissan executives who felt that a possible convergence or merger with Renault would threaten Nissan's autonomy.</p>
+<p class=\"ma__p\">Despite the tough bail conditions, including limited internet use and banned contact with his wife, he is \"well\" and commutes to his lawyer's office almost every day to prepare for his trial, according to one of his lawyers, Junichiro Hironaka.</p>
+
+  ]]></content:encoded>
+  <category>EconomyBusiness,Society,NewsFocusFeature,en</category>
+  <dc:language>en</dc:language>
+  <media:status>active</media:status>
+<media:thumbnail url=\"https://nordot-res.cloudinary.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/569378114585429089/origin_1.jpg\" /><snf:advertisement>
+    <snf:adcontent><![CDATA[
+      <script type=\"text/javascript\" src=\"https://js.nordot-connect.jp/t/231/489/a1231489.js\"></script>
+    ]]></snf:adcontent>
+  </snf:advertisement>
+  <snf:analytics><![CDATA[
+    <script type=\"text/javascript\" src=\"https://log.nordot.jp/js/beacon-1.0.0.js\"></script>
+    <script type=\"text/javascript\">
+      nor.beacon({
+        opttype: \"smartphone\",
+        pagetype: \"detail\",
+        conttype: \"post\",
+        uiid: \"smart\",
+        postid: \"569378126631486561\",
+        ttl: \"FOCUS: Nissan in dire need of repairing Renault ties 1 yr after Ghosn arrest\",
+        img: 1,
+        cvrimg: 0,
+        pubdate: \"1574115863\",
+        chunitid: \"288215928582407265\"
+      });
+    </script>
+  ]]></snf:analytics>
+</item>
+<item>
+  <title>Ghosn's lawyers renew criticism of Japan's judicial system</title>
+  <link>https://this.kiji.is/569372666087146593</link>
+  <guid>http://this.kiji.is/569372666087146593</guid>
+  <description><![CDATA[
+The defense team of former Nissan Motor Co. boss Carlos Ghosn on Tuesday renewed their criticism of ...
+  ]]></description>
+  <pubDate>Tue, 19 Nov 2019 13:03:42 +0900</pubDate>
+  <content:encoded><![CDATA[
+<figure><img src=\"https://nordot-res.cloudinary.com/c_limit,w_800,f_auto,q_auto:eco/ch/images/569372652353602657/origin_1.jpg\" /><figcaption></figcaption></figure><p class=\"ma__p\">The defense team of former Nissan Motor Co. boss Carlos Ghosn on Tuesday renewed their criticism of Japan's prosecution procedures and stressed his resolve to fight the financial misconduct allegations against him as a year has passed since his initial arrest last November.</p>
+<p class=\"ma__p\">In a statement, Ghosn's global defense team said the former auto executive was subjected to a host of questionable practices during more than 100 days of detention prior to his release on bail, though \"none of this has weakened (his) resolve\" and he is \"determined to fight these meritless allegations vigorously.\"</p>
+<p class=\"ma__p\">\"He is looking forward to the opportunity to set the record straight and reunite with his family,\" the statement added.</p>
+<p class=\"ma__p\">Saying Ghosn was \"ambushed\" in his first arrest at Tokyo's Haneda airport on Nov. 19 last year, the defense team denounced Japan's \"hostage system of justice\" under which prosecutors \"detained him in solitary confinement for more than four months\" and \"interrogated him relentlessly for hours each day.\"</p>
+<p class=\"ma__p\">Additionally, they said, the Japanese authorities \"imposed punitive, inhumane and unjustified bail conditions that prohibit him from seeing or speaking with his wife and curtail his ability to mount an effective defense to the charges brought against him.\"</p>
+<p class=\"ma__p\">Former Nissan CEO Ghosn is accused of underreporting his remuneration for the eight-year period through March 2018. While he claimed 7.8 billion yen ($72 million) in pay, prosecutors say he actually received 17 billion yen.</p>
+<p class=\"ma__p\">He is also accused of transferring a private derivatives contract that was incurring an appraisal loss of 1.85 billion yen to a Nissan account and paying $14.7 million in company funds to a Saudi businessman who extended credit to him.</p>
+<p class=\"ma__p\">In addition, Ghosn is charged with having a Nissan subsidiary in the United Arab Emirates pay a total of $10 million to a distributor in Oman between July 2017 and July 2018, and having $5 million of that transferred to a savings account at a Lebanese investment firm that Ghosn effectively owns.</p>
+<p class=\"ma__p\">The trial for Ghosn is expected to start next April.</p>
+
+  ]]></content:encoded>
+  <category>EconomyBusiness,Society,en</category>
+  <dc:language>en</dc:language>
+  <media:status>active</media:status>
+<media:thumbnail url=\"https://nordot-res.cloudinary.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/569372652353602657/origin_1.jpg\" /><snf:advertisement>
+    <snf:adcontent><![CDATA[
+      <script type=\"text/javascript\" src=\"https://js.nordot-connect.jp/t/231/489/a1231489.js\"></script>
+    ]]></snf:adcontent>
+  </snf:advertisement>
+  <snf:analytics><![CDATA[
+    <script type=\"text/javascript\" src=\"https://log.nordot.jp/js/beacon-1.0.0.js\"></script>
+    <script type=\"text/javascript\">
+      nor.beacon({
+        opttype: \"smartphone\",
+        pagetype: \"detail\",
+        conttype: \"post\",
+        uiid: \"smart\",
+        postid: \"569372666087146593\",
+        ttl: \"Ghosn&#39;s lawyers renew criticism of Japan&#39;s judicial system\",
+        img: 1,
+        cvrimg: 0,
+        pubdate: \"1574114527\",
+        chunitid: \"288215928582407265\"
+      });
+    </script>
+  ]]></snf:analytics>
+</item>
+<item>
+  <title>U.S. grants Huawei another 90-day period to buy American parts</title>
+  <link>https://this.kiji.is/569302612997063777</link>
+  <guid>http://this.kiji.is/569302612997063777</guid>
+  <description><![CDATA[
+The U.S. Commerce Department said Monday it has granted another 90-day grace period to Huawei Techno...
+  ]]></description>
+  <pubDate>Tue, 19 Nov 2019 08:25:20 +0900</pubDate>
+  <content:encoded><![CDATA[
+<figure><img src=\"https://nordot-res.cloudinary.com/c_limit,w_800,f_auto,q_auto:eco/ch/images/569302601292907617/origin_1.jpg\" /><figcaption></figcaption></figure><p class=\"ma__p\">The U.S. Commerce Department said Monday it has granted another 90-day grace period to Huawei Technologies Co., allowing the blacklisted Chinese tech giant to continue buying supplies from U.S. firms so that it can service existing customers.</p>
+<p class=\"ma__p\">The extension was the second of its kind since Huawei and many of its affiliates were first put on the department's so-called Entity List in May for national security reasons.</p>
+<p class=\"ma__p\">President Donald Trump's administration views Huawei -- a leader in next-generation wireless networks known as 5G -- as a national security threat, suspecting its equipment could be used for cyberespionage. Huawei denies such allegations.</p>
+<p class=\"ma__p\">Placement on the Entity List means that U.S. firms are prohibited from selling any goods or services to the Chinese telecommunications giant without U.S. government approval.</p>
+<p class=\"ma__p\">But shortly after being blacklisted, Huawei was granted a 90-day grace period that allowed the company to continue purchasing U.S. components and software, and the action was extended in August for 90 days through Monday.</p>
+<p class=\"ma__p\">The latest extension through Feb. 16 will \"allow carriers to continue to service customers in some of the most remote areas of the United States who would otherwise be left in the dark,\" Secretary of Commerce Wilbur Ross said in a press release.</p>
+<p class=\"ma__p\">\"The Department will continue to rigorously monitor sensitive technology exports to ensure that our innovations are not harnessed by those who would threaten our national security,\" he added.</p>
+
+  ]]></content:encoded>
+  <category>Politics,EconomyBusiness,en</category>
+  <dc:language>en</dc:language>
+  <media:status>active</media:status>
+<media:thumbnail url=\"https://nordot-res.cloudinary.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/569302601292907617/origin_1.jpg\" /><snf:advertisement>
+    <snf:adcontent><![CDATA[
+      <script type=\"text/javascript\" src=\"https://js.nordot-connect.jp/t/231/489/a1231489.js\"></script>
+    ]]></snf:adcontent>
+  </snf:advertisement>
+  <snf:analytics><![CDATA[
+    <script type=\"text/javascript\" src=\"https://log.nordot.jp/js/beacon-1.0.0.js\"></script>
+    <script type=\"text/javascript\">
+      nor.beacon({
+        opttype: \"smartphone\",
+        pagetype: \"detail\",
+        conttype: \"post\",
+        uiid: \"smart\",
+        postid: \"569302612997063777\",
+        ttl: \"U.S. grants Huawei another 90-day period to buy American parts\",
+        img: 1,
+        cvrimg: 0,
+        pubdate: \"1574097865\",
+        chunitid: \"288215928582407265\"
+      });
+    </script>
+  ]]></snf:analytics>
+</item>
+<item>
+  <title>Abe ties with Katsura as longest-serving Japan prime minister</title>
+  <link>https://this.kiji.is/569266951604323425</link>
+  <guid>http://this.kiji.is/569266951604323425</guid>
+  <description><![CDATA[
+Shinzo Abe tied Tuesday with Taro Katsura as Japan's longest-serving prime minister, with a total of...
+  ]]></description>
+  <pubDate>Tue, 19 Nov 2019 07:57:26 +0900</pubDate>
+  <content:encoded><![CDATA[
+<figure><img src=\"https://nordot-res.cloudinary.com/c_limit,w_800,f_auto,q_auto:eco/ch/images/569295578094355553/origin_1.jpg\" /><figcaption></figcaption></figure><p class=\"ma__p\">Shinzo Abe tied Tuesday with Taro Katsura as Japan's longest-serving prime minister, with a total of 2,886 days in office.</p>
+<p class=\"ma__p\">Nearly seven years into his job, Abe is almost certain to rewrite Katsura's century-old unbroken record on Wednesday at a time when myriad challenges lie ahead, most recently a controversy over publicly-funded cherry-blossom viewing party.</p>
+<p class=\"ma__p\">Before his current term as president of the ruling Liberal Democratic Party and prime minister ends in September 2021, Abe is expected to step up his quest for major accomplishments that will determine his premiership.</p>
+<p class=\"ma__p\">Taking advantage of a fractured opposition and the public's apparent preference for stability following tumultuous years under a Democratic Party of Japan-led government, Abe has gradually strengthened his grip on power thanks to a spate of national election wins and the prime minister's office exerting control over key issues.</p>
+<p class=\"ma__p\">The 65-year-old premier is often regarded as a hawkish conservative seeking to raise Japan's profile overseas. Some political experts say he has exhibited more of his realist side during the current tenure.</p>
+<p class=\"ma__p\">In 2014, he went ahead with a reinterpretation of the pacifist Constitution to enable the use of collective self-defense -- defending allies even without an attack on Japan itself -- and expanded the role of its defense forces under new security legislation in 2016.</p>
+<p class=\"ma__p\">His stated goal of amending the Constitution for the first time ever is still far off, however, with little substantive progress having been made in the Diet.</p>
+<p class=\"ma__p\">Abe has so far ridden out a string of money and favoritism scandals engulfing him and his Cabinet members with approval ratings hovering at relatively high levels. In his 2006-2007 tenure, he suffered a series of scandals that led to a succession of ministers stepping down.</p>
+<p class=\"ma__p\">He is now in the hot seat as opposition party lawmakers allege that his office partly covered expenses for supporters to attend a dinner party at a luxurious Tokyo hotel on the eve of the government's annual cherry-blossom viewing event.</p>
+<p class=\"ma__p\">Abe returned to power in December 2012 with a pledge to revitalize the economy, a major concern for Japanese voters, and is now seeking to enhance social security.</p>
+<p class=\"ma__p\">However, the economy is now seen on shaky ground despite \"Abenomics,\" an economic program that entails bold monetary easing by the Bank of Japan intended to help the nation break free from deflation.</p>
+<p class=\"ma__p\">The world's third-largest economy barely grew in July-September, reflecting sluggish consumption, with uncertainty persisting over the fuller impact of the country's twice-delayed consumption tax hike in October from 8 percent to 10 percent.</p>
+<p class=\"ma__p\">In the diplomatic arena, Abe is now a familiar face in international gatherings and Japanese government officials say he can talk frankly with many foreign leaders, notably U.S. President Donald Trump.</p>
+<p class=\"ma__p\">But Japan-South Korea ties have hit their lowest point in years over compensation for wartime labor, a row which has affected trade and security relations including an intelligence-sharing pact that Seoul is refusing to renew by Saturday's deadline.</p>
+<p class=\"ma__p\">The issue of Japanese nationals abducted by North Korea in the 1970s and 1980s also remains unresolved. No date has been fixed for a summit with North Korean leader Kim Jong Un despite Abe's overture.</p>
+<p class=\"ma__p\">Negotiations toward signing a postwar peace treaty with Russia have apparently hit a snag, hampered by a territorial row over Russian-held islands off Hokkaido.</p>
+<p class=\"ma__p\">Katsura served as Japan's leader intermittently through 1913. During his tenure, an alliance was forged with Britain and the Japan-Russia war was fought.</p>
+<p class=\"ma__p\">If Abe stays in power, Abe will have served the longest uninterrupted period as prime minister on Aug. 24, 2020. The current record holder is former Prime Minister Eisaku Sato, who served for 2,798 days in a row.</p>
+
+  ]]></content:encoded>
+  <category>Politics,EconomyBusiness,en</category>
+  <dc:language>en</dc:language>
+  <media:status>active</media:status>
+<media:thumbnail url=\"https://nordot-res.cloudinary.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/569295578094355553/origin_1.jpg\" /><snf:advertisement>
+    <snf:adcontent><![CDATA[
+      <script type=\"text/javascript\" src=\"https://js.nordot-connect.jp/t/231/489/a1231489.js\"></script>
+    ]]></snf:adcontent>
+  </snf:advertisement>
+  <snf:analytics><![CDATA[
+    <script type=\"text/javascript\" src=\"https://log.nordot.jp/js/beacon-1.0.0.js\"></script>
+    <script type=\"text/javascript\">
+      nor.beacon({
+        opttype: \"smartphone\",
+        pagetype: \"detail\",
+        conttype: \"post\",
+        uiid: \"smart\",
+        postid: \"569266951604323425\",
+        ttl: \"Abe ties with Katsura as longest-serving Japan prime minister\",
+        img: 1,
+        cvrimg: 0,
+        pubdate: \"1574089370\",
+        chunitid: \"288215928582407265\"
+      });
+    </script>
+  ]]></snf:analytics>
+</item>
+<item>
+  <title>Soccer: Abe nets first goal for Barcelona B</title>
+  <link>https://this.kiji.is/569237259618370657</link>
+  <guid>http://this.kiji.is/569237259618370657</guid>
+  <description><![CDATA[
+Japanese attacker Hiroki Abe scored his maiden goal for Barcelona B in a 3-3 draw against Cornella o...
+  ]]></description>
+  <pubDate>Tue, 19 Nov 2019 04:05:38 +0900</pubDate>
+  <content:encoded><![CDATA[
+<figure><img src=\"https://nordot-res.cloudinary.com/c_limit,w_800,f_auto,q_auto:eco/ch/images/569237248177079393/origin_1.jpg\" /><figcaption></figcaption></figure><p class=\"ma__p\">Japanese attacker Hiroki Abe scored his maiden goal for Barcelona B in a 3-3 draw against Cornella on Sunday.</p>
+<p class=\"ma__p\">The Spanish third-tier clash at Johan Cruyff Stadium was Abe's 10th appearance for the Barcelona reserve team since transferring from J-League side Kashima Antlers in July.</p>
+<p class=\"ma__p\">Starting at center forward, the 20-year-old netted in the 23rd minute to give his team a 2-0 lead following an opening goal from Carles Perez.</p>
+<p class=\"ma__p\">The visitors struck back with three straight goals and looked set for victory before Spanish midfielder Monchu salvaged the draw with an injury-time penalty.</p>
+<p class=\"ma__p\">Despite scoring for the first time in Spain, Abe said he was mostly concerned about the result of the game.</p>
+<p class=\"ma__p\">\"I'm feeling disappointed about the team not winning more than anything,\" said Abe, who has played mostly on the left wing.</p>
+<p class=\"ma__p\">During a pre-season tour of Japan, Barcelona president Josep Maria Bartomeu said Abe, the 2018 J-League Young Player of the Year, had the talent to become \"a very important player\" for the club's first team.</p>
+
+  ]]></content:encoded>
+  <category>Sports,en</category>
+  <dc:language>en</dc:language>
+  <media:status>active</media:status>
+<media:thumbnail url=\"https://nordot-res.cloudinary.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/569237248177079393/origin_1.jpg\" /><snf:advertisement>
+    <snf:adcontent><![CDATA[
+      <script type=\"text/javascript\" src=\"https://js.nordot-connect.jp/t/231/489/a1231489.js\"></script>
+    ]]></snf:adcontent>
+  </snf:advertisement>
+  <snf:analytics><![CDATA[
+    <script type=\"text/javascript\" src=\"https://log.nordot.jp/js/beacon-1.0.0.js\"></script>
+    <script type=\"text/javascript\">
+      nor.beacon({
+        opttype: \"smartphone\",
+        pagetype: \"detail\",
+        conttype: \"post\",
+        uiid: \"smart\",
+        postid: \"569237259618370657\",
+        ttl: \"Soccer: Abe nets first goal for Barcelona B\",
+        img: 1,
+        cvrimg: 0,
+        pubdate: \"1574082200\",
+        chunitid: \"288215928582407265\"
+      });
+    </script>
+  ]]></snf:analytics>
+</item>
+<item>
+  <title>Singapore detonates WWII bomb found in city center</title>
+  <link>https://this.kiji.is/569223664053814369</link>
+  <guid>http://this.kiji.is/569223664053814369</guid>
+  <description><![CDATA[
+A 50-kilogram unexploded bomb from World War II was detonated by army personnel in Singapore on Mond...
+  ]]></description>
+  <pubDate>Tue, 19 Nov 2019 03:11:37 +0900</pubDate>
+  <content:encoded><![CDATA[
+<figure><img src=\"https://nordot-res.cloudinary.com/c_limit,w_800,f_auto,q_auto:eco/ch/images/569223647540823137/origin_1.jpg\" /><figcaption></figcaption></figure><p class=\"ma__p\">A 50-kilogram unexploded bomb from World War II was detonated by army personnel in Singapore on Monday in a large-scale planned operation that involved the evacuation of nearby condominiums and a hotel, and halted traffic.</p>
+<p class=\"ma__p\">Though such bombs have been found in the city-state from time to time, usually at construction sites, this time caused more disruption as the construction site is within a residential area.</p>
+<p class=\"ma__p\">Nearby roads were closed off to the public and buses diverted, while a stretch of the Singapore River was closed to boat traffic.</p>
+<p class=\"ma__p\">Residents of more than 600 condominium units were ordered to evacuate from early morning for safety reasons during the detonation work as police set up a 200-meter safety cordon around the site.</p>
+<p class=\"ma__p\">The Grand Copthorne Waterfront temporarily moved guests from some parts of the hotel that was nearer to the site.</p>
+<p class=\"ma__p\">An explosion could be heard from the site with slight tremors felt nearby.</p>
+<p class=\"ma__p\">The bomb was discovered earlier this month during excavation works and had been assessed to be unsafe to move.</p>
+<p class=\"ma__p\">Bomb experts from Singapore's army determined it to be an aerial bomb dropped during the 1942-1945 period when Singapore, a former British colony, was invaded and occupied by Japanese troops.</p>
+
+  ]]></content:encoded>
+  <category>Asia,EconomyBusiness,Society,en</category>
+  <dc:language>en</dc:language>
+  <media:status>active</media:status>
+<media:thumbnail url=\"https://nordot-res.cloudinary.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/569223647540823137/origin_1.jpg\" /><snf:advertisement>
+    <snf:adcontent><![CDATA[
+      <script type=\"text/javascript\" src=\"https://js.nordot-connect.jp/t/231/489/a1231489.js\"></script>
+    ]]></snf:adcontent>
+  </snf:advertisement>
+  <snf:analytics><![CDATA[
+    <script type=\"text/javascript\" src=\"https://log.nordot.jp/js/beacon-1.0.0.js\"></script>
+    <script type=\"text/javascript\">
+      nor.beacon({
+        opttype: \"smartphone\",
+        pagetype: \"detail\",
+        conttype: \"post\",
+        uiid: \"smart\",
+        postid: \"569223664053814369\",
+        ttl: \"Singapore detonates WWII bomb found in city center\",
+        img: 1,
+        cvrimg: 0,
+        pubdate: \"1574078997\",
+        chunitid: \"288215928582407265\"
+      });
+    </script>
+  ]]></snf:analytics>
+</item>
+<item>
+  <title>Pakistan test-fires nuclear-capable ballistic missile</title>
+  <link>https://this.kiji.is/569203523320005729</link>
+  <guid>http://this.kiji.is/569203523320005729</guid>
+  <description><![CDATA[
+Pakistan on Monday test-fired a nuclear-capable ballistic missile with a range of 650 kilometers, th...
+  ]]></description>
+  <pubDate>Tue, 19 Nov 2019 01:51:35 +0900</pubDate>
+  <content:encoded><![CDATA[
+<figure><img src=\"https://nordot-res.cloudinary.com/c_limit,w_800,f_auto,q_auto:eco/ch/images/569203509724513377/origin_1.jpg\" /><figcaption></figcaption></figure><p class=\"ma__p\">Pakistan on Monday test-fired a nuclear-capable ballistic missile with a range of 650 kilometers, the Defense Ministry said.</p>
+<p class=\"ma__p\">It said the Shaheen-1 surface-to-surface missile, capable of delivering all times of warheads, was launched to test the operational readiness of the Army Strategic Force Command.</p>
+<p class=\"ma__p\">The missile was initially developed in 1998 with Chinese assistance having a range of 350 km but has since been improved with the use of indigenous technology.</p>
+<p class=\"ma__p\">Video footage released by the ministry showed the firing of the missile from somewhere on land and then impacting in an arid area.</p>
+
+  ]]></content:encoded>
+  <category>Asia,Politics,EconomyBusiness,en</category>
+  <dc:language>en</dc:language>
+  <media:status>active</media:status>
+<media:thumbnail url=\"https://nordot-res.cloudinary.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/569203509724513377/origin_1.jpg\" /><snf:advertisement>
+    <snf:adcontent><![CDATA[
+      <script type=\"text/javascript\" src=\"https://js.nordot-connect.jp/t/231/489/a1231489.js\"></script>
+    ]]></snf:adcontent>
+  </snf:advertisement>
+  <snf:analytics><![CDATA[
+    <script type=\"text/javascript\" src=\"https://log.nordot.jp/js/beacon-1.0.0.js\"></script>
+    <script type=\"text/javascript\">
+      nor.beacon({
+        opttype: \"smartphone\",
+        pagetype: \"detail\",
+        conttype: \"post\",
+        uiid: \"smart\",
+        postid: \"569203523320005729\",
+        ttl: \"Pakistan test-fires nuclear-capable ballistic missile\",
+        img: 1,
+        cvrimg: 0,
+        pubdate: \"1574074193\",
+        chunitid: \"288215928582407265\"
+      });
+    </script>
+  ]]></snf:analytics>
+</item>
+<item>
+  <title>Dollar firm in upper 108 yen zone on U.S.-China deal optimism</title>
+  <link>https://this.kiji.is/569173817505236065</link>
+  <guid>http://this.kiji.is/569173817505236065</guid>
+  <description><![CDATA[
+The U.S. dollar stayed firm in the upper 108 yen range Monday in Tokyo as remarks by senior official...
+  ]]></description>
+  <pubDate>Mon, 18 Nov 2019 23:53:32 +0900</pubDate>
+  <content:encoded><![CDATA[
+<p class=\"ma__p\">The U.S. dollar stayed firm in the upper 108 yen range Monday in Tokyo as remarks by senior officials of the United States and China supported hopes for a trade deal between the major economies.</p>
+<p class=\"ma__p\">At 5 p.m., the dollar fetched 108.91-92 yen compared with 108.72-82 yen in New York and 108.55-56 yen in Tokyo at 5 p.m. Friday. It moved between 108.68 yen and 108.95 yen during the day, changing hands most frequently at 108.80 yen.</p>
+<p class=\"ma__p\">The euro was quoted at $1.1056-1057 and 120.41-45 yen against $1.1047-1057 and 120.20-30 yen in New York and $1.1016-1017 and 119.58-62 yen in Tokyo late Friday afternoon.</p>
+<p class=\"ma__p\">The dollar held onto gains made Friday as investors' risk appetite strengthened after White House economic adviser Larry Kudlow said last week the two sides are close to an agreement, dealers said.</p>
+<p class=\"ma__p\">Sentiment further improved after the Chinese government said Vice Premier Liu He and U.S. Trade Representative Robert Lighthizer on Saturday had \"constructive\" talks on trade over the telephone and agreed to continue close communication, they said.</p>
+<p class=\"ma__p\">The dollar did not gain enough momentum to revisit the 109-yen zone in the wake of heightening political tensions in Hong Kong after local police on Monday morning stormed through barricades and besieged Hong Kong Polytechnic University, they said.</p>
+<p class=\"ma__p\">\"The unrest in Hong Kong could have a negative impact on the relationship between the United States and China and subsequently on their trade talks,\" said Yuzo Sakai, chief manager of foreign exchange business promotion at Ueda Totan Forex Ltd.</p>
+<p class=\"ma__p\">The United States has condemned the \"unjustified use of force\" in Hong Kong and called on the Chinese government to protect the territory's freedom, Reuters news agency reported, citing a senior U.S. official.</p>
+
+  ]]></content:encoded>
+  <category>EconomyBusiness,en</category>
+  <dc:language>en</dc:language>
+  <media:status>active</media:status>
+<snf:advertisement>
+    <snf:adcontent><![CDATA[
+      <script type=\"text/javascript\" src=\"https://js.nordot-connect.jp/t/231/489/a1231489.js\"></script>
+    ]]></snf:adcontent>
+  </snf:advertisement>
+  <snf:analytics><![CDATA[
+    <script type=\"text/javascript\" src=\"https://log.nordot.jp/js/beacon-1.0.0.js\"></script>
+    <script type=\"text/javascript\">
+      nor.beacon({
+        opttype: \"smartphone\",
+        pagetype: \"detail\",
+        conttype: \"post\",
+        uiid: \"smart\",
+        postid: \"569173817505236065\",
+        ttl: \"Dollar firm in upper 108 yen zone on U.S.-China deal optimism\",
+        img: 0,
+        cvrimg: 0,
+        pubdate: \"1574067015\",
+        chunitid: \"288215928582407265\"
+      });
+    </script>
+  ]]></snf:analytics>
+</item>
+<item>
+  <title>Japan's key bond yield falls on buyback</title>
+  <link>https://this.kiji.is/569161734977995873</link>
+  <guid>http://this.kiji.is/569161734977995873</guid>
+  <description><![CDATA[
+The yield on the benchmark 10-year Japanese government bond ended lower in negative territory Monday...
+  ]]></description>
+  <pubDate>Mon, 18 Nov 2019 23:05:32 +0900</pubDate>
+  <content:encoded><![CDATA[
+<p class=\"ma__p\">The yield on the benchmark 10-year Japanese government bond ended lower in negative territory Monday as investors bought back the debt due to recent drops in prices.</p>
+<p class=\"ma__p\">The yield on the No. 356, 0.1 percent issue, the main yardstick of long-term interest rates, ended interdealer trading at minus 0.090 percent, down 0.015 percentage point from Friday's close.</p>
+<p class=\"ma__p\">The price of the December futures contract for 10-year bonds rose 0.20 point to 153.25 on the Osaka Exchange.</p>
+
+  ]]></content:encoded>
+  <category>EconomyBusiness,en</category>
+  <dc:language>en</dc:language>
+  <media:status>active</media:status>
+<snf:advertisement>
+    <snf:adcontent><![CDATA[
+      <script type=\"text/javascript\" src=\"https://js.nordot-connect.jp/t/231/489/a1231489.js\"></script>
+    ]]></snf:adcontent>
+  </snf:advertisement>
+  <snf:analytics><![CDATA[
+    <script type=\"text/javascript\" src=\"https://log.nordot.jp/js/beacon-1.0.0.js\"></script>
+    <script type=\"text/javascript\">
+      nor.beacon({
+        opttype: \"smartphone\",
+        pagetype: \"detail\",
+        conttype: \"post\",
+        uiid: \"smart\",
+        postid: \"569161734977995873\",
+        ttl: \"Japan&#39;s key bond yield falls on buyback\",
+        img: 0,
+        cvrimg: 0,
+        pubdate: \"1574064225\",
+        chunitid: \"288215928582407265\"
+      });
+    </script>
+  ]]></snf:analytics>
+</item>
+<item>
+  <title>Tokyo stocks gain after higher U.S., Hong Kong shares</title>
+  <link>https://this.kiji.is/569134059429004385</link>
+  <guid>http://this.kiji.is/569134059429004385</guid>
+  <description><![CDATA[
+Tokyo stocks rose Monday as investors' risk appetite strengthened on upbeat shares on Wall Street an...
+  ]]></description>
+  <pubDate>Mon, 18 Nov 2019 21:15:33 +0900</pubDate>
+  <content:encoded><![CDATA[
+<p class=\"ma__p\">Tokyo stocks rose Monday as investors' risk appetite strengthened on upbeat shares on Wall Street and in Hong Kong.</p>
+<p class=\"ma__p\">The 225-issue Nikkei Stock Average ended up 113.44 points, or 0.49 percent, from Friday at 23,416.76. The broader Topix index of all First Section issues on the Tokyo Stock Exchange finished 4.05 points, or 0.24 percent, higher at 1,700.72.</p>
+<p class=\"ma__p\">Gainers were led by pharmaceutical, precision instrument, and information and communication issues.</p>
+
+  ]]></content:encoded>
+  <category>EconomyBusiness,en</category>
+  <dc:language>en</dc:language>
+  <media:status>active</media:status>
+<snf:advertisement>
+    <snf:adcontent><![CDATA[
+      <script type=\"text/javascript\" src=\"https://js.nordot-connect.jp/t/231/489/a1231489.js\"></script>
+    ]]></snf:adcontent>
+  </snf:advertisement>
+  <snf:analytics><![CDATA[
+    <script type=\"text/javascript\" src=\"https://log.nordot.jp/js/beacon-1.0.0.js\"></script>
+    <script type=\"text/javascript\">
+      nor.beacon({
+        opttype: \"smartphone\",
+        pagetype: \"detail\",
+        conttype: \"post\",
+        uiid: \"smart\",
+        postid: \"569134059429004385\",
+        ttl: \"Tokyo stocks gain after higher U.S., Hong Kong shares\",
+        img: 0,
+        cvrimg: 0,
+        pubdate: \"1574057641\",
+        chunitid: \"288215928582407265\"
+      });
+    </script>
+  ]]></snf:analytics>
+</item>
+<item>
+  <title>Major defense equipment fair opens in Japan</title>
+  <link>https://this.kiji.is/569127549919052897</link>
+  <guid>http://this.kiji.is/569127549919052897</guid>
+  <description><![CDATA[
+A major defense equipment fair opened Monday in Chiba Prefecture, near Tokyo, with some 50 Japanese ...
+  ]]></description>
+  <pubDate>Mon, 18 Nov 2019 20:49:41 +0900</pubDate>
+  <content:encoded><![CDATA[
+<figure><img src=\"https://nordot-res.cloudinary.com/c_limit,w_800,f_auto,q_auto:eco/ch/images/569127493500306529/origin_1.jpg\" /><figcaption></figcaption></figure><p class=\"ma__p\">A major defense equipment fair opened Monday in Chiba Prefecture, near Tokyo, with some 50 Japanese and 100 foreign arms manufacturers taking part.</p>
+<p class=\"ma__p\">Backed by the Japanese and British governments, the exhibition, the Defense and Security Equipment International, or DSEI, is intended to boost Japanese makers' international competitiveness in the defense area and increase business opportunities by foreign companies in Asia.</p>
+<p class=\"ma__p\">It is the first time that DSEI, one of the world's biggest defense equipment fairs, has been held outside Britain.</p>
+<p class=\"ma__p\">Japan's Acquisition, Technology and Logistics Agency is displaying the Ground Self-Defense Force Type 10 tank, as well as other equipment, in the event at the Makuhari Messe convention center, which will run through Wednesday.</p>
+<p class=\"ma__p\">Participating companies are displaying models of missiles and fighter jets, as well as precision instruments for drones at their booths, with business people and military personnel in attendance.</p>
+<p class=\"ma__p\">\"It is important for companies from home and abroad to get together and create an opportunity for new business deals,\" Masanori Nishi, a former vice defense minister who is chairman for DSEI Japan, said in an opening ceremony.</p>
+<p class=\"ma__p\">Britain's Department for International Trade is running a booth at the Tokyo fair in an effort to expand London's arms export.</p>
+<p class=\"ma__p\">The fair also brings together major Japanese defense contractors such as Mitsubishi Heavy Industries Ltd. and Kawasaki Heavy Industries Ltd., as well as foreign players such as Lockheed Martin Corp. of the United States and BAE Systems plc of Britain.</p>
+<p class=\"ma__p\">Arms makers from Israel, India and Canada are participating, as well.</p>
+<p class=\"ma__p\">DSEI, which is held every two years in Britain, exhibits defense equipment for land, sea and air forces, as well as for countering terrorism and cyberattacks and almost everything that relates to security.</p>
+<figure><img src=\"https://nordot-res.cloudinary.com/c_limit,w_800,f_auto,q_auto:eco/ch/images/569127535609267297/origin_1.jpg\" /><figcaption></figcaption></figure>
+  ]]></content:encoded>
+  <category>Politics,EconomyBusiness,en</category>
+  <dc:language>en</dc:language>
+  <media:status>active</media:status>
+<media:thumbnail url=\"https://nordot-res.cloudinary.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/569127493500306529/origin_1.jpg\" /><snf:advertisement>
+    <snf:adcontent><![CDATA[
+      <script type=\"text/javascript\" src=\"https://js.nordot-connect.jp/t/231/489/a1231489.js\"></script>
+    ]]></snf:adcontent>
+  </snf:advertisement>
+  <snf:analytics><![CDATA[
+    <script type=\"text/javascript\" src=\"https://log.nordot.jp/js/beacon-1.0.0.js\"></script>
+    <script type=\"text/javascript\">
+      nor.beacon({
+        opttype: \"smartphone\",
+        pagetype: \"detail\",
+        conttype: \"post\",
+        uiid: \"smart\",
+        postid: \"569127549919052897\",
+        ttl: \"Major defense equipment fair opens in Japan\",
+        img: 1,
+        cvrimg: 0,
+        pubdate: \"1574056018\",
+        chunitid: \"288215928582407265\"
+      });
+    </script>
+  ]]></snf:analytics>
+</item>
+<item>
+  <title>Sony to open applied AI research center in India in 2020</title>
+  <link>https://this.kiji.is/569113448424178785</link>
+  <guid>http://this.kiji.is/569113448424178785</guid>
+  <description><![CDATA[
+Sony Corp. will open its first research center in India in 2020 to study the application of artifici...
+  ]]></description>
+  <pubDate>Mon, 18 Nov 2019 19:53:39 +0900</pubDate>
+  <content:encoded><![CDATA[
+<figure><img src=\"https://nordot-res.cloudinary.com/c_limit,w_800,f_auto,q_auto:eco/ch/images/569113438620828769/origin_1.jpg\" /><figcaption></figcaption></figure><p class=\"ma__p\">Sony Corp. will open its first research center in India in 2020 to study the application of artificial intelligence technology to businesses.</p>
+<p class=\"ma__p\">The Tokyo-based firm will establish the center in Bengaluru, known as India's Silicon Valley, in the southern state of Karnataka, according to a company statement released Thursday.</p>
+<p class=\"ma__p\">The center will develop AI technologies adaptable in the entertainment field, in which the firm provides films and videos in the country, a spokesman for Sony told NNA last week.</p>
+<p class=\"ma__p\">\"Having Bengaluru as a foothold, we want to reinforce our research and development capability and competitiveness,\" he said.</p>
+<p class=\"ma__p\">Sony's software development subsidiary, Sony India Software Centre Pvt. Ltd., is also located in the city. The new center will hire around 10 people in the first fiscal year.</p>
+<p class=\"ma__p\">Sony plans to open similar centers at multiple sites in India later, while collaborating with local universities and individual researchers in motivating and fostering research talent, according to the statement.</p>
+<p class=\"ma__p\">Sony's move comes after more than 20 years developing software in the country. (NNA/Kyodo)</p>
+
+  ]]></content:encoded>
+  <category>Asia,EconomyBusiness,en</category>
+  <dc:language>en</dc:language>
+  <media:status>active</media:status>
+<media:thumbnail url=\"https://nordot-res.cloudinary.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/569113438620828769/origin_1.jpg\" /><snf:advertisement>
+    <snf:adcontent><![CDATA[
+      <script type=\"text/javascript\" src=\"https://js.nordot-connect.jp/t/231/489/a1231489.js\"></script>
+    ]]></snf:adcontent>
+  </snf:advertisement>
+  <snf:analytics><![CDATA[
+    <script type=\"text/javascript\" src=\"https://log.nordot.jp/js/beacon-1.0.0.js\"></script>
+    <script type=\"text/javascript\">
+      nor.beacon({
+        opttype: \"smartphone\",
+        pagetype: \"detail\",
+        conttype: \"post\",
+        uiid: \"smart\",
+        postid: \"569113448424178785\",
+        ttl: \"Sony to open applied AI research center in India in 2020\",
+        img: 1,
+        cvrimg: 0,
+        pubdate: \"1574052754\",
+        chunitid: \"288215928582407265\"
+      });
+    </script>
+  ]]></snf:analytics>
+</item>
+<item>
+  <title>Dollar solid in upper 108 yen, supported by U.S.-China talks hopes</title>
+  <link>https://this.kiji.is/569091154301781089</link>
+  <guid>http://this.kiji.is/569091154301781089</guid>
+  <description><![CDATA[
+The U.S. dollar remained solid in the upper 108 yen range Monday morning in Tokyo, supported by expe...
+  ]]></description>
+  <pubDate>Mon, 18 Nov 2019 18:25:04 +0900</pubDate>
+  <content:encoded><![CDATA[
+<p class=\"ma__p\">The U.S. dollar remained solid in the upper 108 yen range Monday morning in Tokyo, supported by expectations of developments in ongoing trade negotiations between the United States and China.</p>
+<p class=\"ma__p\">At noon, the dollar fetched 108.81-82 yen compared with 108.72-82 yen in New York and 108.55-56 yen in Tokyo at 5 p.m. Friday.</p>
+<p class=\"ma__p\">The euro was quoted at $1.1062-1062 and 120.36-37 yen against $1.1047-1057 and 120.20-30 yen in New York and $1.1016-1017 and 119.58-62 yen in Tokyo late Friday afternoon.</p>
+<p class=\"ma__p\">In New York on Friday, dollar drew buying as investors' risk appetite strengthened on hopes about the U.S.-China trade talks after White House economic adviser Lawrence Kudlow said Thursday the two sides are close to an agreement, dealers said.</p>
+<p class=\"ma__p\">In Tokyo, the U.S. currency continued to stay firm in the upper 108 yen range against the yen, seen as a relatively safe asset, although not chasing higher levels amid a lack of fresh cues, they said.</p>
+<p class=\"ma__p\">\"For the time being, there is no major economic indicator or other events that could be taken as a cue in the market, so market players are likely to look for direction in developments in the U.S.-China talks,\" a foreign exchange broker said.</p>
+
+  ]]></content:encoded>
+  <category>EconomyBusiness,en</category>
+  <dc:language>en</dc:language>
+  <media:status>active</media:status>
+<snf:advertisement>
+    <snf:adcontent><![CDATA[
+      <script type=\"text/javascript\" src=\"https://js.nordot-connect.jp/t/231/489/a1231489.js\"></script>
+    ]]></snf:adcontent>
+  </snf:advertisement>
+  <snf:analytics><![CDATA[
+    <script type=\"text/javascript\" src=\"https://log.nordot.jp/js/beacon-1.0.0.js\"></script>
+    <script type=\"text/javascript\">
+      nor.beacon({
+        opttype: \"smartphone\",
+        pagetype: \"detail\",
+        conttype: \"post\",
+        uiid: \"smart\",
+        postid: \"569091154301781089\",
+        ttl: \"Dollar solid in upper 108 yen, supported by U.S.-China talks hopes\",
+        img: 0,
+        cvrimg: 0,
+        pubdate: \"1574047380\",
+        chunitid: \"288215928582407265\"
+      });
+    </script>
+  ]]></snf:analytics>
+</item>
+<item>
+  <title>Tokyo stocks rise in morning after Dow hits fresh record high</title>
+  <link>https://this.kiji.is/569081686581249121</link>
+  <guid>http://this.kiji.is/569081686581249121</guid>
+  <description><![CDATA[
+Tokyo stocks gained Monday morning slightly as sentiment was supported by the Dow Jones Industrial A...
+  ]]></description>
+  <pubDate>Mon, 18 Nov 2019 17:47:27 +0900</pubDate>
+  <content:encoded><![CDATA[
+<p class=\"ma__p\">Tokyo stocks gained Monday morning slightly as sentiment was supported by the Dow Jones Industrial Average hitting a fresh record high late last week.</p>
+<p class=\"ma__p\">The 225-issue Nikkei Stock Average rose 63.47 points, or 0.27 percent, from Friday to 23,366.79. The broader Topix index of all First Section issues on the Tokyo Stock Exchange was up 0.39 points, or 0.02 percent, at 1,697.06.</p>
+<p class=\"ma__p\">Gainers were led by pharmaceutical, information and communication, and precision instrument issues.</p>
+
+  ]]></content:encoded>
+  <category>EconomyBusiness,en</category>
+  <dc:language>en</dc:language>
+  <media:status>active</media:status>
+<snf:advertisement>
+    <snf:adcontent><![CDATA[
+      <script type=\"text/javascript\" src=\"https://js.nordot-connect.jp/t/231/489/a1231489.js\"></script>
+    ]]></snf:adcontent>
+  </snf:advertisement>
+  <snf:analytics><![CDATA[
+    <script type=\"text/javascript\" src=\"https://log.nordot.jp/js/beacon-1.0.0.js\"></script>
+    <script type=\"text/javascript\">
+      nor.beacon({
+        opttype: \"smartphone\",
+        pagetype: \"detail\",
+        conttype: \"post\",
+        uiid: \"smart\",
+        postid: \"569081686581249121\",
+        ttl: \"Tokyo stocks rise in morning after Dow hits fresh record high\",
+        img: 0,
+        cvrimg: 0,
+        pubdate: \"1574045203\",
+        chunitid: \"288215928582407265\"
+      });
+    </script>
+  ]]></snf:analytics>
+</item>
+<item>
+  <title>Main events scheduled for Tuesday, Nov. 19</title>
+  <link>https://this.kiji.is/569075670982984801</link>
+  <guid>http://this.kiji.is/569075670982984801</guid>
+  <description><![CDATA[
+
+  ]]></description>
+  <pubDate>Mon, 18 Nov 2019 17:23:32 +0900</pubDate>
+  <content:encoded><![CDATA[
+<p class=\"ma__p\">Main events scheduled in Japan for Tuesday, Nov. 19:</p>
+<p class=\"ma__p\">-- 1 year since arrests of former Nissan Motor Co. Chairman Carlos Ghosn and director Greg Kelly.</p>
+
+  ]]></content:encoded>
+  <category>ScheduleDailyWeekly,Politics,EconomyBusiness,en</category>
+  <dc:language>en</dc:language>
+  <media:status>active</media:status>
+<snf:advertisement>
+    <snf:adcontent><![CDATA[
+      <script type=\"text/javascript\" src=\"https://js.nordot-connect.jp/t/231/489/a1231489.js\"></script>
+    ]]></snf:adcontent>
+  </snf:advertisement>
+  <snf:analytics><![CDATA[
+    <script type=\"text/javascript\" src=\"https://log.nordot.jp/js/beacon-1.0.0.js\"></script>
+    <script type=\"text/javascript\">
+      nor.beacon({
+        opttype: \"smartphone\",
+        pagetype: \"detail\",
+        conttype: \"post\",
+        uiid: \"smart\",
+        postid: \"569075670982984801\",
+        ttl: \"Main events scheduled for Tuesday, Nov. 19\",
+        img: 0,
+        cvrimg: 0,
+        pubdate: \"1574043752\",
+        chunitid: \"288215928582407265\"
+      });
+    </script>
+  ]]></snf:analytics>
+</item>
+<item>
+  <title>Tokyo stocks open flat as gains locked in, Dow hits record</title>
+  <link>https://this.kiji.is/569047485742826593</link>
+  <guid>http://this.kiji.is/569047485742826593</guid>
+  <description><![CDATA[
+Tokyo stocks opened almost flat Monday, caught in a tug of war between selling to secure recent gain...
+  ]]></description>
+  <pubDate>Mon, 18 Nov 2019 15:31:32 +0900</pubDate>
+  <content:encoded><![CDATA[
+<p class=\"ma__p\">Tokyo stocks opened almost flat Monday, caught in a tug of war between selling to secure recent gains and buying after the Dow Jones Industrial Average hit a new record above 28,000 points late last week.</p>
+<p class=\"ma__p\">In the first 15 minutes of trading, the 225-issue Nikkei Stock Average fell 19.74 points, or 0.08 percent, from Friday to 23,283.58. The broader Topix index of all First Section issues on the Tokyo Stock Exchange was down 2.00 points, or 0.12 percent, at 1,694.67.</p>
+<p class=\"ma__p\">Gainers were led by pharmaceutical and precision instrument issues, while oil and coal product, as well as farm and fishery issues led decliners.</p>
+
+  ]]></content:encoded>
+  <category>EconomyBusiness,en</category>
+  <dc:language>en</dc:language>
+  <media:status>active</media:status>
+<snf:advertisement>
+    <snf:adcontent><![CDATA[
+      <script type=\"text/javascript\" src=\"https://js.nordot-connect.jp/t/231/489/a1231489.js\"></script>
+    ]]></snf:adcontent>
+  </snf:advertisement>
+  <snf:analytics><![CDATA[
+    <script type=\"text/javascript\" src=\"https://log.nordot.jp/js/beacon-1.0.0.js\"></script>
+    <script type=\"text/javascript\">
+      nor.beacon({
+        opttype: \"smartphone\",
+        pagetype: \"detail\",
+        conttype: \"post\",
+        uiid: \"smart\",
+        postid: \"569047485742826593\",
+        ttl: \"Tokyo stocks open flat as gains locked in, Dow hits record\",
+        img: 0,
+        cvrimg: 0,
+        pubdate: \"1574036962\",
+        chunitid: \"288215928582407265\"
+      });
+    </script>
+  ]]></snf:analytics>
+</item>
+<item>
+  <title>URGENT: Yahoo Japan operator, Line strike basic merger accord</title>
+  <link>https://this.kiji.is/569040975912289377</link>
+  <guid>http://this.kiji.is/569040975912289377</guid>
+  <description><![CDATA[
+SoftBank Corp.'s group company controlling Yahoo Japan Corp. and major messaging app provider Line C...
+  ]]></description>
+  <pubDate>Mon, 18 Nov 2019 15:05:40 +0900</pubDate>
+  <content:encoded><![CDATA[
+<figure><img src=\"https://nordot-res.cloudinary.com/c_limit,w_800,f_auto,q_auto:eco/ch/images/569040968568046689/origin_1.jpg\" /><figcaption></figcaption></figure><p class=\"ma__p\">SoftBank Corp.'s group company controlling Yahoo Japan Corp. and major messaging app provider Line Corp. said Monday they have struck a basic merger accord.</p>
+<p class=\"ma__p\">Yahoo Japan operator Z Holdings Corp. under SoftBank, a mobile phone unit of SoftBank Group Corp., and Line said they aim to finalize the merger agreement next month. They plan to hold a joint press conference at 5 p.m.</p>
+<p class=\"ma__p\">The two companies hope to expand their internet businesses including online retailing, advertising and mobile phone services based on their customer data. The combined sales of Yahoo Japan and Line would be the largest among Japanese online business operators, surpassing Rakuten Inc.</p>
+
+  ]]></content:encoded>
+  <category>EconomyBusiness,en</category>
+  <dc:language>en</dc:language>
+  <media:status>active</media:status>
+<media:thumbnail url=\"https://nordot-res.cloudinary.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/569040968568046689/origin_1.jpg\" /><snf:advertisement>
+    <snf:adcontent><![CDATA[
+      <script type=\"text/javascript\" src=\"https://js.nordot-connect.jp/t/231/489/a1231489.js\"></script>
+    ]]></snf:adcontent>
+  </snf:advertisement>
+  <snf:analytics><![CDATA[
+    <script type=\"text/javascript\" src=\"https://log.nordot.jp/js/beacon-1.0.0.js\"></script>
+    <script type=\"text/javascript\">
+      nor.beacon({
+        opttype: \"smartphone\",
+        pagetype: \"detail\",
+        conttype: \"post\",
+        uiid: \"smart\",
+        postid: \"569040975912289377\",
+        ttl: \"URGENT: Yahoo Japan operator, Line strike basic merger accord\",
+        img: 1,
+        cvrimg: 0,
+        pubdate: \"1574035479\",
+        chunitid: \"288215928582407265\"
+      });
+    </script>
+  ]]></snf:analytics>
+</item>
+<item>
+  <title>Dollar trades in upper 108 yen range in early Tokyo deals</title>
+  <link>https://this.kiji.is/569040476507407457</link>
+  <guid>http://this.kiji.is/569040476507407457</guid>
+  <description><![CDATA[
+The U.S. dollar traded in the upper 108 yen range early Monday in Tokyo, almost unchanged from its l...
+  ]]></description>
+  <pubDate>Mon, 18 Nov 2019 15:03:41 +0900</pubDate>
+  <content:encoded><![CDATA[
+<p class=\"ma__p\">The U.S. dollar traded in the upper 108 yen range early Monday in Tokyo, almost unchanged from its levels late last week in New York.</p>
+<p class=\"ma__p\">At 9 a.m., the dollar fetched 108.71-72 yen compared with 108.72-82 yen in New York and 108.55-56 yen in Tokyo at 5 p.m. Friday.</p>
+<p class=\"ma__p\">The euro was quoted at $1.1054-1054 and 120.17-21 yen against $1.1047-1057 and 120.20-30 yen in New York and $1.1016-1017 and 119.58-62 yen in Tokyo late Friday afternoon.</p>
+<p class=\"ma__p\">In New York, dollar-buying took the upper hand as investors' risk appetite strengthened on optimism about the ongoing U.S.-China trade negotiations, dealers said.</p>
+
+  ]]></content:encoded>
+  <category>EconomyBusiness,en</category>
+  <dc:language>en</dc:language>
+  <media:status>active</media:status>
+<snf:advertisement>
+    <snf:adcontent><![CDATA[
+      <script type=\"text/javascript\" src=\"https://js.nordot-connect.jp/t/231/489/a1231489.js\"></script>
+    ]]></snf:adcontent>
+  </snf:advertisement>
+  <snf:analytics><![CDATA[
+    <script type=\"text/javascript\" src=\"https://log.nordot.jp/js/beacon-1.0.0.js\"></script>
+    <script type=\"text/javascript\">
+      nor.beacon({
+        opttype: \"smartphone\",
+        pagetype: \"detail\",
+        conttype: \"post\",
+        uiid: \"smart\",
+        postid: \"569040476507407457\",
+        ttl: \"Dollar trades in upper 108 yen range in early Tokyo deals\",
+        img: 0,
+        cvrimg: 0,
+        pubdate: \"1574035374\",
+        chunitid: \"288215928582407265\"
+      });
+    </script>
+  ]]></snf:analytics>
+</item>
+<item>
+  <title>Baseball: Giants' Yamaguchi wants to try his hand in majors</title>
+  <link>https://this.kiji.is/569017734568445025</link>
+  <guid>http://this.kiji.is/569017734568445025</guid>
+  <description><![CDATA[
+Yomiuri Giants right-hander Shun Yamaguchi, who won 15 games in Japan's Central League this season, ...
+  ]]></description>
+  <pubDate>Mon, 18 Nov 2019 13:33:19 +0900</pubDate>
+  <content:encoded><![CDATA[
+<figure><img src=\"https://nordot-res.cloudinary.com/c_limit,w_800,f_auto,q_auto:eco/ch/images/569017722725287009/origin_1.jpg\" /><figcaption></figcaption></figure><p class=\"ma__p\">Yomiuri Giants right-hander Shun Yamaguchi, who won 15 games in Japan's Central League this season, intends to move to the major leagues, a source with knowledge of the matter said Sunday night.</p>
+<p class=\"ma__p\">To do so, the 32-year-old pitcher will need the Giants to either release or post him. If the Giants post him, it would be a first for a franchise that has long been harshly critical of the posting system.</p>
+<p class=\"ma__p\">Former Giants ace Koji Uehara asked the club to post him so that he could move to the majors in 2006, but his request was denied and he was unable to move to the major leagues until he could file for free agency at the age of 33.</p>
+<p class=\"ma__p\">Yamaguchi, who lost four games this year, led the CL in winning percentage and strikeouts as he contributed to Yomiuri's first CL pennant in five years. He signed with the Giants ahead of the 2016 season after leaving the DeNA BayStars as a free agent.</p>
+<p class=\"ma__p\">Although his contract was reported as a three-year deal, Yamaguchi is ostensibly still under team control because players filing for free agency in Japan must wait another four years before they regain the right to file again.</p>
+<p class=\"ma__p\">Yamaguchi turned pro in 2006 after the BayStars took him in the first round of the 2005 high school draft. By 2009, he had become the BayStars top reliever, and in 2012 became the youngest player to record 100 saves. He has been used as a starter since 2014, and has a career record of 64 wins, 58 losses and 112 saves.</p>
+<p class=\"ma__p\">The posting system allows Japanese players under contract to negotiate with major league teams. If a contract is concluded, their Japanese clubs receive a transfer fee based on a prescribed percentage of the value of the player's contract.</p>
+<p class=\"ma__p\">The Giants could opt to simply release Yamaguchi with no compensation, but with the knowledge that their record of never posting a player remains intact.</p>
+<p class=\"ma__p\">Three other Japanese players are currently headed toward work in the major leagues this winter -- outfielders Yoshitomo Tsutsugo of the BayStars and Shogo Akiyama of the Pacific League's Seibu Lions, and second baseman Ryosuke Kikuchi of the CL's Hiroshima Carp. Akiyama is a free agent, and Tsutsugo has been posted, while the Carp have announced they will post Kikuchi.</p>
+
+  ]]></content:encoded>
+  <category>Sports,en</category>
+  <dc:language>en</dc:language>
+  <media:status>active</media:status>
+<media:thumbnail url=\"https://nordot-res.cloudinary.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/569017722725287009/origin_1.jpg\" /><snf:advertisement>
+    <snf:adcontent><![CDATA[
+      <script type=\"text/javascript\" src=\"https://js.nordot-connect.jp/t/231/489/a1231489.js\"></script>
+    ]]></snf:adcontent>
+  </snf:advertisement>
+  <snf:analytics><![CDATA[
+    <script type=\"text/javascript\" src=\"https://log.nordot.jp/js/beacon-1.0.0.js\"></script>
+    <script type=\"text/javascript\">
+      nor.beacon({
+        opttype: \"smartphone\",
+        pagetype: \"detail\",
+        conttype: \"post\",
+        uiid: \"smart\",
+        postid: \"569017734568445025\",
+        ttl: \"Baseball: Giants&#39; Yamaguchi wants to try his hand in majors\",
+        img: 1,
+        cvrimg: 0,
+        pubdate: \"1574029862\",
+        chunitid: \"288215928582407265\"
+      });
+    </script>
+  ]]></snf:analytics>
+</item>
+<item>
+  <title>Soccer: Japan U-22 lose Olympic warm-up 2-0 to Colombia</title>
+  <link>https://this.kiji.is/568794848288261217</link>
+  <guid>http://this.kiji.is/568794848288261217</guid>
+  <description><![CDATA[
+A lack of ruthlessness in front of goal proved costly for Japan's Olympic hopefuls on Sunday as they...
+  ]]></description>
+  <pubDate>Sun, 17 Nov 2019 22:47:39 +0900</pubDate>
+  <content:encoded><![CDATA[
+<figure><img src=\"https://nordot-res.cloudinary.com/c_limit,w_800,f_auto,q_auto:eco/ch/images/568794837119632481/origin_1.jpg\" /><figcaption></figcaption></figure><p class=\"ma__p\">A lack of ruthlessness in front of goal proved costly for Japan's Olympic hopefuls on Sunday as they lost 2-0 to Colombia in an under-22 friendly.</p>
+<p class=\"ma__p\">Headlined by senior national team regulars Takefusa Kubo and Ritsu Doan, Hajime Moriyasu's side created several scoring opportunities at Edion Stadium Hiroshima but could not capitalize.</p>
+<p class=\"ma__p\">Manager Arturo Reyes' Colombians had no such problems and will head toward South American qualifying for the 2020 Tokyo Olympic Games with confidence following second-half goals from Luis Sandoval and Juan Pablo Ramirez.</p>
+<p class=\"ma__p\">\"The team produced chances but unfortunately didn't finish them, whether or not it was because of pressure or nerves,\" Moriyasu said. \"We'll continue strengthening as we build toward the Tokyo Olympics.\"</p>
+<p class=\"ma__p\">Following a first half in which neither side had a clear advantage, the visitors took the lead in the 47th minute when Sandoval squeezed a close-range shot past goalkeeper Keisuke Osako after the Japanese defense failed to clear a cross.</p>
+<p class=\"ma__p\">Japan were fortunate to avoid a two-goal deficit in the 57th minute when playmaker Nicolas Benedetti volleyed just wide of the back post off a long throw.</p>
+<p class=\"ma__p\">But the South Americans had their second two minutes later when Benedetti made an unchecked run from the left wing through the center of the pitch before laying off to Ramirez inside the area.</p>
+<p class=\"ma__p\">The hosts squandered a handful of good chances late in the half.</p>
+<p class=\"ma__p\">After receiving a ball into the box from 18-year-old star Kubo, Doan unleashed a close-range shot with his second touch straight at Colombian keeper Esteban Ruiz.</p>
+<p class=\"ma__p\">PSV Eindhoven playmaker Doan then provided a superb ball over the top to send Koki Ogawa into a one-on-one with Ruiz, but the forward fired against the post.</p>
+<p class=\"ma__p\">Japan will continue their Olympic preparations with a U-22 friendly against Jamaica at Transcosmos Stadium Nagasaki on Dec. 28.</p>
+<p class=\"ma__p\">The Olympic men's soccer tournament will be contested by U-23 teams with a limited number of overage players.</p>
+
+  ]]></content:encoded>
+  <category>Sports,en</category>
+  <dc:language>en</dc:language>
+  <media:status>active</media:status>
+<media:thumbnail url=\"https://nordot-res.cloudinary.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/568794837119632481/origin_1.jpg\" /><snf:advertisement>
+    <snf:adcontent><![CDATA[
+      <script type=\"text/javascript\" src=\"https://js.nordot-connect.jp/t/231/489/a1231489.js\"></script>
+    ]]></snf:adcontent>
+  </snf:advertisement>
+  <snf:analytics><![CDATA[
+    <script type=\"text/javascript\" src=\"https://log.nordot.jp/js/beacon-1.0.0.js\"></script>
+    <script type=\"text/javascript\">
+      nor.beacon({
+        opttype: \"smartphone\",
+        pagetype: \"detail\",
+        conttype: \"post\",
+        uiid: \"smart\",
+        postid: \"568794848288261217\",
+        ttl: \"Soccer: Japan U-22 lose Olympic warm-up 2-0 to Colombia\",
+        img: 1,
+        cvrimg: 0,
+        pubdate: \"1573976701\",
+        chunitid: \"288215928582407265\"
+      });
+    </script>
+  ]]></snf:analytics>
+</item>
+<item>
+  <title>Baseball: Japan veterans Clark, Navarro carry Mexico into 2020 Olympics</title>
+  <link>https://this.kiji.is/568783768658265185</link>
+  <guid>http://this.kiji.is/568783768658265185</guid>
+  <description><![CDATA[
+Matt Clark tied it in the ninth inning and Efren Navarro's RBI single won it in the 10th as Mexico c...
+  ]]></description>
+  <pubDate>Sun, 17 Nov 2019 22:03:37 +0900</pubDate>
+  <content:encoded><![CDATA[
+<figure><img src=\"https://nordot-res.cloudinary.com/c_limit,w_800,f_auto,q_auto:eco/ch/images/568783761138648161/origin_1.jpg\" /><figcaption></figcaption></figure><p class=\"ma__p\">Matt Clark tied it in the ninth inning and Efren Navarro's RBI single won it in the 10th as Mexico came from behind to beat the United States 3-2 and earn a spot in next year's Olympic baseball tournament.</p>
+<p class=\"ma__p\">The win in the Premier12 third-place game lifted Mexico ahead of the U.S. and earned them the one Olympic qualifying berth the tournament had for teams from the Americas. South Korea earned the other Olympic qualifying spot for teams from Asia and Oceania.</p>
+<p class=\"ma__p\">Clark played in Nippon Professional Baseball in 2013 with the Central League's Chunichi Dragons and in 11 games in 2016 for the Pacific League's Orix Buffaloes. Navarro has played the past two seasons with the CL's Hanshin Tigers.</p>
+<p class=\"ma__p\">With the U.S. leading 2-1 in the ninth, Clark opened the bottom of the inning with a home run off Orix closer Brandon Dickson. It was his second homer at Tokyo Dome in 10 at-bats during the Premier12. In 2013, Clark homered five times in his 35 at-bats at this ballpark.</p>
+<p class=\"ma__p\">Mexico reliever Carlos Bustamante stranded three runners in the top of the 10th, when the tie-breaker rule begins starting each inning with runners on first and second. In the home half, Navarro came up with one out and the bases loaded and his flare to center field clinched it.</p>
+<p class=\"ma__p\">Jordan Adell homered in the first inning off Arturo Reyes, but Mexico tied it in the sixth on a hard-hit two-out RBI infield single by Clark.</p>
+<p class=\"ma__p\">Dickson, who saved 18 games this season for Orix after being switched to the closer role in the middle of June, had been lights out for his country. He finished the tournament with three saves, while allowing two earned runs and striking out 11 over five innings.</p>
+<p class=\"ma__p\">Japan and defending champion South Korea were slated to play in the championship game later in the evening.</p>
+
+  ]]></content:encoded>
+  <category>Sports,en</category>
+  <dc:language>en</dc:language>
+  <media:status>active</media:status>
+<media:thumbnail url=\"https://nordot-res.cloudinary.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/568783761138648161/origin_1.jpg\" /><snf:advertisement>
+    <snf:adcontent><![CDATA[
+      <script type=\"text/javascript\" src=\"https://js.nordot-connect.jp/t/231/489/a1231489.js\"></script>
+    ]]></snf:adcontent>
+  </snf:advertisement>
+  <snf:analytics><![CDATA[
+    <script type=\"text/javascript\" src=\"https://log.nordot.jp/js/beacon-1.0.0.js\"></script>
+    <script type=\"text/javascript\">
+      nor.beacon({
+        opttype: \"smartphone\",
+        pagetype: \"detail\",
+        conttype: \"post\",
+        uiid: \"smart\",
+        postid: \"568783768658265185\",
+        ttl: \"Baseball: Japan veterans Clark, Navarro carry Mexico into 2020 Olympics\",
+        img: 1,
+        cvrimg: 0,
+        pubdate: \"1573974089\",
+        chunitid: \"288215928582407265\"
+      });
+    </script>
+  ]]></snf:analytics>
+</item>
+<item>
+  <title>Main events scheduled for Monday, Nov. 18</title>
+  <link>https://this.kiji.is/568737957038785633</link>
+  <guid>http://this.kiji.is/568737957038785633</guid>
+  <description><![CDATA[
+
+  ]]></description>
+  <pubDate>Sun, 17 Nov 2019 19:01:35 +0900</pubDate>
+  <content:encoded><![CDATA[
+<p class=\"ma__p\">Main events scheduled in Japan for Monday, Nov. 18:</p>
+<p class=\"ma__p\">-- No major events.</p>
+
+  ]]></content:encoded>
+  <category>ScheduleDailyWeekly,Politics,EconomyBusiness,en</category>
+  <dc:language>en</dc:language>
+  <media:status>active</media:status>
+<snf:advertisement>
+    <snf:adcontent><![CDATA[
+      <script type=\"text/javascript\" src=\"https://js.nordot-connect.jp/t/231/489/a1231489.js\"></script>
+    ]]></snf:adcontent>
+  </snf:advertisement>
+  <snf:analytics><![CDATA[
+    <script type=\"text/javascript\" src=\"https://log.nordot.jp/js/beacon-1.0.0.js\"></script>
+    <script type=\"text/javascript\">
+      nor.beacon({
+        opttype: \"smartphone\",
+        pagetype: \"detail\",
+        conttype: \"post\",
+        uiid: \"smart\",
+        postid: \"568737957038785633\",
+        ttl: \"Main events scheduled for Monday, Nov. 18\",
+        img: 0,
+        cvrimg: 0,
+        pubdate: \"1573963143\",
+        chunitid: \"288215928582407265\"
+      });
+    </script>
+  ]]></snf:analytics>
+</item>
+<item>
+  <title>Highlights of Japan-related events scheduled for Nov. 18-24</title>
+  <link>https://this.kiji.is/568733917387539553</link>
+  <guid>http://this.kiji.is/568733917387539553</guid>
+  <description><![CDATA[
+Highlights of Japan-related events scheduled for Nov. 18-24:Nov. 18 (MON)-- Grand banquet called \"Da...
+  ]]></description>
+  <pubDate>Sun, 17 Nov 2019 18:45:32 +0900</pubDate>
+  <content:encoded><![CDATA[
+<p class=\"ma__p\">Highlights of Japan-related events scheduled for Nov. 18-24:</p>
+<p class=\"ma__p\">Nov. 18 (MON)</p>
+<p class=\"ma__p\">-- Grand banquet called \"Daikyo no gi\" to be held at Imperial Palace.</p>
+<p class=\"ma__p\">Nov. 19 (TUES)</p>
+<p class=\"ma__p\">-- 1 year since arrests of former Nissan Motor Co. Chairman Carlos Ghosn and director Greg Kelly.</p>
+<p class=\"ma__p\">A Tokyo court plans to hold the first hearing in trial of Ghosn, who faces charges that he underreported his remuneration by several billions of yen over eight years at Nissan and committed aggravated breach of trust, in April at the earliest. Ghosn's defense team has said he is innocent.</p>
+<p class=\"ma__p\">Nov. 20 (WED)</p>
+<p class=\"ma__p\">-- Shinzo Abe to become Japan's longest-serving prime minister ever, overtaking Taro Katsura (1848-1913), who served 2,886 days in office. Katsura was Japan's prime minister three times before World War I.</p>
+<p class=\"ma__p\">-- Finance Ministry to release preliminary customs-cleared trade statistics for October.</p>
+<p class=\"ma__p\">-- Japan Tourism Agency to release data on number of foreign visitors for October.</p>
+<p class=\"ma__p\">Nov. 21 (THURS)</p>
+<p class=\"ma__p\">-- Daijokyu complex specially constructed on Imperial Palace grounds for centuries-old Shinto thanksgiving ceremony, known as Daijosai, following Emperor Naruhito's enthronement, to be opened to the public through Dec. 8.</p>
+<p class=\"ma__p\">-- Beaujolais Nouveau to go on sale.</p>
+<p class=\"ma__p\">Nov. 22 (FRI)</p>
+<p class=\"ma__p\">-- Group of 20 foreign ministers to meet in Nagoya through Nov. 23.</p>
+<p class=\"ma__p\">The meeting will be chaired by Japanese Foreign Minister Toshimitsu Motegi, with the promotion of free trade and global governance being included in its major themes. Attention is also on whether Motegi will hold talks with his South Korean counterpart Kang Kyung Wha on the sidelines of the meeting, amid soured ties between Tokyo and Seoul.</p>
+<p class=\"ma__p\">-- Expiration date for military intelligence-sharing agreement between Japan and South Korea.</p>
+<p class=\"ma__p\">Japan, as well as the United States, has been requesting South Korea to reconsider its decision to terminate the General Security of Military Information Agreement, or GSOMIA.</p>
+<p class=\"ma__p\">-- Emperor Naruhito, Empress Masako to visit Ise Shrine in Mie Prefecture through Nov. 23.</p>
+<p class=\"ma__p\">-- Ministry of Internal Affairs and Communications to release nationwide consumer price index for October.</p>
+<p class=\"ma__p\">Japan's core consumer prices rose 0.3 percent in September from a year earlier, with the pace of growth slowing to a 29-month low. Focus will be whether the pace changes.</p>
+<p class=\"ma__p\">Nov. 23 (SAT)</p>
+<p class=\"ma__p\">-- Labor Thanksgiving Day national holiday.</p>
+<p class=\"ma__p\">-- Pope Francis to visit Japan through Nov. 26.</p>
+<p class=\"ma__p\">The trip will mark the first visit to Japan by a pontiff in 38 years.</p>
+<p class=\"ma__p\">-- Japan, China and South Korea to hold meeting of environment ministers through Nov. 24 in Kitakyushu.</p>
+<p class=\"ma__p\">Nov. 24 (SUN)</p>
+<p class=\"ma__p\">-- Pope Francis to visit Nagasaki, Hiroshima.</p>
+<p class=\"ma__p\">Pope Francis will call on the world to abolish nuclear weapons during his speeches in the two atomic-bombed cities.</p>
+<p class=\"ma__p\">-- Kochi gubernatorial election to be held.</p>
+
+  ]]></content:encoded>
+  <category>ScheduleDailyWeekly,Politics,EconomyBusiness,en</category>
+  <dc:language>en</dc:language>
+  <media:status>active</media:status>
+<snf:advertisement>
+    <snf:adcontent><![CDATA[
+      <script type=\"text/javascript\" src=\"https://js.nordot-connect.jp/t/231/489/a1231489.js\"></script>
+    ]]></snf:adcontent>
+  </snf:advertisement>
+  <snf:analytics><![CDATA[
+    <script type=\"text/javascript\" src=\"https://log.nordot.jp/js/beacon-1.0.0.js\"></script>
+    <script type=\"text/javascript\">
+      nor.beacon({
+        opttype: \"smartphone\",
+        pagetype: \"detail\",
+        conttype: \"post\",
+        uiid: \"smart\",
+        postid: \"568733917387539553\",
+        ttl: \"Highlights of Japan-related events scheduled for Nov. 18-24\",
+        img: 0,
+        cvrimg: 0,
+        pubdate: \"1573962220\",
+        chunitid: \"288215928582407265\"
+      });
+    </script>
+  ]]></snf:analytics>
+</item>
+<item>
+  <title>Baseball: Japan edges South Korea in Premier 12 championship preview</title>
+  <link>https://this.kiji.is/568533661720462433</link>
+  <guid>http://this.kiji.is/568533661720462433</guid>
+  <description><![CDATA[
+Japan defeated Asian baseball rival South Korea 10-8 on Saturday, wrapping up the Premier 12 super r...
+  ]]></description>
+  <pubDate>Sun, 17 Nov 2019 05:29:47 +0900</pubDate>
+  <content:encoded><![CDATA[
+<figure><img src=\"https://nordot-res.cloudinary.com/c_limit,w_800,f_auto,q_auto:eco/ch/images/568533641784919137/origin_1.jpg\" /><figcaption></figcaption></figure><p class=\"ma__p\">Japan defeated Asian baseball rival South Korea 10-8 on Saturday, wrapping up the Premier 12 super round and setting the stage for Sunday's championship rematch.</p>
+<p class=\"ma__p\">The final day of action at Tokyo Dome will see Mexico play the United States in the third-place game, with the winner earning a ticket to next year's 2020 Olympics tournament.</p>
+<p class=\"ma__p\">That will be followed by the final between Japan and defending champion South Korea.</p>
+<p class=\"ma__p\">With both teams already guaranteed a spot in the final, Saturday night's clash was simply a matter of pride, and that was enough to ensure a hard-fought game.</p>
+<p class=\"ma__p\">After a quiet start, Samurai Japan batted around in a six-run third inning. With the game tied 1-1, Yomiuri Giants captain Hayato Sakamoto doubled and was on third after a bunt single by Giants teammate Yoshihiro Maru. The Hiroshima Carp's Seiya Suzuki broke the tie with a flare single for his tournament-best 12th RBI.</p>
+<p class=\"ma__p\">South Korea starting pitcher Lee Seung Ho was pulled after surrendering two more no-out singles and was charged with six runs over two-plus innings.</p>
+<p class=\"ma__p\">Rakuten Eagles right-hander Takayuki Kishi started for Japan and retired the first six batters he faced. He went into the top of the fourth with a 7-1 lead only to get a taste of the same medicine his teammates had dished out. He surrendered six hits in a five-run inning capped by Kim Sang Su's two-out two-run double.</p>
+<p class=\"ma__p\">Chunichi Dragons lefty Yudai Ono got himself into trouble in the top of the fifth, and Suzuki got him out of it. With one out and the bases loaded, Kang Baek Ho drove a ball toward the right field corner only for Suzuki to make a good catch.</p>
+<p class=\"ma__p\">Pinch-runner Lee Jung Hoo, the son of former Chunichi Dragons and Korean baseball legend Lee Jeong Beom, was out trying to score from third on a slick relay from Suzuki to Seibu Lions second baseman Shuta Tonosaki to SoftBank Hawks catcher Takuya Kai.</p>
+<p class=\"ma__p\">Yakult Swallows slugger Tetsuto Yamada doubled in a run in the fifth and then scored on a Maru double to give Japan a 9-6 lead only for South Korea to make it a one-run game in the seventh. Japan's Kensuke Kondo drove in the game's final run when he was hit by a pitch with the bases loaded in the bottom of the seventh.</p>
+<p class=\"ma__p\">Japan got on the board in the second when Ryosuke Kikuchi singled home Carp teammate Tsubasa Aizawa only for South Korea's Hwang Jae Gyun to tie it with his team's first hit off Kishi, a leadoff home run in the third.</p>
+<p class=\"ma__p\">In the afternoon game, Taiwan defeated Australia 5-1, earning the United States a chance to take on Mexico for third place on Saturday.</p>
+
+  ]]></content:encoded>
+  <category>Sports,en</category>
+  <dc:language>en</dc:language>
+  <media:status>active</media:status>
+<media:thumbnail url=\"https://nordot-res.cloudinary.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/568533641784919137/origin_1.jpg\" /><snf:advertisement>
+    <snf:adcontent><![CDATA[
+      <script type=\"text/javascript\" src=\"https://js.nordot-connect.jp/t/231/489/a1231489.js\"></script>
+    ]]></snf:adcontent>
+  </snf:advertisement>
+  <snf:analytics><![CDATA[
+    <script type=\"text/javascript\" src=\"https://log.nordot.jp/js/beacon-1.0.0.js\"></script>
+    <script type=\"text/javascript\">
+      nor.beacon({
+        opttype: \"smartphone\",
+        pagetype: \"detail\",
+        conttype: \"post\",
+        uiid: \"smart\",
+        postid: \"568533661720462433\",
+        ttl: \"Baseball: Japan edges South Korea in Premier 12 championship preview\",
+        img: 1,
+        cvrimg: 0,
+        pubdate: \"1573914440\",
+        chunitid: \"288215928582407265\"
+      });
+    </script>
+  ]]></snf:analytics>
+</item>
+<item>
+  <title>Soccer: Reysol clinch return to top flight after season in J2</title>
+  <link>https://this.kiji.is/568436433333355617</link>
+  <guid>http://this.kiji.is/568436433333355617</guid>
+  <description><![CDATA[
+Kashiwa Reysol proved for the third time they are a hard team to keep down after clinching the J-Lea...
+  ]]></description>
+  <pubDate>Sat, 16 Nov 2019 23:03:26 +0900</pubDate>
+  <content:encoded><![CDATA[
+<figure><img src=\"https://nordot-res.cloudinary.com/c_limit,w_800,f_auto,q_auto:eco/ch/images/568436420450714721/origin_1.jpg\" /><figcaption></figcaption></figure><p class=\"ma__p\">Kashiwa Reysol proved for the third time they are a hard team to keep down after clinching the J-League's second-division championship and earning re-promotion to the J1 on Saturday.</p>
+<p class=\"ma__p\">Reysol, relegated to the J2 this year, booked their first division return in one season, just as they had in 2006 and 2010. Reysol sealed the deal with a 3-0 win at Machida Zelvia on a brace by Brazilian striker Cristiano and a second-minute opener by Yusuke Segawa.</p>
+<p class=\"ma__p\">The last time Reysol won J2 they followed it by winning the J-League championship.</p>
+<p class=\"ma__p\">Yokohama FC moved closer toward earning a stint in J1 with a 1-0 victory at Fagiano Okayama. They were formed by Yokohama Flugels fans after their team was absorbed by rival side Yokohama Marinos 20 years ago.</p>
+<p class=\"ma__p\">Yokohama FC are second, two points ahead of third-place Omiya Ardija, and can clinch promotion with a win next week at home against Ehime.</p>
+<p class=\"ma__p\">The top-two J2 teams earn automatic promotion to the top flight, while those finishing third to sixth play off to see who will take on the 16th-place team in J1 in a promotion-relegation playoff.</p>
+
+  ]]></content:encoded>
+  <category>Sports,en</category>
+  <dc:language>en</dc:language>
+  <media:status>active</media:status>
+<media:thumbnail url=\"https://nordot-res.cloudinary.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/568436420450714721/origin_1.jpg\" /><snf:advertisement>
+    <snf:adcontent><![CDATA[
+      <script type=\"text/javascript\" src=\"https://js.nordot-connect.jp/t/231/489/a1231489.js\"></script>
+    ]]></snf:adcontent>
+  </snf:advertisement>
+  <snf:analytics><![CDATA[
+    <script type=\"text/javascript\" src=\"https://log.nordot.jp/js/beacon-1.0.0.js\"></script>
+    <script type=\"text/javascript\">
+      nor.beacon({
+        opttype: \"smartphone\",
+        pagetype: \"detail\",
+        conttype: \"post\",
+        uiid: \"smart\",
+        postid: \"568436433333355617\",
+        ttl: \"Soccer: Reysol clinch return to top flight after season in J2\",
+        img: 1,
+        cvrimg: 0,
+        pubdate: \"1573891225\",
+        chunitid: \"288215928582407265\"
+      });
+    </script>
+  ]]></snf:analytics>
+</item>
+<item>
+  <title>Insurance claims linked to typhoons in Sept., Oct. may top $18 bil.</title>
+  <link>https://this.kiji.is/568394230519333985</link>
+  <guid>http://this.kiji.is/568394230519333985</guid>
+  <description><![CDATA[
+Insurance claims linked to two powerful typhoons that hit Japan in September and October may exceed ...
+  ]]></description>
+  <pubDate>Sat, 16 Nov 2019 20:15:44 +0900</pubDate>
+  <content:encoded><![CDATA[
+<figure><img src=\"https://nordot-res.cloudinary.com/c_limit,w_800,f_auto,q_auto:eco/ch/images/568394218044392545/origin_1.jpg\" /><figcaption></figcaption></figure><p class=\"ma__p\">Insurance claims linked to two powerful typhoons that hit Japan in September and October may exceed 2 trillion yen ($18.4 billion), according to a recent analysis by Standard &amp; Poor's.</p>
+<p class=\"ma__p\">Typhoon Faxai in September triggered a prolonged power outage near Tokyo, while Typhoon Hagibis in October caused massive flooding and a series of mudslides, leaving at least 92 people dead.</p>
+<p class=\"ma__p\">The damage from the storms was estimated \"using modelling that assumes both storms were as devastating as last year's (Typhoon) Jebi\" that hit western Japan in September 2018, the S&amp;P report said.</p>
+<p class=\"ma__p\">The losses from Typhoon Jebi reached 1.63 trillion yen, making it the most devastating typhoon in Japan in decades in terms of insurance claims, the report said.</p>
+<p class=\"ma__p\">In fiscal 2018 ended March, reinsurance rates increased from 15 percent to 25 percent due to Typhoon Jebi, and major Japanese insurers are likely to raise home insurance fees beyond fiscal 2020 given the costs associated with the typhoons this year, it said.</p>
+
+  ]]></content:encoded>
+  <category>EconomyBusiness,Society,en</category>
+  <dc:language>en</dc:language>
+  <media:status>active</media:status>
+<media:thumbnail url=\"https://nordot-res.cloudinary.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/568394218044392545/origin_1.jpg\" /><snf:advertisement>
+    <snf:adcontent><![CDATA[
+      <script type=\"text/javascript\" src=\"https://js.nordot-connect.jp/t/231/489/a1231489.js\"></script>
+    ]]></snf:adcontent>
+  </snf:advertisement>
+  <snf:analytics><![CDATA[
+    <script type=\"text/javascript\" src=\"https://log.nordot.jp/js/beacon-1.0.0.js\"></script>
+    <script type=\"text/javascript\">
+      nor.beacon({
+        opttype: \"smartphone\",
+        pagetype: \"detail\",
+        conttype: \"post\",
+        uiid: \"smart\",
+        postid: \"568394230519333985\",
+        ttl: \"Insurance claims linked to typhoons in Sept., Oct. may top $18 bil.\",
+        img: 1,
+        cvrimg: 0,
+        pubdate: \"1573881200\",
+        chunitid: \"288215928582407265\"
+      });
+    </script>
+  ]]></snf:analytics>
+</item>
+<item>
+  <title>Main events scheduled for Sunday, Nov. 17</title>
+  <link>https://this.kiji.is/568374048478807137</link>
+  <guid>http://this.kiji.is/568374048478807137</guid>
+  <description><![CDATA[
+
+  ]]></description>
+  <pubDate>Sat, 16 Nov 2019 18:55:33 +0900</pubDate>
+  <content:encoded><![CDATA[
+<p class=\"ma__p\">Main events scheduled in Japan for Sunday, Nov. 17:</p>
+<p class=\"ma__p\">-- No major events.</p>
+
+  ]]></content:encoded>
+  <category>ScheduleDailyWeekly,Politics,EconomyBusiness,en</category>
+  <dc:language>en</dc:language>
+  <media:status>active</media:status>
+<snf:advertisement>
+    <snf:adcontent><![CDATA[
+      <script type=\"text/javascript\" src=\"https://js.nordot-connect.jp/t/231/489/a1231489.js\"></script>
+    ]]></snf:adcontent>
+  </snf:advertisement>
+  <snf:analytics><![CDATA[
+    <script type=\"text/javascript\" src=\"https://log.nordot.jp/js/beacon-1.0.0.js\"></script>
+    <script type=\"text/javascript\">
+      nor.beacon({
+        opttype: \"smartphone\",
+        pagetype: \"detail\",
+        conttype: \"post\",
+        uiid: \"smart\",
+        postid: \"568374048478807137\",
+        ttl: \"Main events scheduled for Sunday, Nov. 17\",
+        img: 0,
+        cvrimg: 0,
+        pubdate: \"1573876441\",
+        chunitid: \"288215928582407265\"
+      });
+    </script>
+  ]]></snf:analytics>
+</item>
+<item>
+  <title>URGENT: Yahoo Japan operator, Line eye merger in 2020: sources</title>
+  <link>https://this.kiji.is/568358466580989025</link>
+  <guid>http://this.kiji.is/568358466580989025</guid>
+  <description><![CDATA[
+SoftBank Corp.'s group company controlling Yahoo Japan Corp. and major messaging app provider Line C...
+  ]]></description>
+  <pubDate>Sat, 16 Nov 2019 17:53:38 +0900</pubDate>
+  <content:encoded><![CDATA[
+<figure><img src=\"https://nordot-res.cloudinary.com/c_limit,w_800,f_auto,q_auto:eco/ch/images/568358453472052321/origin_1.jpg\" /><figcaption></figcaption></figure><p class=\"ma__p\">SoftBank Corp.'s group company controlling Yahoo Japan Corp. and major messaging app provider Line Corp. are considering merging their operations by the end of 2020, sources familiar with the matter said Saturday.</p>
+<p class=\"ma__p\">Z Holdings under SoftBank is in talks with Line for a broad tie-up or a merger, other sources said earlier in the week. SoftBank, a mobile phone unit of SoftBank Group Corp., and Line have said the merger of Z Holdings and Line is among the options under discussion for their business cooperation.</p>
+
+  ]]></content:encoded>
+  <category>EconomyBusiness,en</category>
+  <dc:language>en</dc:language>
+  <media:status>active</media:status>
+<media:thumbnail url=\"https://nordot-res.cloudinary.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/568358453472052321/origin_1.jpg\" /><snf:advertisement>
+    <snf:adcontent><![CDATA[
+      <script type=\"text/javascript\" src=\"https://js.nordot-connect.jp/t/231/489/a1231489.js\"></script>
+    ]]></snf:adcontent>
+  </snf:advertisement>
+  <snf:analytics><![CDATA[
+    <script type=\"text/javascript\" src=\"https://log.nordot.jp/js/beacon-1.0.0.js\"></script>
+    <script type=\"text/javascript\">
+      nor.beacon({
+        opttype: \"smartphone\",
+        pagetype: \"detail\",
+        conttype: \"post\",
+        uiid: \"smart\",
+        postid: \"568358466580989025\",
+        ttl: \"URGENT: Yahoo Japan operator, Line eye merger in 2020: sources\",
+        img: 1,
+        cvrimg: 0,
+        pubdate: \"1573872630\",
+        chunitid: \"288215928582407265\"
+      });
+    </script>
+  ]]></snf:analytics>
+</item>
+<item>
+  <title>Major train service in central Tokyo partially halted for construction</title>
+  <link>https://this.kiji.is/568325315341812833</link>
+  <guid>http://this.kiji.is/568325315341812833</guid>
+  <description><![CDATA[
+One of the busiest train lines in central Tokyo has been partially shut down Saturday for ongoing wo...
+  ]]></description>
+  <pubDate>Sat, 16 Nov 2019 15:41:54 +0900</pubDate>
+  <content:encoded><![CDATA[
+<figure><img src=\"https://nordot-res.cloudinary.com/c_limit,w_800,f_auto,q_auto:eco/ch/images/568325297239180385/origin_1.jpg\" /><figcaption></figcaption></figure><p class=\"ma__p\">One of the busiest train lines in central Tokyo has been partially shut down Saturday for ongoing work to build a new station, affecting an estimated 560,000 people.</p>
+<p class=\"ma__p\">East Japan Railway Co. has suspended operation of roughly a third of the JR Yamanote Line, a 34.5-kilometer loop with a weekly ridership of over 28 million passengers, from early Saturday through late afternoon.</p>
+<p class=\"ma__p\">The shutdown involves 11 stations between Osaki and Ueno stations and is necessitated by the need to shift tracks in connection with work to build Takanawa Gateway Station, set for partial opening in the spring of 2020, said the company commonly known as JR East.</p>
+<p class=\"ma__p\">Takanawa Gateway Station, under construction since February 2017, is the first new Yamanote Line station to be built since 1971 and will be the 30th on the route. It is part of JR East's project to build several high rises in a former railyard site between Shinagawa and Tamachi stations.</p>
+<p class=\"ma__p\">The Yamanote Line has never ceased operation for construction work since the operator was privatized in 1987. Reduced services are in effect on the remaining section of the line.</p>
+<p class=\"ma__p\">The line connects the Japanese capital's major business and commercial districts, including JR East's three busiest stations of Shinjuku, Ikebukuro and Tokyo.</p>
+
+  ]]></content:encoded>
+  <category>EconomyBusiness,Society,en</category>
+  <dc:language>en</dc:language>
+  <media:status>active</media:status>
+<media:thumbnail url=\"https://nordot-res.cloudinary.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/568325297239180385/origin_1.jpg\" /><snf:advertisement>
+    <snf:adcontent><![CDATA[
+      <script type=\"text/javascript\" src=\"https://js.nordot-connect.jp/t/231/489/a1231489.js\"></script>
+    ]]></snf:adcontent>
+  </snf:advertisement>
+  <snf:analytics><![CDATA[
+    <script type=\"text/javascript\" src=\"https://log.nordot.jp/js/beacon-1.0.0.js\"></script>
+    <script type=\"text/javascript\">
+      nor.beacon({
+        opttype: \"smartphone\",
+        pagetype: \"detail\",
+        conttype: \"post\",
+        uiid: \"smart\",
+        postid: \"568325315341812833\",
+        ttl: \"Major train service in central Tokyo partially halted for construction\",
+        img: 1,
+        cvrimg: 0,
+        pubdate: \"1573864774\",
+        chunitid: \"288215928582407265\"
+      });
+    </script>
+  ]]></snf:analytics>
+</item>
+<item>
+  <title>Nissan to recall 450,000 vehicles due to brake fluid leak</title>
+  <link>https://this.kiji.is/568285029825447009</link>
+  <guid>http://this.kiji.is/568285029825447009</guid>
+  <description><![CDATA[
+Nissan Motor Co. said Friday it is recalling some 450,000 vehicles around the world due to brake flu...
+  ]]></description>
+  <pubDate>Sat, 16 Nov 2019 13:01:49 +0900</pubDate>
+  <content:encoded><![CDATA[
+<figure><img src=\"https://nordot-res.cloudinary.com/c_limit,w_800,f_auto,q_auto:eco/ch/images/568285013736080481/origin_1.jpg\" /><figcaption></figcaption></figure><p class=\"ma__p\">Nissan Motor Co. said Friday it is recalling some 450,000 vehicles around the world due to brake fluid leakage that could pose a fire risk.</p>
+<p class=\"ma__p\">Over 90 percent of the affected vehicles were sold in North America. The recall does not affect Nissan cars in Japan.</p>
+<p class=\"ma__p\">The vehicles subject to the recall over defective parts in the antilock braking system include the Murano sport utility vehicle from 2015 to 2018 and the Maxima sedan from 2016 to 2018, according to the Japanese automaker.</p>
+
+  ]]></content:encoded>
+  <category>EconomyBusiness,en</category>
+  <dc:language>en</dc:language>
+  <media:status>active</media:status>
+<media:thumbnail url=\"https://nordot-res.cloudinary.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/568285013736080481/origin_1.jpg\" /><snf:advertisement>
+    <snf:adcontent><![CDATA[
+      <script type=\"text/javascript\" src=\"https://js.nordot-connect.jp/t/231/489/a1231489.js\"></script>
+    ]]></snf:adcontent>
+  </snf:advertisement>
+  <snf:analytics><![CDATA[
+    <script type=\"text/javascript\" src=\"https://log.nordot.jp/js/beacon-1.0.0.js\"></script>
+    <script type=\"text/javascript\">
+      nor.beacon({
+        opttype: \"smartphone\",
+        pagetype: \"detail\",
+        conttype: \"post\",
+        uiid: \"smart\",
+        postid: \"568285029825447009\",
+        ttl: \"Nissan to recall 450,000 vehicles due to brake fluid leak\",
+        img: 1,
+        cvrimg: 0,
+        pubdate: \"1573855173\",
+        chunitid: \"288215928582407265\"
+      });
+    </script>
+  ]]></snf:analytics>
+</item>
+</channel>
+</rss>

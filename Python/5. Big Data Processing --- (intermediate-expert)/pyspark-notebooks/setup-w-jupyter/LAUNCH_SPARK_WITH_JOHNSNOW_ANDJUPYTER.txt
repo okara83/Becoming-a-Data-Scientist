@@ -1,0 +1,10 @@
+### To run Spark with jupyter notebook (also can add to ~/.bash_profile):::
+
+export SPARK_HOME=/Users/okara/spark-2.4.0-bin-hadoop2.7
+export PYSPARK_DRIVER_PYTHON=jupyter
+export PYSPARK_DRIVER_PYTHON_OPTS=notebook
+
+
+#### to now launch with all John Snow lab functionality:
+
+pyspark --packages JohnSnowLabs:spark-nlp:1.8.2   ###launch spark using this 

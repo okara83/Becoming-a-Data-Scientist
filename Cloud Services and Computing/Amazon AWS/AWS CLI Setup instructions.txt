@@ -1,0 +1,11 @@
+Install AWS CLI (on Mac)
+
+$ curl "https://s3.amazonaws.com/aws-cli/awscli-bundle.zip" -o "awscli-bundle.zip"
+$ unzip awscli-bundle.zip
+$ sudo ./awscli-bundle/install -i /usr/local/aws -b /usr/local/bin/aws
+
+ # For the next step use the csv file created for you when your IAM user was created 
+ (contains 'secret access key' and 'access key id' which will make accessing aws services
+ programmatically much more convenient )
+
+$ aws configure
