@@ -17,6 +17,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/Python/2. Python Basics (cont.)/3. Pandas/Notebooks/Start Learning Here/Part-3a/drug_db.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/Downloads/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/IV.csv">
           <value>
             <Attribute>
@@ -403,6 +410,55 @@
           </value>
         </entry>
         <entry key="$USER_HOME$/Downloads/Computational and Inferential Thinking - The Foundations of Data Science (book)/data/wine.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/tests/Concepts_Notebooks--probability_and_statistics-notebooks/notebook-a/Cholera.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/tests/Concepts_Notebooks--probability_and_statistics-notebooks/notebook-a/Dimes.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/tests/Concepts_Notebooks--probability_and_statistics-notebooks/notebook-a/HMDA.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/tests/Concepts_Notebooks--probability_and_statistics-notebooks/notebook-a/Housing.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/tests/Concepts_Notebooks--probability_and_statistics-notebooks/notebook-a/Mroz.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/tests/Concepts_Notebooks--probability_and_statistics-notebooks/notebook-a/prussian.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/tests/Concepts_Notebooks--probability_and_statistics-notebooks/notebook-a/ships.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
