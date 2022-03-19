@@ -219,3 +219,37 @@ TMathematics/Statistics/Probability and Stats --PyDataNYC2019 /tests/test_custom
 ûData Science and Machine Learning/Natural Language Processing/Natural Language Processing with Transformers -- Notebooks/data/github-issues-transformers.jsonl,6/1/61ef8bebc123f0d74673074ce6a0fafbb47c240a
 Ã
 õData Science and Machine Learning/Natural Language Processing/Natural Language Processing with Transformers -- Notebooks/images/chapter02_transformers.html,0/0/0087d92e6d3509d0600f7c3feb87fac66d9d0dc5
+ô
+iMathematics/Statistics/0.0 Basic_Statistics_With_Python/dataset/500_Person_Gender_Height_Weight_Index.csv,1/5/1549f2b6645d9a859421a503e0bd56de3607ea2b
+x
+HMathematics/Statistics/0.0 Basic_Statistics_With_Python/plot_material.py,e/8/e8a46daaa880fe40e3f111890b6dd45dcb1f1aee
+â
+YMathematics/Statistics/0.0 Basic_Statistics_With_Python/Chapter 3 - Hypothesis Test.ipynb,a/1/a1a051b358ba7785e1da1b2238bc5d53d78e603b
+å
+\Mathematics/Statistics/0.0 Basic_Statistics_With_Python/Chapter 2 - Probability Review.ipynb,6/5/65fc60f1025c940ccfaec4a9269f438962e6afad
+å
+\Mathematics/Statistics/0.0 Basic_Statistics_With_Python/Chapter 4 - Hypothesis Testing.ipynb,4/0/40dacbaef37e8cbfab4602a6fcf3125e2ac70e88
+ê
+`Mathematics/Statistics/0.0 Basic_Statistics_With_Python/Chapter 1 - Descriptive Statistics.ipynb,9/d/9d5c84f3888f127180f63d3ba68dd7b5daad0f5e
+£
+sMathematics/Statistics/0.0 Basic_Statistics_With_Python/Chapter 5 - Analysis of Variance and Chi-Squared Test.ipynb,9/6/963440bb0afb8984ab1741bdab646866d3bd788d
+p
+@Julia/Notebooks/2. Julia - Data Science/02. Linear Algebra.ipynb,9/2/92fedcb1bf4e2af4634ff8d76530dc68a1f71797
+Z
+*Spark/PySpark/Presentations/css/custom.css,7/8/786f7d1885e45e20a0fdf7ce86205a4275bbb5f3
+i
+9Spark/PySpark/0.1 Tutorials/2-novice/2-Pagerank-RDD.ipynb,5/9/59ad04e1137fe3c5d60207eb82f87d9cd1430ec7
+k
+;Spark/PySpark/0.1 Tutorials/2-novice/1-Initiation-RDD.ipynb,e/6/e662a20fad2a880e1ac19510e4882e55a09822e8
+l
+<Spark/PySpark/0.1 Tutorials/2-novice/FL_insurance_sample.csv,8/8/88fea2d8792ee033776944279e38951d65db99a8
+i
+9Spark/PySpark/0.1 Tutorials/1-beginner/1-Initiation.ipynb,5/8/58fbaba11d386f44236586b941d85587633c70a0
+y
+IDatabases/SPARQL/1.0 Getting Started/1.2 Thorough - Wikidata-Mayors.ipynb,6/e/6e0cebbc4e75de015eaa0ae22625cb1f6d3be3d3
+t
+DDatabases/SPARQL/1.0 Getting Started/1.1 Thorough Introduction.ipynb,5/b/5b2ddd5b058813784b6b9c0608133f3304747c1b
+h
+8Databases/SPARQL/2.0 SPARQL Examples/SPARQL_pandas.ipynb,1/6/16a4a97b376d7df95d344f7cd52dc58e388d56a9
+c
+3Python/Storing_API_Credentials_and_Using_Them.ipynb,a/a/aad9189e5fc0f954ebf0cbd88e97123e0e7ca297

@@ -45,6 +45,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/CLARUSWAY/STATISTICS/Statistics_Session_11_Hypothesis_Testing/arsenic.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/Data Science and Machine Learning/Machine-Learning-In-Python-THOROUGH/CLARUSWAY/STATISTICS/Statistics_Session_11_Hypothesis_Testing/catalysts.csv">
           <value>
             <Attribute>
@@ -711,6 +718,13 @@
           </value>
         </entry>
         <entry key="/Mathematics/Statistics/Computational and Inferential Thinking - The Foundations of Data Science (book)/Notebooks - by chapter/data/IV.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Computational and Inferential Thinking - The Foundations of Data Science (book)/Notebooks - by chapter/data/actors.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -1494,6 +1508,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/Python/2. Python Basics (cont.)/3. Pandas/Hands On Data Analysis with Pandas 2e/ch_11/logs/hackers_2019.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/Python/2. Python Basics (cont.)/3. Pandas/Hands On Data Analysis with Pandas 2e/ch_11/logs/logs_2018.csv">
           <value>
             <Attribute>
@@ -1634,6 +1655,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/Python/2. Python Basics (cont.)/3. Pandas/Notebooks/Pandas - Books, Problem Sets, Lessons, and Solutions/Additional Notebooks/Pandas-Complete-Introduction-Thorough/1. Complete Pandas Intro Course/2. Manipulating DataFrames with pandas/Datasets/sales/sales-feb-2015.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/Python/2. Python Basics (cont.)/3. Pandas/Notebooks/Pandas - Books, Problem Sets, Lessons, and Solutions/Additional Notebooks/Pandas-Complete-Introduction-Thorough/1. Complete Pandas Intro Course/2. Manipulating DataFrames with pandas/Datasets/sales/sales.csv">
           <value>
             <Attribute>
@@ -1670,6 +1698,34 @@
           </value>
         </entry>
         <entry key="/Python/2. Python Basics (cont.)/3. Pandas/Notebooks/Pandas - Books, Problem Sets, Lessons, and Solutions/Additional Notebooks/Pandas-Complete-Introduction-Thorough/1. Complete Pandas Intro Course/3 .Merging DataFrames with pandas/Datasets/GDP/gdp_usa.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Python/2. Python Basics (cont.)/3. Pandas/Notebooks/Pandas - Books, Problem Sets, Lessons, and Solutions/Additional Notebooks/Pandas-Complete-Introduction-Thorough/1. Complete Pandas Intro Course/3 .Merging DataFrames with pandas/Datasets/Sales/feb-sales-Hardware.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Python/2. Python Basics (cont.)/3. Pandas/Notebooks/Pandas - Books, Problem Sets, Lessons, and Solutions/Additional Notebooks/Pandas-Complete-Introduction-Thorough/1. Complete Pandas Intro Course/3 .Merging DataFrames with pandas/Datasets/Sales/feb-sales-Service.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Python/2. Python Basics (cont.)/3. Pandas/Notebooks/Pandas - Books, Problem Sets, Lessons, and Solutions/Additional Notebooks/Pandas-Complete-Introduction-Thorough/1. Complete Pandas Intro Course/3 .Merging DataFrames with pandas/Datasets/Sales/sales-feb-2015.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Python/2. Python Basics (cont.)/3. Pandas/Notebooks/Pandas - Books, Problem Sets, Lessons, and Solutions/Additional Notebooks/Pandas-Complete-Introduction-Thorough/1. Complete Pandas Intro Course/3 .Merging DataFrames with pandas/Datasets/Sales/sales-jan-2015.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -2104,27 +2160,6 @@
           </value>
         </entry>
         <entry key="/Python/3. Computational Sciences and Mathematics/Statisitcs/Fundamentals-of-Statistics-and-Visualization-in-Python/Section 5/vacation.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Downloads/PySpark Tutorials/2-novice/FL_insurance_sample.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Downloads/PySpark Tutorials/3-advanced/FL_insurance_sample.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Downloads/PySpark Tutorials/3-advanced/titanic.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />

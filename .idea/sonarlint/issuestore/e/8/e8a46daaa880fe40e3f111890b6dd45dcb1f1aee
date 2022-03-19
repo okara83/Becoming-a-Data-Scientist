@@ -1,0 +1,17 @@
+
+|python:S1192ª"cDefine a constant instead of duplicating this literal '$\mu_1, \mu_2, \mu_3 = {}, {}, {}$' 9 times.(¦¯İÒ
+…python:S1192«"lDefine a constant instead of duplicating this literal '$\sigma_1, \sigma_2, \sigma_3 = {}, {}, {}$' 9 times.(Óå
+gpython:S1192"PDefine a constant instead of duplicating this literal r'$Y={}+{}X+{}u$' 8 times.(İ½Íb
+kpython:S1192"NDefine a constant instead of duplicating this literal r'$\rho={:.4}$' 8 times.(¡â°—şÿÿÿÿ
+{python:S1192¬"]Define a constant instead of duplicating this literal '$n_1, n_2, n_3 = {}, {}, {}$' 9 times.(ìÛ«©şÿÿÿÿ
+ipython:S1192­"PDefine a constant instead of duplicating this literal r'$F_c = {:.4f}$' 9 times.(ãÔ±Ù
+kpython:S1192"NDefine a constant instead of duplicating this literal 'axes fraction' 8 times.(¡â°—şÿÿÿÿ
+<python:S125Ú"Remove this commented out code.(Â‡óéşÿÿÿÿ
+<python:S125ì"Remove this commented out code.(¾«â¾şÿÿÿÿ
+<python:S125"Remove this commented out code.(Â‡óéşÿÿÿÿ
+dpython:S1854´"KRemove this assignment to local variable 'params'; the value is never used.(‡ÿ™‡
+spython:S117¨"[Rename this local variable "F_critical" to match the regular expression ^[_a-z][a-z0-9_]*$.(Œ’µğ
+ypython:S117¦"\Rename this local variable "F_statistic" to match the regular expression ^[_a-z][a-z0-9_]*$.(¾›Û¯ùÿÿÿÿ
+tpython:S117˜"\Rename this local variable "F_statistic" to match the regular expression ^[_a-z][a-z0-9_]*$.(–†âê
+Cpython:S1481™"%Remove the unused local variable "i".(ğ‹ƒÏøÿÿÿÿ
+Kpython:S1481—"-Remove the unused local variable "male_mean".(¯šÔ½ûÿÿÿÿ
