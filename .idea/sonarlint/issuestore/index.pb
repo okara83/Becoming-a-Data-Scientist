@@ -129,3 +129,93 @@ lMathematics/Statistics/Computational and Inferential Thinking - The Foundations
 Mathematics/Statistics/Computational and Inferential Thinking - The Foundations of Data Science (book)/images/logo/download.svg,9/6/96c6d4f99ba4f6cd5d367481ca663ab87a25f41d
 ¦
 vMathematics/Statistics/Computational and Inferential Thinking - The Foundations of Data Science (book)/images/logo.svg,9/5/956fa602010c32b4930033f3aba41129428482ff
+w
+GModeling and Simulations/Monte Carlo Methods/Sampling_Monte_Carlo.ipynb,7/c/7cdff82d7e33cb2ecabbaa854b5b3b471694028a
+\
+,Mathematics/Statistics/probability/README.md,3/f/3fb26a1f70ba784721ba2d0fa1650cf5598e1dde
+‘
+aMathematics/Statistics/Python for Probability, Statistics, and ML - 2E/Statistics/Bootstrap.ipynb,c/6/c6c6985d386f372dc20872379c9e153a20375a99
+œ
+lMathematics/Statistics/Python for Probability, Statistics, and ML - 2E/Statistics/Confidence_Intervals.ipynb,d/3/d319312503f430e101cbb767c14a6658ab2bb47f
+“
+cMathematics/Statistics/Python for Probability, Statistics, and ML - 2E/Statistics/Convergence.ipynb,f/3/f3e58b7def24c4a48b6415b40ce831c78a04f94e
+Ÿ
+oMathematics/Statistics/Python for Probability, Statistics, and ML - 2E/Statistics/Curse_of_dimensionality.ipynb,a/7/a7c299c1cb8c79b704434fe855fe92235f8d6b68
+”
+dMathematics/Statistics/Python for Probability, Statistics, and ML - 2E/Statistics/Gauss_Markov.ipynb,5/6/563ad6fdf30694e76eb7f4cd258dc0f24aa985b7
+š
+jMathematics/Statistics/Python for Probability, Statistics, and ML - 2E/Statistics/Hypothesis_Testing.ipynb,5/0/5031977e68173774713a109767aaff26da497a11
+–
+fMathematics/Statistics/Python for Probability, Statistics, and ML - 2E/Statistics/kernel_regression.py,3/5/353207e019ee21474fd17b248becac0fec49f182
+š
+jMathematics/Statistics/Python for Probability, Statistics, and ML - 2E/Statistics/Maximum_likelihood.ipynb,5/4/545935fa2f3879e53a552961dfa65a0bdf2588bf
+š
+jMathematics/Statistics/Python for Probability, Statistics, and ML - 2E/Statistics/maximum_posteriori.ipynb,c/0/c0c044d973d79849dca82aa506d3a2694decb2fe
+•
+eMathematics/Statistics/Python for Probability, Statistics, and ML - 2E/Statistics/Nonparametric.ipynb,0/e/0e2a339d2bca4e4c7688247ebd0659228a6a32d9
+Æ
+•Data Science and Machine Learning/Computational and Inferential Thinking - The Foundations of Data Science (book) machine_learning Sections/glm.ipynb,c/c/cce34e95fb46f48dde7685ff0111a3e33b3ec065
+Æ
+•Data Science and Machine Learning/Computational and Inferential Thinking - The Foundations of Data Science (book) machine_learning Sections/pca.ipynb,6/1/614645f19e4ec1eff5da97de140a631cd00c4765
+Æ
+•Data Science and Machine Learning/Computational and Inferential Thinking - The Foundations of Data Science (book) machine_learning Sections/README.md,7/2/72c02571d7f95231aea1fa642742b591faeb75a7
+Æ
+•Data Science and Machine Learning/Computational and Inferential Thinking - The Foundations of Data Science (book) machine_learning Sections/svm.ipynb,8/3/835aa1f30965b4ce9652b6290388fd0078f0a7b4
+È
+—Data Science and Machine Learning/Computational and Inferential Thinking - The Foundations of Data Science (book) machine_learning Sections/intro.ipynb,5/3/53a565334ad9b4f175f4f171d64ea2b0a665a68d
+É
+˜Data Science and Machine Learning/Computational and Inferential Thinking - The Foundations of Data Science (book) machine_learning Sections/logreg.ipynb,5/0/5008315cc6a979c7cf83476666804f42f80e1883
+Ë
+šData Science and Machine Learning/Computational and Inferential Thinking - The Foundations of Data Science (book) machine_learning Sections/ensemble.ipynb,9/d/9d10a5a12f3ff5f662980367b0afeb995f485f75
+Í
+œData Science and Machine Learning/Computational and Inferential Thinking - The Foundations of Data Science (book) machine_learning Sections/clustering.ipynb,8/1/81d2552213f1ac089f28278d0ed03ebef20c5ce1
+Ð
+ŸData Science and Machine Learning/Computational and Inferential Thinking - The Foundations of Data Science (book) machine_learning Sections/deep_learning.ipynb,1/9/197e3198727b356226f20bb45cd1f7513c7d2771
+Ñ
+ Data Science and Machine Learning/Computational and Inferential Thinking - The Foundations of Data Science (book) machine_learning Sections/boosting_trees.ipynb,1/e/1ec39b8c03a8896c62017e8995b60e5106957d54
+“
+cMathematics/Statistics/Concepts_Notebooks--probability_and_statistics-notebooks/notebook-a/HMDA.csv,4/7/47e4deaaccb34ccc7318f2dddf70bc55afd1988f
+“
+cMathematics/Statistics/Concepts_Notebooks--probability_and_statistics-notebooks/notebook-a/Mroz.csv,1/f/1f4afae50b5abb1fade7847823c565f19cef939d
+”
+dMathematics/Statistics/Concepts_Notebooks--probability_and_statistics-notebooks/notebook-a/Dimes.csv,f/e/fe964c45514e49ed4b4f86ee14015b40c02514be
+”
+dMathematics/Statistics/Concepts_Notebooks--probability_and_statistics-notebooks/notebook-a/ships.csv,9/6/960fdb9acf9060ce0e2fa4d071abb81d078669c8
+–
+fMathematics/Statistics/Concepts_Notebooks--probability_and_statistics-notebooks/notebook-a/Cholera.csv,9/8/98a673f43be1a627fb10775279128a953022a2d8
+–
+fMathematics/Statistics/Concepts_Notebooks--probability_and_statistics-notebooks/notebook-a/Housing.csv,5/3/535b1568f0f6d50c10f488695e10f28a11cec794
+–
+fMathematics/Statistics/Concepts_Notebooks--probability_and_statistics-notebooks/notebook-a/logit.ipynb,3/e/3e1b3b38ead720d5a67792d0a18017ba46333f61
+—
+gMathematics/Statistics/Concepts_Notebooks--probability_and_statistics-notebooks/notebook-a/probit.ipynb,5/b/5b06fefcffeea3686b4a9c13de26bdf99e9028dd
+—
+gMathematics/Statistics/Concepts_Notebooks--probability_and_statistics-notebooks/notebook-a/prussian.csv,3/0/302f61b9740e4a3e7588791b5bb6ff9f76f77b29
+˜
+hMathematics/Statistics/Concepts_Notebooks--probability_and_statistics-notebooks/notebook-a/cholera.ipynb,1/2/1289cd679f408ac46f8118662ad7541cdd7f6279
+¤
+tMathematics/Statistics/Python-for-Probability-Statistics-and-Machine-Learning-2E-master/chapter/statistics/README.md,b/3/b3be9fc5e5cfd47d5d3d7d95aacd4c38e13beb73
+|
+LMathematics/Statistics/Probability and Stats --PyDataNYC2019 /src/product.py,1/6/16c9a4f3042fe4c69bc0da5f944ea17b48b28a18
+}
+MMathematics/Statistics/Probability and Stats --PyDataNYC2019 /src/__init__.py,9/9/99723d8ea730571b78f7f0a79a05d161f88ef8c7
+}
+MMathematics/Statistics/Probability and Stats --PyDataNYC2019 /src/customer.py,2/4/245e1c96dccdd46e493b6248d5560b5151e36de7
+
+OMathematics/Statistics/Probability and Stats --PyDataNYC2019 /src/experiment.py,c/2/c2179197a662547952a35537302d03df1ef778ab
+…
+UMathematics/Statistics/Probability and Stats --PyDataNYC2019 /src/messy_experiment.py,9/f/9f7ecc065c7bfe695d6c385d68bbadd5e4a42f57
+…
+UMathematics/Statistics/Probability and Stats --PyDataNYC2019 /src/student_customer.py,8/1/813b604a41444ebf81be60124c6c550d3c0a5830
+~
+NMathematics/Statistics/Probability and Stats --PyDataNYC2019 /tests/context.py,f/e/fed3531708f69fa5fdb636a8c1fffe30a2a2c892
+
+OMathematics/Statistics/Probability and Stats --PyDataNYC2019 /tests/__init__.py,9/9/994a4dc52ce6183fb8034205ea31eafe424495cf
+ƒ
+SMathematics/Statistics/Probability and Stats --PyDataNYC2019 /tests/test_student.py,8/0/802651be6dd796846ff53ba14106b6917fa3072a
+„
+TMathematics/Statistics/Probability and Stats --PyDataNYC2019 /tests/test_customer.py,a/2/a2ca8604bda83866a3c3afe9cbc28c7357a3484e
+Ï
+žData Science and Machine Learning/Natural Language Processing/Natural Language Processing with Transformers -- Notebooks/data/github-issues-transformers.jsonl,6/1/61ef8bebc123f0d74673074ce6a0fafbb47c240a
+Ì
+›Data Science and Machine Learning/Natural Language Processing/Natural Language Processing with Transformers -- Notebooks/images/chapter02_transformers.html,0/0/0087d92e6d3509d0600f7c3feb87fac66d9d0dc5
