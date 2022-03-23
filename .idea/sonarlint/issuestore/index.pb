@@ -273,3 +273,19 @@ g
 –Spark/PySpark/1.0 Data Algorithms with Spark - Recipes and Design Patterns for Scaling Up using PySpark (with code)/Code/data/chap02/NC_000907.1.fasta,a/1/a11b23449cb8082ed168a7ae08d6d22f2b31800a
 |
 LSpark/PySpark/0.0 Setup/0.1 setup-w-jupyter/PySpark_in_Jupyter_Method1.ipynb,4/6/4671b6882535a3269dc0b289be3d0e0826404f20
+~
+NDatabases/SPARQL/Advanced SPARQL NBs/local/Inference_Over_RDF_Containers.ipynb,0/8/082dacddca2edf86e0389219f15e27310702de12
+n
+>Databases/SPARQL/Advanced SPARQL NBs/local/RDFContainers.ipynb,a/b/ab6b421eeab61cc963779534e9c88f3b63891066
+w
+GDatabases/SPARQL/Advanced SPARQL NBs/local/DBpedia_Schema_Queries.ipynb,d/0/d020cc20de9977c14bb227906a16c4b7eb163ec5
+x
+HDatabases/SPARQL/Advanced SPARQL NBs/meta/Build Remote Development.ipynb,7/4/74a4f62fee4e34a36d743183bf9d95ab21db50a8
+e
+5Databases/SPARQL/Advanced SPARQL NBs/remote/1004.html,b/d/bd8d8226d211f01c05bda89c6c7b1bc317cc5efe
+_
+/Databases/GraphDBs/GraphDB/Recommendation.ipynb,6/9/69316b1b30e4379f948b57f39bdcdce72c7cfc3a
+]
+-Databases/GraphDBs/GraphDB/GraphDB/GraphDB.py,8/7/873a1606cee4bc5b403ca42c819c5cbf05fa057a
+T
+$Databases/GraphDBs/GraphDB/README.md,8/8/883bf2bdbd6769421851859bbf0fab9117d984e8

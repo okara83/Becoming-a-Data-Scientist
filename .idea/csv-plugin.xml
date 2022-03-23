@@ -528,13 +528,6 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="/Databases/GraphDBs/Neptune and SPARQL + More/4. Machine-Learning/Sample-Applications/01-People-Analytics/WA_Fn-UseC_-HR-Employee-Attrition.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="/Julia/Notebooks/3. DataFrames/auto2.csv">
           <value>
             <Attribute>

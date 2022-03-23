@@ -1,0 +1,4 @@
+
+†python:S11929"iDefine a constant instead of duplicating this literal "json_extract(nodes.body, '$.{}') {} '{}'" 3 times.(‰‹ÿøûÿÿÿÿ
+ppython:S3981>"XThe length of a collection is always ">=0", so update this test to either "==0" or ">0".(¨öÒú
+:python:S3457ˆ"Remove this unused argument.(ÍĞ®“şÿÿÿÿ
