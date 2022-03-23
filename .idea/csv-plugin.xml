@@ -528,6 +528,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/Databases/SPARQL/Neptune and SPARQL + More/4. Machine-Learning/Sample-Applications/01-People-Analytics/WA_Fn-UseC_-HR-Employee-Attrition.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/Julia/Notebooks/3. DataFrames/auto2.csv">
           <value>
             <Attribute>
@@ -2153,6 +2160,27 @@
           </value>
         </entry>
         <entry key="/Python/3. Computational Sciences and Mathematics/Statisitcs/Fundamentals-of-Statistics-and-Visualization-in-Python/Section 5/vacation.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Spark/PySpark/0.1 Tutorials/2-novice/FL_insurance_sample.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Spark/PySpark/0.1 Tutorials/3-advanced/FL_insurance_sample.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Spark/PySpark/0.1 Tutorials/3-advanced/titanic.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />

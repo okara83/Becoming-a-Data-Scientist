@@ -297,3 +297,21 @@ l
 <Python/1. Python Basics/mit-6.00.1-python solutions/sharp.py,c/3/c33f9a0ca9822a963ca10997f29cc03588935368
 n
 >Python/1. Python Basics/mit-6.00.1-python solutions/lec11.5.py,d/3/d3b31ac2f537d402c1224da1958bd31aa9c5bc66
+f
+6Databases/SPARQL/SPARQL Tutorial/SPARQL Tutorial.ipynb,b/b/bb0f925e70e881ea20fbe684a0dd36b4c362d26c
+v
+FDatabases/SPARQL/1.0 Getting Started/1.0 Wikidata and Why SPARQL.ipynb,8/7/87f25048a133ad15fb3be6965a1593f7ca374f6a
+å
+\Python/5. Network Science/ Networks Science and Graph in Python/Graphs1/NetworkX_Intro.ipynb,c/8/c8c6afa4b3629b8f64b61e10cedeeff1c0792794
+à
+XPython/5. Network Science/ Networks Science and Graph in Python/Graphs2/Centrality.ipynb,3/7/3738dd0286599d801478a8e541c6c69c85b49d1d
+â
+YPython/5. Network Science/ Networks Science and Graph in Python/Graphs3/Null Models.ipynb,f/7/f78a63419d855768ab7532b1ef4e8d8399383103
+ç
+]Python/5. Network Science/ Networks Science and Graph in Python/Graphs3/Null_Comparison.ipynb,0/5/05e6d9cc72e8ec3085727a550875a3b92276d2a7
+ä
+ZPython/5. Network Science/ Networks Science and Graph in Python/Graphs4/data/county05.json,b/6/b6cd1d6e2f7341a1f959092009b8070ced0dd056
+Ñ
+TPython/5. Network Science/ Networks Science and Graph in Python/Graphs2/dolphin.json,a/9/a9a8b558b91762f9a0d6ba0872a15753fa754a90
+ê
+`Python/5. Network Science/ Networks Science and Graph in Python/Graphs1/Graph_Constructors.ipynb,8/3/83b36cbee43959c823d42eb1ce9422cf019eac2a
