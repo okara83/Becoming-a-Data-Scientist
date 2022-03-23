@@ -253,3 +253,23 @@ h
 8Databases/SPARQL/2.0 SPARQL Examples/SPARQL_pandas.ipynb,1/6/16a4a97b376d7df95d344f7cd52dc58e388d56a9
 c
 3Python/Storing_API_Credentials_and_Using_Them.ipynb,a/a/aad9189e5fc0f954ebf0cbd88e97123e0e7ca297
+|
+LSpark/PySpark/0.0 Setup/0.1 setup-w-jupyter/PySpark_in_Jupyter_Method2.ipynb,4/f/4fece4b0599bc57cb1274618b352cb2c6935f60e
+…
+USpark/PySpark/0.0 Setup/0.1 setup-w-jupyter/LAUNCH_SPARK_WITH_JOHNSNOW_ANDJUPYTER.txt,1/9/19f2f90b1f71ca2f9bd5333bda5aac34204fc6c0
+g
+7Spark/PySpark/0.0 Setup/0.0 sparksetup_instructions.txt,6/f/6f71e3c03d8faed7952b57db810c9422488350ca
+¿
+ŽSpark/PySpark/1.0 Data Algorithms with Spark - Recipes and Design Patterns for Scaling Up using PySpark (with code)/Code/data/chap02/README.md,8/f/8f4188ea977d6409452adafdbc208350584df01c
+¿
+ŽSpark/PySpark/1.0 Data Algorithms with Spark - Recipes and Design Patterns for Scaling Up using PySpark (with code)/Code/data/chap02/sp1.fastq,2/3/230261827cc49ff18c5d69ec753ca2dc9c5f5040
+Â
+‘Spark/PySpark/1.0 Data Algorithms with Spark - Recipes and Design Patterns for Scaling Up using PySpark (with code)/Code/data/chap02/sample.fasta,d/1/d1258c0c15c7db1cdcd337689e95b66ca1681830
+Ó
+¢Spark/PySpark/1.0 Data Algorithms with Spark - Recipes and Design Patterns for Scaling Up using PySpark (with code)/Code/data/chap02/human_g1k_v37_chr1_59kb.fasta,9/3/93ff7f4a59a9d0eb2079c346f5d21d0f161d8b12
+É
+˜Spark/PySpark/1.0 Data Algorithms with Spark - Recipes and Design Patterns for Scaling Up using PySpark (with code)/Code/data/chap06/flightdata2018.json,8/1/8102498fc5b392a26a80826c70713ae976d694ba
+Ç
+–Spark/PySpark/1.0 Data Algorithms with Spark - Recipes and Design Patterns for Scaling Up using PySpark (with code)/Code/data/chap02/NC_000907.1.fasta,a/1/a11b23449cb8082ed168a7ae08d6d22f2b31800a
+|
+LSpark/PySpark/0.0 Setup/0.1 setup-w-jupyter/PySpark_in_Jupyter_Method1.ipynb,4/6/4671b6882535a3269dc0b289be3d0e0826404f20
