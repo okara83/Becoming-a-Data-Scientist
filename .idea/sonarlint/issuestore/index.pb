@@ -289,3 +289,11 @@ _
 -Databases/GraphDBs/GraphDB/GraphDB/GraphDB.py,8/7/873a1606cee4bc5b403ca42c819c5cbf05fa057a
 T
 $Databases/GraphDBs/GraphDB/README.md,8/8/883bf2bdbd6769421851859bbf0fab9117d984e8
+m
+=Python/1. Python Basics/mit-6.00.1-python solutions/README.md,3/4/345f32b76932366130cdfd6c50501de5aaa9c948
+m
+=Python/1. Python Basics/mit-6.00.1-python solutions/words.txt,7/6/767cbc6b42d63b5118b420b0e24893d41cdef2cb
+l
+<Python/1. Python Basics/mit-6.00.1-python solutions/sharp.py,c/3/c33f9a0ca9822a963ca10997f29cc03588935368
+n
+>Python/1. Python Basics/mit-6.00.1-python solutions/lec11.5.py,d/3/d3b31ac2f537d402c1224da1958bd31aa9c5bc66
