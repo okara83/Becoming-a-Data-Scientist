@@ -133,26 +133,6 @@ w
 GModeling and Simulations/Monte Carlo Methods/Sampling_Monte_Carlo.ipynb,7/c/7cdff82d7e33cb2ecabbaa854b5b3b471694028a
 \
 ,Mathematics/Statistics/probability/README.md,3/f/3fb26a1f70ba784721ba2d0fa1650cf5598e1dde
-‘
-aMathematics/Statistics/Python for Probability, Statistics, and ML - 2E/Statistics/Bootstrap.ipynb,c/6/c6c6985d386f372dc20872379c9e153a20375a99
-œ
-lMathematics/Statistics/Python for Probability, Statistics, and ML - 2E/Statistics/Confidence_Intervals.ipynb,d/3/d319312503f430e101cbb767c14a6658ab2bb47f
-“
-cMathematics/Statistics/Python for Probability, Statistics, and ML - 2E/Statistics/Convergence.ipynb,f/3/f3e58b7def24c4a48b6415b40ce831c78a04f94e
-Ÿ
-oMathematics/Statistics/Python for Probability, Statistics, and ML - 2E/Statistics/Curse_of_dimensionality.ipynb,a/7/a7c299c1cb8c79b704434fe855fe92235f8d6b68
-”
-dMathematics/Statistics/Python for Probability, Statistics, and ML - 2E/Statistics/Gauss_Markov.ipynb,5/6/563ad6fdf30694e76eb7f4cd258dc0f24aa985b7
-š
-jMathematics/Statistics/Python for Probability, Statistics, and ML - 2E/Statistics/Hypothesis_Testing.ipynb,5/0/5031977e68173774713a109767aaff26da497a11
-–
-fMathematics/Statistics/Python for Probability, Statistics, and ML - 2E/Statistics/kernel_regression.py,3/5/353207e019ee21474fd17b248becac0fec49f182
-š
-jMathematics/Statistics/Python for Probability, Statistics, and ML - 2E/Statistics/Maximum_likelihood.ipynb,5/4/545935fa2f3879e53a552961dfa65a0bdf2588bf
-š
-jMathematics/Statistics/Python for Probability, Statistics, and ML - 2E/Statistics/maximum_posteriori.ipynb,c/0/c0c044d973d79849dca82aa506d3a2694decb2fe
-•
-eMathematics/Statistics/Python for Probability, Statistics, and ML - 2E/Statistics/Nonparametric.ipynb,0/e/0e2a339d2bca4e4c7688247ebd0659228a6a32d9
 Æ
 •Data Science and Machine Learning/Computational and Inferential Thinking - The Foundations of Data Science (book) machine_learning Sections/glm.ipynb,c/c/cce34e95fb46f48dde7685ff0111a3e33b3ec065
 Æ

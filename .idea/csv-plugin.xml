@@ -738,6 +738,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/Mathematics/Statistics/Computational and Inferential Thinking - The Foundations of Data Science (book)/Notebooks - by chapter/data/baby.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/Mathematics/Statistics/Computational and Inferential Thinking - The Foundations of Data Science (book)/Notebooks - by chapter/data/banknote.csv">
           <value>
             <Attribute>
@@ -878,6 +885,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/Mathematics/Statistics/Computational and Inferential Thinking - The Foundations of Data Science (book)/Notebooks - by chapter/data/hodgkins.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/Mathematics/Statistics/Computational and Inferential Thinking - The Foundations of Data Science (book)/Notebooks - by chapter/data/house.csv">
           <value>
             <Attribute>
@@ -920,6 +934,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/Mathematics/Statistics/Computational and Inferential Thinking - The Foundations of Data Science (book)/Notebooks - by chapter/data/little_women.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/Mathematics/Statistics/Computational and Inferential Thinking - The Foundations of Data Science (book)/Notebooks - by chapter/data/married_couples.csv">
           <value>
             <Attribute>
@@ -935,6 +956,13 @@
           </value>
         </entry>
         <entry key="/Mathematics/Statistics/Computational and Inferential Thinking - The Foundations of Data Science (book)/Notebooks - by chapter/data/movies_by_year.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Computational and Inferential Thinking - The Foundations of Data Science (book)/Notebooks - by chapter/data/nba2013.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -1039,6 +1067,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/Mathematics/Statistics/Computational and Inferential Thinking - The Foundations of Data Science (book)/Notebooks - by chapter/data/trip.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/Mathematics/Statistics/Computational and Inferential Thinking - The Foundations of Data Science (book)/Notebooks - by chapter/data/unfair_flips.csv">
           <value>
             <Attribute>
@@ -1047,6 +1082,13 @@
           </value>
         </entry>
         <entry key="/Mathematics/Statistics/Computational and Inferential Thinking - The Foundations of Data Science (book)/Notebooks - by chapter/data/united_summer2015.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Computational and Inferential Thinking - The Foundations of Data Science (book)/Notebooks - by chapter/data/us_women.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -1120,6 +1162,13 @@
           <value>
             <Attribute>
               <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/bayes_linear_regression/student-score.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
             </Attribute>
           </value>
         </entry>
@@ -1718,6 +1767,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/Python/2. Python Basics (cont.)/3. Pandas/Notebooks/Pandas - Books, Problem Sets, Lessons, and Solutions/Additional Notebooks/Pandas-Complete-Introduction-Thorough/1. Complete Pandas Intro Course/3 .Merging DataFrames with pandas/Datasets/Sales/feb-sales-Software.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/Python/2. Python Basics (cont.)/3. Pandas/Notebooks/Pandas - Books, Problem Sets, Lessons, and Solutions/Additional Notebooks/Pandas-Complete-Introduction-Thorough/1. Complete Pandas Intro Course/3 .Merging DataFrames with pandas/Datasets/Sales/sales-feb-2015.csv">
           <value>
             <Attribute>
@@ -2040,6 +2096,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/Python/2. Python Basics (cont.)/4. Visualizations/Start Here - Examples and Tutorials/advanced-plotting-with-pandas-and-more/data/Topic_Survey_Assignment.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/Python/2. Python Basics (cont.)/4. Visualizations/Start Here - Examples and Tutorials/advanced-plotting-with-pandas-and-more/data/tempbydecade.csv">
           <value>
             <Attribute>
@@ -2111,6 +2174,13 @@
           </value>
         </entry>
         <entry key="/Python/2. Python Basics (cont.)/4. Visualizations/Start Here - Examples and Tutorials/seaborn-plots-and-tutorials/score_book.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Python/2. Python Basics (cont.)/6.Thoroughly Bringing It Together From Scratch Each - Data Cleaning, Parsing, Visualizing in Python/data/percent-bachelors-degrees-women-usa.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
