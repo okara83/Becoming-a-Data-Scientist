@@ -295,3 +295,99 @@ ZPython/5. Network Science/ Networks Science and Graph in Python/Graphs4/data/co
 TPython/5. Network Science/ Networks Science and Graph in Python/Graphs2/dolphin.json,a/9/a9a8b558b91762f9a0d6ba0872a15753fa754a90
 ê
 `Python/5. Network Science/ Networks Science and Graph in Python/Graphs1/Graph_Constructors.ipynb,8/3/83b36cbee43959c823d42eb1ce9422cf019eac2a
+ 
+ôMathematics/Statistics/Statistics and Probability Python Notebooks/Python-for-Probability-Statistics-and-Machine-Learning-2E-master/probability/README.md,5/1/5194bc4c803220bc26702fe63123f0ef73f84b7a
+Ã
+õMathematics/Statistics/Statistics and Probability Python Notebooks/Python-for-Probability-Statistics-and-Machine-Learning-2E-master/probability/intro.ipynb,8/6/86f8b1779651e36ba7163e1001378115a09b430b
+ô
+iMathematics/Statistics/Statistics and Probability Python Notebooks/General Stats Notebooks/1_pandas.ipynb,9/4/9455946229851532ab55cef0448e13faa8cccdeb
+ô
+iMathematics/Statistics/Statistics and Probability Python Notebooks/General Stats Notebooks/2_z_test.ipynb,0/d/0d7ffee8d3d565b7f6c5bb956fd3258b1e5731f1
+õ
+kMathematics/Statistics/Statistics and Probability Python Notebooks/General Stats Notebooks/3_bayesian.ipynb,0/a/0a10af2ac7c03f6571f618b9e24649166a1b6096
+û
+nMathematics/Statistics/Statistics and Probability Python Notebooks/General Stats Notebooks/4_correlation.ipynb,8/4/84b770f6e19f048affb9030e8bbdf9b1800bb573
+ò
+hMathematics/Statistics/Statistics and Probability Python Notebooks/General Stats Notebooks/5_mlfit.ipynb,f/4/f4c59571a676265ab8953e6028c387d604ed1e8d
+ñ
+fMathematics/Statistics/Statistics and Probability Python Notebooks/General Stats Notebooks/6_kde.ipynb,4/7/478d07279a02274452382f3b6943719f36a00352
+ó
+gMathematics/Statistics/Statistics and Probability Python Notebooks/General Stats Notebooks/7_pymc.ipynb,f/4/f4a5c5c06f4e0e439bd1ee93db61ce1c406fd897
+°
+qMathematics/Statistics/Statistics and Probability Python Notebooks/General Stats Notebooks/sympy_stats.ipynb copy,1/9/19ca610a06dff58aaf94fdf5c5125a9f45197e00
+º
+ãMathematics/Statistics/Statistics and Probability Python Notebooks/Python-for-Probability-Statistics-and-Machine-Learning-2E-master/LICENSE,2/1/214022c0511c27884df41329c15f3adf15ba74b3
+æ
+çMathematics/Statistics/Statistics and Probability Python Notebooks/Python-for-Probability-Statistics-and-Machine-Learning-2E-master/README.md,8/5/851bbdeb9cf5c04cfd92c2fb41adec5f40753fc0
+ø
+éMathematics/Statistics/Statistics and Probability Python Notebooks/Python-for-Probability-Statistics-and-Machine-Learning-2E-master/.gitignore,7/2/72e8ca56fe06ed27d156f10b9515dc39282f8ce6
+ø
+éMathematics/Statistics/Statistics and Probability Python Notebooks/Python-for-Probability-Statistics-and-Machine-Learning-2E-master/Dockerfile,5/b/5b362943ded9d706dd44d2459f6bd0eed204de29
+…
+òMathematics/Statistics/Statistics and Probability Python Notebooks/Python-for-Probability-Statistics-and-Machine-Learning-2E-master/statistics/README.md,8/8/88160101da7d9c18fd2ef8fa0a534b7c7310654e
+ä
+ZMathematics/Statistics/Statistics and Probability Python Notebooks/probability/intro.ipynb,8/f/8f70c41084c06ee623a4c63aadd28bc2fb4a1557
+ü
+oMathematics/Statistics/Statistics and Probability Python Notebooks/General Stats Notebooks/ANOVA_examples.ipynb,3/c/3c981e2586399af350e5abc6e554a6a6a8b0c039
+à
+XMathematics/Statistics/Statistics and Probability Python Notebooks/probability/README.md,2/1/2146c20858242adce99664815bbf818078c6a234
+°
+qMathematics/Statistics/Statistics and Probability Python Notebooks/General Stats Notebooks/bayesian_theorem.ipynb,4/6/46209187f2de11c77cca7574d5bbd14ecd15acca
+¿
+èMathematics/Statistics/Statistics and Probability Python Notebooks/Concepts_Notebooks--probability_and_statistics-notebooks/notebook-a/HMDA.csv,d/e/de78ffc82485aadd578816b9ec73b21f51a42494
+¿
+èMathematics/Statistics/Statistics and Probability Python Notebooks/Concepts_Notebooks--probability_and_statistics-notebooks/notebook-a/Mroz.csv,0/5/051864e75a62c5758c642fe8cfd0f2caacd38300
+¡
+êMathematics/Statistics/Statistics and Probability Python Notebooks/Concepts_Notebooks--probability_and_statistics-notebooks/notebook-a/Dimes.csv,5/f/5f7ca363be06631dba7cac6ffe1835ad21f0c73a
+¡
+êMathematics/Statistics/Statistics and Probability Python Notebooks/Concepts_Notebooks--probability_and_statistics-notebooks/notebook-a/ships.csv,4/8/48f58b70505fdf4fd2edf773f5d172d6a42b176f
+√
+íMathematics/Statistics/Statistics and Probability Python Notebooks/Concepts_Notebooks--probability_and_statistics-notebooks/notebook-a/Cholera.csv,a/3/a378949fc6b97bf211cacf4d8902dacbe90ace1f
+√
+íMathematics/Statistics/Statistics and Probability Python Notebooks/Concepts_Notebooks--probability_and_statistics-notebooks/notebook-a/Housing.csv,f/1/f189a665702ad6d1b2c9625f241c1f8ec420e19f
+√
+íMathematics/Statistics/Statistics and Probability Python Notebooks/Concepts_Notebooks--probability_and_statistics-notebooks/notebook-a/logit.ipynb,1/7/17d2760433ef0cb39381909c5a2993c40cf02cb8
+ƒ
+ìMathematics/Statistics/Statistics and Probability Python Notebooks/Concepts_Notebooks--probability_and_statistics-notebooks/notebook-a/probit.ipynb,d/1/d150cf3d237e203a50303961a57a8a75b91ca7d6
+ƒ
+ìMathematics/Statistics/Statistics and Probability Python Notebooks/Concepts_Notebooks--probability_and_statistics-notebooks/notebook-a/prussian.csv,1/d/1dee7580a9c0a531dd13b4746ea78490bee5770f
+≈
+îMathematics/Statistics/Statistics and Probability Python Notebooks/Concepts_Notebooks--probability_and_statistics-notebooks/notebook-a/cholera.ipynb,7/6/764846b56fd08d359fd44349f11e2a90d38e637d
+…
+òMathematics/Statistics/Statistics and Probability Python Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/CNAME,c/2/c2af4b41cf0ab6c8d5d7477cefda8f8426531388
+‹
+´Mathematics/Statistics/Statistics and Probability Python Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/images/logo/download.svg,9/1/915084f87b160f2f2b2c5b2975e94946db23e6e4
+”
+¢Mathematics/Statistics/Statistics and Probability Python Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/images/logo.svg,d/8/d8f608a6d83cb8ec6da5431e49760f5bfd327858
+†
+pMathematics/Statistics/Statistics and Probability Python Notebooks/Combinatorics, Probability, and Stats/649.csv,1/b/1b2232f595a2eed07829d8730e723d31172e8c49
+≠
+}Mathematics/Statistics/Statistics and Probability Python Notebooks/Combinatorics, Probability, and Stats/Heads_or_tails.ipynb,8/f/8f5097c79912589f44f83dd22df36981e5a83b29
+ª
+äMathematics/Statistics/Statistics and Probability Python Notebooks/Combinatorics, Probability, and Stats/Lottery game and probabiliy.ipynb,a/0/a01d9014560ab5f5a1f450fa430e826c17b19f4b
+æ
+çMathematics/Statistics/Statistics and Probability Python Notebooks/Combinatorics, Probability, and Stats/Exercise - Stats, Prob, Combos.ipynb,f/1/f13f1a7206728bcae28fd14966c636dce3d17bcb
+¬
+ëMathematics/Statistics/Statistics and Probability Python Notebooks/Combinatorics, Probability, and Stats/Sports Statistics Example - Tennis.ipynb,6/9/6937f63be60eab2826e050f48d7bfdc49f4aeb58
+÷
+•Mathematics/Statistics/Statistics and Probability Python Notebooks/Combinatorics, Probability, and Stats/Intro to Combinatorics - Permutations and Combinations.ipynb,c/3/c37835f0d36e43e24cb53a4fc6c29bf1d43ddf46
+¶
+vMathematics/Statistics/Statistics and Probability Python Notebooks/An Introduction to Statistical Learning/data/OJ.csv,1/d/1d935b2aac2f88bb420cc84a638713a4e24fc56c
+®
+xMathematics/Statistics/Statistics and Probability Python Notebooks/An Introduction to Statistical Learning/data/Auto.csv,6/5/657e31f824bd27c5d6e8bf64ee2656d18fa2f77b
+®
+xMathematics/Statistics/Statistics and Probability Python Notebooks/An Introduction to Statistical Learning/data/Fund.csv,7/2/72d49b113fb4a954f38fbf445ae1dc50533357c6
+®
+xMathematics/Statistics/Statistics and Probability Python Notebooks/An Introduction to Statistical Learning/data/Wage.csv,d/4/d42842ee29d32d185a15fe2fab6f6425ce6200d0
+©
+yMathematics/Statistics/Statistics and Probability Python Notebooks/An Introduction to Statistical Learning/data/Auto.data,5/9/590a9cfc91121393fb1d0b9ffd72cbf74373b2d5
+©
+yMathematics/Statistics/Statistics and Probability Python Notebooks/An Introduction to Statistical Learning/data/Heart.csv,2/2/2224115862f11f6fd04ff67a5c25d236a6d45502
+™
+zMathematics/Statistics/Statistics and Probability Python Notebooks/An Introduction to Statistical Learning/data/Boston.csv,a/e/ae392aa6440ae28ac1f80f73a1c9bb411003b61a
+™
+zMathematics/Statistics/Statistics and Probability Python Notebooks/An Introduction to Statistical Learning/data/Credit.csv,a/a/aa32302baf303035d3fc6695bbcc6a2b0529e549
+™
+zMathematics/Statistics/Statistics and Probability Python Notebooks/An Introduction to Statistical Learning/data/Weekly.csv,c/d/cdbc96e087d2bd3951ca2aba3cc53fbe9ffe0361
+´
+{Mathematics/Statistics/Statistics and Probability Python Notebooks/An Introduction to Statistical Learning/data/Caravan.csv,f/5/f5a3897bd25c3bc622c128194cbd278adfdba85a
