@@ -271,3 +271,19 @@ zMathematics/Statistics/Statistics and Probability Python Notebooks/An Introduct
 zMathematics/Statistics/Statistics and Probability Python Notebooks/An Introduction to Statistical Learning/data/Weekly.csv,c/d/cdbc96e087d2bd3951ca2aba3cc53fbe9ffe0361
 ´
 {Mathematics/Statistics/Statistics and Probability Python Notebooks/An Introduction to Statistical Learning/data/Caravan.csv,f/5/f5a3897bd25c3bc622c128194cbd278adfdba85a
+æ
+çMathematics/Statistics/Statistics and Probability Python Notebooks/Important-Statistics-Distributions-py-notebooks/Poisson Distribution.ipynb,d/7/d71d4e2d85955297417a0e9150058dc5a5ad775d
+Ω
+åMathematics/Statistics/Statistics and Probability Python Notebooks/Important-Statistics-Distributions-py-notebooks/Normal Distribution.ipynb,9/9/99c27774e767d3d4d4cdf2658605fb717aef8474
+ª
+äMathematics/Statistics/Statistics and Probability Python Notebooks/Important-Statistics-Distributions-py-notebooks/Beta Distribution.ipynb,b/f/bfa2a7b2aa702dd1655f2c1628edecfae1f269b8
+¬
+ëMathematics/Statistics/Statistics and Probability Python Notebooks/Important-Statistics-Distributions-py-notebooks/Chi-Squared Distribution.ipynb,7/a/7adf72ccc13362cab3e11f37fc2601ef92f984ab
+¿
+èMathematics/Statistics/Statistics and Probability Python Notebooks/Important-Statistics-Distributions-py-notebooks/Geometric Distribution.ipynb,c/4/c4f8d103447e42a9833bd4287b34342dccae8828
+ø
+éMathematics/Statistics/Statistics and Probability Python Notebooks/Important-Statistics-Distributions-py-notebooks/Binomial Distribution.ipynb,9/7/975c093bd80f6289887532e7d5dcae0133773677
+Ω
+åMathematics/Statistics/Statistics and Probability Python Notebooks/Important-Statistics-Distributions-py-notebooks/Cauchy Distribution.ipynb,6/c/6c9823b672b93f4a92e3eaa652912647c1c197b1
+≈
+îMathematics/Statistics/Statistics and Probability Python Notebooks/Important-Statistics-Distributions-py-notebooks/Hypergeometric Distribution.ipynb,6/f/6f9b2a31257e3d0b825eacbf7315767f1d6929e1
