@@ -49,8 +49,6 @@ oPython/2. Python Basics (cont.)/3. Pandas/Hands On Data Analysis with Pandas 2e
 aPython/2. Python Basics (cont.)/3. Pandas/Hands On Data Analysis with Pandas 2e/ch_01/__init__.py,3/9/3977605697c08095d3e720c29d05bc6fc4e05679
 ©
 yPython/2. Python Basics (cont.)/3. Pandas/Hands On Data Analysis with Pandas 2e/ch_01/introduction_to_data_analysis.ipynb,a/d/ad134d815509fb829d3527601284e9d62e67fe55
-c
-3Python/4. PyTorch/Introduction to PyTorch/README.md,2/b/2be22dc067e38651e931759b7f0107d48f63eb76
 s
 CPython/4. PyTorch/Introduction to PyTorch/PyTorch Basic Intro.ipynb,8/f/8f7779b744ae806888d6910a6b767c27e7898fbd
 w
