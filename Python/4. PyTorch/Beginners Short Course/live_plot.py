@@ -26,7 +26,7 @@ def add_point_2d(x, y):
     time.sleep(delta)
 
     
-##############################################
+#############################################
 
     
 def init_3dplot(x_range, y_range, func, elev, azim, delta_):
