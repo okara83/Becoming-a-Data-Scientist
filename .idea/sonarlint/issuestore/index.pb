@@ -285,3 +285,5 @@ zMathematics/Statistics/Statistics and Probability Python Notebooks/An Introduct
 ŒMathematics/Statistics/Statistics and Probability Python Notebooks/Important-Statistics-Distributions-py-notebooks/Cauchy Distribution.ipynb,6/c/6c9823b672b93f4a92e3eaa652912647c1c197b1
 Å
 ”Mathematics/Statistics/Statistics and Probability Python Notebooks/Important-Statistics-Distributions-py-notebooks/Hypergeometric Distribution.ipynb,6/f/6f9b2a31257e3d0b825eacbf7315767f1d6929e1
+ª
+zMathematics/Tensor Algebra and Calculus/Code Resources and Notebooks/Google Tensorflows guided Introduction to Tensors.txt,e/c/ec00c99e9e40b44f58c2f0e8d390e63665324dd3
