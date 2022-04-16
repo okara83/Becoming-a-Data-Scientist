@@ -287,3 +287,9 @@ zMathematics/Statistics/Statistics and Probability Python Notebooks/An Introduct
 ”Mathematics/Statistics/Statistics and Probability Python Notebooks/Important-Statistics-Distributions-py-notebooks/Hypergeometric Distribution.ipynb,6/f/6f9b2a31257e3d0b825eacbf7315767f1d6929e1
 ª
 zMathematics/Tensor Algebra and Calculus/Code Resources and Notebooks/Google Tensorflows guided Introduction to Tensors.txt,e/c/ec00c99e9e40b44f58c2f0e8d390e63665324dd3
+—
+gMathematics/Tensor Algebra and Calculus/Notes and Reading Materials/Additional Reading and Web Articles,6/5/6571f1f12882885a0fcac9c00f66b30c857eddca
+á
+°Mathematics/Tensor Algebra and Calculus/Code Resources and Notebooks/A Brief Introduction Tensors and Arrays with NumPy/A Brief Introduction Tensors and Arrays with NumPy.ipynb,9/e/9ed68d3eb5b428cfba8b78babf2f943753ef1bdc
+º
+‰Python/2. Python Basics (cont.)/4. Visualizations/Start Here - Examples and Tutorials/Matplotlib/A Brief Crash Course on Matplotlib.ipynb,7/5/75f76ccd0baff8b8f01618bd57a870ecccc2293f
