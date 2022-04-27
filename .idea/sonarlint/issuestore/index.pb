@@ -293,3 +293,8 @@ gMathematics/Tensor Algebra and Calculus/Notes and Reading Materials/Additional 
 ∞Mathematics/Tensor Algebra and Calculus/Code Resources and Notebooks/A Brief Introduction Tensors and Arrays with NumPy/A Brief Introduction Tensors and Arrays with NumPy.ipynb,9/e/9ed68d3eb5b428cfba8b78babf2f943753ef1bdc
 ∫
 âPython/2. Python Basics (cont.)/4. Visualizations/Start Here - Examples and Tutorials/Matplotlib/A Brief Crash Course on Matplotlib.ipynb,7/5/75f76ccd0baff8b8f01618bd57a870ecccc2293f
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+è
+_Python/2. Python Basics (cont.)/4. Visualizations/Start Here - Examples and Tutorials/README.md,6/0/6038ac7d66f67273cbcd40312a94a92f005258a7
