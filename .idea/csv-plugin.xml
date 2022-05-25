@@ -1571,6 +1571,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/Python/2. Python Basics (cont.)/6.Thoroughly Bringing It Together From Scratch Each - Data Cleaning, Parsing, Visualizing in Python/data/billboard.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/Python/2. Python Basics (cont.)/6.Thoroughly Bringing It Together From Scratch Each - Data Cleaning, Parsing, Visualizing in Python/data/percent-bachelors-degrees-women-usa.csv">
           <value>
             <Attribute>

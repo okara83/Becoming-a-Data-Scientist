@@ -295,3 +295,5 @@ gMathematics/Tensor Algebra and Calculus/Notes and Reading Materials/Additional 
 âPython/2. Python Basics (cont.)/4. Visualizations/Start Here - Examples and Tutorials/Matplotlib/A Brief Crash Course on Matplotlib.ipynb,7/5/75f76ccd0baff8b8f01618bd57a870ecccc2293f
 è
 _Python/2. Python Basics (cont.)/4. Visualizations/Start Here - Examples and Tutorials/README.md,6/0/6038ac7d66f67273cbcd40312a94a92f005258a7
+Å
+QPython/1. Python Basics/Notebooks/0. Core Basics/0.0 Getting Started/biostats.csv,2/3/23c3d5048089ca965a81da17820b31ffa5f04f63
