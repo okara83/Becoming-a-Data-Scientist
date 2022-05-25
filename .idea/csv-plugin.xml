@@ -556,6 +556,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/Python/1. Python Basics/Notebooks/0. Core Basics/0.0 Getting Started/biostats.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/Python/2. Python Basics (cont.)/3. Pandas/Hands On Data Analysis with Pandas 2e/ch_02/data/example_data.csv">
           <value>
             <Attribute>
