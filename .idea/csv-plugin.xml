@@ -556,6 +556,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/An Introduction to Statistical Learning/data/College.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/Python/1. Python Basics/Notebooks/0. Core Basics/0.0 Getting Started/biostats.csv">
           <value>
             <Attribute>
@@ -1614,6 +1621,27 @@
           </value>
         </entry>
         <entry key="/Python/3. Computational Sciences and Mathematics/Statisitcs/Fundamentals-of-Statistics-and-Visualization-in-Python/Section 5/vacation.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Python/4. PyTorch/Complete-Thorough-Pytorch-Introduction/PyTorch1.x-Tutorial-master/NewsClassification/test.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Python/4. PyTorch/Complete-Thorough-Pytorch-Introduction/PyTorch1.x-Tutorial-master/NewsClassification/train.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Python/4. PyTorch/Complete-Thorough-Pytorch-Introduction/PyTorch1.x-Tutorial-master/NewsClassification/valid.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
