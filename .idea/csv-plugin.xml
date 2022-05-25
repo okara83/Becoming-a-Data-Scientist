@@ -556,7 +556,462 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/An Introduction to Statistical Learning/data/Advertising.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/An Introduction to Statistical Learning/data/Auto.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/An Introduction to Statistical Learning/data/Bikeshare.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/An Introduction to Statistical Learning/data/Boston.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/An Introduction to Statistical Learning/data/BrainCancer.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/An Introduction to Statistical Learning/data/Caravan.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/An Introduction to Statistical Learning/data/Carseats.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/An Introduction to Statistical Learning/data/Ch12Ex13.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/An Introduction to Statistical Learning/data/College.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/An Introduction to Statistical Learning/data/Credit.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/An Introduction to Statistical Learning/data/Default.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/An Introduction to Statistical Learning/data/Fund.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/An Introduction to Statistical Learning/data/Heart.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/An Introduction to Statistical Learning/data/Hitters.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/An Introduction to Statistical Learning/data/Income1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/An Introduction to Statistical Learning/data/Income2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/An Introduction to Statistical Learning/data/OJ.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/An Introduction to Statistical Learning/data/Publication.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/An Introduction to Statistical Learning/data/Smarket.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/An Introduction to Statistical Learning/data/Wage.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/An Introduction to Statistical Learning/data/Weekly.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/Combinatorics, Probability, and Stats/649.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/Notebooks - by chapter/data/actors.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/Notebooks - by chapter/data/anscombe.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/Notebooks - by chapter/data/banknote.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/Notebooks - by chapter/data/birds.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/Notebooks - by chapter/data/birth_time.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/Notebooks - by chapter/data/breast-cancer.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/Notebooks - by chapter/data/ckd.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/Notebooks - by chapter/data/cones.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/Notebooks - by chapter/data/couples.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/Notebooks - by chapter/data/dugongs.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/Notebooks - by chapter/data/educ_inc.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/Notebooks - by chapter/data/faithful.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/Notebooks - by chapter/data/family_heights.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/Notebooks - by chapter/data/football.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/Notebooks - by chapter/data/galton.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/Notebooks - by chapter/data/grades_and_piazza.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/Notebooks - by chapter/data/heights.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/Notebooks - by chapter/data/house.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/Notebooks - by chapter/data/hybrid.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/Notebooks - by chapter/data/hybrid_reg.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/Notebooks - by chapter/data/income_small.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/Notebooks - by chapter/data/married_couples.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/Notebooks - by chapter/data/minard.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/Notebooks - by chapter/data/movies_by_year.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/Notebooks - by chapter/data/nba_salaries.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/Notebooks - by chapter/data/nc-est2014-agesex-res.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/Notebooks - by chapter/data/nc-est2015-agesex-res.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/Notebooks - by chapter/data/nc-est2019-agesex-res.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/Notebooks - by chapter/data/roulette_wheel.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/Notebooks - by chapter/data/sat2014.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/Notebooks - by chapter/data/scores_by_section.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/Notebooks - by chapter/data/shotput.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/Notebooks - by chapter/data/station.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/Notebooks - by chapter/data/united_summer2015.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/Notebooks - by chapter/data/usa_ca_2019.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/Computational and Inferential Thinking - The Foundations of Data Science (book)/Notebooks - by chapter/data/wine.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/Concepts_Notebooks--probability_and_statistics-notebooks/notebook-a/Cholera.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/Concepts_Notebooks--probability_and_statistics-notebooks/notebook-a/Dimes.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/Concepts_Notebooks--probability_and_statistics-notebooks/notebook-a/HMDA.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/Concepts_Notebooks--probability_and_statistics-notebooks/notebook-a/Housing.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/Concepts_Notebooks--probability_and_statistics-notebooks/notebook-a/Mroz.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/Concepts_Notebooks--probability_and_statistics-notebooks/notebook-a/prussian.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/Concepts_Notebooks--probability_and_statistics-notebooks/notebook-a/ships.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/bayesian_example/google_analytics_20210101-20210701.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -1571,6 +2026,97 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/Python/2. Python Basics (cont.)/6.Thoroughly Bringing It Together From Scratch Each - Data Cleaning, Parsing, Visualizing in Python/data/2020-03-15_interactive_data_visualization_with_bokeh/aapl.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Python/2. Python Basics (cont.)/6.Thoroughly Bringing It Together From Scratch Each - Data Cleaning, Parsing, Visualizing in Python/data/2020-03-15_interactive_data_visualization_with_bokeh/auto-mpg.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Python/2. Python Basics (cont.)/6.Thoroughly Bringing It Together From Scratch Each - Data Cleaning, Parsing, Visualizing in Python/data/2020-03-15_interactive_data_visualization_with_bokeh/gapminder_tidy.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Python/2. Python Basics (cont.)/6.Thoroughly Bringing It Together From Scratch Each - Data Cleaning, Parsing, Visualizing in Python/data/2020-03-15_interactive_data_visualization_with_bokeh/glucose.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Python/2. Python Basics (cont.)/6.Thoroughly Bringing It Together From Scratch Each - Data Cleaning, Parsing, Visualizing in Python/data/2020-03-15_interactive_data_visualization_with_bokeh/literacy_birth_rate.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Python/2. Python Basics (cont.)/6.Thoroughly Bringing It Together From Scratch Each - Data Cleaning, Parsing, Visualizing in Python/data/2020-03-15_interactive_data_visualization_with_bokeh/sprint.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Python/2. Python Basics (cont.)/6.Thoroughly Bringing It Together From Scratch Each - Data Cleaning, Parsing, Visualizing in Python/data/GDP/gdp_usa.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Python/2. Python Basics (cont.)/6.Thoroughly Bringing It Together From Scratch Each - Data Cleaning, Parsing, Visualizing in Python/data/LURReport.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Python/2. Python Basics (cont.)/6.Thoroughly Bringing It Together From Scratch Each - Data Cleaning, Parsing, Visualizing in Python/data/aapl.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Python/2. Python Basics (cont.)/6.Thoroughly Bringing It Together From Scratch Each - Data Cleaning, Parsing, Visualizing in Python/data/airquality.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Python/2. Python Basics (cont.)/6.Thoroughly Bringing It Together From Scratch Each - Data Cleaning, Parsing, Visualizing in Python/data/airquality_dup.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Python/2. Python Basics (cont.)/6.Thoroughly Bringing It Together From Scratch Each - Data Cleaning, Parsing, Visualizing in Python/data/auto-mpg 2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Python/2. Python Basics (cont.)/6.Thoroughly Bringing It Together From Scratch Each - Data Cleaning, Parsing, Visualizing in Python/data/auto-mpg.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/Python/2. Python Basics (cont.)/6.Thoroughly Bringing It Together From Scratch Each - Data Cleaning, Parsing, Visualizing in Python/data/billboard.csv">
           <value>
             <Attribute>
@@ -1578,7 +2124,175 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/Python/2. Python Basics (cont.)/6.Thoroughly Bringing It Together From Scratch Each - Data Cleaning, Parsing, Visualizing in Python/data/df1_recognizing_tidy_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Python/2. Python Basics (cont.)/6.Thoroughly Bringing It Together From Scratch Each - Data Cleaning, Parsing, Visualizing in Python/data/df2_recognizing_tidy_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Python/2. Python Basics (cont.)/6.Thoroughly Bringing It Together From Scratch Each - Data Cleaning, Parsing, Visualizing in Python/data/ebola.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Python/2. Python Basics (cont.)/6.Thoroughly Bringing It Together From Scratch Each - Data Cleaning, Parsing, Visualizing in Python/data/g1800s.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Python/2. Python Basics (cont.)/6.Thoroughly Bringing It Together From Scratch Each - Data Cleaning, Parsing, Visualizing in Python/data/g1900s.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Python/2. Python Basics (cont.)/6.Thoroughly Bringing It Together From Scratch Each - Data Cleaning, Parsing, Visualizing in Python/data/g2000s.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Python/2. Python Basics (cont.)/6.Thoroughly Bringing It Together From Scratch Each - Data Cleaning, Parsing, Visualizing in Python/data/glucose.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Python/2. Python Basics (cont.)/6.Thoroughly Bringing It Together From Scratch Each - Data Cleaning, Parsing, Visualizing in Python/data/literacy_birth_rate.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/Python/2. Python Basics (cont.)/6.Thoroughly Bringing It Together From Scratch Each - Data Cleaning, Parsing, Visualizing in Python/data/percent-bachelors-degrees-women-usa.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Python/2. Python Basics (cont.)/6.Thoroughly Bringing It Together From Scratch Each - Data Cleaning, Parsing, Visualizing in Python/data/sprint.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Python/2. Python Basics (cont.)/6.Thoroughly Bringing It Together From Scratch Each - Data Cleaning, Parsing, Visualizing in Python/data/stocks.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Python/2. Python Basics (cont.)/6.Thoroughly Bringing It Together From Scratch Each - Data Cleaning, Parsing, Visualizing in Python/data/survey.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Python/2. Python Basics (cont.)/6.Thoroughly Bringing It Together From Scratch Each - Data Cleaning, Parsing, Visualizing in Python/data/tb.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Python/2. Python Basics (cont.)/6.Thoroughly Bringing It Together From Scratch Each - Data Cleaning, Parsing, Visualizing in Python/data/tips.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Python/2. Python Basics (cont.)/6.Thoroughly Bringing It Together From Scratch Each - Data Cleaning, Parsing, Visualizing in Python/data/tips_data_cleaning.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Python/2. Python Basics (cont.)/6.Thoroughly Bringing It Together From Scratch Each - Data Cleaning, Parsing, Visualizing in Python/data/uber1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Python/2. Python Basics (cont.)/6.Thoroughly Bringing It Together From Scratch Each - Data Cleaning, Parsing, Visualizing in Python/data/uber2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Python/2. Python Basics (cont.)/6.Thoroughly Bringing It Together From Scratch Each - Data Cleaning, Parsing, Visualizing in Python/data/uber3.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Python/2. Python Basics (cont.)/6.Thoroughly Bringing It Together From Scratch Each - Data Cleaning, Parsing, Visualizing in Python/data/visualization_with_bokeh/aapl.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Python/2. Python Basics (cont.)/6.Thoroughly Bringing It Together From Scratch Each - Data Cleaning, Parsing, Visualizing in Python/data/visualization_with_bokeh/auto-mpg.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Python/2. Python Basics (cont.)/6.Thoroughly Bringing It Together From Scratch Each - Data Cleaning, Parsing, Visualizing in Python/data/visualization_with_bokeh/gapminder_tidy.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Python/2. Python Basics (cont.)/6.Thoroughly Bringing It Together From Scratch Each - Data Cleaning, Parsing, Visualizing in Python/data/visualization_with_bokeh/glucose.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Python/2. Python Basics (cont.)/6.Thoroughly Bringing It Together From Scratch Each - Data Cleaning, Parsing, Visualizing in Python/data/visualization_with_bokeh/literacy_birth_rate.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Python/2. Python Basics (cont.)/6.Thoroughly Bringing It Together From Scratch Each - Data Cleaning, Parsing, Visualizing in Python/data/visualization_with_bokeh/sprint.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Python/2. Python Basics (cont.)/6.Thoroughly Bringing It Together From Scratch Each - Data Cleaning, Parsing, Visualizing in Python/data/weather_data_austin_2010.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -1634,6 +2348,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/Python/4. PyTorch/Complete-Thorough-Pytorch-Introduction/PyTorch-master/data-03-diabetes.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Python/4. PyTorch/Complete-Thorough-Pytorch-Introduction/PyTorch-master/data-04-zoo.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/Python/4. PyTorch/Complete-Thorough-Pytorch-Introduction/PyTorch1.x-Tutorial-master/NewsClassification/test.csv">
           <value>
             <Attribute>
@@ -1670,6 +2398,230 @@
           </value>
         </entry>
         <entry key="/Spark/PySpark/0.1 Tutorials/3-advanced/titanic.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Spark/PySpark/1.0 Data Algorithms with Spark - Recipes and Design Patterns for Scaling Up using PySpark (with code)/Code/chap07/python/cats.no.header.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Spark/PySpark/1.0 Data Algorithms with Spark - Recipes and Design Patterns for Scaling Up using PySpark (with code)/Code/chap07/python/cats.with.header.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/sample-data/addresses.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/sample-data/airtravel.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/sample-data/biostats.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/sample-data/cities.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/sample-data/crash_catalonia.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/sample-data/example.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/sample-data/faithful.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/sample-data/ford_escort.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/sample-data/freshman_kgs.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/sample-data/freshman_lbs.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/sample-data/grades.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/sample-data/homes.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/sample-data/hooke.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/sample-data/hurricanes.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/sample-data/hw_200.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/sample-data/hw_25000.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/sample-data/lead_shot.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/sample-data/letter_frequency.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/sample-data/mlb_teams_2012.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/sample-data/news_decline.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/sample-data/nile.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/sample-data/oscar_age_female.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/sample-data/oscar_age_male.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/sample-data/snakes_count_10.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/sample-data/snakes_count_100.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/sample-data/snakes_count_1000.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/sample-data/snakes_count_10000.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/sample-data/tally_cab.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/sample-data/trees.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/sample-data/zillow.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
