@@ -2,6 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
+Complete-Thorough-Pytorch-Introduction/
+*.Complete-Thorough-Pytorch-Introduction/
 
 # C extensions
 *.so
