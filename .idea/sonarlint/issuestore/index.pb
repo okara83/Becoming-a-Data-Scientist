@@ -297,3 +297,16 @@ gMathematics/Tensor Algebra and Calculus/Notes and Reading Materials/Additional 
 _Python/2. Python Basics (cont.)/4. Visualizations/Start Here - Examples and Tutorials/README.md,6/0/6038ac7d66f67273cbcd40312a94a92f005258a7
 Å
 QPython/1. Python Basics/Notebooks/0. Core Basics/0.0 Getting Started/biostats.csv,2/3/23c3d5048089ca965a81da17820b31ffa5f04f63
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+§
+tPython/1. Python Basics/Notebooks/0. Core Basics/0.1 Beginning to Code/1d. Python Core Data Types - Dictionary.ipynb,5/0/50f81901dc410628ce7fa32309babb514c1803a2
+ù
+mPython/1. Python Basics/Notebooks/1. The Basics.- Startups/1.0 Fundamentals Continued/1.4b Flow Control.ipynb,5/f/5f7468701e36dc3ba96fec16ba196a4ee96aa51e
+x
+HPython/1. Python Basics/Notebooks/4. Iterators/Iterators_in_python.ipynb,f/0/f07974937cb0d417e4f3171486725a190dedc43c
+Ü
+VPython/1. Python Basics/Notebooks/6. Closures and Decorators/5c. Property Method.ipynb,9/c/9c8145e6cc7acfeabc17e777c249ee708b284b6d
+ä
+ZPython/1. Python Basics/Notebooks/3. Classes and OOP/python_self_reference_explained.ipynb,a/e/ae45c43cfff26a7deb91855a7875521ea6b2e089
