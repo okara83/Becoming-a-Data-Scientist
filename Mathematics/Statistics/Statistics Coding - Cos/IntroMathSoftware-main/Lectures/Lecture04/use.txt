@@ -1,0 +1,8 @@
+total 179K
+drwxr-xr-x  2 user user   7 Feb  3 18:52 .
+-rw-r--r--  1 user user   0 Feb  3 18:52 use.txt
+drwxr-xr-x 15 user user  15 Feb  1 18:45 ..
+-rw-r--r--  1 user user 24K Jan 26 05:35 .Lecture04_Jan11.ipynb.sage-jupyter2
+-rw-r--r--  1 user user 33K Jan 26 05:35 Lecture04_Jan11.ipynb
+-rw-r--r--  1 user user 60K Jan 11 00:47 truthtable.png
+-rw-r--r--  1 user user 94K Jan 11 00:31 listcomprehensions.png

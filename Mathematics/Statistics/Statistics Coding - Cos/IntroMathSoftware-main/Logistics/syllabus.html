@@ -1,0 +1,260 @@
+
+
+<html>
+<title>Math 157 - Intro to Mathematical Software (Winter 2021)</title>
+
+<body>
+<h1> Math 157 - Intro to Mathematical Software (Winter 2021)</h1>
+<p>
+Information appearing below is subject to revision until the first lecture. Some additional
+information, particularly on the use of CoCalc, will be given in the first lecture;
+CoCalc also provides a <a href="https://tutorial.cocalc.com/students/">tutorial for students</a>.
+</p>
+<p>
+  <img src="barbell.png" align = "right" height = "300" width = "300">
+<b> Thank you</b> to Kiran Kedlaya and Peter Wear, who have taught this course in several forms since 2017. Much of the material appearing below (and throughout the course) will be derived from their course materials and plans. One may find various past versions of the course by Googling ''Math 157 UCSD.''
+</p>
+
+<p>
+<b>Course description:</b>
+Math 157 is an introduction to mathematical computation and the use of mathematical software. This course will introduce students to a broad but coherent collection of open-source software tools, and to diverse examples of their use in mathematical study and research. 
+The course will be taught in a hands-on fashion, and will encourage student experimentation.
+Lectures will consist of interactive demonstrations, while assignments will combine conceptual questions with hands on problem solving.
+We will make extensive use of the <a href="https://www.python.org/">Python</a> programming language,
+the <a href="https://jupyter.org/">Jupyter</a> notebook system,
+and the <a href="https://www.sagemath.org/">SageMath</a> computer algebra system; however,
+no prior exposure to these tools will be assumed.
+</p>
+
+<p>
+This course is based on the cloud computing platform <a href="https://www.cocalc.com/">CoCalc</a>. More details on how CoCalc is to be used will be given in the first lecture. There will be no use of either TritonEd or Canvas for this course. <b>In order to follow along with the course (and complete homework assignments) students will need ready access to an internet connection and some form of computer, tablet, etc.</b> The technology does not have to be fancy, as all computations will be cloud based. In particular, no software has to be downloaded or installed.
+</p>
+
+<p>
+Although Math 157 has been taught in some form since 2017, it remains highly experimental in both its use of
+new technology and the approach to pedagogy. This is especially true during the time of COVID. In addition to the final course evaluations, there will be several opportunities to submit feedback during the course; please take advantage of this!
+</p>
+
+<p>
+<b>Note on Concurrent Enrollment/Public Viewing:</b> This class is open for concurrent enrollment. Email me if you would like to do this. Additionally, due to the virtual nature of this class it will be ostensibly possible to follow along throughout the quarter, even if you are not officially enrolled in the course (no guarantees!). If you are interested in doing this, email me. 
+</p>
+
+<p>
+
+</p>
+
+<p>
+<b>Instructor:</b> <a href="https://www.math.ucsd.edu/~tgrubb/">Tom Grubb</a>,
+tgrubb [at] ucsd [etcetera].
+</p>
+
+<p>
+      <img src="ellcurve.png" align = "right" height = "350", width = "550">
+<b>TAs:</b> 
+<ul>
+<li> Patrick Girardet: pgirarde [at] ucsd [etcetera] 
+</li>
+<li>
+JJ Garzella: jgarzell [at] ucsd [etcetera]
+</ul>
+</p>
+
+<p>
+<b>Lectures:</b>
+Lectures will occur on Mondays, Wednesdays, and Fridays from 4:00 - 4:50 PM Pacific Time. They will be hosted on the Zoom room 96121091451. Lectures will also be recorded and made available for asynchronous viewing on Canvas.
+</p>
+
+
+
+<p>
+<b>Discussion sections:</b>
+Sections run on Tuesdays. Feel free to attend the one that is most convenient for your schedule.
+<ul>
+<li>
+2:00 - 2:50 pm: (Girardet) Zoom Room 93164742655
+</li>
+<li>
+3:00 - 3:50 pm: (Girardet) Zoom Room 93164742655
+</li>
+<li>
+4:00 - 4:50 pm: (Garzella) Zoom Room 97406126867
+</li>
+</ul>
+</p>
+
+<p>
+<b>Office hours:</b> 
+<ul>
+<li> Garzella: Tuesdays, 12-1 pm. Zoom Room: 99255207261. 
+</li>
+<li> Girardet: Thursdays, 12-2 pm. Zoom Room: 93164742655.
+</li>
+<li>
+Grubb: Mondays, Wednesdays, and Fridays, directly after class for an hour. Zoom Room: 92058604451.
+</li>
+</ul>
+In addition to the listed office hours, the class Zulip Chatroom will be monitored on Thursdays from 2-6 pm: <a href="https://ucsd157winter2021.zulipchat.com/">Click here for the chatroom</a>.
+</p>
+
+<p>
+<b>Textbook:</b> 
+None. In lieu of purchasing a textbook, students will need to create a free account on <a href="https://cocalc.com/">CoCalc</a> in order to complete and submit assignments.
+(It is not necessary to pay for an upgraded account; equivalent functionality will be provided to enrolled students.)
+If you do not use your official UCSD email address to create the account, please provide the instructor with the address you used in order to gain access to the course materials.
+</p>
+
+<p>
+<b>Prerequisites:</b> 
+
+<ul>
+<li>
+Math 20D (differential equations).
+</li>
+<li>
+Any one of Math 18 or Math 20F or Math 31AH (linear algebra).
+</li>
+<li>
+A course which involves programming in one of the following languages: C, C++, Java, Julia, Python, R.
+This requirement is meant to be flexible; since it is impossible to make a comprehensive list, you may need to 
+petition through EASy if the course you are using is not on the preapproved list.
+</li>
+</ul>
+</p>
+
+<p>
+<b>Homework:</b> Weekly problem sets, due Thursdays at 8pm (one each due during Weeks 2-9). 
+All assignments will be assigned, completed, submitted, evaluated, and returned using CoCalc; the process will be explained in the first lecture. 
+</p>
+
+<p>
+      <img src="image.png" align = "right" height = "550", width = "600">
+<b>Quizzes:</b> There will be two "take home" quizzes that will occur on January 25th and February 22nd. The quizzes will work as follows: at any point during a specified 24 hour period, you may choose to start the quizzes. Once you start the quiz, you will have ~1 hour to complete the questions. These will be "open-book" (in a sense to be made explicit) but must be completed individually. The time limit for this process is readily enforcible via Cocalc's "Time Travel" functionality. 
+</p>
+    
+<p>
+<b>Final exam:</b> None. Instead, there will be an open-ended final project due during finals week (TENTATIVELY March 18). Details about this will be given no later than the beginning of Week 9. 
+</p>
+
+<p>
+<b>Grading:</b> 
+    <ul>
+        <li>60% Homework (best 6 assignments, weighted equally).</li>
+        <li>12% Quizzes, weighted equally. </li>
+        <li>20% Final project.</li>
+        <li>8% Virtual participation.
+</li>
+    </ul>
+        Since these parameters have been chosen to be somewhat forgiving, no additional excuses will be granted (not even for students joining the course late). No exceptions.
+</p>
+
+<p>
+For the conversion of raw scores into letter grades, the following minima are guaranteed:
+<table border="1">
+<tr>
+<td> Percentage </td>
+<td> 97 </td>
+<td> 93 </td>
+<td> 90 </td>
+<td> 87 </td>
+<td> 83 </td>
+<td> 80 </td>
+<td> 77 </td>
+<td> 73 </td>
+<td> 70 </td>
+</tr>
+<tr>
+<td> Minimum grade </td>
+<td> A+ </td>
+<td> A </td>
+<td> A- </td>
+<td> B+ </td>
+<td> B </td>
+<td> B- </td>
+<td> C+ </td>
+<td> C </td>
+<td> C- </td>
+</tr>
+</table>
+Additionally, any score in at least the 85th percentile or higher is guaranteed an A grade, while any score in the 65th percentile or higher is guaranteed a B grade.
+</p>
+
+<p>
+<b>Accommodations:</b>
+No accommodations are available for homework assignments since two of them will be dropped (see above).
+Accommodations for the exam or final project will be made only in cases mandated by university policies.
+<ul>
+<li>
+For disability accommodations, please follow
+<a href="http://math.ucsd.edu/programs/undergraduate/exam_accommodations.php">Department of Mathematics procedures</a>. Having documentation on file with OSD is <i>not</i> sufficient.
+</li>
+<li>
+For athletic accommodations, please have a cognizant representative of the Department of Athletics contact the instructor.
+</li>
+<li>
+For religious accommodations consistent with <a href="http://senate.ucsd.edu/operating-procedures/educational-policies/courses/epc-policies-on-courses/policy-exams-including-midterms-final-exams-and-religious-accommodations-for-exams/">
+UCSD policy</a>, please contact the instructor.
+</li>
+</ul>
+All accommodation requests must be made with sufficient advance notice, preferably by the end of week 1.
+</p>
+
+<p>
+<b>Academic Integrity:</b>
+   <ul>
+    <li>You are welcome (and expected) to work with other students in the class. However, you must clearly indicate who you worked with on each problem. In addition, you must write your solutions in your own words; do not copy/paste from others, as CoCalc's TimeTravel feature makes this trivial to detect.
+    </li>
+    <li>
+    You are welcome (and expected) to do research online using the CoCalc documentation, Google, Wikipedia, Stack Overflow, etc. However, you must clearly attribute any such source material, being as specific as possible; e.g., provide URLs to individual web pages rather than to whole web sites. Again, write material in your own words rather than copying directly from sources.
+    </li>
+    <li>Misuse of CoCalc will be considered a violation of academic integrity. This includes
+unauthorized access to other user accounts, and online behavior that violates UCSD's <a href="http://www.ucsd.edu/catalog/front/shpp.html">discrimination and harassment policies</a>.
+    </li>
+    <li>
+    Violations of academic integrity may be handled by zeroing out scores on individual assigments; 
+assigning failing course grades; and/or <a href="https://students.ucsd.edu/sponsor/student-conduct/regulations/22.00.html">campus disciplinary measures</a>.
+    </li>
+    
+   </ul>
+
+</p>
+
+<p><b>Tentative Topics Calendar:</b></p>
+
+<p>
+Some adjustments may be made as the term progresses.
+<ul>
+<li>
+Week 1: CoCalc, Jupyter Notebooks, Markdown
+</li>
+<li>
+Week 2: Python
+</li>
+<li>
+Week 3: SageMath
+</li>
+<li>
+Week 4: Linear Algebra
+</li>
+<li>
+Week 5: Discrete Mathematics
+</li>
+<li>
+Week 6: Number Theory, Cryptography, Elliptic Curves
+</li>
+<li>
+Week 7: Pandas/Statistics
+</li>
+<li>
+Week 8: Natural Language Processing
+</li>
+<li>
+Week 9: Flex (followup on previous topics as needed, or possibly a "fun" topic)
+</li>
+<li>
+Week 10: Final Project Discussion/Presentations
+</li>
+</ul>
+</p>
+ 
+</body>
+</html>
