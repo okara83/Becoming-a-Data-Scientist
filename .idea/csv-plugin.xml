@@ -556,6 +556,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/Mathematics/Statistics/Statistics Coding - Cos/Doing-frequentist-statistics-with-Scipy-master/iris_dataset.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/Mathematics/Statistics/Statistics and Probability Python Notebooks/An Introduction to Statistical Learning/data/Advertising.csv">
           <value>
             <Attribute>
@@ -2412,69 +2419,6 @@
           </value>
         </entry>
         <entry key="/Spark/PySpark/1.0 Data Algorithms with Spark - Recipes and Design Patterns for Scaling Up using PySpark (with code)/Code/chap07/python/cats.with.header.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Downloads/Statistics Coding - Cos/Doing-frequentist-statistics-with-Scipy-master/iris_dataset.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Downloads/Statistics Coding - Cos/Introduction to Statistics and Probability with Python/All of Statistics/data/carmileage.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Downloads/Statistics Coding - Cos/Introduction to Statistics and Probability with Python/All of Statistics/data/cloud_seeding.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Downloads/Statistics Coding - Cos/Introduction to Statistics and Probability with Python/All of Statistics/data/coris.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Downloads/Statistics Coding - Cos/Introduction to Statistics and Probability with Python/All of Statistics/data/fijiquakes.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="&#9;" />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Downloads/Statistics Coding - Cos/Introduction to Statistics and Probability with Python/All of Statistics/data/geysers.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Downloads/Statistics Coding - Cos/Introduction to Statistics and Probability with Python/All of Statistics/data/montana.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Downloads/Statistics Coding - Cos/Introduction to Statistics and Probability with Python/All of Statistics/data/nerve.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Downloads/Statistics Coding - Cos/Introduction to Statistics and Probability with Python/iris_dataset.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
