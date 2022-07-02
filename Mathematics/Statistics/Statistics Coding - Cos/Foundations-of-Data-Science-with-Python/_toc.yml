@@ -1,0 +1,91 @@
+format: jb-article
+root: intro
+options:
+  numbered: true
+sections:
+- file: 01-intro/intro
+  sections:
+  - file: 01-intro/who-for
+  - file: 01-intro/why-this-book
+  - file: 01-intro/what-is-data-science
+  - file: 01-intro/what-book-covers
+  - file: 01-intro/intro-jupyter-and-python
+  - file: 01-intro/jupyter-start
+  - file: 01-intro/python-start
+  - file: 01-intro/review
+- file: 02-first-stats/intro
+  sections:
+  - file: 02-first-stats/motivating-problem
+  - file: 02-first-stats/first-sims
+  - file: 02-first-stats/first-vis
+  - file: 02-first-stats/first-stats
+  - file: 02-first-stats/review
+- file: 03-first-data/intro
+  sections:
+  - file: 03-first-data/pandas-start
+  - file: 03-first-data/visualization
+  - file: 03-first-data/partitions
+  - file: 03-first-data/summary-stats
+  - file: 03-first-data/histogram
+  - file: 03-first-data/hypothesis-testing
+  - file: 03-first-data/2d-scatter
+  - file: 03-first-data/review
+- file: 04-probability1/intro
+  sections:
+  - file: 04-probability1/outcomes-samplespaces-events
+  - file: 04-probability1/relative-frequency
+  - file: 04-probability1/fair-experiments
+  - file: 04-probability1/axiomatic-prob
+  - file: 04-probability1/corollaries
+  - file: 04-probability1/combinatorics
+  - file: 04-probability1/review
+  - file: 04-probability1/summary
+- file: 05-binary-hypothesis-testing/intro
+  sections:
+  - file: 05-binary-hypothesis-testing/statistical-studies
+  - file: 05-binary-hypothesis-testing/nhst
+  - file: 05-binary-hypothesis-testing/calculating-p-values
+  - file: 05-binary-hypothesis-testing/how-to-sample
+  - file: 05-binary-hypothesis-testing/outline
+- file: 06-conditional-prob/intro
+  sections:
+  - file: 06-conditional-prob/simulating-cond-probs
+  - file: 06-conditional-prob/notation-and-intuition
+  - file: 06-conditional-prob/definition
+  - file: 06-conditional-prob/relating-cond-uncond
+  - file: 06-conditional-prob/more-on-simulating
+  - file: 06-conditional-prob/independence
+  - file: 06-conditional-prob/fair-exps
+  - file: 06-conditional-prob/conditional-independence
+  - file: 06-conditional-prob/chain-rules-total-prob
+  - file: 06-conditional-prob/review
+  - file: 06-conditional-prob/summary
+- file: 07-bayesian-methods/intro
+  sections:
+  - file: 07-bayesian-methods/bayes-rule
+  - file: 07-bayesian-methods/bayes-hidden-state
+  - file: 07-bayesian-methods/optimal-decisions
+  - file: 07-bayesian-methods/bayesian-hypothesis-testing
+  - file: 07-bayesian-methods/review
+  - file: 07-bayesian-methods/summary
+- file: 08-random-variables/intro
+  sections:
+  - file: 08-random-variables/definition
+  - file: 08-random-variables/discrete-rvs
+  - file: 08-random-variables/cdfs
+  - file: 08-random-variables/important-discrete-rvs
+  - file: 08-random-variables/continuous-rvs
+  - file: 08-random-variables/important-continuous-rvs
+  - file: 08-random-variables/kernel-density-estimation
+  - file: 08-random-variables/conditioning-with-rvs
+  - file: 08-random-variables/review
+  - file: 08-random-variables/summary
+- file: 09-moments/outline
+- file: 10-conditional-stats/outline
+- file: 11-matrix-vector-regression/outline
+- file: 12-categorical-data/outline
+- file: 13-clustering-transforming/outline
+- file: 14-matrix-applications/outline
+- file: 15-multidim-dependence/outline
+- file: 16-next-steps/outline
+- file: genindex

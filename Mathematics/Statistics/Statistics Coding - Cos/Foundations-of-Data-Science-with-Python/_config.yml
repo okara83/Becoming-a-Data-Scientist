@@ -1,0 +1,24 @@
+# in _config.yml
+title: "Foundations of Data Science with Python"
+author: John M. Shea
+copyright: "2021"
+only_build_toc_files: true
+#logo: images/logo.png
+execute:
+  execute_notebooks: "off"
+parse:
+  myst_enable_extensions: 
+    - amsmath
+    - html_image
+    - colon_fence
+    - deflist
+    - dollarmath
+    - html_admonition
+    - linkify
+    - smartquotes
+sphinx:
+  config:
+    #mathjax_path: https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+    #mathjax_path: https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML 
+html:
+  google_analytics_id: G-51XGJJ29T3

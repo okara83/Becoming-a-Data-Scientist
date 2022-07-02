@@ -310,3 +310,21 @@ HPython/1. Python Basics/Notebooks/4. Iterators/Iterators_in_python.ipynb,f/0/f
 VPython/1. Python Basics/Notebooks/6. Closures and Decorators/5c. Property Method.ipynb,9/c/9c8145e6cc7acfeabc17e777c249ee708b284b6d
 ä
 ZPython/1. Python Basics/Notebooks/3. Classes and OOP/python_self_reference_explained.ipynb,a/e/ae45c43cfff26a7deb91855a7875521ea6b2e089
+Õ
+úMathematics/Statistics/Statistics Coding - Cos/Doing-frequentist-statistics-with-Scipy-master/PyData DC 2016 - Doing frequentist statistics with Scipy.ipynb,d/2/d21de3cc6d513d4d5e3af96589ee0faa18491eb9
+û
+nMathematics/Statistics/Statistics Coding - Cos/Doing-frequentist-statistics-with-Scipy-master/iris_dataset.csv,3/0/3001b80d998991dca8346a50e4d001c76ad0280c
+ò
+hMathematics/Statistics/Statistics Coding - Cos/Doing-frequentist-statistics-with-Scipy-master/LICENSE.md,b/c/bc83e60004546223d7dc9140c89fe75670261d95
+ó
+gMathematics/Statistics/Statistics Coding - Cos/Doing-frequentist-statistics-with-Scipy-master/README.md,f/6/f63c71e63a4e0a0a8338e679cbb4957a14e79ed3
+Å
+QMathematics/Statistics/Statistics Coding - Cos/Basic_Set_Theory_with_Python.ipynb,7/c/7c931edb4fa87c5170781b555d4063c655557f71
+Ä
+PMathematics/Statistics/Statistics Coding - Cos/Prob_Distributions_Discrete.ipynb,e/1/e1fef95241c902f4fe8f53ef8f89a79a3e1dcff6
+x
+HMathematics/Statistics/Statistics Coding - Cos/combinatorics_partb.ipynb,6/7/6755fe2e9a3cba884d16211392ab0cf36c21a3e8
+w
+GMathematics/Statistics/Statistics Coding - Cos/Prob_distributions.ipynb,f/d/fda18862f95bdc6d31e7e5205e00663bac2e9076
+y
+IMathematics/Statistics/Statistics Coding - Cos/Probability_concepts.ipynb,e/9/e91737cffbbb9f14692a7a1ac84af99f0780ef19

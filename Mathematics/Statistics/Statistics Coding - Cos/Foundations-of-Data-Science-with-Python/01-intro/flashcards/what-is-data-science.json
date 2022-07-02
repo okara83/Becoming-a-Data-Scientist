@@ -1,0 +1,18 @@
+[
+    {
+        "front": "Data",
+        "back": "Collections of measurements, charateristics, or facts about a group."
+    },
+    {
+        "front": "Variable",
+        "back": "A particular characteristic, measurement, or fact about a particular member of a group."
+    },
+    {
+        "front": "Quantitative data",
+        "back": "Numeric data."
+    },
+    {
+        "front": "Qualitative data",
+        "back": "Non-numeric or categorical data."
+    }
+]

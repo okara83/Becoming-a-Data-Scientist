@@ -1,0 +1,55 @@
+[
+    {
+        "question": "A box contains 3 white balls and 2 black ball. If two balls are drawn from the box, what is the probability that the second ball is white?",
+        "type": "numeric",
+        "answers": [
+            {
+                "type": "value",
+                "value": 0.6,
+                "correct": true,
+                "feedback": "Correct! Since we do not have any information about the results of the first draw, the probability of getting a white ball on the second draw is the same as getting a white ball on the first draw."
+            },
+            {
+                "type": "default",
+                "correct": false,
+                "feedback": "Incorrect. Review the example (with three balls) earlier in this chapter. Or apply the Law of Total Probability."
+            },
+            {
+                "type": "value",
+                "value": 0.5,
+                "correct": false,
+                "feedback": "Incorrect. Did you assume that the first ball drawn was white? We don't have that information."
+            },
+            {
+                "type": "value",
+                "value": 0.75,
+                "correct": false,
+                "feedback": "Incorrect. Did you assume that the first ball drawn was black? We don't have that information."
+            },
+            {
+                "type": "range",
+                "range": [
+                    1.0000001,
+                    100000000
+                ],
+                "correct": false,
+                "feedback": "Incorrect. Probabilities cannot be more than 1."
+            },
+            {
+                "type": "range",
+                "range": [
+                    -100000000,
+                    0
+                ],
+                "correct": false,
+                "feedback": "Incorrect. Probabilities cannot be less than 0."
+            },
+            {
+                "type": "value",
+                "answer": "0",
+                "value": false,
+                "feedback": "Incorrect. A probability of 0 would imply that it is not possible to get a white ball on the second draw. Clearly that is not true."
+            }
+        ]
+    }
+]
