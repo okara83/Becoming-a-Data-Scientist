@@ -1025,13 +1025,6 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="/Python/1. Python Basics/Notebooks/0. Core Basics/0.0 Getting Started/biostats.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="/Python/2. Python Basics (cont.)/3. Pandas/Hands On Data Analysis with Pandas 2e/ch_02/data/example_data.csv">
           <value>
             <Attribute>
@@ -2349,20 +2342,6 @@
           </value>
         </entry>
         <entry key="/Python/3. Computational Sciences and Mathematics/Statisitcs/Fundamentals-of-Statistics-and-Visualization-in-Python/Section 5/vacation.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/Python/4. PyTorch/Complete-Thorough-Pytorch-Introduction/PyTorch-master/data-03-diabetes.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/Python/4. PyTorch/Complete-Thorough-Pytorch-Introduction/PyTorch-master/data-04-zoo.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
