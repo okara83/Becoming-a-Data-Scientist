@@ -2390,6 +2390,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/Python/4. PyTorch/pytorchTutorial-master/data/wine/wine.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/Spark/PySpark/0.1 Tutorials/2-novice/FL_insurance_sample.csv">
           <value>
             <Attribute>
