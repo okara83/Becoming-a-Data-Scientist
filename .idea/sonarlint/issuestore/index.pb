@@ -320,3 +320,19 @@ IMathematics/Statistics/Statistics Coding - Cos/Probability_concepts.ipynb,e/9/
 RMathematics/Statistics/Statistics Coding - Cos/Cosku-Start-here/3-calculus-i.ipynb,6/8/6861c7eefd33cd57af9c522257250379110f503b
 ‰
 YPython/4. PyTorch/Complete-Thorough-Pytorch-Introduction/pytorchfundamentals-main/LICENSE,c/9/c9872b051a7f276dd91587ff8ce6572d6ffdca9e
+k
+;Python/4. PyTorch/pytorchTutorial-master/data/wine/wine.csv,6/6/6663a8647bfb90ae58ac08ea018d98f78bc3fe19
+i
+9Python/3b. Pytorch-MatPlotLib-Numpy-TF-Pandas/numpy.ipynb,e/e/eeb96a787c7c272bd9e04cd66769dbc62c76465d
+j
+:Python/3b. Pytorch-MatPlotLib-Numpy-TF-Pandas/pandas.ipynb,0/6/06f64b9fd0b7e86ccf0341e3e479d7dd34d22393
+k
+;Python/3b. Pytorch-MatPlotLib-Numpy-TF-Pandas/pytorch.ipynb,3/b/3b5eb258df0255f195dcec1e77c17b81aa568ce3
+n
+>Python/3b. Pytorch-MatPlotLib-Numpy-TF-Pandas/matplotlib.ipynb,a/5/a5ca42a0b675fb1cc7c0c0c70fce223b795ff831
+n
+>Python/3b. Pytorch-MatPlotLib-Numpy-TF-Pandas/tensorflow.ipynb,b/0/b026269328994fbd8625ae0ac4caf9b68254fd0d
+r
+BPython/1. Python Basics/Work in Progress/Python-Fundamentals.ipynb,9/e/9e2a1494ca74661cde702bec047236fc67b1a8f5
+t
+DMathematics/Statistics/Statistics-ds-book-master/book/pgm/daft.ipynb,5/b/5b8100fd5a3eedb1a13ff5fd337d3b3cfc0ab390
