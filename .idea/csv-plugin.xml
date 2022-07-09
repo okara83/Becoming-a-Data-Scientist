@@ -2411,6 +2411,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="$USER_HOME$/Downloads/Statistics-ds-book-master/book/assets/DatasaurusDozen-long.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/sample-data/addresses.csv">
           <value>
             <Attribute>

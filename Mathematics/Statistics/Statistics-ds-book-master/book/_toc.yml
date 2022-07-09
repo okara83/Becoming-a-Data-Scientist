@@ -1,0 +1,99 @@
+- file: intro
+
+- part: About the course
+  chapters:
+  - file: schedule
+  - file: jupyterhub
+  - file: nbgrader
+  - file: discussion_forum
+  - file: preliminaries
+
+- part: Probability
+  chapters:
+  - file: probability-topics
+    expand_sections: true
+    sections: 
+    - file: random_variables
+    - file: conditional
+    - file: bayes_theorem
+    - file: independence
+    - file: empirical_distribution
+    - file: expectation
+    - file: correlation
+    - file: datasaurus-long
+    - file: distributions/visualize_marginals
+    - file: measures_of_dependence
+    - file: distributions/change-of-variables
+    - file: distributions/one-over-x-flow
+    - file: distributions/likelihood-change-obs
+    - file: distributions/invariance-of-likelihood-to-reparameterizaton
+    - file: error-propagation/investigating-propagation-of-errors
+    - file: error-propagation/error_propagation_with_jax
+    - file: distributions/accept-reject
+    - file: distributions/Binomial_histograms-interactive
+    - file: pgm/daft
+    #- file: central-limit-theorem/Central-Limit-Theorem
+  
+- part: Statistics
+  chapters:
+  - file: statistics-topics
+    expand_sections: true
+    sections:
+    - file: statistics/estimators
+    - file: statistics/bias-variance
+    - file: statistics/investigation-bessels-correction
+    - file: statistics/cramer-rao-bound
+    - file: statistics/consistency
+    - file: statistics/Neyman-Scott-phenomena
+    - file: statistics/sufficiency
+    - file: statistics/information-geometry
+    - file: statistics/neyman_pearson
+    - file: statistics/neyman_construction
+    - file: statistics/lhc_stats_thumbnail
+    - file: statistics/statistical_decision_theory
+    - file: probprog/MarkovPath
+
+- part: Machine Learning
+  chapters:
+  - file: prml_notebooks/attribution
+    expand_sections: true
+    sections: 
+    - file: prml_notebooks/ch01_Introduction.ipynb
+    - file: prml_notebooks/ch02_Probability_Distributions.ipynb
+    - file: prml_notebooks/ch03_Linear_Models_for_Regression.ipynb
+    - file: prml_notebooks/ch04_Linear_Models_for_Classfication.ipynb
+    - file: prml_notebooks/ch05_Neural_Networks.ipynb
+    - file: prml_notebooks/ch06_Kernel_Methods.ipynb
+    - file: prml_notebooks/ch07_Sparse_Kernel_Machines.ipynb
+    - file: prml_notebooks/ch08_Graphical_Models.ipynb
+    - file: prml_notebooks/ch09_Mixture_Models_and_EM.ipynb
+    - file: prml_notebooks/ch10_Approximate_Inference.ipynb
+    - file: prml_notebooks/ch11_Sampling_Methods.ipynb
+    - file: prml_notebooks/ch12_Continuous_Latent_Variables.ipynb
+    - file: prml_notebooks/ch13_Sequential_Data.ipynb
+
+- part: Software and Computing
+  chapters:
+  - file: computing-topics
+  - file: autodiff-tutorial
+
+- part: Data Science
+  chapters:
+  - file: data-science-topics
+
+
+- part: References
+  chapters: 
+  - file: other_resources
+  - file: bibliography
+  - file: built-on
+
+- part: Jupyter Book Reference
+  chapters: 
+  - file: markdown
+  - file: cheatsheet
+  - file: notebooks
+  - file: interactive
+  - file: test_embed_video
+  - file: color-in-equations
+  - file: test-sphinxext-opengraph
